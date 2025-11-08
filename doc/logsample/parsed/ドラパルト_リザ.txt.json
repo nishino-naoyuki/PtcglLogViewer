@@ -1,0 +1,1527 @@
+{
+  "file": "ドラパルト　リザ.txt",
+  "players": [
+    "theloniusmonk",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "theloniusmonk chose heads for the opening coin flip.",
+    "theloniusmonk won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "theloniusmonk drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Drakloak, Radiant Alakazam, Iono, Basic Fire Energy, Hisuian Heavy Ball, Basic Psychic Energy, Lost Vacuum",
+    "theloniusmonk played Charmander to the Active Spot.",
+    "0512SmileMan played Radiant Alakazam to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "theloniusmonk",
+      "actions": [
+        {
+          "raw": "theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "theloniusmonk played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Pidgey, Charmander",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk played Lumineon V to the Bench.",
+          "type": "play",
+          "card": "Lumineon V",
+          "to": "Bench"
+        },
+        {
+          "raw": "theloniusmonk's Lumineon V used Luminous Sign.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk attached Forest Seal Stone to Lumineon V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Lumineon V"
+        },
+        {
+          "raw": "theloniusmonk's Lumineon V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "theloniusmonk can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "theloniusmonk played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Cleffa, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk attached Basic Fire Energy to Charmander in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charmander"
+        },
+        {
+          "raw": "theloniusmonk retreated Charmander to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from theloniusmonk's Charmander.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Cleffa is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- theloniusmonk discarded Lumineon V.",
+          "type": "other"
+        },
+        {
+          "raw": "- Forest Seal Stone was discarded from theloniusmonk's Lumineon V.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Cleffa used Grasping Draw.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Forest Seal Stone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lost Vacuum, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Xatu, Buddy-Buddy Poffin, Arven, Drakloak, Dragapult ex, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "theloniusmonk",
+      "actions": [
+        {
+          "raw": "theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "theloniusmonk played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Bidoof, Bibarel",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew Pidgeot ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk evolved Charmander to Charmeleon on the Bench.",
+          "type": "evolve",
+          "from": "Charmander",
+          "to": "Charmeleon"
+        },
+        {
+          "raw": "theloniusmonk played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk evolved Pidgey to Pidgeot ex on the Bench.",
+          "type": "evolve",
+          "from": "Pidgey",
+          "to": "Pidgeot ex"
+        },
+        {
+          "raw": "theloniusmonk's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk attached Technical Machine: Devolution to Cleffa in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Cleffa"
+        },
+        {
+          "raw": "theloniusmonk's Cleffa used Grasping Draw.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from theloniusmonk's Cleffa.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Technical Machine: Evolution, Xatu",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Xatu, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on theloniusmonk’s Cleffa for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "theloniusmonk’s Cleffa",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on theloniusmonk's Pidgeot ex.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Cleffa was Knocked Out!",
+          "type": "knockout",
+          "target": "theloniusmonk's Cleffa"
+        },
+        {
+          "raw": "theloniusmonk's Charmeleon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Buddy-Buddy Poffin was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "theloniusmonk",
+      "actions": [
+        {
+          "raw": "theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "theloniusmonk evolved Charmeleon to Charizard ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Charmeleon",
+          "to": "Charizard ex"
+        },
+        {
+          "raw": "theloniusmonk's Charizard ex used Infernal Reign.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk attached Basic Fire Energy to Charmander on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charmander"
+        },
+        {
+          "raw": "- theloniusmonk attached Basic Fire Energy to Charizard ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charizard ex"
+        },
+        {
+          "raw": "- theloniusmonk attached Basic Fire Energy to Charizard ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charizard ex"
+        },
+        {
+          "raw": "theloniusmonk played Charmander to the Bench.",
+          "type": "play",
+          "card": "Charmander",
+          "to": "Bench"
+        },
+        {
+          "raw": "theloniusmonk played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Pidgey, Roxanne",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew Charizard ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk evolved Charmander to Charizard ex on the Bench.",
+          "type": "evolve",
+          "from": "Charmander",
+          "to": "Charizard ex"
+        },
+        {
+          "raw": "theloniusmonk attached Basic Fire Energy to Charizard ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charizard ex"
+        },
+        {
+          "raw": "theloniusmonk's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk put a card on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Counter Catcher, Rare Candy, Basic Fire Energy, Buddy-Buddy Poffin, Boss's Orders, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Collapsed Stadium, Dragapult ex, Arven, Natu, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk attached Defiance Band to Charizard ex on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Charizard ex"
+        },
+        {
+          "raw": "theloniusmonk played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rotom V, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew Charmeleon.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Charizard ex used Burning Darkness on 0512SmileMan’s Dragapult ex for 210 damage.",
+          "type": "attack",
+          "attackerOwner": "theloniusmonk",
+          "attacker": "Charizard ex",
+          "attack": "Burning Darkness",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 210
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Defiance Band.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on theloniusmonk’s Charizard ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "theloniusmonk’s Charizard ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on theloniusmonk's Charizard ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "theloniusmonk",
+      "actions": [
+        {
+          "raw": "theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "theloniusmonk evolved Charmander to Charmeleon on the Bench.",
+          "type": "evolve",
+          "from": "Charmander",
+          "to": "Charmeleon"
+        },
+        {
+          "raw": "theloniusmonk played Eri.",
+          "type": "play",
+          "card": "Eri",
+          "to": null
+        },
+        {
+          "raw": "theloniusmonk's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Charizard ex used Burning Darkness on 0512SmileMan’s Dragapult ex for 210 damage.",
+          "type": "attack",
+          "attackerOwner": "theloniusmonk",
+          "attacker": "Charizard ex",
+          "attack": "Burning Darkness",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 210
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to theloniusmonk's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to theloniusmonk's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk's Charmeleon was switched with theloniusmonk's Charizard ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Charmeleon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from theloniusmonk's Charizard ex to theloniusmonk's Charizard ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Jet Headbutt on theloniusmonk’s Charmeleon for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Jet Headbutt",
+          "target": "theloniusmonk’s Charmeleon",
+          "damage": 70
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "theloniusmonk",
+      "actions": [
+        {
+          "raw": "theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "theloniusmonk's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- theloniusmonk shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk's Charizard ex was switched with theloniusmonk's Charmeleon to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Charizard ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk attached Basic Fire Energy to Charmeleon on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charmeleon"
+        },
+        {
+          "raw": "theloniusmonk played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 9 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Natu, Collapsed Stadium, Super Rod, Drakloak, Arven, Arven, Iono, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Rotom V, Iono, Buddy-Buddy Poffin, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Charizard ex used Burning Darkness on 0512SmileMan’s Drakloak for 210 damage.",
+          "type": "attack",
+          "attackerOwner": "theloniusmonk",
+          "attacker": "Charizard ex",
+          "attack": "Burning Darkness",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 210
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to theloniusmonk's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rescue Board.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from theloniusmonk's Charizard ex to theloniusmonk's Charmeleon.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Charmeleon was Knocked Out!",
+          "type": "knockout",
+          "target": "theloniusmonk's Charmeleon"
+        },
+        {
+          "raw": "- 2 cards were discarded from theloniusmonk's Charmeleon.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Charmander",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Unfair Stamp was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Xatu on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rotom V, Iono, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk moved theloniusmonk's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Collapsed Stadium, Basic Psychic Energy, Defiance Band, Arven, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "- theloniusmonk drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Super Rod, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled Dragapult ex into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved theloniusmonk's Charizard ex to Charmander on the Bench.",
+          "type": "evolve",
+          "from": "theloniusmonk's Charizard ex",
+          "to": "Charmander"
+        },
+        {
+          "raw": "- theloniusmonk moved theloniusmonk's Charizard ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved theloniusmonk's Pidgeot ex to Pidgey on the Bench.",
+          "type": "evolve",
+          "from": "theloniusmonk's Pidgeot ex",
+          "to": "Pidgey"
+        },
+        {
+          "raw": "- theloniusmonk moved theloniusmonk's Pidgeot ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved theloniusmonk's Charizard ex to Charmeleon in the Active Spot.",
+          "type": "evolve",
+          "from": "theloniusmonk's Charizard ex",
+          "to": "Charmeleon"
+        },
+        {
+          "raw": "- theloniusmonk moved theloniusmonk's Charizard ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Charmeleon was Knocked Out!",
+          "type": "knockout",
+          "target": "theloniusmonk's Charmeleon"
+        },
+        {
+          "raw": "- 3 cards were discarded from theloniusmonk's Charmeleon.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy, Charmander",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Charmander was Knocked Out!",
+          "type": "knockout",
+          "target": "theloniusmonk's Charmander"
+        },
+        {
+          "raw": "- 3 cards were discarded from theloniusmonk's Charmander.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk's Pidgey was Knocked Out!",
+          "type": "knockout",
+          "target": "theloniusmonk's Pidgey"
+        },
+        {
+          "raw": "theloniusmonk's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "theloniusmonk",
+      "actions": [
+        {
+          "raw": "theloniusmonk drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "theloniusmonk played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- theloniusmonk shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Charmander, Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Xatu was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "theloniusmonk ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Jet Headbutt on theloniusmonk’s Manaphy for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Jet Headbutt",
+          "target": "theloniusmonk’s Manaphy",
+          "damage": 70
+        },
+        {
+          "raw": "theloniusmonk's Manaphy was Knocked Out!",
+          "type": "knockout",
+          "target": "theloniusmonk's Manaphy"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Knocked Out all your opponent's Pokémon in play and took all your Prize cards. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Knocked Out all your opponent's Pokémon in play and took all your Prize cards. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 13,
+    "players": [
+      "theloniusmonk",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "theloniusmonk's Cleffa was Knocked Out!",
+        "target": "theloniusmonk's Cleffa"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 6,
+        "raw": "theloniusmonk's Charmeleon was Knocked Out!",
+        "target": "theloniusmonk's Charmeleon"
+      },
+      {
+        "turn": 6,
+        "raw": "theloniusmonk's Charmeleon was Knocked Out!",
+        "target": "theloniusmonk's Charmeleon"
+      },
+      {
+        "turn": 6,
+        "raw": "theloniusmonk's Charmander was Knocked Out!",
+        "target": "theloniusmonk's Charmander"
+      },
+      {
+        "turn": 6,
+        "raw": "theloniusmonk's Pidgey was Knocked Out!",
+        "target": "theloniusmonk's Pidgey"
+      },
+      {
+        "turn": 7,
+        "raw": "theloniusmonk's Manaphy was Knocked Out!",
+        "target": "theloniusmonk's Manaphy"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 1,
+        "raw": "theloniusmonk can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Knocked Out all your opponent's Pokémon in play and took all your Prize cards. 0512SmileMan",
+      "method": null,
+      "final_turn": 7
+    }
+  }
+}

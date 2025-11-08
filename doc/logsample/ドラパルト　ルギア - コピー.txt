@@ -1,0 +1,216 @@
+Setup
+0512SmileMan chose tails for the opening coin flip.
+DrLigmaa won the coin toss.
+DrLigmaa decided to go first.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Natu, Dreepy, Technical Machine: Devolution, Super Rod, Arven, Basic Psychic Energy, Switch
+DrLigmaa drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan played Dreepy to the Active Spot.
+DrLigmaa played Lugia V to the Active Spot.
+
+Turn # 1 - DrLigmaa's Turn
+DrLigmaa drew a card.
+DrLigmaa attached Mist Energy to Lugia V in the Active Spot.
+DrLigmaa played Capturing Aroma.
+- DrLigmaa flipped a coin and it landed on heads.
+- DrLigmaa drew Archeops.
+- DrLigmaa shuffled their deck.
+DrLigmaa ended their turn.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Arven.
+0512SmileMan played Natu to the Bench.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Buddy-Buddy Poffin, Rescue Board
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Dreepy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+0512SmileMan ended their turn.
+
+Turn # 2 - DrLigmaa's Turn
+DrLigmaa drew a card.
+DrLigmaa attached Double Turbo Energy to Lugia V in the Active Spot.
+DrLigmaa's Lugia V used Read the Wind.
+- DrLigmaa discarded Archeops.
+- DrLigmaa drew 3 cards.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Dreepy.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Nest Ball, Forest Seal Stone
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Rotom V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Ultra Ball, Arven, Iono
+
+Turn # 3 - DrLigmaa's Turn
+DrLigmaa drew a card.
+DrLigmaa played Lugia V to the Bench.
+DrLigmaa played Iron Hands ex to the Bench.
+DrLigmaa attached Jet Energy to Iron Hands ex on the Bench.
+Jet Energy was activated.
+- DrLigmaa's Iron Hands ex was switched with DrLigmaa's Lugia V to become the Active Pokémon.
+DrLigmaa's Iron Hands ex is now in the Active Spot.
+DrLigmaa evolved Lugia V to Lugia VSTAR on the Bench.
+DrLigmaa's Lugia VSTAR used Summoning Star.
+- DrLigmaa drew Archeops and played it to the Bench.
+DrLigmaa can no longer use VSTAR Powers.
+DrLigmaa's Archeops used Primal Turbo.
+- DrLigmaa attached Legacy Energy to Iron Hands ex in the Active Spot.
+- DrLigmaa attached Double Turbo Energy to Iron Hands ex in the Active Spot.
+- DrLigmaa shuffled their deck.
+DrLigmaa's Iron Hands ex used Amp You Very Much on 0512SmileMan’s Dreepy for 100 damage.
+0512SmileMan's Dreepy was Knocked Out!
+0512SmileMan's Natu is now in the Active Spot.
+DrLigmaa took 2 Prize cards.
+A card was added to DrLigmaa's hand.
+A card was added to DrLigmaa's hand.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Lost Vacuum.
+0512SmileMan attached Rescue Board to Natu in the Active Spot.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Lost Vacuum, Technical Machine: Devolution
+- 0512SmileMan drew Dragapult ex.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Rotom V used Star Alchemy.
+- 0512SmileMan drew Rare Candy.
+- 0512SmileMan shuffled their deck.
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 3 cards on the bottom of their deck.
+   • Arven, Super Rod, Switch
+- DrLigmaa shuffled their hand.
+- DrLigmaa put 7 cards on the bottom of their deck.
+- 0512SmileMan drew 6 cards.
+   • Basic Psychic Energy, Basic Psychic Energy, Drakloak, Xatu, Iono, Earthen Vessel
+- DrLigmaa drew 4 cards.
+0512SmileMan evolved Natu to Xatu in the Active Spot.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Basic Psychic Energy.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Drakloak, Basic Fire Energy
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.
+0512SmileMan retreated Xatu to the Bench.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on DrLigmaa’s Iron Hands ex for 200 damage.
+- 0512SmileMan put 6 damage counters on DrLigmaa's Archeops.
+
+Turn # 4 - DrLigmaa's Turn
+DrLigmaa drew a card.
+DrLigmaa's Archeops used Primal Turbo.
+- DrLigmaa attached Gift Energy to Lugia VSTAR on the Bench.
+- DrLigmaa shuffled their deck.
+DrLigmaa played Mesagoza to the Stadium spot.
+DrLigmaa played Mesagoza.
+- DrLigmaa flipped a coin and it landed on heads.
+- DrLigmaa drew Lumineon V.
+- DrLigmaa shuffled their deck.
+DrLigmaa played Lumineon V to the Bench.
+DrLigmaa's Lumineon V used Luminous Sign.
+- DrLigmaa drew Boss's Orders.
+- DrLigmaa shuffled their deck.
+DrLigmaa played Boss's Orders.
+- 0512SmileMan's Drakloak was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.
+0512SmileMan's Drakloak is now in the Active Spot.
+DrLigmaa's Iron Hands ex used Amp You Very Much on 0512SmileMan’s Drakloak for 100 damage.
+0512SmileMan's Drakloak was Knocked Out!
+- 2 cards were discarded from 0512SmileMan's Drakloak.
+   • Basic Psychic Energy, Dreepy
+0512SmileMan's Xatu is now in the Active Spot.
+DrLigmaa took 2 Prize cards.
+A card was added to DrLigmaa's hand.
+A card was added to DrLigmaa's hand.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Nest Ball.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Radiant Alakazam and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Buddy-Buddy Poffin, Buddy-Buddy Poffin
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Unfair Stamp.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Counter Catcher, Defiance Band
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Counter Catcher.
+- DrLigmaa's Archeops was switched with DrLigmaa's Iron Hands ex to become the Active Pokémon.
+DrLigmaa's Archeops is now in the Active Spot.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from DrLigmaa's Archeops to DrLigmaa's Lugia VSTAR.
+0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.
+0512SmileMan attached Defiance Band to Drakloak on the Bench.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Unfair Stamp.
+- 0512SmileMan shuffled 2 cards into their deck.
+   • Iono, Arven
+- DrLigmaa moved DrLigmaa's 6 cards to their deck.
+- 0512SmileMan drew 5 cards.
+   • Buddy-Buddy Poffin, Boss's Orders, Drakloak, Enhanced Hammer, Iono
+- DrLigmaa drew 2 cards.
+0512SmileMan played Enhanced Hammer.
+- Legacy Energy was discarded from DrLigmaa's Iron Hands ex.
+0512SmileMan retreated Xatu to the Bench.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on DrLigmaa’s Archeops for 200 damage.
+- 0512SmileMan put 3 damage counters on DrLigmaa's Lugia V.
+- 0512SmileMan put 3 damage counters on DrLigmaa's Iron Hands ex.
+DrLigmaa's Archeops was Knocked Out!
+DrLigmaa's Iron Hands ex was Knocked Out!
+- 2 cards were discarded from DrLigmaa's Iron Hands ex.
+   • Jet Energy, Double Turbo Energy
+DrLigmaa's Lugia VSTAR is now in the Active Spot.
+0512SmileMan took 3 Prize cards.
+Earthen Vessel was added to 0512SmileMan's hand.
+Iono was added to 0512SmileMan's hand.
+Ultra Ball was added to 0512SmileMan's hand.
+
+Turn # 5 - DrLigmaa's Turn
+DrLigmaa drew a card.
+DrLigmaa evolved Lugia V to Lugia VSTAR on the Bench.
+DrLigmaa played Boss's Orders.
+- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.
+0512SmileMan's Rotom V is now in the Active Spot.
+DrLigmaa's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Rotom V for 200 damage.
+- DrLigmaa discarded Mesagoza.
+0512SmileMan's Rotom V was Knocked Out!
+Forest Seal Stone was discarded from 0512SmileMan's Rotom V.
+DrLigmaa took 2 Prize cards.
+A card was added to DrLigmaa's hand.
+A card was added to DrLigmaa's hand.
+Opponent took all of their Prize cards. DrLigmaa wins.
+

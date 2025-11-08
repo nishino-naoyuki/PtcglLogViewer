@@ -1,0 +1,308 @@
+Setup
+0512SmileMan chose tails for the opening coin flip.
+ogushin112 won the coin toss.
+ogushin112 decided to go first.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Nest Ball, Ultra Ball, Xatu, Arven, Buddy-Buddy Poffin, Rare Candy, Rescue Board
+ogushin112 drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan took a mulligan.
+- Cards revealed from Mulligan 1
+   • Nest Ball, Ultra Ball, Xatu, Arven, Buddy-Buddy Poffin, Rare Candy, Rescue Board
+ogushin112 drew 1 more card because 0512SmileMan took at least 1 mulligan.
+- ogushin112 drew a card.
+0512SmileMan played Dreepy to the Active Spot.
+ogushin112 played Ralts to the Active Spot.
+
+Turn # 1 - ogushin112's Turn
+ogushin112 drew a card.
+ogushin112 attached Basic Psychic Energy to Ralts in the Active Spot.
+ogushin112 ended their turn.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Buddy-Buddy Poffin.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Natu
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Rotom V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.
+0512SmileMan's Rotom V used Star Alchemy.
+- 0512SmileMan drew Arven.
+- 0512SmileMan shuffled their deck.
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Switch, Technical Machine: Evolution
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.
+0512SmileMan attached Technical Machine: Evolution to Dreepy in the Active Spot.
+0512SmileMan's Dreepy used Evolution.
+- 0512SmileMan evolved Dreepy to Drakloak on the Bench.
+- 0512SmileMan evolved Natu to Xatu on the Bench.
+- 0512SmileMan shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 0512SmileMan's Dreepy.
+
+Turn # 2 - ogushin112's Turn
+ogushin112 drew a card.
+ogushin112 played Arven.
+- ogushin112 drew 2 cards.
+   • Buddy-Buddy Poffin, Technical Machine: Evolution
+- ogushin112 shuffled their deck.
+ogushin112 played Buddy-Buddy Poffin.
+- ogushin112 drew 2 cards and played them to the Bench.
+   • Ralts, Ralts
+- ogushin112 shuffled their deck.
+ogushin112 played Nest Ball.
+- ogushin112 drew Ralts and played it to the Bench.
+- ogushin112 shuffled their deck.
+ogushin112 attached Technical Machine: Evolution to Ralts in the Active Spot.
+ogushin112's Ralts used Evolution.
+- ogushin112 evolved Ralts to Kirlia on the Bench.
+- ogushin112 evolved Ralts to Kirlia on the Bench.
+- ogushin112 shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from ogushin112's Ralts.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Arven.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Basic Fire Energy.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Earthen Vessel, Rescue Board
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Arven.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Radiant Alakazam, Ultra Ball
+0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Radiant Alakazam, Switch
+- 0512SmileMan drew Dragapult ex.
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Drakloak to Dragapult ex on the Bench.
+0512SmileMan attached Rescue Board to Dreepy in the Active Spot.
+0512SmileMan retreated Dreepy to the Bench.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on ogushin112’s Ralts for 200 damage.
+- 0512SmileMan put 6 damage counters on ogushin112's Kirlia.
+ogushin112's Ralts was Knocked Out!
+Basic Psychic Energy was discarded from ogushin112's Ralts.
+ogushin112's Ralts is now in the Active Spot.
+0512SmileMan took a Prize card.
+Basic Psychic Energy was added to 0512SmileMan's hand.
+
+Turn # 3 - ogushin112's Turn
+ogushin112 drew a card.
+ogushin112's Kirlia used Refinement.
+- ogushin112 discarded Technical Machine: Evolution.
+- ogushin112 drew 2 cards.
+ogushin112's Kirlia used Refinement.
+- ogushin112 discarded Klefki.
+- ogushin112 drew 2 cards.
+ogushin112 played Nest Ball.
+- ogushin112 drew Munkidori and played it to the Bench.
+- ogushin112 shuffled their deck.
+ogushin112 played Earthen Vessel.
+- ogushin112 discarded Drifloon.
+- ogushin112 drew 2 cards.
+   • Basic Darkness Energy, Basic Psychic Energy
+- ogushin112 shuffled their deck.
+ogushin112 attached Basic Darkness Energy to Munkidori on the Bench.
+ogushin112 played Arven.
+- ogushin112 drew 2 cards.
+   • Ultra Ball, Bravery Charm
+- ogushin112 shuffled their deck.
+ogushin112 played Ultra Ball.
+- ogushin112 discarded 2 cards.
+   • Basic Psychic Energy, Drifloon
+- ogushin112 drew Gardevoir ex.
+- ogushin112 shuffled their deck.
+ogushin112 evolved Kirlia to Gardevoir ex on the Bench.
+ogushin112 played Scream Tail to the Bench.
+ogushin112's Munkidori used Adrena-Brain.
+- ogushin112 moved 3 damage counters from ogushin112's Gardevoir ex to 0512SmileMan's Xatu.
+ogushin112's Gardevoir ex used Psychic Embrace.
+- ogushin112 attached Basic Psychic Energy to Ralts in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Ralts.
+ogushin112 retreated Ralts to the Bench.
+- Basic Psychic Energy was discarded from ogushin112's Ralts.
+ogushin112's Scream Tail is now in the Active Spot.
+ogushin112 attached Bravery Charm to Ralts on the Bench.
+ogushin112's Gardevoir ex used Psychic Embrace.
+- ogushin112 attached Basic Psychic Energy to Scream Tail in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Scream Tail.
+- ogushin112 attached Basic Psychic Energy to Scream Tail in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Scream Tail.
+ogushin112's Scream Tail used Roaring Scream.
+- 0512SmileMan's Xatu took 80 damage.
+0512SmileMan's Xatu was Knocked Out!
+Natu was discarded from 0512SmileMan's Xatu.
+ogushin112 took a Prize card.
+A card was added to ogushin112's hand.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Counter Catcher.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Buddy-Buddy Poffin.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Natu
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+0512SmileMan's Dragapult ex used Phantom Dive on ogushin112’s Scream Tail for 200 damage.
+- 0512SmileMan put 6 damage counters on ogushin112's Ralts.
+ogushin112's Scream Tail was Knocked Out!
+- 2 cards were discarded from ogushin112's Scream Tail.
+   • Basic Psychic Energy, Basic Psychic Energy
+ogushin112's Munkidori is now in the Active Spot.
+0512SmileMan took a Prize card.
+Xatu was added to 0512SmileMan's hand.
+
+Turn # 4 - ogushin112's Turn
+ogushin112 drew a card.
+ogushin112 played Super Rod.
+- ogushin112 shuffled 3 cards into their deck.
+   • Scream Tail, Drifloon, Drifloon
+ogushin112's Kirlia used Refinement.
+- ogushin112 discarded Basic Psychic Energy.
+- ogushin112 drew 2 cards.
+ogushin112 played Iono.
+- ogushin112 shuffled their hand.
+- ogushin112 put 4 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 4 cards on the bottom of their deck.
+   • Basic Fire Energy, Xatu, Counter Catcher, Basic Fire Energy
+- ogushin112 drew 5 cards.
+- 0512SmileMan drew 4 cards.
+   • Boss's Orders, Drakloak, Buddy-Buddy Poffin, Iono
+ogushin112 played Cresselia to the Bench.
+ogushin112's Munkidori used Adrena-Brain.
+- ogushin112 moved 3 damage counters from ogushin112's Ralts to 0512SmileMan's Drakloak.
+ogushin112's Gardevoir ex used Psychic Embrace.
+- ogushin112 attached Basic Psychic Energy to Munkidori in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Munkidori.
+- ogushin112 attached Basic Psychic Energy to Cresselia on the Bench.
+- ogushin112 put 2 damage counters on ogushin112's Cresselia.
+ogushin112 retreated Munkidori to the Bench.
+- Basic Psychic Energy was discarded from ogushin112's Munkidori.
+ogushin112's Cresselia is now in the Active Spot.
+ogushin112's Cresselia used Moonglow Reverse.
+- ogushin112 moved 2 damage counters from ogushin112's Cresselia to 0512SmileMan's Drakloak.
+- ogushin112 moved 2 damage counters from ogushin112's Gardevoir ex to 0512SmileMan's Drakloak.
+- ogushin112 moved 2 damage counters from ogushin112's Ralts to 0512SmileMan's Drakloak.
+- ogushin112 moved 2 damage counters from ogushin112's Munkidori to 0512SmileMan's Drakloak.
+0512SmileMan's Drakloak was Knocked Out!
+- 2 cards were discarded from 0512SmileMan's Drakloak.
+   • Basic Psychic Energy, Dreepy
+ogushin112 took a Prize card.
+A card was added to ogushin112's hand.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Arven.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Defiance Band.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Lost Vacuum, Technical Machine: Devolution
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Lost Vacuum.
+- 0512SmileMan moved 0512SmileMan's Buddy-Buddy Poffin to the Lost Zone.
+- ogushin112 moved ogushin112's Bravery Charm to the Lost Zone.
+0512SmileMan's Dragapult ex used Phantom Dive on ogushin112’s Cresselia for 200 damage.
+- 0512SmileMan put 6 damage counters on ogushin112's Ralts.
+ogushin112's Cresselia was Knocked Out!
+Basic Psychic Energy was discarded from ogushin112's Cresselia.
+ogushin112's Ralts was Knocked Out!
+ogushin112's Gardevoir ex is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Drakloak was added to 0512SmileMan's hand.
+Dragapult ex was added to 0512SmileMan's hand.
+
+Turn # 5 - ogushin112's Turn
+ogushin112 drew a card.
+ogushin112's Kirlia used Refinement.
+- ogushin112 discarded Basic Psychic Energy.
+- ogushin112 drew 2 cards.
+ogushin112 played Drifloon to the Bench.
+ogushin112 attached Basic Psychic Energy to Gardevoir ex in the Active Spot.
+ogushin112 played Super Rod.
+- ogushin112 shuffled 3 cards into their deck.
+   • Cresselia, Ralts, Ralts
+ogushin112 played Unfair Stamp.
+- ogushin112 shuffled 3 cards into their deck.
+- 0512SmileMan moved 0512SmileMan's 6 cards to their deck.
+   • Boss's Orders, Iono, Defiance Band, Technical Machine: Devolution, Drakloak, Dragapult ex
+- ogushin112 drew 5 cards.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Dragapult ex
+ogushin112 played Arven.
+- ogushin112 drew 2 cards.
+   • Buddy-Buddy Poffin, Bravery Charm
+- ogushin112 shuffled their deck.
+ogushin112 played Buddy-Buddy Poffin.
+- ogushin112 drew 2 cards and played them to the Bench.
+   • Ralts, Ralts
+- ogushin112 shuffled their deck.
+ogushin112's Gardevoir ex used Psychic Embrace.
+- ogushin112 attached Basic Psychic Energy to Gardevoir ex in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Gardevoir ex.
+ogushin112 retreated Gardevoir ex to the Bench.
+- 2 cards were discarded from ogushin112's Gardevoir ex.
+   • Basic Psychic Energy, Basic Psychic Energy
+ogushin112's Drifloon is now in the Active Spot.
+ogushin112 attached Bravery Charm to Drifloon in the Active Spot.
+ogushin112's Munkidori used Adrena-Brain.
+- ogushin112 moved 3 damage counters from ogushin112's Gardevoir ex to 0512SmileMan's Dragapult ex.
+ogushin112's Gardevoir ex used Psychic Embrace.
+- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Drifloon.
+- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Drifloon.
+- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Drifloon.
+- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Drifloon.
+- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.
+- ogushin112 put 2 damage counters on ogushin112's Drifloon.
+ogushin112's Drifloon used Balloon Blast on 0512SmileMan’s Dragapult ex for 300 damage.
+0512SmileMan's Dragapult ex was Knocked Out!
+- 4 cards were discarded from 0512SmileMan's Dragapult ex.
+   • Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy
+0512SmileMan's Drakloak is now in the Active Spot.
+ogushin112 took 2 Prize cards.
+A card was added to ogushin112's hand.
+A card was added to ogushin112's hand.
+
+Turn # 5 - 0512SmileMan's Turn
+0512SmileMan drew Defiance Band.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Boss's Orders.
+0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.
+0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.
+0512SmileMan played Boss's Orders.
+- ogushin112's Munkidori was switched with ogushin112's Drifloon to become the Active Pokémon.
+ogushin112's Munkidori is now in the Active Spot.
+Opponent conceded. 0512SmileMan wins.
+

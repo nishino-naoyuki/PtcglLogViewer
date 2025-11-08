@@ -1,0 +1,1303 @@
+{
+  "file": "ドラパルト　エンテイ.txt",
+  "players": [
+    "0512SmileMan",
+    "monogatari_",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Fire Energy, Drakloak, Natu, Basic Psychic Energy, Defiance Band, Nest Ball, Dreepy",
+    "monogatari_ drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "monogatari_ took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Jet Energy, Pokégear 3.0, Basic Fire Energy, Basic Fire Energy, Basic Fire Energy, Professor Sada's Vitality, Professor Sada's Vitality",
+    "0512SmileMan drew 1 more card because monogatari_ took at least 1 mulligan.",
+    "- 0512SmileMan drew Drakloak.",
+    "0512SmileMan played Natu to the Active Spot.",
+    "monogatari_ played Entei V to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Dreepy, Boss's Orders, Iono",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "monogatari_",
+      "actions": [
+        {
+          "raw": "monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "monogatari_ played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ drew Radiant Greninja and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- monogatari_ shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Entei V used Fleet-Footed.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "monogatari_ played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "monogatari_ attached Forest Seal Stone to Entei V in the Active Spot.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Entei V"
+        },
+        {
+          "raw": "monogatari_'s Entei V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- monogatari_ shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "monogatari_ can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "monogatari_'s Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "monogatari_ played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ drew Gouging Fire ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- monogatari_ shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "- monogatari_ drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "monogatari_ played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ attached Basic Fire Energy to Entei V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Entei V"
+        },
+        {
+          "raw": "monogatari_ played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "monogatari_ played Magma Basin to the Stadium spot.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "monogatari_ attached Basic Fire Energy to Entei V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Entei V"
+        },
+        {
+          "raw": "monogatari_ played Magma Basin.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "- monogatari_ put 2 damage counters on monogatari_'s Gouging Fire ex.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ played Mew ex to the Bench.",
+          "type": "play",
+          "card": "Mew ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "monogatari_'s Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "monogatari_'s Entei V used Burning Rondo on 0512SmileMan’s Natu for 160 damage.",
+          "type": "attack",
+          "attackerOwner": "monogatari_",
+          "attacker": "Entei V",
+          "attack": "Burning Rondo",
+          "target": "0512SmileMan’s Natu",
+          "damage": 160
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to monogatari_'s hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Defiance Band, Boss's Orders, Drakloak, Radiant Alakazam",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Forest Seal Stone, Dragapult ex, Basic Psychic Energy, Arven, Rare Candy, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Xatu, Ultra Ball, Iono",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "monogatari_",
+      "actions": [
+        {
+          "raw": "monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "monogatari_'s Entei V used Fleet-Footed.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "monogatari_ played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "monogatari_ attached Jet Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_'s Gouging Fire ex was switched with monogatari_'s Entei V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Gouging Fire ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ played Magma Basin.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ attached Basic Fire Energy to Entei V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Entei V"
+        },
+        {
+          "raw": "- monogatari_ put 2 damage counters on monogatari_'s Entei V.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Rotom V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_'s Entei V was switched with monogatari_'s Gouging Fire ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Entei V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Entei V used Burning Rondo on 0512SmileMan’s Drakloak for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "monogatari_",
+          "attacker": "Entei V",
+          "attack": "Burning Rondo",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 180
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to monogatari_'s hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Switch, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Xatu to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arven, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved a damage counter from monogatari_'s Gouging Fire ex to monogatari_'s Entei V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on monogatari_’s Entei V for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "monogatari_’s Entei V",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on monogatari_'s Gouging Fire ex.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Entei V was Knocked Out!",
+          "type": "knockout",
+          "target": "monogatari_'s Entei V"
+        },
+        {
+          "raw": "- 4 cards were discarded from monogatari_'s Entei V.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy, Basic Fire Energy, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Mew ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Dreepy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Unfair Stamp was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "monogatari_",
+      "actions": [
+        {
+          "raw": "monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "monogatari_'s Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "monogatari_ played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ drew Professor Sada's Vitality.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ played Gouging Fire ex to the Bench.",
+          "type": "play",
+          "card": "Gouging Fire ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "monogatari_ played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "- monogatari_ attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "- monogatari_ drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "monogatari_ played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dreepy, Squawkabilly ex",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "monogatari_'s Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "monogatari_ attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "monogatari_ played Magma Basin.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "- monogatari_ put 2 damage counters on monogatari_'s Gouging Fire ex.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "monogatari_ retreated Mew ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Gouging Fire ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Gouging Fire ex used Blaze Blitz on 0512SmileMan’s Dragapult ex for 260 damage.",
+          "type": "attack",
+          "attackerOwner": "monogatari_",
+          "attacker": "Gouging Fire ex",
+          "attack": "Blaze Blitz",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 260
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Unfair Stamp, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Dragapult ex, Super Rod, Buddy-Buddy Poffin, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Drakloak, Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from monogatari_'s Gouging Fire ex to monogatari_'s Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Manaphy, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on monogatari_’s Gouging Fire ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "monogatari_’s Gouging Fire ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on monogatari_'s Gouging Fire ex.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Gouging Fire ex was Knocked Out!",
+          "type": "knockout",
+          "target": "monogatari_'s Gouging Fire ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from monogatari_'s Gouging Fire ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Jet Energy, Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Mew ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Lost Vacuum was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Rescue Board was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "monogatari_",
+      "actions": [
+        {
+          "raw": "monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "monogatari_ evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "monogatari_ attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "monogatari_ played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "monogatari_ played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "monogatari_ played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_ drew Mela.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "monogatari_ played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- monogatari_'s Drakloak was switched with monogatari_'s Mew ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_'s Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- monogatari_ drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "monogatari_ evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "monogatari_'s Dragapult ex used Phantom Dive on 0512SmileMan’s Rotom V for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "monogatari_",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "0512SmileMan’s Rotom V",
+          "damage": 200
+        },
+        {
+          "raw": "- monogatari_ put 6 damage counters on 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Rotom V"
+        },
+        {
+          "raw": "Forest Seal Stone was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "monogatari_ took 4 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to monogatari_'s hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to monogatari_'s hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to monogatari_'s hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to monogatari_'s hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. monogatari_ wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. monogatari_ wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 8,
+    "players": [
+      "0512SmileMan",
+      "monogatari_",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 1,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 3,
+        "raw": "monogatari_'s Entei V was Knocked Out!",
+        "target": "monogatari_'s Entei V"
+      },
+      {
+        "turn": 4,
+        "raw": "monogatari_'s Gouging Fire ex was Knocked Out!",
+        "target": "monogatari_'s Gouging Fire ex"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Rotom V was Knocked Out!",
+        "target": "0512SmileMan's Rotom V"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 1,
+        "raw": "monogatari_ can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. monogatari_",
+      "method": null,
+      "final_turn": 4
+    }
+  }
+}

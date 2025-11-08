@@ -1,0 +1,1758 @@
+{
+  "file": "ドラパルト　ルギア負けー.txt",
+  "players": [
+    "0512SmileMan",
+    "WhiteFlame0069"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "WhiteFlame0069 won the coin toss.",
+    "WhiteFlame0069 decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Arven, Enhanced Hammer, Manaphy, Nest Ball, Dragapult ex, Basic Psychic Energy, Super Rod",
+    "WhiteFlame0069 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Manaphy to the Active Spot.",
+    "WhiteFlame0069 played Lugia V to the Active Spot.",
+    "WhiteFlame0069 played Lugia V to the Bench."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "WhiteFlame0069",
+      "actions": [
+        {
+          "raw": "WhiteFlame0069 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "WhiteFlame0069 played Minccino to the Bench.",
+          "type": "play",
+          "card": "Minccino",
+          "to": "Bench"
+        },
+        {
+          "raw": "WhiteFlame0069 played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew Iron Hands ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 attached Double Turbo Energy to Lugia V in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Lugia V"
+        },
+        {
+          "raw": "WhiteFlame0069 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Manaphy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Manaphy in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "WhiteFlame0069",
+      "actions": [
+        {
+          "raw": "WhiteFlame0069 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "WhiteFlame0069 evolved Minccino to Cinccino on the Bench.",
+          "type": "evolve",
+          "from": "Minccino",
+          "to": "Cinccino"
+        },
+        {
+          "raw": "WhiteFlame0069 attached Jet Energy to Lugia V on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Lugia V"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069's Lugia V was switched with WhiteFlame0069's Lugia V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Lugia V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Lugia V used Read the Wind.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 discarded Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Enhanced Hammer, Basic Psychic Energy, Dragapult ex, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Unfair Stamp, Iono, Counter Catcher, Radiant Alakazam, Earthen Vessel, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Forest Seal Stone, Buddy-Buddy Poffin, Buddy-Buddy Poffin",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "WhiteFlame0069",
+      "actions": [
+        {
+          "raw": "WhiteFlame0069 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "WhiteFlame0069 attached Mist Energy to Cinccino on the Bench.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "WhiteFlame0069 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lugia V, Jet Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 played Carmine.",
+          "type": "play",
+          "card": "Carmine",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• V Guard Energy, Boss's Orders, Archeops",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "WhiteFlame0069's Lugia V used Read the Wind.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 discarded Double Turbo Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Boss's Orders, Hisuian Heavy Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Manaphy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069's Cinccino was switched with WhiteFlame0069's Lugia V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Cinccino is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on WhiteFlame0069’s Cinccino for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "WhiteFlame0069’s Cinccino",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on WhiteFlame0069's Lugia V.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Cinccino was Knocked Out!",
+          "type": "knockout",
+          "target": "WhiteFlame0069's Cinccino"
+        },
+        {
+          "raw": "- 2 cards were discarded from WhiteFlame0069's Cinccino.",
+          "type": "other"
+        },
+        {
+          "raw": "• Mist Energy, Minccino",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Lugia V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "WhiteFlame0069",
+      "actions": [
+        {
+          "raw": "WhiteFlame0069 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "WhiteFlame0069 played Minccino to the Bench.",
+          "type": "play",
+          "card": "Minccino",
+          "to": "Bench"
+        },
+        {
+          "raw": "WhiteFlame0069 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Counter Catcher, Radiant Alakazam, Arven, Iono, Arven, Unfair Stamp",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Basic Psychic Energy, Defiance Band, Drakloak, Basic Fire Energy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- WhiteFlame0069 drew Lugia VSTAR."
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 evolved Lugia V to Lugia VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Lugia V",
+          "to": "Lugia VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "WhiteFlame0069 played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 drew Cinccino.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Lugia VSTAR used Summoning Star.",
+          "type": "vstar",
+          "detail": "WhiteFlame0069's Lugia VSTAR used Summoning Star."
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Archeops, Archeops",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "WhiteFlame0069 can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "WhiteFlame0069 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Bloodmoon Ursaluna ex, Archeops",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew Minccino.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 played Minccino to the Bench.",
+          "type": "play",
+          "card": "Minccino",
+          "to": "Bench"
+        },
+        {
+          "raw": "WhiteFlame0069's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 attached Double Turbo Energy to Lugia VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "- WhiteFlame0069 attached Gift Energy to Lugia VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 attached Gift Energy to Minccino on the Bench.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Minccino"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "WhiteFlame0069",
+          "attacker": "Lugia VSTAR",
+          "attack": "Tempest Dive",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 200
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069's Archeops was switched with WhiteFlame0069's Lugia VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- WhiteFlame0069's Archeops was switched with WhiteFlame0069's Lugia VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "WhiteFlame0069's Archeops is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on WhiteFlame0069’s Archeops for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "WhiteFlame0069’s Archeops",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on WhiteFlame0069's Minccino.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Archeops was Knocked Out!",
+          "type": "knockout",
+          "target": "WhiteFlame0069's Archeops"
+        },
+        {
+          "raw": "WhiteFlame0069's Minccino was Knocked Out!",
+          "type": "knockout",
+          "target": "WhiteFlame0069's Minccino"
+        },
+        {
+          "raw": "WhiteFlame0069's Lugia VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "WhiteFlame0069's Lugia VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Lost Vacuum was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "WhiteFlame0069",
+      "actions": [
+        {
+          "raw": "WhiteFlame0069 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "WhiteFlame0069 evolved Minccino to Cinccino on the Bench.",
+          "type": "evolve",
+          "from": "Minccino",
+          "to": "Cinccino"
+        },
+        {
+          "raw": "WhiteFlame0069 played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew Iron Hands ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 attached Mist Energy to Cinccino on the Bench.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 discarded Iron Hands ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "WhiteFlame0069 evolved Lugia V to Lugia VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Lugia V",
+          "to": "Lugia VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "WhiteFlame0069 played Wellspring Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Wellspring Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "WhiteFlame0069 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Carmine, Jacq",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "WhiteFlame0069",
+          "attacker": "Lugia VSTAR",
+          "attack": "Tempest Dive",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 200
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to WhiteFlame0069's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to WhiteFlame0069's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Super Rod.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rescue Board.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Xatu on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Manaphy on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 6 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Natu, Rare Candy, Basic Fire Energy, Dreepy, Drakloak, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 moved WhiteFlame0069's 4 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Dreepy, Counter Catcher, Arven, Xatu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Collapsed Stadium, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from WhiteFlame0069's Lugia VSTAR to WhiteFlame0069's Archeops.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan moved 2 damage counters from WhiteFlame0069's Lugia VSTAR to WhiteFlame0069's Archeops."
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on WhiteFlame0069’s Lugia VSTAR for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "WhiteFlame0069’s Lugia VSTAR",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on WhiteFlame0069's Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "WhiteFlame0069",
+      "actions": [
+        {
+          "raw": "WhiteFlame0069 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "WhiteFlame0069 retreated Lugia VSTAR to the Bench.",
+          "type": "vstar",
+          "detail": "WhiteFlame0069 retreated Lugia VSTAR to the Bench."
+        },
+        {
+          "raw": "- 2 cards were discarded from WhiteFlame0069's Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- 2 cards were discarded from WhiteFlame0069's Lugia VSTAR."
+        },
+        {
+          "raw": "• Jet Energy, Gift Energy",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Cinccino is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 attached Mist Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "WhiteFlame0069's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 attached Gift Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- WhiteFlame0069 attached Jet Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 put a card on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arven, Dreepy, Dragapult ex, Xatu, Counter Catcher, Collapsed Stadium",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Natu, Enhanced Hammer, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 played Jamming Tower to the Stadium spot.",
+          "type": "play",
+          "card": "Jamming Tower",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "WhiteFlame0069's Cinccino used Special Roll on 0512SmileMan’s Dragapult ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "WhiteFlame0069",
+          "attacker": "Cinccino",
+          "attack": "Special Roll",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 350
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to WhiteFlame0069's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to WhiteFlame0069's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Drakloak, Enhanced Hammer, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Iono, Earthen Vessel, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Collapsed Stadium, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan retreated Drakloak to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Natu, Earthen Vessel, Dragapult ex",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "WhiteFlame0069",
+      "actions": [
+        {
+          "raw": "WhiteFlame0069 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "WhiteFlame0069 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rare Candy, Dragapult ex, Collapsed Stadium, Basic Fire Energy, Natu, Arven, Earthen Vessel, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- WhiteFlame0069 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Xatu, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Arven, Counter Catcher, Rare Candy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "player": "WhiteFlame0069",
+      "actions": [
+        {
+          "raw": "WhiteFlame0069 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "WhiteFlame0069 played Serena.",
+          "type": "play",
+          "card": "Serena",
+          "to": null
+        },
+        {
+          "raw": "- WhiteFlame0069 chose Switch 1 of your opponent’s Benched Pokémon <sprite name=\"v_atk\" tint=1> with their Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Manaphy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069's Cinccino used Special Roll on 0512SmileMan’s Rotom V for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "WhiteFlame0069",
+          "attacker": "Cinccino",
+          "attack": "Special Roll",
+          "target": "0512SmileMan’s Rotom V",
+          "damage": 350
+        },
+        {
+          "raw": "0512SmileMan's Rotom V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Rotom V"
+        },
+        {
+          "raw": "Forest Seal Stone was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "WhiteFlame0069 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to WhiteFlame0069's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to WhiteFlame0069's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. WhiteFlame0069 wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. WhiteFlame0069 wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 15,
+    "players": [
+      "0512SmileMan",
+      "WhiteFlame0069"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "WhiteFlame0069's Cinccino was Knocked Out!",
+        "target": "WhiteFlame0069's Cinccino"
+      },
+      {
+        "turn": 4,
+        "raw": "WhiteFlame0069's Archeops was Knocked Out!",
+        "target": "WhiteFlame0069's Archeops"
+      },
+      {
+        "turn": 4,
+        "raw": "WhiteFlame0069's Minccino was Knocked Out!",
+        "target": "WhiteFlame0069's Minccino"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 8,
+        "raw": "0512SmileMan's Rotom V was Knocked Out!",
+        "target": "0512SmileMan's Rotom V"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 4,
+        "raw": "- WhiteFlame0069 drew Lugia VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "WhiteFlame0069's Lugia VSTAR used Summoning Star."
+      },
+      {
+        "turn": 4,
+        "raw": "WhiteFlame0069 can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 4,
+        "attack": "Tempest Dive",
+        "raw": "WhiteFlame0069's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 200
+      },
+      {
+        "turn": 4,
+        "raw": "- WhiteFlame0069's Archeops was switched with WhiteFlame0069's Lugia VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 4,
+        "raw": "WhiteFlame0069's Lugia VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 5,
+        "attack": "Tempest Dive",
+        "raw": "WhiteFlame0069's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 200
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 5,
+        "raw": "- 0512SmileMan moved 2 damage counters from WhiteFlame0069's Lugia VSTAR to WhiteFlame0069's Archeops."
+      },
+      {
+        "turn": 5,
+        "attack": "Phantom Dive",
+        "raw": "0512SmileMan's Dragapult ex used Phantom Dive on WhiteFlame0069’s Lugia VSTAR for 200 damage.",
+        "target": "WhiteFlame0069’s Lugia VSTAR",
+        "damage": 200
+      },
+      {
+        "turn": 6,
+        "raw": "WhiteFlame0069 retreated Lugia VSTAR to the Bench."
+      },
+      {
+        "turn": 6,
+        "raw": "- 2 cards were discarded from WhiteFlame0069's Lugia VSTAR."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. WhiteFlame0069",
+      "method": null,
+      "final_turn": 8
+    }
+  }
+}

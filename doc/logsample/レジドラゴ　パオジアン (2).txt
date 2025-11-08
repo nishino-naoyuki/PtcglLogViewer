@@ -1,0 +1,124 @@
+Setup
+0512SmileMan chose heads for the opening coin flip.
+0512SmileMan won the coin toss.
+0512SmileMan decided to go first.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Giratina VSTAR, Basic Grass Energy, Superior Energy Retrieval, Basic Fire Energy, Ultra Ball, Jamming Tower, Basic Grass Energy
+akira130 drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan took a mulligan.
+- Cards revealed from Mulligan 1
+   • Giratina VSTAR, Basic Grass Energy, Superior Energy Retrieval, Basic Fire Energy, Ultra Ball, Jamming Tower, Basic Grass Energy
+akira130 drew 1 more card because 0512SmileMan took at least 1 mulligan.
+- akira130 drew a card.
+0512SmileMan played Mew ex to the Active Spot.
+akira130 played Chien-Pao ex to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Energy Switch.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Dragapult ex, Basic Grass Energy
+- 0512SmileMan drew Squawkabilly ex.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Squawkabilly ex to the Bench.
+0512SmileMan attached Basic Fire Energy to Mew ex in the Active Spot.
+0512SmileMan's Squawkabilly ex used Squawk and Seize.
+- 0512SmileMan discarded 3 cards.
+   • Basic Grass Energy, Professor's Research, Energy Switch
+- 0512SmileMan drew 6 cards.
+   • Basic Grass Energy, Ultra Ball, Giratina VSTAR, Regidrago VSTAR, Professor's Research, Energy Switch
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Giratina VSTAR, Basic Grass Energy
+- 0512SmileMan drew Regidrago V.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Regidrago V to the Bench.
+0512SmileMan played Energy Switch.
+- 0512SmileMan attached Basic Fire Energy to Regidrago V on the Bench.
+0512SmileMan's Mew ex used Restart.
+- 0512SmileMan drew Boss's Orders.
+0512SmileMan ended their turn.
+
+Turn # 1 - akira130's Turn
+akira130 drew a card.
+akira130's Chien-Pao ex used Shivery Chill.
+- akira130 drew 2 cards.
+   • Basic Water Energy, Basic Water Energy
+- akira130 shuffled their deck.
+akira130 played Buddy-Buddy Poffin.
+- akira130 drew 2 cards and played them to the Bench.
+   • Bidoof, Frigibax
+- akira130 shuffled their deck.
+akira130 played Irida.
+- akira130 drew 2 cards.
+   • Baxcalibur, Buddy-Buddy Poffin
+- akira130 shuffled their deck.
+akira130 played Buddy-Buddy Poffin.
+- akira130 drew 2 cards and played them to the Bench.
+   • Bidoof, Frigibax
+- akira130 shuffled their deck.
+akira130 played Nest Ball.
+- akira130 drew Radiant Greninja and played it to the Bench.
+- akira130 shuffled their deck.
+akira130's Radiant Greninja used Concealed Cards.
+- akira130 discarded Basic Water Energy.
+- akira130 drew 2 cards.
+akira130 attached Basic Water Energy to Chien-Pao ex in the Active Spot.
+akira130 ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Noivern ex.
+0512SmileMan evolved Regidrago V to Regidrago VSTAR on the Bench.
+0512SmileMan played Professor's Research.
+- 0512SmileMan discarded 2 cards.
+   • Boss's Orders, Noivern ex
+- 0512SmileMan drew 7 cards.
+   • Basic Fire Energy, Jamming Tower, Nest Ball, Basic Grass Energy, Teal Mask Ogerpon ex, Nest Ball, Radiant Alakazam
+0512SmileMan played Teal Mask Ogerpon ex to the Bench.
+0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.
+- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- 0512SmileMan drew Prime Catcher.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Teal Mask Ogerpon ex and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Regidrago V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Regidrago VSTAR used Legacy Star.
+- 0512SmileMan moved 0512SmileMan's 7 cards to the discard pile.
+   • Iono, Basic Grass Energy, Great Ball, Regidrago VSTAR, Basic Grass Energy, Professor's Research, Regidrago VSTAR
+- 0512SmileMan moved 0512SmileMan's 2 cards to their hand.
+   • Energy Switch, Basic Grass Energy
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.
+- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- 0512SmileMan drew Superior Energy Retrieval.
+0512SmileMan played Superior Energy Retrieval.
+- 0512SmileMan discarded 2 cards.
+   • Jamming Tower, Radiant Alakazam
+- 0512SmileMan moved 0512SmileMan's 4 cards to their hand.
+   • Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy
+0512SmileMan attached Basic Grass Energy to Regidrago VSTAR on the Bench.
+0512SmileMan played Energy Switch.
+- 0512SmileMan attached Basic Grass Energy to Regidrago VSTAR on the Bench.
+0512SmileMan played Prime Catcher.
+- akira130's Frigibax was switched with akira130's Chien-Pao ex to become the Active Pokémon.
+- 0512SmileMan's Regidrago VSTAR was switched with 0512SmileMan's Mew ex to become the Active Pokémon.
+akira130's Frigibax is now in the Active Spot.
+0512SmileMan's Regidrago VSTAR is now in the Active Spot.
+0512SmileMan's Regidrago VSTAR used Apex Dragon on akira130’s Frigibax for 200 damage.
+- 0512SmileMan chose Phantom Dive
+- 0512SmileMan put 6 damage counters on akira130's Frigibax.
+akira130's Frigibax was Knocked Out!
+akira130's Frigibax was Knocked Out!
+akira130's Chien-Pao ex is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Teal Mask Ogerpon ex was added to 0512SmileMan's hand.
+Iono was added to 0512SmileMan's hand.
+
+Turn # 2 - akira130's Turn
+akira130 drew a card.
+Opponent conceded. 0512SmileMan wins.
+

@@ -1,0 +1,43 @@
+Setup
+0512SmileMan chose heads for the opening coin flip.
+0512SmileMan won the coin toss.
+0512SmileMan decided to go first.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Enhanced Hammer, Defiance Band, Switch, Dreepy, Technical Machine: Devolution, Dragapult ex, Earthen Vessel
+TTT_Lv100 drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan played Dreepy to the Active Spot.
+TTT_Lv100 played Minccino to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Collapsed Stadium.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Technical Machine: Devolution.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Fire Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.
+0512SmileMan ended their turn.
+
+Turn # 1 - TTT_Lv100's Turn
+TTT_Lv100 drew a card.
+TTT_Lv100 played Great Ball.
+- TTT_Lv100 drew Archeops.
+- TTT_Lv100 shuffled their deck.
+TTT_Lv100 played Capturing Aroma.
+- TTT_Lv100 flipped a coin and it landed on heads.
+- TTT_Lv100 drew Archeops.
+- TTT_Lv100 shuffled their deck.
+TTT_Lv100 attached Mist Energy to Minccino in the Active Spot.
+TTT_Lv100's Minccino used Beat on 0512SmileMan’s Dreepy for 10 damage.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Drakloak.
+0512SmileMan evolved Dreepy to Drakloak in the Active Spot.
+0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.
+0512SmileMan's Drakloak used Dragon Headbutt on TTT_Lv100’s Minccino for 70 damage.
+TTT_Lv100's Minccino was Knocked Out!
+Mist Energy was discarded from TTT_Lv100's Minccino.
+Opponent conceded. 0512SmileMan wins.
+

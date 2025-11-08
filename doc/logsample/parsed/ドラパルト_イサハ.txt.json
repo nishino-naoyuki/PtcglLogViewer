@@ -1,0 +1,1140 @@
+{
+  "file": "ドラパルト　イサハ.txt",
+  "players": [
+    "V2M707",
+    "0512SmileMan",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "V2M707 chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "V2M707 decided to go second.",
+    "V2M707 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Boss's Orders, Unfair Stamp, Switch, Buddy-Buddy Poffin, Dreepy, Basic Psychic Energy, Dreepy",
+    "V2M707 took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Arven, Arven, Eri, Giovanni's Charisma, Canceling Cologne, Future Booster Energy Capsule, Double Turbo Energy",
+    "0512SmileMan drew 1 more card because V2M707 took at least 1 mulligan.",
+    "- 0512SmileMan drew Iono.",
+    "V2M707 played Iron Thorns ex to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "V2M707",
+      "actions": [
+        {
+          "raw": "V2M707 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "V2M707 played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- V2M707 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Grabber, Technical Machine: Turbo Energize",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 attached Double Turbo Energy to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "V2M707 played Techno Radar.",
+          "type": "play",
+          "card": "Techno Radar",
+          "to": null
+        },
+        {
+          "raw": "- V2M707 discarded Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iron Thorns ex, Iron Thorns ex",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 played Iron Thorns ex to the Bench.",
+          "type": "play",
+          "card": "Iron Thorns ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "V2M707 played Iron Thorns ex to the Bench.",
+          "type": "play",
+          "card": "Iron Thorns ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "V2M707 attached Technical Machine: Turbo Energize to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Turbo Energize",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "V2M707 played Grabber.",
+          "type": "play",
+          "card": "Grabber",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan put Xatu on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex used Turbo Energize.",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 attached Basic Lightning Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "- V2M707 attached Basic Lightning Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "- V2M707 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Turbo Energize was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Turbo Energize was discarded from V2M707's Iron Thorns ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch, Unfair Stamp, Rare Candy, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Dreepy, Lost Vacuum, Technical Machine: Devolution, Radiant Alakazam, Basic Psychic Energy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "V2M707",
+      "actions": [
+        {
+          "raw": "V2M707 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "V2M707 attached Basic Lightning Energy to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "V2M707 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dreepy was switched with 0512SmileMan's Dreepy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Dreepy for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "V2M707",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 120
+        },
+        {
+          "raw": "- V2M707 attached Double Turbo Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to V2M707's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Double Turbo Energy was discarded from V2M707's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "V2M707",
+      "actions": [
+        {
+          "raw": "V2M707 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "V2M707 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dreepy was switched with 0512SmileMan's Dreepy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 attached Double Turbo Energy to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Dreepy for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "V2M707",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 120
+        },
+        {
+          "raw": "- V2M707 attached Basic Lightning Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to V2M707's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Natu in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled Lost Vacuum into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 moved V2M707's 6 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Arven, Ultra Ball, Rare Candy, Buddy-Buddy Poffin, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Natu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "V2M707",
+      "actions": [
+        {
+          "raw": "V2M707 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "V2M707 played Energy Loto.",
+          "type": "play",
+          "card": "Energy Loto",
+          "to": null
+        },
+        {
+          "raw": "- V2M707 drew Double Turbo Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- V2M707 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 attached Future Booster Energy Capsule to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Future Booster Energy Capsule",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "V2M707 retreated Iron Thorns ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 attached Double Turbo Energy to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Natu for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "V2M707",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Natu",
+          "damage": 120
+        },
+        {
+          "raw": "- V2M707 attached Basic Lightning Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to V2M707's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Drakloak, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Switch, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Xatu to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on V2M707’s Iron Thorns ex for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "V2M707’s Iron Thorns ex",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 4 damage counters on V2M707's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on V2M707's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex was Knocked Out!",
+          "type": "knockout",
+          "target": "V2M707's Iron Thorns ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from V2M707's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Double Turbo Energy",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Super Rod was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "V2M707",
+      "actions": [
+        {
+          "raw": "V2M707 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "V2M707 played Crushing Hammer.",
+          "type": "play",
+          "card": "Crushing Hammer",
+          "to": null
+        },
+        {
+          "raw": "- V2M707 flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 attached Future Booster Energy Capsule to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Future Booster Energy Capsule",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Dragapult ex for 140 damage.",
+          "type": "attack",
+          "attackerOwner": "V2M707",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 140
+        },
+        {
+          "raw": "- V2M707 attached Double Turbo Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Iron Thorns ex"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Manaphy, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Xatu on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on V2M707’s Iron Thorns ex for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "V2M707’s Iron Thorns ex",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on V2M707's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex was Knocked Out!",
+          "type": "knockout",
+          "target": "V2M707's Iron Thorns ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from V2M707's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Future Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "V2M707",
+      "actions": [
+        {
+          "raw": "V2M707 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "V2M707 played Eri.",
+          "type": "play",
+          "card": "Eri",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "V2M707 played Canceling Cologne.",
+          "type": "play",
+          "card": "Canceling Cologne",
+          "to": null
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Dragapult ex for 140 damage.",
+          "type": "attack",
+          "attackerOwner": "V2M707",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 140
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on V2M707’s Iron Thorns ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "V2M707’s Iron Thorns ex",
+          "damage": 200
+        },
+        {
+          "raw": "V2M707's Iron Thorns ex was Knocked Out!",
+          "type": "knockout",
+          "target": "V2M707's Iron Thorns ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from V2M707's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Double Turbo Energy, Future Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Rotom V was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Knocked Out all your opponent's Pokémon in play and took all your Prize cards. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Knocked Out all your opponent's Pokémon in play and took all your Prize cards. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 13,
+    "players": [
+      "V2M707",
+      "0512SmileMan",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      },
+      {
+        "turn": 5,
+        "raw": "V2M707's Iron Thorns ex was Knocked Out!",
+        "target": "V2M707's Iron Thorns ex"
+      },
+      {
+        "turn": 6,
+        "raw": "V2M707's Iron Thorns ex was Knocked Out!",
+        "target": "V2M707's Iron Thorns ex"
+      },
+      {
+        "turn": 7,
+        "raw": "V2M707's Iron Thorns ex was Knocked Out!",
+        "target": "V2M707's Iron Thorns ex"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "Knocked Out all your opponent's Pokémon in play and took all your Prize cards. 0512SmileMan",
+      "method": null,
+      "final_turn": 7
+    }
+  }
+}

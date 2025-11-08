@@ -1,0 +1,21 @@
+{
+  "file": "コイン投げる前に相手降参.txt",
+  "players": [],
+  "setup": [
+    "Setup",
+    "Opponent conceded. 0512SmileMan wins."
+  ],
+  "turns": [],
+  "summary": {
+    "turn_count": 0,
+    "players": [],
+    "knockouts": [],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": null,
+      "method": null,
+      "final_turn": null
+    }
+  }
+}

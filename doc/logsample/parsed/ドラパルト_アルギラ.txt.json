@@ -1,0 +1,1897 @@
+{
+  "file": "ドラパルト　アルギラ.txt",
+  "players": [
+    "Gyocchan",
+    "0512SmileMan",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "Gyocchan chose heads for the opening coin flip.",
+    "Gyocchan won the coin toss.",
+    "0512SmileMan decided to go second.",
+    "Gyocchan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Radiant Alakazam, Nest Ball, Xatu, Lost Vacuum, Forest Seal Stone, Buddy-Buddy Poffin, Unfair Stamp",
+    "Gyocchan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Basic Grass Energy, Judge, Iono, Basic Grass Energy, Arceus VSTAR, Bibarel, Ultra Ball",
+    "0512SmileMan drew 1 more card because Gyocchan took at least 1 mulligan.",
+    "- 0512SmileMan drew Buddy-Buddy Poffin.",
+    "Gyocchan played Arceus V to the Active Spot.",
+    "0512SmileMan played Radiant Alakazam to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "Gyocchan",
+      "actions": [
+        {
+          "raw": "Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan played Arceus V to the Bench.",
+          "type": "play",
+          "card": "Arceus V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Gyocchan attached Basic Grass Energy to Arceus V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Gyocchan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Arven, Basic Psychic Energy, Dragapult ex",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Gyocchan",
+      "actions": [
+        {
+          "raw": "Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Forest Seal Stone, Ultra Ball, Basic Psychic Energy, Unfair Stamp, Xatu, Dragapult ex, Lost Vacuum, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Nest Ball, Technical Machine: Devolution, Iono, Basic Psychic Energy, Basic Fire Energy, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan attached Double Turbo Energy to Arceus V in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Gyocchan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan drew Giratina V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Arceus V used Trinity Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan attached Basic Psychic Energy to Giratina V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Giratina V"
+        },
+        {
+          "raw": "- Gyocchan attached Basic Grass Energy to Giratina V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Giratina V"
+        },
+        {
+          "raw": "- Gyocchan attached Basic Grass Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Earthen Vessel, Boss's Orders, Defiance Band",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Gyocchan",
+      "actions": [
+        {
+          "raw": "Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan evolved Giratina V to Giratina VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Giratina V",
+          "to": "Giratina VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Gyocchan attached Basic Grass Energy to Giratina VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "Gyocchan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dreepy was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Arceus V used Power Edge on 0512SmileMan’s Dreepy for 110 damage.",
+          "type": "attack",
+          "attackerOwner": "Gyocchan",
+          "attacker": "Arceus V",
+          "attack": "Power Edge",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 110
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "Basic Fire Energy was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Gyocchan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Drakloak, Super Rod, Xatu, Switch, Drakloak, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dreepy was switched with 0512SmileMan's Xatu to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Xatu, Dragapult ex, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Gyocchan",
+      "actions": [
+        {
+          "raw": "Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan evolved Arceus V to Arceus VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Arceus V",
+          "to": "Arceus VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Gyocchan attached Jet Energy to Giratina VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan's Giratina VSTAR was switched with Gyocchan's Arceus VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- Gyocchan's Giratina VSTAR was switched with Gyocchan's Arceus VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "Gyocchan's Giratina VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Gyocchan's Giratina VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "Gyocchan attached Maximum Belt to Giratina VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Maximum Belt",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "Gyocchan's Arceus VSTAR used Starbirth.",
+          "type": "vstar",
+          "detail": "Gyocchan's Arceus VSTAR used Starbirth."
+        },
+        {
+          "raw": "- Gyocchan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "Gyocchan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "Gyocchan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Dreepy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan drew Bidoof and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Giratina VSTAR used Lost Impact on 0512SmileMan’s Dragapult ex for 330 damage.",
+          "type": "attack",
+          "attackerOwner": "Gyocchan",
+          "attacker": "Giratina VSTAR",
+          "attack": "Lost Impact",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 330
+        },
+        {
+          "raw": "- Gyocchan moved Gyocchan's Jet Energy to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan moved Gyocchan's Basic Grass Energy to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Dreepy, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Gyocchan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Gyocchan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dreepy, Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rescue Board.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Enhanced Hammer",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Double Turbo Energy was discarded from Gyocchan's Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- Double Turbo Energy was discarded from Gyocchan's Arceus VSTAR."
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Xatu to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan moved Gyocchan's Maximum Belt to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan retreated Drakloak to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Gyocchan’s Giratina VSTAR for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Gyocchan’s Giratina VSTAR",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Gyocchan's Arceus V.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Gyocchan",
+      "actions": [
+        {
+          "raw": "Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan evolved Bidoof to Bibarel on the Bench.",
+          "type": "evolve",
+          "from": "Bidoof",
+          "to": "Bibarel"
+        },
+        {
+          "raw": "Gyocchan attached Basic Grass Energy to Arceus VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Arceus VSTAR"
+        },
+        {
+          "raw": "Gyocchan played Skwovet to the Bench.",
+          "type": "play",
+          "card": "Skwovet",
+          "to": "Bench"
+        },
+        {
+          "raw": "Gyocchan's Skwovet used Nest Stash.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "Gyocchan evolved Arceus V to Arceus VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Arceus V",
+          "to": "Arceus VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Gyocchan played Judge.",
+          "type": "play",
+          "card": "Judge",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 3 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Buddy-Buddy Poffin, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Arven, Buddy-Buddy Poffin, Iono, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew Bidoof.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan played Bidoof to the Bench.",
+          "type": "play",
+          "card": "Bidoof",
+          "to": "Bench"
+        },
+        {
+          "raw": "Gyocchan's Giratina VSTAR used Lost Impact on 0512SmileMan’s Dragapult ex for 280 damage.",
+          "type": "attack",
+          "attackerOwner": "Gyocchan",
+          "attacker": "Giratina VSTAR",
+          "attack": "Lost Impact",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 280
+        },
+        {
+          "raw": "- Gyocchan moved Gyocchan's 2 cards to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Psychic Energy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Unfair Stamp.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from Gyocchan's Giratina VSTAR to Gyocchan's Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan moved 2 damage counters from Gyocchan's Giratina VSTAR to Gyocchan's Arceus VSTAR."
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Gyocchan’s Giratina VSTAR for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Gyocchan’s Giratina VSTAR",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Gyocchan's Skwovet.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Giratina VSTAR was Knocked Out!",
+          "type": "knockout",
+          "target": "Gyocchan's Giratina VSTAR"
+        },
+        {
+          "raw": "- 2 cards were discarded from Gyocchan's Giratina VSTAR.",
+          "type": "vstar",
+          "detail": "- 2 cards were discarded from Gyocchan's Giratina VSTAR."
+        },
+        {
+          "raw": "• Basic Grass Energy, Giratina V",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Skwovet was Knocked Out!",
+          "type": "knockout",
+          "target": "Gyocchan's Skwovet"
+        },
+        {
+          "raw": "Gyocchan's Arceus VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Gyocchan's Arceus VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Counter Catcher was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Collapsed Stadium was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "Gyocchan",
+      "actions": [
+        {
+          "raw": "Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan attached Basic Psychic Energy to Arceus VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Arceus VSTAR"
+        },
+        {
+          "raw": "Gyocchan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Radiant Alakazam was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dragapult ex, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- Forest Seal Stone was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "Gyocchan",
+      "actions": [
+        {
+          "raw": "Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arceus VSTAR, Giratina VSTAR",
+          "type": "vstar",
+          "detail": "• Arceus VSTAR, Giratina VSTAR"
+        },
+        {
+          "raw": "- Gyocchan drew Bibarel.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan evolved Bidoof to Bibarel on the Bench.",
+          "type": "evolve",
+          "from": "Bidoof",
+          "to": "Bibarel"
+        },
+        {
+          "raw": "Gyocchan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "Gyocchan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan played Temple of Sinnoh to the Stadium spot.",
+          "type": "play",
+          "card": "Temple of Sinnoh",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Gyocchan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 10 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Counter Catcher, Drakloak, Unfair Stamp, Iono, Nest Ball, Arven, Iono, Boss's Orders, Dragapult ex, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Basic Fire Energy on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Natu, Rare Candy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Unfair Stamp.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "player": "Gyocchan",
+      "actions": [
+        {
+          "raw": "Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan attached Basic Psychic Energy to Arceus VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Arceus VSTAR"
+        },
+        {
+          "raw": "Gyocchan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan moved Gyocchan's Arceus V to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Rescue Board to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "Gyocchan played Grabber.",
+          "type": "play",
+          "card": "Grabber",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan put Natu on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Radiant Alakazam for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "Gyocchan",
+          "attacker": "Arceus VSTAR",
+          "attack": "Trinity Nova",
+          "target": "0512SmileMan’s Radiant Alakazam",
+          "damage": 200
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Radiant Alakazam"
+        },
+        {
+          "raw": "Basic Fire Energy was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Gyocchan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- Gyocchan's Arceus VSTAR was switched with Gyocchan's Arceus VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- Gyocchan's Arceus VSTAR was switched with Gyocchan's Arceus VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "Gyocchan's Arceus VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Gyocchan's Arceus VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rare Candy, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan moved Gyocchan's 6 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Ultra Ball, Drakloak, Dragapult ex, Rare Candy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- Gyocchan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Drakloak, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Gyocchan’s Arceus VSTAR for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Gyocchan’s Arceus VSTAR",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Gyocchan's Bibarel.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Arceus VSTAR was Knocked Out!",
+          "type": "knockout",
+          "target": "Gyocchan's Arceus VSTAR"
+        },
+        {
+          "raw": "- 2 cards were discarded from Gyocchan's Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- 2 cards were discarded from Gyocchan's Arceus VSTAR."
+        },
+        {
+          "raw": "• Basic Grass Energy, Arceus V",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Arceus VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Gyocchan's Arceus VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "player": "Gyocchan",
+      "actions": [
+        {
+          "raw": "Gyocchan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gyocchan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "Gyocchan",
+          "attacker": "Arceus VSTAR",
+          "attack": "Trinity Nova",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 200
+        },
+        {
+          "raw": "- Gyocchan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "Gyocchan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Gyocchan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Gyocchan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. Gyocchan wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. Gyocchan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 17,
+    "players": [
+      "Gyocchan",
+      "0512SmileMan",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "Gyocchan's Giratina VSTAR was Knocked Out!",
+        "target": "Gyocchan's Giratina VSTAR"
+      },
+      {
+        "turn": 5,
+        "raw": "Gyocchan's Skwovet was Knocked Out!",
+        "target": "Gyocchan's Skwovet"
+      },
+      {
+        "turn": 8,
+        "raw": "0512SmileMan's Radiant Alakazam was Knocked Out!",
+        "target": "0512SmileMan's Radiant Alakazam"
+      },
+      {
+        "turn": 8,
+        "raw": "Gyocchan's Arceus VSTAR was Knocked Out!",
+        "target": "Gyocchan's Arceus VSTAR"
+      },
+      {
+        "turn": 9,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 4,
+        "raw": "- Gyocchan's Giratina VSTAR was switched with Gyocchan's Arceus VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 4,
+        "raw": "Gyocchan's Giratina VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 4,
+        "raw": "Gyocchan's Arceus VSTAR used Starbirth."
+      },
+      {
+        "turn": 4,
+        "raw": "Gyocchan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 4,
+        "attack": "Lost Impact",
+        "raw": "Gyocchan's Giratina VSTAR used Lost Impact on 0512SmileMan’s Dragapult ex for 330 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 330
+      },
+      {
+        "turn": 4,
+        "raw": "- Double Turbo Energy was discarded from Gyocchan's Arceus VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 4,
+        "attack": "Phantom Dive",
+        "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Gyocchan’s Giratina VSTAR for 200 damage.",
+        "target": "Gyocchan’s Giratina VSTAR",
+        "damage": 200
+      },
+      {
+        "turn": 5,
+        "attack": "Lost Impact",
+        "raw": "Gyocchan's Giratina VSTAR used Lost Impact on 0512SmileMan’s Dragapult ex for 280 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 280
+      },
+      {
+        "turn": 5,
+        "raw": "- 0512SmileMan moved 2 damage counters from Gyocchan's Giratina VSTAR to Gyocchan's Arceus VSTAR."
+      },
+      {
+        "turn": 5,
+        "attack": "Phantom Dive",
+        "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Gyocchan’s Giratina VSTAR for 200 damage.",
+        "target": "Gyocchan’s Giratina VSTAR",
+        "damage": 200
+      },
+      {
+        "turn": 5,
+        "raw": "- 2 cards were discarded from Gyocchan's Giratina VSTAR."
+      },
+      {
+        "turn": 5,
+        "raw": "Gyocchan's Arceus VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 7,
+        "raw": "• Arceus VSTAR, Giratina VSTAR"
+      },
+      {
+        "turn": 8,
+        "attack": "Trinity Nova",
+        "raw": "Gyocchan's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Radiant Alakazam for 200 damage.",
+        "target": "0512SmileMan’s Radiant Alakazam",
+        "damage": 200
+      },
+      {
+        "turn": 8,
+        "raw": "- Gyocchan's Arceus VSTAR was switched with Gyocchan's Arceus VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 8,
+        "raw": "Gyocchan's Arceus VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 8,
+        "attack": "Phantom Dive",
+        "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Gyocchan’s Arceus VSTAR for 200 damage.",
+        "target": "Gyocchan’s Arceus VSTAR",
+        "damage": 200
+      },
+      {
+        "turn": 8,
+        "raw": "- 2 cards were discarded from Gyocchan's Arceus VSTAR."
+      },
+      {
+        "turn": 8,
+        "raw": "Gyocchan's Arceus VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 9,
+        "attack": "Trinity Nova",
+        "raw": "Gyocchan's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Dragapult ex for 200 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 200
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. Gyocchan",
+      "method": null,
+      "final_turn": 9
+    }
+  }
+}

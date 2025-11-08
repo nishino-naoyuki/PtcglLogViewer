@@ -1,0 +1,979 @@
+{
+  "file": "ドラパルト　タケルライコ 勝ち.txt",
+  "players": [
+    "0512SmileMan",
+    "Shadowvincents"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Dreepy, Drakloak, Dreepy, Rare Candy, Basic Psychic Energy, Dragapult ex, Enhanced Hammer",
+    "Shadowvincents drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "Shadowvincents played Squawkabilly ex to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Shadowvincents",
+      "actions": [
+        {
+          "raw": "Shadowvincents drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Shadowvincents played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Teal Mask Ogerpon ex, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Shadowvincents played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Shadowvincents drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Shadowvincents played Raging Bolt ex to the Bench.",
+          "type": "play",
+          "card": "Raging Bolt ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Shadowvincents attached Basic Grass Energy to Squawkabilly ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Squawkabilly ex"
+        },
+        {
+          "raw": "Shadowvincents retreated Squawkabilly ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Shadowvincents's Squawkabilly ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents attached Basic Grass Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- Shadowvincents drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Shadowvincents played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents drew Radiant Greninja.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents played Radiant Greninja to the Bench.",
+          "type": "play",
+          "card": "Radiant Greninja",
+          "to": "Bench"
+        },
+        {
+          "raw": "Shadowvincents's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents discarded Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Shadowvincents played Raging Bolt ex to the Bench.",
+          "type": "play",
+          "card": "Raging Bolt ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Shadowvincents's Squawkabilly ex used Squawk and Seize.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Energy Retrieval, Professor Sada's Vitality, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "Shadowvincents played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Shadowvincents ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Shadowvincents",
+      "actions": [
+        {
+          "raw": "Shadowvincents drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Shadowvincents played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents discarded Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents discarded Basic Lightning Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Shadowvincents drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Shadowvincents played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents discarded Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Shadowvincents attached Basic Fighting Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Shadowvincents's Raging Bolt ex used Burst Roar.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents discarded 5 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Teal Mask Ogerpon ex, Raging Bolt ex, Switch Cart, Iono, Unfair Stamp",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Unfair Stamp.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Dreepy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Shadowvincents’s Raging Bolt ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Shadowvincents’s Raging Bolt ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Shadowvincents's Raging Bolt ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Shadowvincents",
+      "actions": [
+        {
+          "raw": "Shadowvincents drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Shadowvincents attached Bravery Charm to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Shadowvincents played Energy Retrieval.",
+          "type": "play",
+          "card": "Energy Retrieval",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents moved Shadowvincents's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Shadowvincents's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Shadowvincents drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Shadowvincents's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents discarded Basic Fighting Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Shadowvincents played PokéStop to the Stadium spot.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Shadowvincents attached Bravery Charm to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Shadowvincents played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents moved Shadowvincents's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Pokégear 3.0, Boss's Orders, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents moved Shadowvincents's Pokégear 3.0 to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Fighting Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dragapult ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "Shadowvincents",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 350
+        },
+        {
+          "raw": "- 2 cards were discarded from Shadowvincents's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 3 cards were discarded from Shadowvincents's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Shadowvincents's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Shadowvincents's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Lost Vacuum, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Xatu to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Iono to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents moved Shadowvincents's Bravery Charm to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled Basic Psychic Energy into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents moved Shadowvincents's 6 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Counter Catcher, Collapsed Stadium, Ultra Ball, Ultra Ball, Jamming Tower",
+          "type": "other"
+        },
+        {
+          "raw": "- Shadowvincents drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- Shadowvincents's Raging Bolt ex was switched with Shadowvincents's Raging Bolt ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Shadowvincents's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Jamming Tower to the Stadium spot.",
+          "type": "play",
+          "card": "Jamming Tower",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- Shadowvincents discarded PokéStop.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from Shadowvincents's Raging Bolt ex to Shadowvincents's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 7,
+    "players": [
+      "0512SmileMan",
+      "Shadowvincents"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "Shadowvincents",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

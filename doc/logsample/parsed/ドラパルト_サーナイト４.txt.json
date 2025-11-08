@@ -1,0 +1,1465 @@
+{
+  "file": "ドラパルト　サーナイト４.txt",
+  "players": [
+    "su-ke",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "su-ke chose heads for the opening coin flip.",
+    "su-ke won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "su-ke drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Fire Energy, Nest Ball, Boss's Orders, Dragapult ex, Drakloak, Rescue Board, Dreepy",
+    "su-ke played Munkidori to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Enhanced Hammer, Basic Psychic Energy, Dreepy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "su-ke",
+      "actions": [
+        {
+          "raw": "su-ke drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "su-ke played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- su-ke drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke played Irida.",
+          "type": "play",
+          "card": "Irida",
+          "to": null
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Radiant Greninja, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- su-ke drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke played Radiant Greninja to the Bench.",
+          "type": "play",
+          "card": "Radiant Greninja",
+          "to": "Bench"
+        },
+        {
+          "raw": "su-ke played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- su-ke discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke attached Basic Psychic Energy to Munkidori in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "su-ke retreated Munkidori to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from su-ke's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Ralts is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Technical Machine: Evolution, Earthen Vessel, Boss's Orders",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "su-ke",
+      "actions": [
+        {
+          "raw": "su-ke drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "su-ke attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "su-ke played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- su-ke shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 9 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Technical Machine: Evolution, Boss's Orders, Rescue Board, Basic Psychic Energy, Enhanced Hammer, Dragapult ex, Earthen Vessel, Boss's Orders, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Arven, Buddy-Buddy Poffin, Natu, Arven, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "su-ke's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- su-ke discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Enhanced Hammer, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "su-ke's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Manaphy to the Bench.",
+          "type": "play",
+          "card": "Manaphy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Natu, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved su-ke's Kirlia to Ralts on the Bench.",
+          "type": "evolve",
+          "from": "su-ke's Kirlia",
+          "to": "Ralts"
+        },
+        {
+          "raw": "- su-ke moved su-ke's Kirlia to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved su-ke's Kirlia to Ralts on the Bench.",
+          "type": "evolve",
+          "from": "su-ke's Kirlia",
+          "to": "Ralts"
+        },
+        {
+          "raw": "- su-ke moved su-ke's Kirlia to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "su-ke",
+      "actions": [
+        {
+          "raw": "su-ke drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "su-ke evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "su-ke evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "su-ke's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- su-ke evolved Ralts to Gardevoir ex on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Gardevoir ex"
+        },
+        {
+          "raw": "su-ke's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Artazon.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke attached Basic Psychic Energy to Ralts in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Ralts"
+        },
+        {
+          "raw": "- su-ke put 2 damage counters on su-ke's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke attached Basic Psychic Energy to Gardevoir ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "- su-ke put 2 damage counters on su-ke's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke attached Basic Psychic Energy to Gardevoir ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "- su-ke put 2 damage counters on su-ke's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke attached Basic Psychic Energy to Gardevoir ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "- su-ke put 2 damage counters on su-ke's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke moved 2 damage counters from su-ke's Ralts to 0512SmileMan's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke retreated Ralts to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from su-ke's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Gardevoir ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke played Irida.",
+          "type": "play",
+          "card": "Irida",
+          "to": null
+        },
+        {
+          "raw": "- su-ke drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- su-ke discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Manaphy, Counter Catcher",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "su-ke's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke's Gardevoir ex used Miracle Force on 0512SmileMan’s Drakloak for 190 damage.",
+          "type": "attack",
+          "attackerOwner": "su-ke",
+          "attacker": "Gardevoir ex",
+          "attack": "Miracle Force",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 190
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to su-ke's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rescue Board.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Manaphy in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Natu on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke moved su-ke's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Rare Candy, Drakloak, Basic Psychic Energy, Dragapult ex, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Manaphy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from su-ke's Gardevoir ex to su-ke's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on su-ke’s Gardevoir ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "su-ke’s Gardevoir ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on su-ke's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "su-ke's Kirlia"
+        },
+        {
+          "raw": "Ralts was discarded from su-ke's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Natu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "su-ke",
+      "actions": [
+        {
+          "raw": "su-ke drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "su-ke's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Cleffa.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- su-ke shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Scream Tail, Kirlia",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke moved su-ke's Ralts to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- su-ke shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Earthen Vessel, Basic Psychic Energy, Drakloak, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Defiance Band, Xatu, Iono, Collapsed Stadium, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- su-ke moved su-ke's Drifloon to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke moved su-ke's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke retreated Gardevoir ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- 2 cards were discarded from su-ke's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Munkidori is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke attached Basic Psychic Energy to Munkidori in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "- su-ke put 2 damage counters on su-ke's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke moved 3 damage counters from su-ke's Gardevoir ex to 0512SmileMan's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Munkidori used Mind Bend on 0512SmileMan’s Dragapult ex for 60 damage.",
+          "type": "attack",
+          "attackerOwner": "su-ke",
+          "attacker": "Munkidori",
+          "attack": "Mind Bend",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 60
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex is now Confused.",
+          "type": "special_condition",
+          "condition": "Confused",
+          "target": "- 0512SmileMan's Dragapult ex"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rescue Board was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Counter Catcher, Defiance Band, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Earthen Vessel, Arven, Switch, Buddy-Buddy Poffin, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "- su-ke drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Super Rod, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Dragapult ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Manaphy on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from su-ke's Munkidori to su-ke's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on su-ke’s Munkidori for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "su-ke’s Munkidori",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on su-ke's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Munkidori was Knocked Out!",
+          "type": "knockout",
+          "target": "su-ke's Munkidori"
+        },
+        {
+          "raw": "- 2 cards were discarded from su-ke's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "su-ke's Kirlia"
+        },
+        {
+          "raw": "Ralts was discarded from su-ke's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Gardevoir ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Forest Seal Stone was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "su-ke",
+      "actions": [
+        {
+          "raw": "su-ke drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "su-ke's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke discarded Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "su-ke played Scream Tail to the Bench.",
+          "type": "play",
+          "card": "Scream Tail",
+          "to": "Bench"
+        },
+        {
+          "raw": "su-ke attached Basic Psychic Energy to Gardevoir ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "su-ke played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- su-ke drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- su-ke drew Drifloon and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- su-ke shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke attached Bravery Charm to Drifloon on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "su-ke retreated Gardevoir ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- 2 cards were discarded from su-ke's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "su-ke's Drifloon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 10,
+    "players": [
+      "su-ke",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 4,
+        "raw": "su-ke's Kirlia was Knocked Out!",
+        "target": "su-ke's Kirlia"
+      },
+      {
+        "turn": 5,
+        "raw": "su-ke's Munkidori was Knocked Out!",
+        "target": "su-ke's Munkidori"
+      },
+      {
+        "turn": 5,
+        "raw": "su-ke's Kirlia was Knocked Out!",
+        "target": "su-ke's Kirlia"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [
+      {
+        "turn": 4,
+        "raw": "- 0512SmileMan's Dragapult ex is now Confused.",
+        "condition": "Confused",
+        "target": "- 0512SmileMan's Dragapult ex"
+      }
+    ],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 5
+    }
+  }
+}

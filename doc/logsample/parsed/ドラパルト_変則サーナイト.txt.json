@@ -1,0 +1,1577 @@
+{
+  "file": "ドラパルト　変則サーナイト.txt",
+  "players": [
+    "0512SmileMan",
+    "AbuelitoH"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "AbuelitoH won the coin toss.",
+    "AbuelitoH decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Iono, Xatu, Super Rod, Radiant Alakazam, Dragapult ex, Basic Psychic Energy, Buddy-Buddy Poffin",
+    "AbuelitoH drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Radiant Alakazam to the Active Spot.",
+    "AbuelitoH played Mr. Mime to the Active Spot.",
+    "AbuelitoH played Ralts to the Bench.",
+    "AbuelitoH played Scream Tail to the Bench."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "AbuelitoH",
+      "actions": [
+        {
+          "raw": "AbuelitoH drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "AbuelitoH played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Mimikyu, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH attached Basic Psychic Energy to Mr. Mime in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Mr. Mime"
+        },
+        {
+          "raw": "AbuelitoH ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "AbuelitoH",
+      "actions": [
+        {
+          "raw": "AbuelitoH drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "AbuelitoH evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "AbuelitoH's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "AbuelitoH played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH attached Basic Psychic Energy to Mimikyu on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Mimikyu"
+        },
+        {
+          "raw": "AbuelitoH's Mr. Mime used Eerie Wave on 0512SmileMan’s Radiant Alakazam for 20 damage.",
+          "type": "attack",
+          "attackerOwner": "AbuelitoH",
+          "attacker": "Mr. Mime",
+          "attack": "Eerie Wave",
+          "target": "0512SmileMan’s Radiant Alakazam",
+          "damage": 20
+        },
+        {
+          "raw": "- 0512SmileMan's Radiant Alakazam is now Confused.",
+          "type": "special_condition",
+          "condition": "Confused",
+          "target": "- 0512SmileMan's Radiant Alakazam"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Counter Catcher, Dragapult ex, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Hisuian Heavy Ball, Switch, Rotom V, Enhanced Hammer, Basic Psychic Energy, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dragapult ex, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Mind Ruler on AbuelitoH’s Mr. Mime for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Radiant Alakazam",
+          "attack": "Mind Ruler",
+          "target": "AbuelitoH’s Mr. Mime",
+          "damage": 120
+        },
+        {
+          "raw": "AbuelitoH's Mr. Mime was Knocked Out!",
+          "type": "knockout",
+          "target": "AbuelitoH's Mr. Mime"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from AbuelitoH's Mr. Mime.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Mimikyu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Dreepy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "AbuelitoH",
+      "actions": [
+        {
+          "raw": "AbuelitoH drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "AbuelitoH's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "AbuelitoH played Girafarig to the Bench.",
+          "type": "play",
+          "card": "Girafarig",
+          "to": "Bench"
+        },
+        {
+          "raw": "AbuelitoH played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH attached Basic Psychic Energy to Mimikyu in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Mimikyu"
+        },
+        {
+          "raw": "AbuelitoH played Ralts to the Bench.",
+          "type": "play",
+          "card": "Ralts",
+          "to": "Bench"
+        },
+        {
+          "raw": "AbuelitoH played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch, Lady",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH drew Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH evolved Ralts to Gardevoir ex on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Gardevoir ex"
+        },
+        {
+          "raw": "AbuelitoH's Mimikyu used Ghost Eye.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH put 7 damage counters on 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Hisuian Heavy Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Super Rod, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Manaphy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on AbuelitoH's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Mimikyu used Safeguard.",
+          "type": "other"
+        },
+        {
+          "raw": "- Damage to Mimikyu was prevented.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "AbuelitoH",
+      "actions": [
+        {
+          "raw": "AbuelitoH drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "AbuelitoH attached Basic Psychic Energy to Girafarig on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Girafarig"
+        },
+        {
+          "raw": "AbuelitoH played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "AbuelitoH played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "AbuelitoH retreated Mimikyu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from AbuelitoH's Mimikyu.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Gardevoir ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH attached Basic Psychic Energy to Gardevoir ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "- AbuelitoH put 2 damage counters on AbuelitoH's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH attached Basic Psychic Energy to Gardevoir ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "- AbuelitoH put 2 damage counters on AbuelitoH's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH attached Basic Psychic Energy to Gardevoir ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "- AbuelitoH put 2 damage counters on AbuelitoH's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Gardevoir ex used Miracle Force on 0512SmileMan’s Dragapult ex for 190 damage.",
+          "type": "attack",
+          "attackerOwner": "AbuelitoH",
+          "attacker": "Gardevoir ex",
+          "attack": "Miracle Force",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 190
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH discarded Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ralts was discarded from AbuelitoH's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled Radiant Alakazam into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Forest Seal Stone.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on AbuelitoH’s Gardevoir ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "AbuelitoH’s Gardevoir ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on AbuelitoH's Ralts.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "AbuelitoH",
+      "actions": [
+        {
+          "raw": "AbuelitoH drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "AbuelitoH attached Basic Psychic Energy to Girafarig on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Girafarig"
+        },
+        {
+          "raw": "AbuelitoH played Jacq.",
+          "type": "play",
+          "card": "Jacq",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Farigiraf ex, Gardevoir ex",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH evolved Ralts to Gardevoir ex on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Gardevoir ex"
+        },
+        {
+          "raw": "AbuelitoH evolved Girafarig to Farigiraf ex on the Bench.",
+          "type": "evolve",
+          "from": "Girafarig",
+          "to": "Farigiraf ex"
+        },
+        {
+          "raw": "AbuelitoH's Gardevoir ex used Miracle Force on 0512SmileMan’s Dragapult ex for 190 damage.",
+          "type": "attack",
+          "attackerOwner": "AbuelitoH",
+          "attacker": "Gardevoir ex",
+          "attack": "Miracle Force",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 190
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to AbuelitoH's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to AbuelitoH's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from AbuelitoH's Gardevoir ex to AbuelitoH's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH's Scream Tail was switched with AbuelitoH's Gardevoir ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Scream Tail is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rotom V, Rare Candy, Natu, Dreepy, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Basic Psychic Energy on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Unfair Stamp, Iono, Xatu, Boss's Orders, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Hand Trimmer.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved AbuelitoH's Gardevoir ex to Ralts on the Bench.",
+          "type": "evolve",
+          "from": "AbuelitoH's Gardevoir ex",
+          "to": "Ralts"
+        },
+        {
+          "raw": "- AbuelitoH moved AbuelitoH's Gardevoir ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved AbuelitoH's Farigiraf ex to Girafarig on the Bench.",
+          "type": "evolve",
+          "from": "AbuelitoH's Farigiraf ex",
+          "to": "Girafarig"
+        },
+        {
+          "raw": "- AbuelitoH moved AbuelitoH's Farigiraf ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved AbuelitoH's Gardevoir ex to Ralts on the Bench.",
+          "type": "evolve",
+          "from": "AbuelitoH's Gardevoir ex",
+          "to": "Ralts"
+        },
+        {
+          "raw": "- AbuelitoH moved AbuelitoH's Gardevoir ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Ralts was Knocked Out!",
+          "type": "knockout",
+          "target": "AbuelitoH's Ralts"
+        },
+        {
+          "raw": "- 3 cards were discarded from AbuelitoH's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Ralts was Knocked Out!",
+          "type": "knockout",
+          "target": "AbuelitoH's Ralts"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Dragapult ex was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Boss's Orders was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "AbuelitoH",
+      "actions": [
+        {
+          "raw": "AbuelitoH drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "AbuelitoH played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- AbuelitoH drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- AbuelitoH shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH attached Basic Psychic Energy to Girafarig on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Girafarig"
+        },
+        {
+          "raw": "AbuelitoH evolved Girafarig to Farigiraf ex on the Bench.",
+          "type": "evolve",
+          "from": "Girafarig",
+          "to": "Farigiraf ex"
+        },
+        {
+          "raw": "AbuelitoH played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Manaphy was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "AbuelitoH",
+      "actions": [
+        {
+          "raw": "AbuelitoH drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "AbuelitoH attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "AbuelitoH retreated Scream Tail to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from AbuelitoH's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Farigiraf ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Farigiraf ex used Dirty Beam on 0512SmileMan’s Manaphy for 160 damage.",
+          "type": "attack",
+          "attackerOwner": "AbuelitoH",
+          "attacker": "Farigiraf ex",
+          "attack": "Dirty Beam",
+          "target": "0512SmileMan’s Manaphy",
+          "damage": 160
+        },
+        {
+          "raw": "0512SmileMan's Manaphy used Wave Veil.",
+          "type": "other"
+        },
+        {
+          "raw": "- Damage to Drakloak was prevented.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Manaphy"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to AbuelitoH's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 10 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Xatu, Boss's Orders, Hand Trimmer, Nest Ball, Dragapult ex, Boss's Orders, Drakloak, Buddy-Buddy Poffin, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH moved AbuelitoH's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Xatu, Rotom V, Natu, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- AbuelitoH drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on AbuelitoH’s Farigiraf ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "AbuelitoH’s Farigiraf ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on AbuelitoH's Mimikyu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "player": "AbuelitoH",
+      "actions": [
+        {
+          "raw": "AbuelitoH drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "AbuelitoH ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Hand Trimmer.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on AbuelitoH’s Farigiraf ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "AbuelitoH’s Farigiraf ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on AbuelitoH's Mimikyu.",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Farigiraf ex was Knocked Out!",
+          "type": "knockout",
+          "target": "AbuelitoH's Farigiraf ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from AbuelitoH's Farigiraf ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy, Girafarig",
+          "type": "other"
+        },
+        {
+          "raw": "AbuelitoH's Mimikyu was Knocked Out!",
+          "type": "knockout",
+          "target": "AbuelitoH's Mimikyu"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from AbuelitoH's Mimikyu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "All Prize cards taken. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "All Prize cards taken. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 16,
+    "players": [
+      "0512SmileMan",
+      "AbuelitoH"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "AbuelitoH's Mr. Mime was Knocked Out!",
+        "target": "AbuelitoH's Mr. Mime"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "AbuelitoH's Ralts was Knocked Out!",
+        "target": "AbuelitoH's Ralts"
+      },
+      {
+        "turn": 5,
+        "raw": "AbuelitoH's Ralts was Knocked Out!",
+        "target": "AbuelitoH's Ralts"
+      },
+      {
+        "turn": 7,
+        "raw": "0512SmileMan's Manaphy was Knocked Out!",
+        "target": "0512SmileMan's Manaphy"
+      },
+      {
+        "turn": 8,
+        "raw": "AbuelitoH's Farigiraf ex was Knocked Out!",
+        "target": "AbuelitoH's Farigiraf ex"
+      },
+      {
+        "turn": 8,
+        "raw": "AbuelitoH's Mimikyu was Knocked Out!",
+        "target": "AbuelitoH's Mimikyu"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [
+      {
+        "turn": 2,
+        "raw": "- 0512SmileMan's Radiant Alakazam is now Confused.",
+        "condition": "Confused",
+        "target": "- 0512SmileMan's Radiant Alakazam"
+      }
+    ],
+    "result": {
+      "winner": "All Prize cards taken. 0512SmileMan",
+      "method": null,
+      "final_turn": 8
+    }
+  }
+}

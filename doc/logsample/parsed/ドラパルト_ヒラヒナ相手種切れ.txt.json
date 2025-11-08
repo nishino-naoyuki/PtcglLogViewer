@@ -1,0 +1,330 @@
+{
+  "file": "ドラパルト　ヒラヒナ相手種切れ.txt",
+  "players": [
+    "JohnnyEm56",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "JohnnyEm56 chose heads for the opening coin flip.",
+    "JohnnyEm56 won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "JohnnyEm56 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Psychic Energy, Buddy-Buddy Poffin, Arven, Boss's Orders, Unfair Stamp, Dreepy, Dreepy",
+    "JohnnyEm56 played Flittle to the Active Spot.",
+    "JohnnyEm56 played Bidoof to the Bench.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Enhanced Hammer, Arven, Dragapult ex",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "JohnnyEm56",
+      "actions": [
+        {
+          "raw": "JohnnyEm56 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "JohnnyEm56 played Crushing Hammer.",
+          "type": "play",
+          "card": "Crushing Hammer",
+          "to": null
+        },
+        {
+          "raw": "- JohnnyEm56 flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "JohnnyEm56 played Crushing Hammer.",
+          "type": "play",
+          "card": "Crushing Hammer",
+          "to": null
+        },
+        {
+          "raw": "- JohnnyEm56 flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "JohnnyEm56 attached Basic Psychic Energy to Flittle in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Flittle"
+        },
+        {
+          "raw": "JohnnyEm56 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dreepy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "JohnnyEm56 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Rotom V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on JohnnyEm56’s Flittle for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "JohnnyEm56’s Flittle",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on JohnnyEm56's Bidoof.",
+          "type": "other"
+        },
+        {
+          "raw": "JohnnyEm56's Flittle was Knocked Out!",
+          "type": "knockout",
+          "target": "JohnnyEm56's Flittle"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from JohnnyEm56's Flittle.",
+          "type": "other"
+        },
+        {
+          "raw": "JohnnyEm56's Bidoof was Knocked Out!",
+          "type": "knockout",
+          "target": "JohnnyEm56's Bidoof"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "No Benched Pokémon for backup. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "No Benched Pokémon for backup. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 3,
+    "players": [
+      "JohnnyEm56",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "JohnnyEm56's Flittle was Knocked Out!",
+        "target": "JohnnyEm56's Flittle"
+      },
+      {
+        "turn": 2,
+        "raw": "JohnnyEm56's Bidoof was Knocked Out!",
+        "target": "JohnnyEm56's Bidoof"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "No Benched Pokémon for backup. 0512SmileMan",
+      "method": null,
+      "final_turn": 2
+    }
+  }
+}

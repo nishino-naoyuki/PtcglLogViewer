@@ -1,0 +1,77 @@
+Setup
+SimiKoto chose tails for the opening coin flip.
+0512SmileMan won the coin toss.
+SimiKoto decided to go second.
+SimiKoto drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Basic Fire Energy, Arven, Basic Psychic Energy, Manaphy, Buddy-Buddy Poffin, Dreepy, Rare Candy
+SimiKoto played Frigibax to the Active Spot.
+0512SmileMan played Dreepy to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Dragapult ex.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Natu
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.
+0512SmileMan ended their turn.
+
+Turn # 1 - SimiKoto's Turn
+SimiKoto drew a card.
+SimiKoto played Nest Ball.
+- SimiKoto drew Radiant Greninja and played it to the Bench.
+- SimiKoto shuffled their deck.
+SimiKoto played Irida.
+- SimiKoto drew 2 cards.
+   • Chien-Pao ex, Nest Ball
+- SimiKoto shuffled their deck.
+SimiKoto played Chien-Pao ex to the Bench.
+SimiKoto played Nest Ball.
+- SimiKoto drew Frigibax and played it to the Bench.
+- SimiKoto shuffled their deck.
+SimiKoto's Radiant Greninja used Concealed Cards.
+- SimiKoto discarded Basic Water Energy.
+- SimiKoto drew 2 cards.
+SimiKoto attached Basic Water Energy to Chien-Pao ex on the Bench.
+SimiKoto ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Rescue Board.
+0512SmileMan played Manaphy to the Bench.
+0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Nest Ball, Forest Seal Stone
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Rotom V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.
+0512SmileMan's Rotom V used Star Alchemy.
+- 0512SmileMan drew Iono.
+- 0512SmileMan shuffled their deck.
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan's Dragapult ex used Phantom Dive on SimiKoto’s Frigibax for 200 damage.
+- 0512SmileMan put 2 damage counters on SimiKoto's Chien-Pao ex.
+- 0512SmileMan put 4 damage counters on SimiKoto's Frigibax.
+SimiKoto's Frigibax was Knocked Out!
+SimiKoto's Chien-Pao ex is now in the Active Spot.
+0512SmileMan took a Prize card.
+Basic Fire Energy was added to 0512SmileMan's hand.
+
+Turn # 2 - SimiKoto's Turn
+SimiKoto drew a card.
+SimiKoto's Chien-Pao ex used Shivery Chill.
+- SimiKoto drew 2 cards.
+   • Basic Water Energy, Basic Water Energy
+- SimiKoto shuffled their deck.
+SimiKoto's Radiant Greninja used Concealed Cards.
+- SimiKoto discarded Basic Water Energy.
+- SimiKoto drew 2 cards.
+Opponent conceded. 0512SmileMan wins.
+

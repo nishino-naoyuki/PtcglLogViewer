@@ -1,0 +1,75 @@
+Setup
+Orz_Zong chose heads for the opening coin flip.
+Orz_Zong won the coin toss.
+0512SmileMan decided to go first.
+Orz_Zong drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Unfair Stamp, Boss's Orders, Dragapult ex, Earthen Vessel, Defiance Band, Switch, Radiant Alakazam
+Orz_Zong took a mulligan.
+- Cards revealed from Mulligan 1
+   • Ultra Ball, Froslass, Nest Ball, Counter Catcher, Irida, Arven, Buddy-Buddy Poffin
+0512SmileMan drew 1 more card because Orz_Zong took at least 1 mulligan.
+- 0512SmileMan drew Dreepy.
+Orz_Zong played Manaphy to the Active Spot.
+Orz_Zong played Bidoof to the Bench.
+0512SmileMan played Radiant Alakazam to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Rare Candy.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Defiance Band.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.
+0512SmileMan ended their turn.
+
+Turn # 1 - Orz_Zong's Turn
+Orz_Zong drew a card.
+Orz_Zong played Buddy-Buddy Poffin.
+- Orz_Zong drew 2 cards and played them to the Bench.
+   • Bounsweet, Snorunt
+- Orz_Zong shuffled their deck.
+Orz_Zong played Nest Ball.
+- Orz_Zong drew Munkidori and played it to the Bench.
+- Orz_Zong shuffled their deck.
+Orz_Zong ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Dreepy.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.
+0512SmileMan played Boss's Orders.
+- Orz_Zong's Bounsweet was switched with Orz_Zong's Manaphy to become the Active Pokémon.
+Orz_Zong's Bounsweet is now in the Active Spot.
+0512SmileMan played Switch.
+- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on Orz_Zong’s Bounsweet for 200 damage.
+- 0512SmileMan put 6 damage counters on Orz_Zong's Bidoof.
+Orz_Zong's Bounsweet was Knocked Out!
+Orz_Zong's Bidoof was Knocked Out!
+Orz_Zong's Manaphy is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Basic Psychic Energy was added to 0512SmileMan's hand.
+Iono was added to 0512SmileMan's hand.
+
+Turn # 2 - Orz_Zong's Turn
+Orz_Zong drew a card.
+Orz_Zong attached Basic Darkness Energy to Munkidori on the Bench.
+Orz_Zong played Iono.
+- Orz_Zong shuffled their hand.
+- Orz_Zong put 3 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 3 cards on the bottom of their deck.
+   • Unfair Stamp, Iono, Basic Psychic Energy
+- Orz_Zong drew 6 cards.
+- 0512SmileMan drew 4 cards.
+   • Buddy-Buddy Poffin, Drakloak, Xatu, Basic Psychic Energy
+Opponent conceded. 0512SmileMan wins.
+

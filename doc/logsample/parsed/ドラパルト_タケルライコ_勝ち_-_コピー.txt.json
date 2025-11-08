@@ -1,0 +1,921 @@
+{
+  "file": "ドラパルト　タケルライコ 勝ち - コピー.txt",
+  "players": [
+    "Chaseybaby84",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "Chaseybaby84 chose tails for the opening coin flip.",
+    "Chaseybaby84 won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "Chaseybaby84 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Natu, Dreepy, Basic Fire Energy, Xatu, Radiant Alakazam, Lost Vacuum, Drakloak",
+    "Chaseybaby84 played Raging Bolt ex to the Active Spot.",
+    "Chaseybaby84 played Teal Mask Ogerpon ex to the Bench.",
+    "Chaseybaby84 played Raging Bolt ex to the Bench.",
+    "0512SmileMan played Natu to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Chaseybaby84",
+      "actions": [
+        {
+          "raw": "Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84 played Trekking Shoes.",
+          "type": "play",
+          "card": "Trekking Shoes",
+          "to": null
+        },
+        {
+          "raw": "- Chaseybaby84 moved Chaseybaby84's Raging Bolt ex to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84 played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- Chaseybaby84 drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chaseybaby84 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "Chaseybaby84 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Chaseybaby84 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Xatu, Basic Fire Energy, Lost Vacuum, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Enhanced Hammer, Arven, Dragapult ex, Buddy-Buddy Poffin, Buddy-Buddy Poffin, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "Chaseybaby84 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Chaseybaby84 drew Teal Mask Ogerpon ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Chaseybaby84 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chaseybaby84 played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Chaseybaby84 drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chaseybaby84's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Natu in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Natu in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan's Natu used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Natu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Chaseybaby84",
+      "actions": [
+        {
+          "raw": "Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84 played Trekking Shoes.",
+          "type": "play",
+          "card": "Trekking Shoes",
+          "to": null
+        },
+        {
+          "raw": "- Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84 attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Chaseybaby84 played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- Chaseybaby84 drew Professor Sada's Vitality.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chaseybaby84 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Unfair Stamp",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rare Candy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Natu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Chaseybaby84’s Raging Bolt ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Chaseybaby84’s Raging Bolt ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Chaseybaby84's Raging Bolt ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Chaseybaby84",
+      "actions": [
+        {
+          "raw": "Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84 attached Basic Fighting Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Chaseybaby84's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chaseybaby84's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dragapult ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "Chaseybaby84",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 350
+        },
+        {
+          "raw": "- 5 cards were discarded from Chaseybaby84's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Chaseybaby84 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Chaseybaby84's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Chaseybaby84's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Arven, Rotom V",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Counter Catcher, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- Chaseybaby84's Raging Bolt ex was switched with Chaseybaby84's Raging Bolt ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Chaseybaby84's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled Iono into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 moved Chaseybaby84's 7 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Rare Candy, Dragapult ex, Switch, Arven, Collapsed Stadium",
+          "type": "other"
+        },
+        {
+          "raw": "- Chaseybaby84 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from Chaseybaby84's Raging Bolt ex to Chaseybaby84's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Chaseybaby84’s Raging Bolt ex for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Chaseybaby84’s Raging Bolt ex",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on Chaseybaby84's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 damage counters on Chaseybaby84's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Chaseybaby84's Raging Bolt ex was Knocked Out!",
+          "type": "knockout",
+          "target": "Chaseybaby84's Raging Bolt ex"
+        },
+        {
+          "raw": "Chaseybaby84's Raging Bolt ex was Knocked Out!",
+          "type": "knockout",
+          "target": "Chaseybaby84's Raging Bolt ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from Chaseybaby84's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Chaseybaby84's Teal Mask Ogerpon ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 4 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Rescue Board was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Dragapult ex was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Boss's Orders was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Buddy-Buddy Poffin was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Chaseybaby84",
+      "actions": [
+        {
+          "raw": "Chaseybaby84 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 8,
+    "players": [
+      "Chaseybaby84",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 4,
+        "raw": "Chaseybaby84's Raging Bolt ex was Knocked Out!",
+        "target": "Chaseybaby84's Raging Bolt ex"
+      },
+      {
+        "turn": 4,
+        "raw": "Chaseybaby84's Raging Bolt ex was Knocked Out!",
+        "target": "Chaseybaby84's Raging Bolt ex"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

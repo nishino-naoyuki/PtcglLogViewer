@@ -1,0 +1,362 @@
+{
+  "file": "ドラパルト　自分降参.txt",
+  "players": [
+    "0512SmileMan",
+    "BeeSting_Racing",
+    "- BeeSting_Racing"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Psychic Energy, Ultra Ball, Arven, Dragapult ex, Drakloak, Forest Seal Stone, Counter Catcher",
+    "BeeSting_Racing drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Basic Psychic Energy, Ultra Ball, Arven, Dragapult ex, Drakloak, Forest Seal Stone, Counter Catcher",
+    "0512SmileMan took 2 mulligans.",
+    "- Cards revealed from Mulligan 2",
+    "• Boss's Orders, Nest Ball, Rescue Board, Rare Candy, Earthen Vessel, Iono, Jamming Tower",
+    "BeeSting_Racing drew 2 more cards because 0512SmileMan took at least 1 mulligan.",
+    "- BeeSting_Racing drew 2 cards.",
+    "0512SmileMan played Radiant Alakazam to the Active Spot.",
+    "BeeSting_Racing played Klefki to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "BeeSting_Racing",
+      "actions": [
+        {
+          "raw": "BeeSting_Racing drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "BeeSting_Racing played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- BeeSting_Racing drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Froakie, Cleffa",
+          "type": "other"
+        },
+        {
+          "raw": "- BeeSting_Racing shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- BeeSting_Racing drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Froakie, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "- BeeSting_Racing shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing played Giovanni's Charisma.",
+          "type": "play",
+          "card": "Giovanni's Charisma",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Basic Psychic Energy to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- BeeSting_Racing attached Boomerang Energy to Klefki in the Active Spot.",
+          "type": "attach",
+          "energy": "Boomerang Energy",
+          "target": "Klefki"
+        },
+        {
+          "raw": "BeeSting_Racing played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- BeeSting_Racing discarded Boomerang Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- BeeSting_Racing drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Water Energy, Basic Water Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- BeeSting_Racing shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing attached Basic Water Energy to Froakie on the Bench.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Froakie"
+        },
+        {
+          "raw": "BeeSting_Racing retreated Klefki to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Boomerang Energy was discarded from BeeSting_Racing's Klefki.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing's Cleffa is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing's Cleffa used Grasping Draw.",
+          "type": "other"
+        },
+        {
+          "raw": "- BeeSting_Racing drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- BeeSting_Racing's Manaphy was switched with BeeSting_Racing's Cleffa to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "BeeSting_Racing",
+      "actions": [
+        {
+          "raw": "BeeSting_Racing drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "BeeSting_Racing played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- BeeSting_Racing drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Handheld Fan",
+          "type": "other"
+        },
+        {
+          "raw": "- BeeSting_Racing shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing played Energy Loto.",
+          "type": "play",
+          "card": "Energy Loto",
+          "to": null
+        },
+        {
+          "raw": "- BeeSting_Racing drew Double Turbo Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- BeeSting_Racing shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- BeeSting_Racing evolved Froakie to Greninja ex on the Bench.",
+          "type": "evolve",
+          "from": "Froakie",
+          "to": "Greninja ex"
+        },
+        {
+          "raw": "BeeSting_Racing attached Handheld Fan to Greninja ex on the Bench.",
+          "type": "attach",
+          "energy": "Handheld Fan",
+          "target": "Greninja ex"
+        },
+        {
+          "raw": "BeeSting_Racing attached Boomerang Energy to Manaphy in the Active Spot.",
+          "type": "attach",
+          "energy": "Boomerang Energy",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "BeeSting_Racing retreated Manaphy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Boomerang Energy was discarded from BeeSting_Racing's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing's Greninja ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing's Greninja ex used Shinobi Blade on 0512SmileMan’s Radiant Alakazam for 140 damage. 0512SmileMan's Radiant Alakazam took 30 less damage because of Fighting Resistance.",
+          "type": "attack",
+          "attackerOwner": "BeeSting_Racing",
+          "attacker": "Greninja ex",
+          "attack": "Shinobi Blade",
+          "target": "0512SmileMan’s Radiant Alakazam",
+          "damage": 140
+        },
+        {
+          "raw": "- BeeSting_Racing drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- BeeSting_Racing shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Radiant Alakazam"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "BeeSting_Racing took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to BeeSting_Racing's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "You conceded. BeeSting_Racing wins.",
+          "type": "result",
+          "detail": "You conceded. BeeSting_Racing wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 5,
+    "players": [
+      "0512SmileMan",
+      "BeeSting_Racing",
+      "- BeeSting_Racing"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Radiant Alakazam was Knocked Out!",
+        "target": "0512SmileMan's Radiant Alakazam"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "BeeSting_Racing",
+      "method": "concession",
+      "final_turn": 3
+    }
+  }
+}

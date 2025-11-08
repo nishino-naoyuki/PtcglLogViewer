@@ -1,0 +1,350 @@
+{
+  "file": "ドラパルト　パオジアン.txt",
+  "players": [
+    "SimiKoto",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "SimiKoto chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "SimiKoto decided to go second.",
+    "SimiKoto drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Fire Energy, Arven, Basic Psychic Energy, Manaphy, Buddy-Buddy Poffin, Dreepy, Rare Candy",
+    "SimiKoto played Frigibax to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "SimiKoto",
+      "actions": [
+        {
+          "raw": "SimiKoto drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "SimiKoto played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- SimiKoto drew Radiant Greninja and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- SimiKoto shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SimiKoto played Irida.",
+          "type": "play",
+          "card": "Irida",
+          "to": null
+        },
+        {
+          "raw": "- SimiKoto drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Chien-Pao ex, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- SimiKoto shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SimiKoto played Chien-Pao ex to the Bench.",
+          "type": "play",
+          "card": "Chien-Pao ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "SimiKoto played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- SimiKoto drew Frigibax and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- SimiKoto shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SimiKoto's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- SimiKoto discarded Basic Water Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- SimiKoto drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "SimiKoto attached Basic Water Energy to Chien-Pao ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Chien-Pao ex"
+        },
+        {
+          "raw": "SimiKoto ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rescue Board.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Manaphy to the Bench.",
+          "type": "play",
+          "card": "Manaphy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on SimiKoto’s Frigibax for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "SimiKoto’s Frigibax",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on SimiKoto's Chien-Pao ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 damage counters on SimiKoto's Frigibax.",
+          "type": "other"
+        },
+        {
+          "raw": "SimiKoto's Frigibax was Knocked Out!",
+          "type": "knockout",
+          "target": "SimiKoto's Frigibax"
+        },
+        {
+          "raw": "SimiKoto's Chien-Pao ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "SimiKoto",
+      "actions": [
+        {
+          "raw": "SimiKoto drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "SimiKoto's Chien-Pao ex used Shivery Chill.",
+          "type": "other"
+        },
+        {
+          "raw": "- SimiKoto drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Water Energy, Basic Water Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- SimiKoto shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SimiKoto's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- SimiKoto discarded Basic Water Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- SimiKoto drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 4,
+    "players": [
+      "SimiKoto",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "SimiKoto's Frigibax was Knocked Out!",
+        "target": "SimiKoto's Frigibax"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 2
+    }
+  }
+}

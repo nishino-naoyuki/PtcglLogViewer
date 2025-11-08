@@ -1,0 +1,1234 @@
+{
+  "file": "ドラパルト　ミライドン.txt",
+  "players": [
+    "Soero",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "Soero chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "Soero decided to go second.",
+    "Soero drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Dreepy, Enhanced Hammer, Basic Fire Energy, Earthen Vessel, Drakloak, Drakloak, Ultra Ball",
+    "Soero played Raikou V to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Enhanced Hammer, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Rescue Board, Natu, Earthen Vessel",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Soero",
+      "actions": [
+        {
+          "raw": "Soero drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Soero played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Soero drew Miraidon ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Miraidon ex used Tandem Unit.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero drew Iron Hands ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero played Raichu V to the Bench.",
+          "type": "play",
+          "card": "Raichu V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Soero played Electric Generator.",
+          "type": "play",
+          "card": "Electric Generator",
+          "to": null
+        },
+        {
+          "raw": "- Soero attached Basic Lightning Energy to Raichu V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raichu V"
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- Soero discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Lightning Energy, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "Soero played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Soero drew Squawkabilly ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Squawkabilly ex used Squawk and Seize.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero discarded 6 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Lightning Energy, Professor's Research, Tatsugiri, Boss's Orders, Zapdos",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "Soero played Electric Generator.",
+          "type": "play",
+          "card": "Electric Generator",
+          "to": null
+        },
+        {
+          "raw": "- Soero attached Basic Lightning Energy to Raichu V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raichu V"
+        },
+        {
+          "raw": "- Soero attached Basic Lightning Energy to Miraidon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Miraidon ex"
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero attached Basic Lightning Energy to Raikou V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raikou V"
+        },
+        {
+          "raw": "Soero retreated Raikou V to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Lightning Energy was discarded from Soero's Raikou V.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Raichu V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Raichu V used Dynamic Spark on 0512SmileMan’s Dreepy for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "Soero",
+          "attacker": "Raichu V",
+          "attack": "Dynamic Spark",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 120
+        },
+        {
+          "raw": "- Basic Lightning Energy was discarded from Soero's Raichu V.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Lightning Energy was discarded from Soero's Miraidon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Soero's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Unfair Stamp.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 5 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Earthen Vessel, Drakloak, Dragapult ex, Rescue Board, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero moved Soero's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Basic Fire Energy, Natu, Drakloak, Switch, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan retreated Rotom V to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Arven, Earthen Vessel, Arven",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Soero",
+      "actions": [
+        {
+          "raw": "Soero drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Soero attached Basic Lightning Energy to Raichu V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raichu V"
+        },
+        {
+          "raw": "Soero's Raichu V used Dynamic Spark on 0512SmileMan’s Natu for 60 damage.",
+          "type": "attack",
+          "attackerOwner": "Soero",
+          "attacker": "Raichu V",
+          "attack": "Dynamic Spark",
+          "target": "0512SmileMan’s Natu",
+          "damage": 60
+        },
+        {
+          "raw": "- Basic Lightning Energy was discarded from Soero's Raichu V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Soero's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Manaphy to the Bench.",
+          "type": "play",
+          "card": "Manaphy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Manaphy was switched with 0512SmileMan's Rotom V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Manaphy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Manaphy in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Soero",
+      "actions": [
+        {
+          "raw": "Soero drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Soero attached Basic Lightning Energy to Raichu V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raichu V"
+        },
+        {
+          "raw": "Soero's Raichu V used Dynamic Spark on 0512SmileMan’s Manaphy for 120 damage. 0512SmileMan's Manaphy took 60 more damage because of Lightning Weakness.",
+          "type": "attack",
+          "attackerOwner": "Soero",
+          "attacker": "Raichu V",
+          "attack": "Dynamic Spark",
+          "target": "0512SmileMan’s Manaphy",
+          "damage": 120,
+          "extra_damage": 60,
+          "extra_reason": "Lightning"
+        },
+        {
+          "raw": "- Basic Lightning Energy was discarded from Soero's Raichu V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Manaphy"
+        },
+        {
+          "raw": "Basic Fire Energy was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Soero's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled Dreepy into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Defiance Band, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Hisuian Heavy Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Dreepy to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan retreated Rotom V to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Dragapult ex, Arven, Earthen Vessel",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Soero",
+      "actions": [
+        {
+          "raw": "Soero drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Soero played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- Soero drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Electric Generator, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero played Electric Generator.",
+          "type": "play",
+          "card": "Electric Generator",
+          "to": null
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero attached Forest Seal Stone to Raikou V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Raikou V"
+        },
+        {
+          "raw": "Soero's Raikou V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "Soero can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "Soero played Electric Generator.",
+          "type": "play",
+          "card": "Electric Generator",
+          "to": null
+        },
+        {
+          "raw": "- Soero attached Basic Lightning Energy to Raikou V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raikou V"
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero attached Basic Lightning Energy to Raikou V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raikou V"
+        },
+        {
+          "raw": "Soero played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Dreepy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero's Raikou V was switched with Soero's Raichu V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Raikou V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Raikou V used Fleet-Footed.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Soero's Raikou V used Lightning Rondo on 0512SmileMan’s Drakloak for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "Soero",
+          "attacker": "Raikou V",
+          "attack": "Lightning Rondo",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 200
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Soero's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Xatu, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Arven, Xatu, Earthen Vessel, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Basic Fire Energy on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Basic Psychic Energy, Dragapult ex, Buddy-Buddy Poffin, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan retreated Rotom V to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Soero’s Raikou V for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Soero’s Raikou V",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on Soero's Miraidon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on Soero's Iron Hands ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Raikou V was Knocked Out!",
+          "type": "knockout",
+          "target": "Soero's Raikou V"
+        },
+        {
+          "raw": "- 3 cards were discarded from Soero's Raikou V.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Lightning Energy, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Miraidon ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Soero",
+      "actions": [
+        {
+          "raw": "Soero drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Soero played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Soero drew Radiant Greninja and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero discarded Double Turbo Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Soero's Miraidon ex used Tandem Unit.",
+          "type": "other"
+        },
+        {
+          "raw": "- Soero drew Miraidon ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Soero shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero attached Basic Lightning Energy to Miraidon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Miraidon ex"
+        },
+        {
+          "raw": "Soero ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Boss's Orders, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- Soero's Raichu V was switched with Soero's Miraidon ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Soero's Raichu V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 11,
+    "players": [
+      "Soero",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 1,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Manaphy was Knocked Out!",
+        "target": "0512SmileMan's Manaphy"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 5,
+        "raw": "Soero's Raikou V was Knocked Out!",
+        "target": "Soero's Raikou V"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 4,
+        "raw": "Soero can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Soero",
+      "method": "concession",
+      "final_turn": 6
+    }
+  }
+}

@@ -1,0 +1,1317 @@
+{
+  "file": "ガオガエン　イサハ.txt",
+  "players": [
+    "0512SmileMan",
+    "FongChiLik",
+    "- FongChiLik"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Counter Catcher, Basic Fire Energy, Incineroar ex, Rare Candy, Basic Fire Energy, Torracat, Super Rod",
+    "FongChiLik drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Counter Catcher, Basic Fire Energy, Incineroar ex, Rare Candy, Basic Fire Energy, Torracat, Super Rod",
+    "FongChiLik drew 1 more card because 0512SmileMan took at least 1 mulligan.",
+    "- FongChiLik drew a card.",
+    "0512SmileMan played Radiant Greninja to the Active Spot.",
+    "FongChiLik played Iron Thorns ex to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Entei V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Litten and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Litten on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Litten"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "FongChiLik",
+      "actions": [
+        {
+          "raw": "FongChiLik drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FongChiLik attached Basic Lightning Energy to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "FongChiLik ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Litten, Litten",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Radiant Greninja in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Radiant Greninja"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Radiant Greninja in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Radiant Greninja"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Greninja used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Litten to Torracat on the Bench.",
+          "type": "evolve",
+          "from": "Litten",
+          "to": "Torracat"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Litten to Torracat on the Bench.",
+          "type": "evolve",
+          "from": "Litten",
+          "to": "Torracat"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Radiant Greninja.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "FongChiLik",
+      "actions": [
+        {
+          "raw": "FongChiLik drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FongChiLik attached Double Turbo Energy to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Radiant Greninja for 240 damage. 0512SmileMan's Radiant Greninja took 120 more damage because of Lightning Weakness.",
+          "type": "attack",
+          "attackerOwner": "FongChiLik",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Radiant Greninja",
+          "damage": 240,
+          "extra_damage": 120,
+          "extra_reason": "Lightning"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Greninja was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Radiant Greninja"
+        },
+        {
+          "raw": "Basic Fire Energy was discarded from 0512SmileMan's Radiant Greninja.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Torracat is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to FongChiLik's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Torracat in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Torracat"
+        },
+        {
+          "raw": "0512SmileMan played Entei V to the Bench.",
+          "type": "play",
+          "card": "Entei V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rare Candy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Basic Fire Energy, Incineroar ex, Mela, Buddy-Buddy Poffin, Iono, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "0512SmileMan evolved Torracat to Incineroar ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Torracat",
+          "to": "Incineroar ex"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "FongChiLik",
+      "actions": [
+        {
+          "raw": "FongChiLik drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FongChiLik played Crushing Hammer.",
+          "type": "play",
+          "card": "Crushing Hammer",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Incineroar ex.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Techno Radar, Technical Machine: Turbo Energize",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik played Techno Radar.",
+          "type": "play",
+          "card": "Techno Radar",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik discarded Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iron Thorns ex, Iron Thorns ex",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik played Iron Thorns ex to the Bench.",
+          "type": "play",
+          "card": "Iron Thorns ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "FongChiLik attached Technical Machine: Turbo Energize to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Turbo Energize",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "FongChiLik attached Future Booster Energy Capsule to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Future Booster Energy Capsule",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex used Turbo Energize.",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik attached Basic Lightning Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "- FongChiLik attached Basic Lightning Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "- FongChiLik shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Turbo Energize was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Turbo Energize was discarded from FongChiLik's Iron Thorns ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Incineroar ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Incineroar ex"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Litten and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Relicanth and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "FongChiLik",
+      "actions": [
+        {
+          "raw": "FongChiLik drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FongChiLik played Iron Thorns ex to the Bench.",
+          "type": "play",
+          "card": "Iron Thorns ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "FongChiLik played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Techno Radar",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "FongChiLik attached Basic Lightning Energy to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Incineroar ex for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "FongChiLik",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Incineroar ex",
+          "damage": 120
+        },
+        {
+          "raw": "- FongChiLik attached Double Turbo Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Iron Thorns ex"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Torracat on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Torracat"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Mela, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Switch, Nest Ball, Earthen Vessel, Torracat, Basic Fire Energy, Incineroar ex",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "0512SmileMan evolved Litten to Torracat on the Bench.",
+          "type": "evolve",
+          "from": "Litten",
+          "to": "Torracat"
+        },
+        {
+          "raw": "0512SmileMan evolved Torracat to Incineroar ex on the Bench.",
+          "type": "evolve",
+          "from": "Torracat",
+          "to": "Incineroar ex"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Incineroar ex used Reprisal on FongChiLik’s Iron Thorns ex for 240 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Incineroar ex",
+          "attack": "Reprisal",
+          "target": "FongChiLik’s Iron Thorns ex",
+          "damage": 240
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex was Knocked Out!",
+          "type": "knockout",
+          "target": "FongChiLik's Iron Thorns ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from FongChiLik's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Boss's Orders was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "FongChiLik",
+      "actions": [
+        {
+          "raw": "FongChiLik drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FongChiLik attached Basic Lightning Energy to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "FongChiLik played Crushing Hammer.",
+          "type": "play",
+          "card": "Crushing Hammer",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy, Technical Machine: Evolution, Basic Fire Energy, Switch, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Basic Fire Energy, Hero's Cape, Ultra Ball, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik played Crushing Hammer.",
+          "type": "play",
+          "card": "Crushing Hammer",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik attached Future Booster Energy Capsule to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Future Booster Energy Capsule",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Incineroar ex for 160 damage.",
+          "type": "attack",
+          "attackerOwner": "FongChiLik",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Incineroar ex",
+          "damage": 160
+        },
+        {
+          "raw": "- FongChiLik attached Basic Lightning Energy to Iron Thorns ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Incineroar ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Incineroar ex"
+        },
+        {
+          "raw": "0512SmileMan's Incineroar ex used Reprisal on FongChiLik’s Iron Thorns ex for 560 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Incineroar ex",
+          "attack": "Reprisal",
+          "target": "FongChiLik’s Iron Thorns ex",
+          "damage": 560
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex was Knocked Out!",
+          "type": "knockout",
+          "target": "FongChiLik's Iron Thorns ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from FongChiLik's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Lightning Energy, Future Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Magma Basin was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "FongChiLik",
+      "actions": [
+        {
+          "raw": "FongChiLik drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FongChiLik played Lost City to the Stadium spot.",
+          "type": "play",
+          "card": "Lost City",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "FongChiLik played Energy Loto.",
+          "type": "play",
+          "card": "Energy Loto",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik drew Double Turbo Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Hisuian Heavy Ball, Double Turbo Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Incineroar ex for 140 damage.",
+          "type": "attack",
+          "attackerOwner": "FongChiLik",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Incineroar ex",
+          "damage": 140
+        },
+        {
+          "raw": "0512SmileMan's Incineroar ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Incineroar ex"
+        },
+        {
+          "raw": "Lost City was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Incineroar ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan moved 0512SmileMan's Incineroar ex to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Torracat was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Torracat"
+        },
+        {
+          "raw": "Lost City was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "• Torracat, Litten",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Incineroar ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to FongChiLik's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to FongChiLik's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Magma Basin to the Stadium spot.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- FongChiLik discarded Lost City.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Hero's Cape to Incineroar ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Hero's Cape",
+          "target": "Incineroar ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Incineroar ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Incineroar ex"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Incineroar ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Torracat to Incineroar ex on the Bench.",
+          "type": "evolve",
+          "from": "Torracat",
+          "to": "Incineroar ex"
+        },
+        {
+          "raw": "0512SmileMan played Magma Basin.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Fire Energy to Incineroar ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Incineroar ex"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on 0512SmileMan's Incineroar ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- FongChiLik shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik put 9 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Mela, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- FongChiLik drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "0512SmileMan's Incineroar ex used Combustion on FongChiLik’s Iron Thorns ex for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Incineroar ex",
+          "attack": "Combustion",
+          "target": "FongChiLik’s Iron Thorns ex",
+          "damage": 70
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "FongChiLik",
+      "actions": [
+        {
+          "raw": "FongChiLik drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FongChiLik played Lost City to the Stadium spot.",
+          "type": "play",
+          "card": "Lost City",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Magma Basin.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik attached Basic Lightning Energy to Iron Thorns ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Iron Thorns ex"
+        },
+        {
+          "raw": "FongChiLik ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Super Rod.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Mela.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Incineroar ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Incineroar ex"
+        },
+        {
+          "raw": "0512SmileMan's Incineroar ex used Combustion on FongChiLik’s Iron Thorns ex for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Incineroar ex",
+          "attack": "Combustion",
+          "target": "FongChiLik’s Iron Thorns ex",
+          "damage": 70
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "player": "FongChiLik",
+      "actions": [
+        {
+          "raw": "FongChiLik drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FongChiLik played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Relicanth was switched with 0512SmileMan's Incineroar ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Relicanth is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex used Volt Cyclone on 0512SmileMan’s Relicanth for 140 damage.",
+          "type": "attack",
+          "attackerOwner": "FongChiLik",
+          "attacker": "Iron Thorns ex",
+          "attack": "Volt Cyclone",
+          "target": "0512SmileMan’s Relicanth",
+          "damage": 140
+        },
+        {
+          "raw": "0512SmileMan's Relicanth was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Relicanth"
+        },
+        {
+          "raw": "Lost City was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan moved 0512SmileMan's Relicanth to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Incineroar ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to FongChiLik's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Incineroar ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Incineroar ex"
+        },
+        {
+          "raw": "0512SmileMan's Incineroar ex used Blaze Blast on FongChiLik’s Iron Thorns ex for 240 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Incineroar ex",
+          "attack": "Blaze Blast",
+          "target": "FongChiLik’s Iron Thorns ex",
+          "damage": 240
+        },
+        {
+          "raw": "- FongChiLik's Iron Thorns ex is now Burned.",
+          "type": "special_condition",
+          "condition": "Burned",
+          "target": "- FongChiLik's Iron Thorns ex"
+        },
+        {
+          "raw": "FongChiLik's Iron Thorns ex was Knocked Out!",
+          "type": "knockout",
+          "target": "FongChiLik's Iron Thorns ex"
+        },
+        {
+          "raw": "Lost City was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4 cards were discarded from FongChiLik's Iron Thorns ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Double Turbo Energy, Basic Lightning Energy, Basic Lightning Energy, Future Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "FongChiLik moved FongChiLik's Iron Thorns ex to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Buddy-Buddy Poffin was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Knocked Out all your opponent's Pokémon in play and took all your Prize cards. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Knocked Out all your opponent's Pokémon in play and took all your Prize cards. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 17,
+    "players": [
+      "0512SmileMan",
+      "FongChiLik",
+      "- FongChiLik"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Radiant Greninja was Knocked Out!",
+        "target": "0512SmileMan's Radiant Greninja"
+      },
+      {
+        "turn": 5,
+        "raw": "FongChiLik's Iron Thorns ex was Knocked Out!",
+        "target": "FongChiLik's Iron Thorns ex"
+      },
+      {
+        "turn": 6,
+        "raw": "FongChiLik's Iron Thorns ex was Knocked Out!",
+        "target": "FongChiLik's Iron Thorns ex"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Incineroar ex was Knocked Out!",
+        "target": "0512SmileMan's Incineroar ex"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Torracat was Knocked Out!",
+        "target": "0512SmileMan's Torracat"
+      },
+      {
+        "turn": 8,
+        "raw": "0512SmileMan's Relicanth was Knocked Out!",
+        "target": "0512SmileMan's Relicanth"
+      },
+      {
+        "turn": 9,
+        "raw": "FongChiLik's Iron Thorns ex was Knocked Out!",
+        "target": "FongChiLik's Iron Thorns ex"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [
+      {
+        "turn": 9,
+        "raw": "- FongChiLik's Iron Thorns ex is now Burned.",
+        "condition": "Burned",
+        "target": "- FongChiLik's Iron Thorns ex"
+      }
+    ],
+    "result": {
+      "winner": "Knocked Out all your opponent's Pokémon in play and took all your Prize cards. 0512SmileMan",
+      "method": null,
+      "final_turn": 9
+    }
+  }
+}

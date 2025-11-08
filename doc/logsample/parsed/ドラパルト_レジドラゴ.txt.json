@@ -1,0 +1,718 @@
+{
+  "file": "ドラパルト　レジドラゴ.txt",
+  "players": [
+    "pokesaka1313",
+    "0512SmileMan",
+    "- pokesaka1313"
+  ],
+  "setup": [
+    "Setup",
+    "pokesaka1313 chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "pokesaka1313 decided to go second.",
+    "pokesaka1313 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Buddy-Buddy Poffin, Boss's Orders, Buddy-Buddy Poffin, Super Rod, Earthen Vessel, Dragapult ex, Arven",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Buddy-Buddy Poffin, Boss's Orders, Buddy-Buddy Poffin, Super Rod, Earthen Vessel, Dragapult ex, Arven",
+    "pokesaka1313 drew 1 more card because 0512SmileMan took at least 1 mulligan.",
+    "- pokesaka1313 drew a card.",
+    "pokesaka1313 played Regidrago V to the Active Spot.",
+    "pokesaka1313 played Squawkabilly ex to the Bench.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Rare Candy, Natu, Switch",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "pokesaka1313",
+      "actions": [
+        {
+          "raw": "pokesaka1313 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "pokesaka1313 attached Basic Fire Energy to Regidrago V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "pokesaka1313's Squawkabilly ex used Squawk and Seize.",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 discarded 6 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Basic Grass Energy, Super Rod, Energy Switch, Switch, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "pokesaka1313 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- pokesaka1313 drew Teal Mask Ogerpon ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- pokesaka1313 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "pokesaka1313's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- pokesaka1313 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "pokesaka1313 played Serena.",
+          "type": "play",
+          "card": "Serena",
+          "to": null
+        },
+        {
+          "raw": "- pokesaka1313 chose Switch 1 of your opponent’s Benched Pokémon <sprite name=\"v_atk\" tint=1> with their Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dreepy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "pokesaka1313 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Rotom V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on pokesaka1313’s Regidrago V for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "pokesaka1313’s Regidrago V",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on pokesaka1313's Squawkabilly ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "pokesaka1313",
+      "actions": [
+        {
+          "raw": "pokesaka1313 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "pokesaka1313 attached Basic Grass Energy to Regidrago V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "pokesaka1313 played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- pokesaka1313 discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch, Earthen Vessel, Professor's Research",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "pokesaka1313 played Regidrago V to the Bench.",
+          "type": "play",
+          "card": "Regidrago V",
+          "to": "Bench"
+        },
+        {
+          "raw": "pokesaka1313's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- pokesaka1313 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "pokesaka1313 evolved Regidrago V to Regidrago VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Regidrago V",
+          "to": "Regidrago VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "pokesaka1313's Regidrago VSTAR used Legacy Star.",
+          "type": "vstar",
+          "detail": "pokesaka1313's Regidrago VSTAR used Legacy Star."
+        },
+        {
+          "raw": "- pokesaka1313 moved pokesaka1313's 7 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Earthen Vessel, Ultra Ball, Mew ex, Iono, Basic Fire Energy, Noivern ex, Hisuian Goodra VSTAR",
+          "type": "vstar",
+          "detail": "• Earthen Vessel, Ultra Ball, Mew ex, Iono, Basic Fire Energy, Noivern ex, Hisuian Goodra VSTAR"
+        },
+        {
+          "raw": "- pokesaka1313 moved pokesaka1313's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Energy Switch, Mew ex",
+          "type": "other"
+        },
+        {
+          "raw": "pokesaka1313 can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "pokesaka1313 can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "pokesaka1313 played Mew ex to the Bench.",
+          "type": "play",
+          "card": "Mew ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "pokesaka1313 played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- pokesaka1313 attached Basic Grass Energy to Regidrago VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "pokesaka1313's Regidrago VSTAR used Apex Dragon on 0512SmileMan’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "pokesaka1313",
+          "attacker": "Regidrago VSTAR",
+          "attack": "Apex Dragon",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 200
+        },
+        {
+          "raw": "- pokesaka1313 chose Phantom Dive",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 put a damage counter on 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 put 5 damage counters on 0512SmileMan's Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "pokesaka1313 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to pokesaka1313's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- pokesaka1313's Regidrago V was switched with pokesaka1313's Regidrago VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- pokesaka1313's Regidrago V was switched with pokesaka1313's Regidrago VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "pokesaka1313's Regidrago V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on pokesaka1313’s Regidrago V for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "pokesaka1313’s Regidrago V",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on pokesaka1313's Regidrago VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan put 6 damage counters on pokesaka1313's Regidrago VSTAR."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "pokesaka1313",
+      "actions": [
+        {
+          "raw": "pokesaka1313 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "pokesaka1313's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- pokesaka1313 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "pokesaka1313 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- pokesaka1313 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Cleffa, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 drew Regidrago V.",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "pokesaka1313 played Regidrago V to the Bench.",
+          "type": "play",
+          "card": "Regidrago V",
+          "to": "Bench"
+        },
+        {
+          "raw": "pokesaka1313 attached Basic Fire Energy to Regidrago V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "pokesaka1313 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "pokesaka1313's Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- pokesaka1313 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "pokesaka1313 played Jamming Tower to the Stadium spot.",
+          "type": "play",
+          "card": "Jamming Tower",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "pokesaka1313 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan retreated Rotom V to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- pokesaka1313's Mew ex was switched with pokesaka1313's Regidrago V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "pokesaka1313's Mew ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 7,
+    "players": [
+      "pokesaka1313",
+      "0512SmileMan",
+      "- pokesaka1313"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "pokesaka1313's Regidrago VSTAR used Legacy Star."
+      },
+      {
+        "turn": 2,
+        "raw": "• Earthen Vessel, Ultra Ball, Mew ex, Iono, Basic Fire Energy, Noivern ex, Hisuian Goodra VSTAR"
+      },
+      {
+        "turn": 2,
+        "raw": "pokesaka1313 can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "attack": "Apex Dragon",
+        "raw": "pokesaka1313's Regidrago VSTAR used Apex Dragon on 0512SmileMan’s Dragapult ex for 200 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 200
+      },
+      {
+        "turn": 3,
+        "raw": "- pokesaka1313's Regidrago V was switched with pokesaka1313's Regidrago VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan put 6 damage counters on pokesaka1313's Regidrago VSTAR."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "pokesaka1313",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

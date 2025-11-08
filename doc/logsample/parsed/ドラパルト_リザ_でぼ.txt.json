@@ -1,0 +1,1360 @@
+{
+  "file": "ドラパルト　リザ　でぼ.txt",
+  "players": [
+    "Gundalf888",
+    "0512SmileMan",
+    "- Gundalf888"
+  ],
+  "setup": [
+    "Setup",
+    "Gundalf888 chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "Gundalf888 decided to go second.",
+    "Gundalf888 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Forest Seal Stone, Iono, Basic Fire Energy, Drakloak, Super Rod, Boss's Orders, Nest Ball",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Forest Seal Stone, Iono, Basic Fire Energy, Drakloak, Super Rod, Boss's Orders, Nest Ball",
+    "Gundalf888 drew 1 more card because 0512SmileMan took at least 1 mulligan.",
+    "- Gundalf888 drew a card.",
+    "Gundalf888 played Pidgey to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Natu, Ultra Ball, Drakloak",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Gundalf888",
+      "actions": [
+        {
+          "raw": "Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gundalf888 attached Basic Fire Energy to Pidgey in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Pidgey"
+        },
+        {
+          "raw": "Gundalf888 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Gundalf888 drew Mew ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Gundalf888 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Pidgey used Call for Family.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Bidoof, Charmander",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 shuffled their deck.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Natu, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Unfair Stamp, Arven, Basic Fire Energy, Drakloak, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Arven, Super Rod, Enhanced Hammer, Jamming Tower, Arven, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Nest Ball, Nest Ball, Rare Candy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Gundalf888",
+      "actions": [
+        {
+          "raw": "Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gundalf888 played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- Gundalf888 evolved Pidgey to Pidgeot ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Pidgey",
+          "to": "Pidgeot ex"
+        },
+        {
+          "raw": "Gundalf888 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Gundalf888 drew Charmander and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Gundalf888 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Gundalf888 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Gundalf888 drew Radiant Charizard and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Gundalf888 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Gundalf888 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- Gundalf888 evolved Charmander to Charizard ex on the Bench.",
+          "type": "evolve",
+          "from": "Charmander",
+          "to": "Charizard ex"
+        },
+        {
+          "raw": "Gundalf888's Charizard ex used Infernal Reign.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 attached Basic Fire Energy to Charizard ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charizard ex"
+        },
+        {
+          "raw": "- Gundalf888 attached Basic Fire Energy to Charizard ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charizard ex"
+        },
+        {
+          "raw": "- Gundalf888 attached Basic Fire Energy to Pidgeot ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Pidgeot ex"
+        },
+        {
+          "raw": "Gundalf888 attached Basic Fire Energy to Radiant Charizard on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Radiant Charizard"
+        },
+        {
+          "raw": "Gundalf888's Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Gundalf888 evolved Bidoof to Bibarel on the Bench.",
+          "type": "evolve",
+          "from": "Bidoof",
+          "to": "Bibarel"
+        },
+        {
+          "raw": "Gundalf888 played Magma Basin to the Stadium spot.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Gundalf888's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "Gundalf888's Pidgeot ex used Blustery Wind on 0512SmileMan’s Drakloak for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "Gundalf888",
+          "attacker": "Pidgeot ex",
+          "attack": "Blustery Wind",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 120
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "Dreepy was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Gundalf888's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Enhanced Hammer, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Drakloak, Radiant Alakazam, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Jet Headbutt on Gundalf888’s Pidgeot ex for 100 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Jet Headbutt",
+          "target": "Gundalf888’s Pidgeot ex",
+          "damage": 100
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Gundalf888",
+      "actions": [
+        {
+          "raw": "Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gundalf888 played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- Gundalf888 evolved Charmander to Charizard ex on the Bench.",
+          "type": "evolve",
+          "from": "Charmander",
+          "to": "Charizard ex"
+        },
+        {
+          "raw": "Gundalf888's Charizard ex used Infernal Reign.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 attached Basic Fire Energy to Charizard ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charizard ex"
+        },
+        {
+          "raw": "- Gundalf888 attached Basic Fire Energy to Radiant Charizard on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Radiant Charizard"
+        },
+        {
+          "raw": "- Gundalf888 attached Basic Fire Energy to Charizard ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charizard ex"
+        },
+        {
+          "raw": "Gundalf888 attached Basic Fire Energy to Radiant Charizard on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Radiant Charizard"
+        },
+        {
+          "raw": "Gundalf888's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gundalf888's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Gundalf888 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 retreated Pidgeot ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Charizard ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Charizard ex used Burning Darkness on 0512SmileMan’s Dragapult ex for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "Gundalf888",
+          "attacker": "Charizard ex",
+          "attack": "Burning Darkness",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 180
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Xatu on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from Gundalf888's Pidgeot ex to Gundalf888's Charizard ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Gundalf888’s Charizard ex for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Gundalf888’s Charizard ex",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Gundalf888's Bibarel.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Gundalf888",
+      "actions": [
+        {
+          "raw": "Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gundalf888 attached Basic Fire Energy to Mew ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Mew ex"
+        },
+        {
+          "raw": "Gundalf888's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Gundalf888 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Charizard ex used Burning Darkness on 0512SmileMan’s Dragapult ex for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "Gundalf888",
+          "attacker": "Charizard ex",
+          "attack": "Burning Darkness",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 180
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Dreepy, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Gundalf888's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Gundalf888's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Jamming Tower, Basic Psychic Energy, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 moved Gundalf888's 9 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Jamming Tower, Buddy-Buddy Poffin, Basic Psychic Energy, Dragapult ex, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- Gundalf888's Bibarel was switched with Gundalf888's Charizard ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Bibarel is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Arven, Technical Machine: Devolution, Switch",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Gundalf888",
+      "actions": [
+        {
+          "raw": "Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gundalf888 attached Basic Fire Energy to Mew ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Mew ex"
+        },
+        {
+          "raw": "Gundalf888's Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gundalf888's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Gundalf888's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Gundalf888 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Xatu to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- Gundalf888's Charizard ex was switched with Gundalf888's Bibarel to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Charizard ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Charizard ex used Burning Darkness on 0512SmileMan’s Drakloak for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "Gundalf888",
+          "attacker": "Charizard ex",
+          "attack": "Burning Darkness",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 180
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Gundalf888's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from Gundalf888's Charizard ex to Gundalf888's Charizard ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved Gundalf888's Bibarel to Bidoof on the Bench.",
+          "type": "evolve",
+          "from": "Gundalf888's Bibarel",
+          "to": "Bidoof"
+        },
+        {
+          "raw": "- Gundalf888 moved Gundalf888's Bibarel to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved Gundalf888's Charizard ex to Charmander on the Bench.",
+          "type": "evolve",
+          "from": "Gundalf888's Charizard ex",
+          "to": "Charmander"
+        },
+        {
+          "raw": "- Gundalf888 moved Gundalf888's Charizard ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved Gundalf888's Pidgeot ex to Pidgey on the Bench.",
+          "type": "evolve",
+          "from": "Gundalf888's Pidgeot ex",
+          "to": "Pidgey"
+        },
+        {
+          "raw": "- Gundalf888 moved Gundalf888's Pidgeot ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved Gundalf888's Charizard ex to Charmander in the Active Spot.",
+          "type": "evolve",
+          "from": "Gundalf888's Charizard ex",
+          "to": "Charmander"
+        },
+        {
+          "raw": "- Gundalf888 moved Gundalf888's Charizard ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Bidoof was Knocked Out!",
+          "type": "knockout",
+          "target": "Gundalf888's Bidoof"
+        },
+        {
+          "raw": "Gundalf888's Charmander was Knocked Out!",
+          "type": "knockout",
+          "target": "Gundalf888's Charmander"
+        },
+        {
+          "raw": "- 2 cards were discarded from Gundalf888's Charmander.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Pidgey was Knocked Out!",
+          "type": "knockout",
+          "target": "Gundalf888's Pidgey"
+        },
+        {
+          "raw": "- 2 cards were discarded from Gundalf888's Pidgey.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Xatu was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "Gundalf888",
+      "actions": [
+        {
+          "raw": "Gundalf888 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Gundalf888 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- Gundalf888's Radiant Charizard was switched with Gundalf888's Charmander to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Radiant Charizard is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888's Radiant Charizard used Combustion Blast on 0512SmileMan’s Rotom V for 250 damage.",
+          "type": "attack",
+          "attackerOwner": "Gundalf888",
+          "attacker": "Radiant Charizard",
+          "attack": "Combustion Blast",
+          "target": "0512SmileMan’s Rotom V",
+          "damage": 250
+        },
+        {
+          "raw": "0512SmileMan's Rotom V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Rotom V"
+        },
+        {
+          "raw": "Forest Seal Stone was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "Gundalf888 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Gundalf888's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Gundalf888's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. Gundalf888 wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. Gundalf888 wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 12,
+    "players": [
+      "Gundalf888",
+      "0512SmileMan",
+      "- Gundalf888"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 6,
+        "raw": "Gundalf888's Bidoof was Knocked Out!",
+        "target": "Gundalf888's Bidoof"
+      },
+      {
+        "turn": 6,
+        "raw": "Gundalf888's Charmander was Knocked Out!",
+        "target": "Gundalf888's Charmander"
+      },
+      {
+        "turn": 6,
+        "raw": "Gundalf888's Pidgey was Knocked Out!",
+        "target": "Gundalf888's Pidgey"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Rotom V was Knocked Out!",
+        "target": "0512SmileMan's Rotom V"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 1,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. Gundalf888",
+      "method": null,
+      "final_turn": 6
+    }
+  }
+}

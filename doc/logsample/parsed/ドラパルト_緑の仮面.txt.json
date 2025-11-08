@@ -1,0 +1,520 @@
+{
+  "file": "ドラパルト　緑の仮面.txt",
+  "players": [
+    "volleydvd",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "volleydvd chose heads for the opening coin flip.",
+    "volleydvd won the coin toss.",
+    "0512SmileMan decided to go second.",
+    "volleydvd drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Hisuian Heavy Ball, Earthen Vessel, Natu, Rotom V, Arven, Basic Psychic Energy, Drakloak",
+    "volleydvd played Teal Mask Ogerpon ex to the Active Spot.",
+    "0512SmileMan played Natu to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "volleydvd",
+      "actions": [
+        {
+          "raw": "volleydvd drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "volleydvd played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "volleydvd played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- volleydvd shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "volleydvd ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Ultra Ball, Natu, Drakloak",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "volleydvd",
+      "actions": [
+        {
+          "raw": "volleydvd drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "volleydvd's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- volleydvd attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- volleydvd drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "volleydvd ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Super Rod.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "volleydvd",
+      "actions": [
+        {
+          "raw": "volleydvd drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "volleydvd ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Arven, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Hand Trimmer, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Hand Trimmer.",
+          "type": "play",
+          "card": "Hand Trimmer",
+          "to": null
+        },
+        {
+          "raw": "- volleydvd discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Squawkabilly ex",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Ultra Ball, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Xatu in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on volleydvd’s Teal Mask Ogerpon ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "volleydvd’s Teal Mask Ogerpon ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on volleydvd's Teal Mask Ogerpon ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "volleydvd",
+      "actions": [
+        {
+          "raw": "volleydvd drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "volleydvd played PokéStop to the Stadium spot.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "volleydvd played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- volleydvd moved volleydvd's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Bug Catching Set, Basic Grass Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- volleydvd moved volleydvd's Bug Catching Set to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "volleydvd played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- volleydvd drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- volleydvd shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "volleydvd's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- volleydvd attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- volleydvd drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 7,
+    "players": [
+      "volleydvd",
+      "0512SmileMan"
+    ],
+    "knockouts": [],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

@@ -1,0 +1,1541 @@
+{
+  "file": "ドラパルト　サーナイト5 - コピー.txt",
+  "players": [
+    "0512SmileMan",
+    "itsleofeo",
+    "- itsleofeo"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "itsleofeo won the coin toss.",
+    "itsleofeo decided to go second.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Rescue Board, Dragapult ex, Super Rod, Arven, Earthen Vessel, Boss's Orders, Buddy-Buddy Poffin",
+    "itsleofeo drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Rescue Board, Dragapult ex, Super Rod, Arven, Earthen Vessel, Boss's Orders, Buddy-Buddy Poffin",
+    "itsleofeo drew 1 more card because 0512SmileMan took at least 1 mulligan.",
+    "- itsleofeo drew a card.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "itsleofeo played Ralts to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Xatu, Switch, Rescue Board",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "itsleofeo",
+      "actions": [
+        {
+          "raw": "itsleofeo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "itsleofeo attached Basic Psychic Energy to Ralts in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Ralts"
+        },
+        {
+          "raw": "itsleofeo played Drifloon to the Bench.",
+          "type": "play",
+          "card": "Drifloon",
+          "to": "Bench"
+        },
+        {
+          "raw": "itsleofeo's Ralts used Memory Skip on 0512SmileMan’s Dreepy for 10 damage.",
+          "type": "attack",
+          "attackerOwner": "itsleofeo",
+          "attacker": "Ralts",
+          "attack": "Memory Skip",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 10
+        },
+        {
+          "raw": "- itsleofeo chose Petty Grudge",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Xatu, Ultra Ball, Iono, Switch, Counter Catcher, Lost Vacuum, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Nest Ball, Defiance Band, Super Rod, Dreepy, Dragapult ex, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Drakloak, Ultra Ball, Earthen Vessel",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "itsleofeo",
+      "actions": [
+        {
+          "raw": "itsleofeo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "itsleofeo played Ralts to the Bench.",
+          "type": "play",
+          "card": "Ralts",
+          "to": "Bench"
+        },
+        {
+          "raw": "itsleofeo played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo attached Technical Machine: Evolution to Ralts in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Ralts"
+        },
+        {
+          "raw": "itsleofeo played Mimikyu to the Bench.",
+          "type": "play",
+          "card": "Mimikyu",
+          "to": "Bench"
+        },
+        {
+          "raw": "itsleofeo attached Basic Psychic Energy to Ralts in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Ralts"
+        },
+        {
+          "raw": "itsleofeo played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo put a card on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Super Rod, Dragapult ex, Defiance Band, Earthen Vessel, Drakloak, Nest Ball, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Dragapult ex, Enhanced Hammer, Buddy-Buddy Poffin, Dragapult ex, Rescue Board, Xatu",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo played Ralts to the Bench.",
+          "type": "play",
+          "card": "Ralts",
+          "to": "Bench"
+        },
+        {
+          "raw": "itsleofeo evolved Ralts to Kirlia in the Active Spot.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "itsleofeo's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo discarded Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "itsleofeo's Kirlia used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- itsleofeo evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- itsleofeo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from itsleofeo's Kirlia.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Manaphy, Earthen Vessel, Basic Psychic Energy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "itsleofeo",
+      "actions": [
+        {
+          "raw": "itsleofeo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "itsleofeo played Scream Tail to the Bench.",
+          "type": "play",
+          "card": "Scream Tail",
+          "to": "Bench"
+        },
+        {
+          "raw": "itsleofeo's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "itsleofeo retreated Kirlia to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- 2 cards were discarded from itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Scream Tail is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo evolved Kirlia to Gardevoir ex on the Bench.",
+          "type": "evolve",
+          "from": "Kirlia",
+          "to": "Gardevoir ex"
+        },
+        {
+          "raw": "itsleofeo played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "itsleofeo's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "itsleofeo's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo attached Bravery Charm to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "itsleofeo's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Scream Tail used Roaring Scream.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V took 200 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Rotom V"
+        },
+        {
+          "raw": "itsleofeo took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to itsleofeo's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to itsleofeo's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Radiant Alakazam",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- itsleofeo discarded Mimikyu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan retreated Drakloak to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from itsleofeo's Scream Tail to itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on itsleofeo’s Scream Tail for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "itsleofeo’s Scream Tail",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Scream Tail was Knocked Out!",
+          "type": "knockout",
+          "target": "itsleofeo's Scream Tail"
+        },
+        {
+          "raw": "- 6 cards were discarded from itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "itsleofeo's Kirlia"
+        },
+        {
+          "raw": "Ralts was discarded from itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Drifloon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Forest Seal Stone was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "itsleofeo",
+      "actions": [
+        {
+          "raw": "itsleofeo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "itsleofeo played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Mimikyu, Scream Tail",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo put Ralts on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo drew Ralts and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- itsleofeo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- itsleofeo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "itsleofeo attached Bravery Charm to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "itsleofeo's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo discarded Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "itsleofeo's Drifloon used Balloon Blast on 0512SmileMan’s Dragapult ex for 300 damage.",
+          "type": "attack",
+          "attackerOwner": "itsleofeo",
+          "attacker": "Drifloon",
+          "attack": "Balloon Blast",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 300
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 9 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Forest Seal Stone, Basic Psychic Energy, Technical Machine: Devolution, Manaphy, Buddy-Buddy Poffin, Iono, Nest Ball, Basic Fire Energy, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Counter Catcher, Defiance Band, Lost Vacuum, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from itsleofeo's Drifloon to itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on itsleofeo’s Drifloon for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "itsleofeo’s Drifloon",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Drifloon was Knocked Out!",
+          "type": "knockout",
+          "target": "itsleofeo's Drifloon"
+        },
+        {
+          "raw": "- 6 cards were discarded from itsleofeo's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "itsleofeo's Kirlia"
+        },
+        {
+          "raw": "Ralts was discarded from itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Gardevoir ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "itsleofeo",
+      "actions": [
+        {
+          "raw": "itsleofeo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "itsleofeo played Scream Tail to the Bench.",
+          "type": "play",
+          "card": "Scream Tail",
+          "to": "Bench"
+        },
+        {
+          "raw": "itsleofeo played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Radiant Alakazam was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 6 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Counter Catcher, Defiance Band, Lost Vacuum, Natu, Basic Psychic Energy, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Super Rod, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Gardevoir ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Gardevoir ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo moved 3 damage counters from itsleofeo's Gardevoir ex to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to itsleofeo's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to itsleofeo's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- itsleofeo discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Artazon",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "itsleofeo's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "itsleofeo retreated Gardevoir ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- 2 cards were discarded from itsleofeo's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Scream Tail is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "- itsleofeo attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- itsleofeo put 2 damage counters on itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Scream Tail used Roaring Scream.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Xatu took 120 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Xatu"
+        },
+        {
+          "raw": "Natu was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to itsleofeo's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from itsleofeo's Scream Tail to itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on itsleofeo’s Scream Tail for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "itsleofeo’s Scream Tail",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Scream Tail was Knocked Out!",
+          "type": "knockout",
+          "target": "itsleofeo's Scream Tail"
+        },
+        {
+          "raw": "- 3 cards were discarded from itsleofeo's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "itsleofeo's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "itsleofeo's Kirlia"
+        },
+        {
+          "raw": "Ralts was discarded from itsleofeo's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Rare Candy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "All Prize cards taken. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "All Prize cards taken. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 11,
+    "players": [
+      "0512SmileMan",
+      "itsleofeo",
+      "- itsleofeo"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Rotom V was Knocked Out!",
+        "target": "0512SmileMan's Rotom V"
+      },
+      {
+        "turn": 4,
+        "raw": "itsleofeo's Scream Tail was Knocked Out!",
+        "target": "itsleofeo's Scream Tail"
+      },
+      {
+        "turn": 4,
+        "raw": "itsleofeo's Kirlia was Knocked Out!",
+        "target": "itsleofeo's Kirlia"
+      },
+      {
+        "turn": 5,
+        "raw": "itsleofeo's Drifloon was Knocked Out!",
+        "target": "itsleofeo's Drifloon"
+      },
+      {
+        "turn": 5,
+        "raw": "itsleofeo's Kirlia was Knocked Out!",
+        "target": "itsleofeo's Kirlia"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Xatu was Knocked Out!",
+        "target": "0512SmileMan's Xatu"
+      },
+      {
+        "turn": 6,
+        "raw": "itsleofeo's Scream Tail was Knocked Out!",
+        "target": "itsleofeo's Scream Tail"
+      },
+      {
+        "turn": 6,
+        "raw": "itsleofeo's Kirlia was Knocked Out!",
+        "target": "itsleofeo's Kirlia"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "All Prize cards taken. 0512SmileMan",
+      "method": null,
+      "final_turn": 6
+    }
+  }
+}

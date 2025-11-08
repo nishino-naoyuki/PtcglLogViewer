@@ -1,0 +1,318 @@
+Setup
+su-ke chose heads for the opening coin flip.
+su-ke won the coin toss.
+0512SmileMan decided to go first.
+su-ke drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Basic Fire Energy, Nest Ball, Boss's Orders, Dragapult ex, Drakloak, Rescue Board, Dreepy
+su-ke played Munkidori to the Active Spot.
+0512SmileMan played Dreepy to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Nest Ball.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Dreepy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Rotom V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Enhanced Hammer, Basic Psychic Energy, Dreepy
+
+Turn # 1 - su-ke's Turn
+su-ke drew a card.
+su-ke played Buddy-Buddy Poffin.
+- su-ke drew 2 cards and played them to the Bench.
+   • Ralts, Ralts
+- su-ke shuffled their deck.
+su-ke played Irida.
+- su-ke drew 2 cards.
+   • Radiant Greninja, Buddy-Buddy Poffin
+- su-ke shuffled their deck.
+su-ke played Buddy-Buddy Poffin.
+- su-ke drew 2 cards and played them to the Bench.
+   • Ralts, Ralts
+- su-ke shuffled their deck.
+su-ke played Radiant Greninja to the Bench.
+su-ke played Earthen Vessel.
+- su-ke discarded Basic Psychic Energy.
+- su-ke drew 2 cards.
+   • Basic Psychic Energy, Basic Psychic Energy
+- su-ke shuffled their deck.
+su-ke's Radiant Greninja used Concealed Cards.
+- su-ke discarded Basic Psychic Energy.
+- su-ke drew 2 cards.
+su-ke attached Basic Psychic Energy to Munkidori in the Active Spot.
+su-ke retreated Munkidori to the Bench.
+- Basic Psychic Energy was discarded from su-ke's Munkidori.
+su-ke's Ralts is now in the Active Spot.
+su-ke ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Switch.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan evolved Dreepy to Drakloak in the Active Spot.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Basic Psychic Energy.
+0512SmileMan attached Basic Psychic Energy to Drakloak in the Active Spot.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Technical Machine: Evolution, Earthen Vessel, Boss's Orders
+
+Turn # 2 - su-ke's Turn
+su-ke drew a card.
+su-ke attached Basic Darkness Energy to Munkidori on the Bench.
+su-ke played Iono.
+- su-ke shuffled their hand.
+- su-ke put 4 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 9 cards on the bottom of their deck.
+   • Technical Machine: Evolution, Boss's Orders, Rescue Board, Basic Psychic Energy, Enhanced Hammer, Dragapult ex, Earthen Vessel, Boss's Orders, Switch
+- su-ke drew 6 cards.
+- 0512SmileMan drew 6 cards.
+   • Buddy-Buddy Poffin, Arven, Buddy-Buddy Poffin, Natu, Arven, Nest Ball
+su-ke's Radiant Greninja used Concealed Cards.
+- su-ke discarded Basic Darkness Energy.
+- su-ke drew 2 cards.
+su-ke evolved Ralts to Kirlia on the Bench.
+su-ke's Kirlia used Refinement.
+- su-ke discarded Basic Psychic Energy.
+- su-ke drew 2 cards.
+su-ke played Ultra Ball.
+- su-ke discarded 2 cards.
+   • Enhanced Hammer, Technical Machine: Evolution
+- su-ke drew Kirlia.
+- su-ke shuffled their deck.
+su-ke evolved Ralts to Kirlia on the Bench.
+su-ke's Kirlia used Refinement.
+- su-ke discarded Basic Psychic Energy.
+- su-ke drew 2 cards.
+su-ke ended their turn.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Manaphy.
+0512SmileMan played Manaphy to the Bench.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew Natu and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Basic Psychic Energy.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Ultra Ball, Technical Machine: Devolution
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Natu, Buddy-Buddy Poffin
+- 0512SmileMan drew Drakloak.
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Basic Psychic Energy.
+0512SmileMan attached Technical Machine: Devolution to Drakloak in the Active Spot.
+0512SmileMan's Drakloak used Devolution.
+- 0512SmileMan devolved su-ke's Kirlia to Ralts on the Bench.
+- su-ke moved su-ke's Kirlia to their hand.
+- 0512SmileMan devolved su-ke's Kirlia to Ralts on the Bench.
+- su-ke moved su-ke's Kirlia to their hand.
+Technical Machine: Devolution was activated.
+- Technical Machine: Devolution was discarded from 0512SmileMan's Drakloak.
+
+Turn # 3 - su-ke's Turn
+su-ke drew a card.
+su-ke evolved Ralts to Kirlia on the Bench.
+su-ke evolved Ralts to Kirlia on the Bench.
+su-ke's Kirlia used Refinement.
+- su-ke discarded Buddy-Buddy Poffin.
+- su-ke drew 2 cards.
+su-ke played Rare Candy.
+- su-ke evolved Ralts to Gardevoir ex on the Bench.
+su-ke's Kirlia used Refinement.
+- su-ke discarded Artazon.
+- su-ke drew 2 cards.
+su-ke's Gardevoir ex used Psychic Embrace.
+- su-ke attached Basic Psychic Energy to Ralts in the Active Spot.
+- su-ke put 2 damage counters on su-ke's Ralts.
+- su-ke attached Basic Psychic Energy to Gardevoir ex on the Bench.
+- su-ke put 2 damage counters on su-ke's Gardevoir ex.
+- su-ke attached Basic Psychic Energy to Gardevoir ex on the Bench.
+- su-ke put 2 damage counters on su-ke's Gardevoir ex.
+- su-ke attached Basic Psychic Energy to Gardevoir ex on the Bench.
+- su-ke put 2 damage counters on su-ke's Gardevoir ex.
+su-ke's Munkidori used Adrena-Brain.
+- su-ke moved 2 damage counters from su-ke's Ralts to 0512SmileMan's Manaphy.
+su-ke retreated Ralts to the Bench.
+- Basic Psychic Energy was discarded from su-ke's Ralts.
+su-ke's Gardevoir ex is now in the Active Spot.
+su-ke played Irida.
+- su-ke drew Ultra Ball.
+- su-ke shuffled their deck.
+su-ke played Ultra Ball.
+- su-ke discarded 2 cards.
+   • Manaphy, Counter Catcher
+- su-ke drew Kirlia.
+- su-ke shuffled their deck.
+su-ke evolved Ralts to Kirlia on the Bench.
+su-ke's Kirlia used Refinement.
+- su-ke discarded Scream Tail.
+- su-ke drew 2 cards.
+su-ke's Gardevoir ex used Miracle Force on 0512SmileMan’s Drakloak for 190 damage.
+0512SmileMan's Drakloak was Knocked Out!
+- 2 cards were discarded from 0512SmileMan's Drakloak.
+   • Basic Psychic Energy, Dreepy
+0512SmileMan's Manaphy is now in the Active Spot.
+su-ke took a Prize card.
+A card was added to su-ke's hand.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Rescue Board.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Radiant Alakazam and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Iono.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Unfair Stamp, Technical Machine: Evolution
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Rescue Board to Manaphy in the Active Spot.
+0512SmileMan attached Technical Machine: Evolution to Natu on the Bench.
+0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+0512SmileMan played Unfair Stamp.
+- 0512SmileMan shuffled 2 cards into their deck.
+   • Basic Psychic Energy, Iono
+- su-ke moved su-ke's 5 cards to their deck.
+- 0512SmileMan drew 5 cards.
+   • Rare Candy, Drakloak, Basic Psychic Energy, Dragapult ex, Earthen Vessel
+- su-ke drew 2 cards.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.
+0512SmileMan retreated Manaphy to the Bench.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from su-ke's Gardevoir ex to su-ke's Kirlia.
+0512SmileMan's Dragapult ex used Phantom Dive on su-ke’s Gardevoir ex for 200 damage.
+- 0512SmileMan put 6 damage counters on su-ke's Kirlia.
+su-ke's Kirlia was Knocked Out!
+Ralts was discarded from su-ke's Kirlia.
+0512SmileMan took a Prize card.
+Arven was added to 0512SmileMan's hand.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 0512SmileMan's Natu.
+
+Turn # 4 - su-ke's Turn
+su-ke drew a card.
+su-ke's Radiant Greninja used Concealed Cards.
+- su-ke discarded Basic Psychic Energy.
+- su-ke drew 2 cards.
+su-ke played Buddy-Buddy Poffin.
+- su-ke shuffled their deck.
+su-ke's Kirlia used Refinement.
+- su-ke discarded Cleffa.
+- su-ke drew 2 cards.
+su-ke's Kirlia used Refinement.
+- su-ke discarded Iono.
+- su-ke drew 2 cards.
+su-ke played Super Rod.
+- su-ke shuffled 2 cards into their deck.
+   • Scream Tail, Kirlia
+- su-ke moved su-ke's Ralts to their deck.
+su-ke played Iono.
+- su-ke shuffled their hand.
+- su-ke put 3 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 4 cards on the bottom of their deck.
+   • Earthen Vessel, Basic Psychic Energy, Drakloak, Arven
+- su-ke drew 5 cards.
+- 0512SmileMan drew 5 cards.
+   • Defiance Band, Xatu, Iono, Collapsed Stadium, Lost Vacuum
+su-ke played Hisuian Heavy Ball.
+- su-ke moved su-ke's Drifloon to their hand.
+- su-ke moved su-ke's Hisuian Heavy Ball to the Prize cards.
+- su-ke shuffled their Prize cards.
+su-ke retreated Gardevoir ex to the Bench.
+- 2 cards were discarded from su-ke's Gardevoir ex.
+   • Basic Psychic Energy, Basic Psychic Energy
+su-ke's Munkidori is now in the Active Spot.
+su-ke's Gardevoir ex used Psychic Embrace.
+- su-ke attached Basic Psychic Energy to Munkidori in the Active Spot.
+- su-ke put 2 damage counters on su-ke's Munkidori.
+su-ke's Munkidori used Adrena-Brain.
+- su-ke moved 3 damage counters from su-ke's Gardevoir ex to 0512SmileMan's Manaphy.
+su-ke's Munkidori used Mind Bend on 0512SmileMan’s Dragapult ex for 60 damage.
+- 0512SmileMan's Dragapult ex is now Confused.
+
+Turn # 5 - 0512SmileMan's Turn
+0512SmileMan drew Dragapult ex.
+0512SmileMan evolved Natu to Xatu on the Bench.
+0512SmileMan played Collapsed Stadium to the Stadium spot.
+- 0512SmileMan discarded Manaphy.
+- Rescue Board was discarded from 0512SmileMan's Manaphy.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Counter Catcher.
+0512SmileMan evolved Drakloak to Dragapult ex on the Bench.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 3 cards on the bottom of their deck.
+   • Counter Catcher, Defiance Band, Lost Vacuum
+- su-ke shuffled their hand.
+- su-ke put 5 cards on the bottom of their deck.
+- 0512SmileMan drew 5 cards.
+   • Earthen Vessel, Arven, Switch, Buddy-Buddy Poffin, Boss's Orders
+- su-ke drew 4 cards.
+- su-ke drew a card.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Fire Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dragapult ex on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Super Rod, Lost Vacuum
+0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.
+0512SmileMan retreated Dragapult ex to the Bench.
+- Basic Fire Energy was discarded from 0512SmileMan's Dragapult ex.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan played Super Rod.
+- 0512SmileMan shuffled 2 cards into their deck.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan put Manaphy on top of their deck.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from su-ke's Munkidori to su-ke's Kirlia.
+0512SmileMan's Dragapult ex used Phantom Dive on su-ke’s Munkidori for 200 damage.
+- 0512SmileMan put 6 damage counters on su-ke's Kirlia.
+su-ke's Munkidori was Knocked Out!
+- 2 cards were discarded from su-ke's Munkidori.
+   • Basic Darkness Energy, Basic Psychic Energy
+su-ke's Kirlia was Knocked Out!
+Ralts was discarded from su-ke's Kirlia.
+su-ke's Gardevoir ex is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Forest Seal Stone was added to 0512SmileMan's hand.
+Earthen Vessel was added to 0512SmileMan's hand.
+
+Turn # 5 - su-ke's Turn
+su-ke drew a card.
+su-ke's Kirlia used Refinement.
+- su-ke discarded Kirlia.
+- su-ke drew 2 cards.
+su-ke played Scream Tail to the Bench.
+su-ke attached Basic Psychic Energy to Gardevoir ex in the Active Spot.
+su-ke played Arven.
+- su-ke drew Nest Ball.
+- su-ke shuffled their deck.
+su-ke played Nest Ball.
+- su-ke drew Drifloon and played it to the Bench.
+- su-ke shuffled their deck.
+su-ke attached Bravery Charm to Drifloon on the Bench.
+su-ke retreated Gardevoir ex to the Bench.
+- 2 cards were discarded from su-ke's Gardevoir ex.
+   • Basic Psychic Energy, Basic Psychic Energy
+su-ke's Drifloon is now in the Active Spot.
+Opponent conceded. 0512SmileMan wins.
+

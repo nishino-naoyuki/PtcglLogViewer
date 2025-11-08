@@ -1,0 +1,189 @@
+{
+  "file": "ドラパルト　ルギアお互い事故.txt",
+  "players": [
+    "0512SmileMan",
+    "TTT_Lv100"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Enhanced Hammer, Defiance Band, Switch, Dreepy, Technical Machine: Devolution, Dragapult ex, Earthen Vessel",
+    "TTT_Lv100 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "TTT_Lv100 played Minccino to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "TTT_Lv100",
+      "actions": [
+        {
+          "raw": "TTT_Lv100 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "TTT_Lv100 played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- TTT_Lv100 drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- TTT_Lv100 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "TTT_Lv100 played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- TTT_Lv100 flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- TTT_Lv100 drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- TTT_Lv100 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "TTT_Lv100 attached Mist Energy to Minccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Minccino"
+        },
+        {
+          "raw": "TTT_Lv100's Minccino used Beat on 0512SmileMan’s Dreepy for 10 damage.",
+          "type": "attack",
+          "attackerOwner": "TTT_Lv100",
+          "attacker": "Minccino",
+          "attack": "Beat",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 10
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Dragon Headbutt on TTT_Lv100’s Minccino for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Drakloak",
+          "attack": "Dragon Headbutt",
+          "target": "TTT_Lv100’s Minccino",
+          "damage": 70
+        },
+        {
+          "raw": "TTT_Lv100's Minccino was Knocked Out!",
+          "type": "knockout",
+          "target": "TTT_Lv100's Minccino"
+        },
+        {
+          "raw": "Mist Energy was discarded from TTT_Lv100's Minccino.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 3,
+    "players": [
+      "0512SmileMan",
+      "TTT_Lv100"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "TTT_Lv100's Minccino was Knocked Out!",
+        "target": "TTT_Lv100's Minccino"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "TTT_Lv100",
+      "method": "concession",
+      "final_turn": 2
+    }
+  }
+}

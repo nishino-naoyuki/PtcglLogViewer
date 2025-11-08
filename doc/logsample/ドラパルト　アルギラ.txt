@@ -1,0 +1,387 @@
+Setup
+Gyocchan chose heads for the opening coin flip.
+Gyocchan won the coin toss.
+0512SmileMan decided to go second.
+Gyocchan drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Radiant Alakazam, Nest Ball, Xatu, Lost Vacuum, Forest Seal Stone, Buddy-Buddy Poffin, Unfair Stamp
+Gyocchan took a mulligan.
+- Cards revealed from Mulligan 1
+   • Basic Grass Energy, Judge, Iono, Basic Grass Energy, Arceus VSTAR, Bibarel, Ultra Ball
+0512SmileMan drew 1 more card because Gyocchan took at least 1 mulligan.
+- 0512SmileMan drew Buddy-Buddy Poffin.
+Gyocchan played Arceus V to the Active Spot.
+0512SmileMan played Radiant Alakazam to the Active Spot.
+
+Turn # 1 - Gyocchan's Turn
+Gyocchan drew a card.
+Gyocchan played Arceus V to the Bench.
+Gyocchan attached Basic Grass Energy to Arceus V in the Active Spot.
+Gyocchan ended their turn.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Ultra Ball.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Dreepy
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Natu
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Rotom V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Arven, Basic Psychic Energy, Dragapult ex
+
+Turn # 2 - Gyocchan's Turn
+Gyocchan drew a card.
+Gyocchan played Iono.
+- Gyocchan shuffled their hand.
+- Gyocchan put 5 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 8 cards on the bottom of their deck.
+   • Forest Seal Stone, Ultra Ball, Basic Psychic Energy, Unfair Stamp, Xatu, Dragapult ex, Lost Vacuum, Arven
+- Gyocchan drew 6 cards.
+- 0512SmileMan drew 6 cards.
+   • Nest Ball, Technical Machine: Devolution, Iono, Basic Psychic Energy, Basic Fire Energy, Rare Candy
+Gyocchan attached Double Turbo Energy to Arceus V in the Active Spot.
+Gyocchan played Nest Ball.
+- Gyocchan drew Giratina V and played it to the Bench.
+- Gyocchan shuffled their deck.
+Gyocchan's Arceus V used Trinity Charge.
+- Gyocchan attached Basic Psychic Energy to Giratina V on the Bench.
+- Gyocchan attached Basic Grass Energy to Giratina V on the Bench.
+- Gyocchan attached Basic Grass Energy to Arceus V on the Bench.
+- Gyocchan shuffled their deck.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Dragapult ex.
+0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Earthen Vessel, Boss's Orders, Defiance Band
+
+Turn # 3 - Gyocchan's Turn
+Gyocchan drew a card.
+Gyocchan evolved Giratina V to Giratina VSTAR on the Bench.
+Gyocchan attached Basic Grass Energy to Giratina VSTAR on the Bench.
+Gyocchan played Boss's Orders.
+- 0512SmileMan's Dreepy was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.
+0512SmileMan's Dreepy is now in the Active Spot.
+Gyocchan's Arceus V used Power Edge on 0512SmileMan’s Dreepy for 110 damage.
+0512SmileMan's Dreepy was Knocked Out!
+Basic Fire Energy was discarded from 0512SmileMan's Dreepy.
+0512SmileMan's Natu is now in the Active Spot.
+Gyocchan took a Prize card.
+A card was added to Gyocchan's hand.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Manaphy.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Dreepy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Manaphy.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.
+0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.
+0512SmileMan attached Technical Machine: Devolution to Radiant Alakazam on the Bench.
+0512SmileMan attached Defiance Band to Dragapult ex on the Bench.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 3 cards on the bottom of their deck.
+   • Boss's Orders, Basic Psychic Energy, Basic Psychic Energy
+- Gyocchan shuffled their hand.
+- Gyocchan put 3 cards on the bottom of their deck.
+- 0512SmileMan drew 6 cards.
+   • Drakloak, Super Rod, Xatu, Switch, Drakloak, Boss's Orders
+- Gyocchan drew 5 cards.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Buddy-Buddy Poffin.
+0512SmileMan evolved Natu to Xatu in the Active Spot.
+0512SmileMan played Switch.
+- 0512SmileMan's Dreepy was switched with 0512SmileMan's Xatu to become the Active Pokémon.
+0512SmileMan's Dreepy is now in the Active Spot.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Xatu, Dragapult ex, Buddy-Buddy Poffin
+Technical Machine: Devolution was activated.
+- Technical Machine: Devolution was discarded from 0512SmileMan's Radiant Alakazam.
+
+Turn # 4 - Gyocchan's Turn
+Gyocchan drew a card.
+Gyocchan evolved Arceus V to Arceus VSTAR in the Active Spot.
+Gyocchan attached Jet Energy to Giratina VSTAR on the Bench.
+Jet Energy was activated.
+- Gyocchan's Giratina VSTAR was switched with Gyocchan's Arceus VSTAR to become the Active Pokémon.
+Gyocchan's Giratina VSTAR is now in the Active Spot.
+Gyocchan attached Maximum Belt to Giratina VSTAR in the Active Spot.
+Gyocchan's Arceus VSTAR used Starbirth.
+- Gyocchan drew 2 cards.
+- Gyocchan shuffled their deck.
+Gyocchan can no longer use VSTAR Powers.
+Gyocchan played Boss's Orders.
+- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Dreepy to become the Active Pokémon.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+Gyocchan played Nest Ball.
+- Gyocchan drew Bidoof and played it to the Bench.
+- Gyocchan shuffled their deck.
+Gyocchan's Giratina VSTAR used Lost Impact on 0512SmileMan’s Dragapult ex for 330 damage.
+- Gyocchan moved Gyocchan's Jet Energy to the Lost Zone.
+- Gyocchan moved Gyocchan's Basic Grass Energy to the Lost Zone.
+0512SmileMan's Dragapult ex was Knocked Out!
+- 3 cards were discarded from 0512SmileMan's Dragapult ex.
+   • Basic Fire Energy, Dreepy, Defiance Band
+0512SmileMan's Dreepy is now in the Active Spot.
+Gyocchan took 2 Prize cards.
+A card was added to Gyocchan's hand.
+A card was added to Gyocchan's hand.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Technical Machine: Evolution.
+0512SmileMan evolved Dreepy to Drakloak in the Active Spot.
+0512SmileMan played Super Rod.
+- 0512SmileMan shuffled 3 cards into their deck.
+   • Dreepy, Basic Fire Energy, Basic Fire Energy
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew Dreepy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Rescue Board.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan evolved Drakloak to Dragapult ex on the Bench.
+0512SmileMan attached Rescue Board to Drakloak in the Active Spot.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Earthen Vessel, Forest Seal Stone
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Technical Machine: Evolution.
+- 0512SmileMan drew Basic Psychic Energy.
+- 0512SmileMan drew Basic Fire Energy.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dragapult ex on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Iono, Enhanced Hammer
+0512SmileMan played Enhanced Hammer.
+- Double Turbo Energy was discarded from Gyocchan's Arceus VSTAR.
+0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.
+0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.
+0512SmileMan's Rotom V used Star Alchemy.
+- 0512SmileMan drew Lost Vacuum.
+- 0512SmileMan shuffled their deck.
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan played Lost Vacuum.
+- 0512SmileMan moved 0512SmileMan's Xatu to the Lost Zone.
+- Gyocchan moved Gyocchan's Maximum Belt to the Lost Zone.
+0512SmileMan retreated Drakloak to the Bench.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on Gyocchan’s Giratina VSTAR for 200 damage.
+- 0512SmileMan put 6 damage counters on Gyocchan's Arceus V.
+
+Turn # 5 - Gyocchan's Turn
+Gyocchan drew a card.
+Gyocchan evolved Bidoof to Bibarel on the Bench.
+Gyocchan attached Basic Grass Energy to Arceus VSTAR on the Bench.
+Gyocchan played Skwovet to the Bench.
+Gyocchan's Skwovet used Nest Stash.
+- Gyocchan shuffled their hand.
+- Gyocchan put 3 cards on the bottom of their deck.
+- Gyocchan drew a card.
+Gyocchan's Bibarel used Industrious Incisors.
+- Gyocchan drew 4 cards.
+Gyocchan evolved Arceus V to Arceus VSTAR on the Bench.
+Gyocchan played Judge.
+- Gyocchan shuffled 3 cards into their deck.
+- 0512SmileMan moved 0512SmileMan's 3 cards to their deck.
+   • Boss's Orders, Buddy-Buddy Poffin, Iono
+- Gyocchan drew 4 cards.
+- 0512SmileMan drew 4 cards.
+   • Arven, Buddy-Buddy Poffin, Iono, Nest Ball
+Gyocchan played Capturing Aroma.
+- Gyocchan flipped a coin and it landed on tails.
+- Gyocchan drew Bidoof.
+- Gyocchan shuffled their deck.
+Gyocchan played Bidoof to the Bench.
+Gyocchan's Giratina VSTAR used Lost Impact on 0512SmileMan’s Dragapult ex for 280 damage.
+- Gyocchan moved Gyocchan's 2 cards to the Lost Zone.
+   • Basic Grass Energy, Basic Psychic Energy
+
+Turn # 5 - 0512SmileMan's Turn
+0512SmileMan drew Iono.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Boss's Orders.
+0512SmileMan played Arven.
+- 0512SmileMan drew Unfair Stamp.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from Gyocchan's Giratina VSTAR to Gyocchan's Arceus VSTAR.
+0512SmileMan's Dragapult ex used Phantom Dive on Gyocchan’s Giratina VSTAR for 200 damage.
+- 0512SmileMan put 6 damage counters on Gyocchan's Skwovet.
+Gyocchan's Giratina VSTAR was Knocked Out!
+- 2 cards were discarded from Gyocchan's Giratina VSTAR.
+   • Basic Grass Energy, Giratina V
+Gyocchan's Skwovet was Knocked Out!
+Gyocchan's Arceus VSTAR is now in the Active Spot.
+0512SmileMan took 3 Prize cards.
+Counter Catcher was added to 0512SmileMan's hand.
+Drakloak was added to 0512SmileMan's hand.
+Collapsed Stadium was added to 0512SmileMan's hand.
+
+Turn # 6 - Gyocchan's Turn
+Gyocchan drew a card.
+Gyocchan's Bibarel used Industrious Incisors.
+- Gyocchan drew a card.
+Gyocchan attached Basic Psychic Energy to Arceus VSTAR in the Active Spot.
+Gyocchan played Boss's Orders.
+- 0512SmileMan's Radiant Alakazam was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.
+0512SmileMan's Radiant Alakazam is now in the Active Spot.
+Gyocchan ended their turn.
+
+Turn # 6 - 0512SmileMan's Turn
+0512SmileMan drew Drakloak.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Earthen Vessel.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Buddy-Buddy Poffin.
+- 0512SmileMan drew Basic Psychic Energy.
+- 0512SmileMan drew Basic Fire Energy.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Arven.
+- 0512SmileMan drew Ultra Ball.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Dragapult ex, Arven
+0512SmileMan played Collapsed Stadium to the Stadium spot.
+- 0512SmileMan discarded Rotom V.
+- Forest Seal Stone was discarded from 0512SmileMan's Rotom V.
+0512SmileMan ended their turn.
+
+Turn # 7 - Gyocchan's Turn
+Gyocchan drew a card.
+Gyocchan played Ultra Ball.
+- Gyocchan discarded 2 cards.
+   • Arceus VSTAR, Giratina VSTAR
+- Gyocchan drew Bibarel.
+- Gyocchan shuffled their deck.
+Gyocchan evolved Bidoof to Bibarel on the Bench.
+Gyocchan's Bibarel used Industrious Incisors.
+- Gyocchan drew 4 cards.
+Gyocchan played Nest Ball.
+- Gyocchan shuffled their deck.
+Gyocchan played Capturing Aroma.
+- Gyocchan flipped a coin and it landed on heads.
+- Gyocchan shuffled their deck.
+Gyocchan played Temple of Sinnoh to the Stadium spot.
+- 0512SmileMan discarded Collapsed Stadium.
+Gyocchan's Bibarel used Industrious Incisors.
+- Gyocchan drew 3 cards.
+Gyocchan played Iono.
+- Gyocchan shuffled their hand.
+- Gyocchan put 4 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 10 cards on the bottom of their deck.
+   • Counter Catcher, Drakloak, Unfair Stamp, Iono, Nest Ball, Arven, Iono, Boss's Orders, Dragapult ex, Ultra Ball
+- 0512SmileMan put Basic Fire Energy on the bottom of their deck.
+- Gyocchan drew 3 cards.
+- 0512SmileMan drew 3 cards.
+   • Natu, Rare Candy, Basic Fire Energy
+Gyocchan ended their turn.
+
+Turn # 7 - 0512SmileMan's Turn
+0512SmileMan drew Boss's Orders.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Counter Catcher.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Unfair Stamp.
+0512SmileMan attached Basic Fire Energy to Radiant Alakazam in the Active Spot.
+0512SmileMan ended their turn.
+
+Turn # 8 - Gyocchan's Turn
+Gyocchan drew a card.
+Gyocchan attached Basic Psychic Energy to Arceus VSTAR in the Active Spot.
+Gyocchan played Nest Ball.
+- Gyocchan shuffled their deck.
+Gyocchan played Lost Vacuum.
+- Gyocchan moved Gyocchan's Arceus V to the Lost Zone.
+- 0512SmileMan moved 0512SmileMan's Rescue Board to the Lost Zone.
+Gyocchan's Bibarel used Industrious Incisors.
+- Gyocchan drew 5 cards.
+Gyocchan played Grabber.
+- 0512SmileMan put Natu on the bottom of their deck.
+Gyocchan's Bibarel used Industrious Incisors.
+- Gyocchan drew a card.
+Gyocchan's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Radiant Alakazam for 200 damage.
+- Gyocchan shuffled their deck.
+0512SmileMan's Radiant Alakazam was Knocked Out!
+Basic Fire Energy was discarded from 0512SmileMan's Radiant Alakazam.
+0512SmileMan's Drakloak is now in the Active Spot.
+Gyocchan took a Prize card.
+A card was added to Gyocchan's hand.
+
+Turn # 8 - 0512SmileMan's Turn
+0512SmileMan drew Nest Ball.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Natu and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Counter Catcher.
+- Gyocchan's Arceus VSTAR was switched with Gyocchan's Arceus VSTAR to become the Active Pokémon.
+Gyocchan's Arceus VSTAR is now in the Active Spot.
+0512SmileMan played Unfair Stamp.
+- 0512SmileMan shuffled 2 cards into their deck.
+   • Rare Candy, Boss's Orders
+- Gyocchan moved Gyocchan's 6 cards to their deck.
+- 0512SmileMan drew 5 cards.
+   • Ultra Ball, Drakloak, Dragapult ex, Rare Candy, Iono
+- Gyocchan drew 2 cards.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Drakloak, Rare Candy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Boss's Orders.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Basic Fire Energy.
+0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.
+0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on Gyocchan’s Arceus VSTAR for 200 damage.
+- 0512SmileMan put 6 damage counters on Gyocchan's Bibarel.
+Gyocchan's Arceus VSTAR was Knocked Out!
+- 2 cards were discarded from Gyocchan's Arceus VSTAR.
+   • Basic Grass Energy, Arceus V
+Gyocchan's Arceus VSTAR is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Basic Psychic Energy was added to 0512SmileMan's hand.
+Ultra Ball was added to 0512SmileMan's hand.
+
+Turn # 9 - Gyocchan's Turn
+Gyocchan drew a card.
+Gyocchan played Boss's Orders.
+- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+Gyocchan's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Dragapult ex for 200 damage.
+- Gyocchan shuffled their deck.
+0512SmileMan's Dragapult ex was Knocked Out!
+- 4 cards were discarded from 0512SmileMan's Dragapult ex.
+   • Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy
+Gyocchan took 2 Prize cards.
+A card was added to Gyocchan's hand.
+A card was added to Gyocchan's hand.
+Opponent took all of their Prize cards. Gyocchan wins.
+

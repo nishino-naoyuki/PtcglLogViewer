@@ -1,0 +1,213 @@
+Setup
+0512SmileMan chose tails for the opening coin flip.
+rhetttt won the coin toss.
+rhetttt decided to go second.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Buddy-Buddy Poffin, Dragapult ex, Rotom V, Technical Machine: Evolution, Dreepy, Lost Vacuum, Iono
+rhetttt drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan played Dreepy to the Active Spot.
+rhetttt played Drifloon to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Nest Ball.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Dreepy
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Natu and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Rotom V to the Bench.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Rescue Board, Nest Ball, Arven
+
+Turn # 1 - rhetttt's Turn
+rhetttt drew a card.
+rhetttt played Buddy-Buddy Poffin.
+- rhetttt drew 2 cards and played them to the Bench.
+   • Ralts, Ralts
+- rhetttt shuffled their deck.
+rhetttt played Nest Ball.
+- rhetttt drew Tatsugiri and played it to the Bench.
+- rhetttt shuffled their deck.
+rhetttt attached Basic Psychic Energy to Drifloon in the Active Spot.
+rhetttt retreated Drifloon to the Bench.
+- Basic Psychic Energy was discarded from rhetttt's Drifloon.
+rhetttt's Tatsugiri is now in the Active Spot.
+rhetttt's Tatsugiri used Attract Customers.
+- rhetttt drew Arven.
+- rhetttt shuffled their deck.
+rhetttt played Arven.
+- rhetttt drew 2 cards.
+   • Buddy-Buddy Poffin, Technical Machine: Evolution
+- rhetttt shuffled their deck.
+rhetttt played Buddy-Buddy Poffin.
+- rhetttt drew 2 cards and played them to the Bench.
+   • Ralts, Ralts
+- rhetttt shuffled their deck.
+rhetttt ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Xatu.
+0512SmileMan evolved Natu to Xatu on the Bench.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Dreepy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Earthen Vessel, Forest Seal Stone
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Iono.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Buddy-Buddy Poffin
+0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.
+0512SmileMan attached Technical Machine: Evolution to Dreepy in the Active Spot.
+0512SmileMan's Dreepy used Evolution.
+- 0512SmileMan evolved Dreepy to Drakloak on the Bench.
+- 0512SmileMan evolved Dreepy to Drakloak on the Bench.
+- 0512SmileMan shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 0512SmileMan's Dreepy.
+
+Turn # 2 - rhetttt's Turn
+rhetttt drew a card.
+rhetttt's Tatsugiri used Attract Customers.
+- rhetttt shuffled their deck.
+rhetttt attached Technical Machine: Evolution to Tatsugiri in the Active Spot.
+rhetttt attached Basic Psychic Energy to Tatsugiri in the Active Spot.
+rhetttt's Tatsugiri used Evolution.
+- rhetttt evolved Ralts to Kirlia on the Bench.
+- rhetttt evolved Ralts to Kirlia on the Bench.
+- rhetttt shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from rhetttt's Tatsugiri.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Earthen Vessel.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Rescue Board to Dreepy in the Active Spot.
+0512SmileMan retreated Dreepy to the Bench.
+0512SmileMan's Drakloak is now in the Active Spot.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Enhanced Hammer, Switch
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Collapsed Stadium.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Rare Candy.
+0512SmileMan's Rotom V used Star Alchemy.
+- 0512SmileMan drew Boss's Orders.
+- 0512SmileMan shuffled their deck.
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.
+0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.
+0512SmileMan played Boss's Orders.
+- rhetttt's Kirlia was switched with rhetttt's Tatsugiri to become the Active Pokémon.
+rhetttt's Kirlia is now in the Active Spot.
+0512SmileMan played Collapsed Stadium to the Stadium spot.
+- 0512SmileMan discarded Rotom V.
+- Forest Seal Stone was discarded from 0512SmileMan's Rotom V.
+- rhetttt discarded Drifloon.
+0512SmileMan's Dragapult ex used Phantom Dive on rhetttt’s Kirlia for 200 damage.
+- 0512SmileMan put 6 damage counters on rhetttt's Kirlia.
+rhetttt's Kirlia was Knocked Out!
+Ralts was discarded from rhetttt's Kirlia.
+rhetttt's Tatsugiri is now in the Active Spot.
+0512SmileMan took a Prize card.
+Iono was added to 0512SmileMan's hand.
+
+Turn # 3 - rhetttt's Turn
+rhetttt drew a card.
+rhetttt's Kirlia used Refinement.
+- rhetttt discarded Basic Psychic Energy.
+- rhetttt drew 2 cards.
+rhetttt's Tatsugiri used Attract Customers.
+- rhetttt drew Arven.
+- rhetttt shuffled their deck.
+rhetttt played Arven.
+- rhetttt drew 2 cards.
+   • Unfair Stamp, Bravery Charm
+- rhetttt shuffled their deck.
+rhetttt played Munkidori to the Bench.
+rhetttt attached Basic Darkness Energy to Munkidori on the Bench.
+rhetttt played Unfair Stamp.
+- rhetttt shuffled 5 cards into their deck.
+- 0512SmileMan moved 0512SmileMan's 6 cards to their deck.
+   • Lost Vacuum, Basic Fire Energy, Enhanced Hammer, Switch, Rare Candy, Iono
+- rhetttt drew 5 cards.
+- 0512SmileMan drew 2 cards.
+   • Switch, Super Rod
+rhetttt played Artazon to the Stadium spot.
+- 0512SmileMan discarded Collapsed Stadium.
+rhetttt played Hisuian Heavy Ball.
+- rhetttt moved rhetttt's Scream Tail to their hand.
+- rhetttt moved rhetttt's Hisuian Heavy Ball to the Prize cards.
+- rhetttt shuffled their Prize cards.
+rhetttt's Munkidori used Adrena-Brain.
+- rhetttt moved 3 damage counters from rhetttt's Kirlia to 0512SmileMan's Drakloak.
+rhetttt ended their turn.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Nest Ball.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan played Artazon.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Arven.
+- 0512SmileMan drew Ultra Ball.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Nest Ball, Switch
+- 0512SmileMan drew Drakloak.
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Enhanced Hammer.
+0512SmileMan's Dragapult ex used Phantom Dive on rhetttt’s Tatsugiri for 200 damage.
+- 0512SmileMan put 6 damage counters on rhetttt's Kirlia.
+rhetttt's Tatsugiri was Knocked Out!
+Basic Psychic Energy was discarded from rhetttt's Tatsugiri.
+rhetttt's Kirlia was Knocked Out!
+Ralts was discarded from rhetttt's Kirlia.
+rhetttt's Ralts is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Manaphy was added to 0512SmileMan's hand.
+Defiance Band was added to 0512SmileMan's hand.
+
+Turn # 4 - rhetttt's Turn
+rhetttt drew a card.
+rhetttt played Arven.
+- rhetttt drew 2 cards.
+   • Ultra Ball, Bravery Charm
+- rhetttt shuffled their deck.
+rhetttt played Ultra Ball.
+- rhetttt discarded 2 cards.
+   • Artazon, Basic Psychic Energy
+- rhetttt drew Kirlia.
+- rhetttt shuffled their deck.
+rhetttt evolved Ralts to Kirlia on the Bench.
+rhetttt's Kirlia used Refinement.
+- rhetttt discarded Cresselia.
+- rhetttt drew 2 cards.
+rhetttt played Scream Tail to the Bench.
+rhetttt played Artazon.
+- rhetttt drew Munkidori and played it to the Bench.
+- rhetttt shuffled their deck.
+Opponent conceded. 0512SmileMan wins.
+

@@ -1,0 +1,75 @@
+Setup
+MrJiangNan chose tails for the opening coin flip.
+0512SmileMan won the coin toss.
+MrJiangNan decided to go second.
+MrJiangNan drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Rare Candy, Arven, Dreepy, Iono, Basic Psychic Energy, Basic Psychic Energy, Dreepy
+MrJiangNan took a mulligan.
+- Cards revealed from Mulligan 1
+   • Forest Seal Stone, Nest Ball, Iono, Dragapult ex, Basic Psychic Energy, Ultra Ball, Arven
+0512SmileMan drew 1 more card because MrJiangNan took at least 1 mulligan.
+- 0512SmileMan drew Dragapult ex.
+MrJiangNan played Radiant Alakazam to the Active Spot.
+0512SmileMan played Dreepy to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Buddy-Buddy Poffin.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Natu
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.
+0512SmileMan ended their turn.
+
+Turn # 1 - MrJiangNan's Turn
+MrJiangNan drew a card.
+MrJiangNan played Ultra Ball.
+- MrJiangNan discarded 2 cards.
+   • Dragapult ex, Enhanced Hammer
+- MrJiangNan drew Rotom V.
+- MrJiangNan shuffled their deck.
+MrJiangNan played Rotom V to the Bench.
+MrJiangNan played Ultra Ball.
+- MrJiangNan discarded 2 cards.
+   • Bibarel, Basic Fire Energy
+- MrJiangNan drew Dreepy.
+- MrJiangNan shuffled their deck.
+MrJiangNan played Dreepy to the Bench.
+MrJiangNan played Roseanne's Backup.
+- MrJiangNan shuffled 2 cards into their deck.
+   • Bibarel, Basic Fire Energy
+MrJiangNan's Rotom V used Instant Charge.
+- MrJiangNan drew 3 cards.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Drakloak.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Defiance Band.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Earthen Vessel, Rescue Board
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Defiance Band.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Fire Energy to Dragapult ex in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on MrJiangNan’s Radiant Alakazam for 200 damage.
+- 0512SmileMan put 6 damage counters on MrJiangNan's Dreepy.
+MrJiangNan's Radiant Alakazam was Knocked Out!
+MrJiangNan's Dreepy is now in the Active Spot.
+0512SmileMan took a Prize card.
+Basic Psychic Energy was added to 0512SmileMan's hand.
+
+Turn # 2 - MrJiangNan's Turn
+MrJiangNan drew a card.
+Opponent conceded. 0512SmileMan wins.
+

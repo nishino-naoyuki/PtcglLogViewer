@@ -1,0 +1,778 @@
+{
+  "file": "ドラパルト　目の子.txt",
+  "players": [
+    "BrHueHueHue",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "BrHueHueHue chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "BrHueHueHue decided to go second.",
+    "BrHueHueHue drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Dreepy, Xatu, Radiant Alakazam, Rotom V, Basic Fire Energy, Boss's Orders, Nest Ball",
+    "BrHueHueHue played Snorunt to the Active Spot.",
+    "BrHueHueHue played Snorunt to the Bench.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Boss's Orders, Dreepy, Earthen Vessel",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "BrHueHueHue",
+      "actions": [
+        {
+          "raw": "BrHueHueHue drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "BrHueHueHue attached Basic Water Energy to Snorunt on the Bench.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Snorunt"
+        },
+        {
+          "raw": "BrHueHueHue attached Rescue Board to Snorunt on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Snorunt"
+        },
+        {
+          "raw": "BrHueHueHue ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- BrHueHueHue's Snorunt was switched with BrHueHueHue's Snorunt to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue's Snorunt is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Dragon Headbutt on BrHueHueHue’s Snorunt for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Drakloak",
+          "attack": "Dragon Headbutt",
+          "target": "BrHueHueHue’s Snorunt",
+          "damage": 70
+        },
+        {
+          "raw": "BrHueHueHue's Snorunt was Knocked Out!",
+          "type": "knockout",
+          "target": "BrHueHueHue's Snorunt"
+        },
+        {
+          "raw": "- 2 cards were discarded from BrHueHueHue's Snorunt.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Water Energy, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue's Snorunt is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Buddy-Buddy Poffin was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "BrHueHueHue",
+      "actions": [
+        {
+          "raw": "BrHueHueHue drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "BrHueHueHue played Irida.",
+          "type": "play",
+          "card": "Irida",
+          "to": null
+        },
+        {
+          "raw": "- BrHueHueHue drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Froakie, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue played Froakie to the Bench.",
+          "type": "play",
+          "card": "Froakie",
+          "to": "Bench"
+        },
+        {
+          "raw": "BrHueHueHue attached Basic Water Energy to Froakie on the Bench.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Froakie"
+        },
+        {
+          "raw": "BrHueHueHue evolved Snorunt to Froslass in the Active Spot.",
+          "type": "evolve",
+          "from": "Snorunt",
+          "to": "Froslass"
+        },
+        {
+          "raw": "BrHueHueHue ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "BrHueHueHue's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue put a damage counter on 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue put a damage counter on 0512SmileMan's Xatu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Drakloak, Jamming Tower",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- BrHueHueHue's Froakie was switched with BrHueHueHue's Froslass to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue's Froakie is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on BrHueHueHue’s Froakie for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "BrHueHueHue’s Froakie",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on BrHueHueHue's Froslass.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue's Froakie was Knocked Out!",
+          "type": "knockout",
+          "target": "BrHueHueHue's Froakie"
+        },
+        {
+          "raw": "Basic Water Energy was discarded from BrHueHueHue's Froakie.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue's Froslass is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Collapsed Stadium was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "BrHueHueHue's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "BrHueHueHue",
+      "actions": [
+        {
+          "raw": "BrHueHueHue drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "BrHueHueHue played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- BrHueHueHue drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Froakie, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue attached Double Turbo Energy to Froakie on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Froakie"
+        },
+        {
+          "raw": "BrHueHueHue ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "BrHueHueHue's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue put a damage counter on BrHueHueHue's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue put a damage counter on 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue put a damage counter on 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from BrHueHueHue's Froslass to BrHueHueHue's Froakie.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on BrHueHueHue’s Froslass for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "BrHueHueHue’s Froslass",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on BrHueHueHue's Froakie.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on BrHueHueHue's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue's Froslass was Knocked Out!",
+          "type": "knockout",
+          "target": "BrHueHueHue's Froslass"
+        },
+        {
+          "raw": "Snorunt was discarded from BrHueHueHue's Froslass.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue's Froakie was Knocked Out!",
+          "type": "knockout",
+          "target": "BrHueHueHue's Froakie"
+        },
+        {
+          "raw": "Double Turbo Energy was discarded from BrHueHueHue's Froakie.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Super Rod was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "BrHueHueHue",
+      "actions": [
+        {
+          "raw": "BrHueHueHue drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "BrHueHueHue played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- BrHueHueHue drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Froakie, Cleffa",
+          "type": "other"
+        },
+        {
+          "raw": "- BrHueHueHue shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on BrHueHueHue’s Manaphy for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "BrHueHueHue’s Manaphy",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on BrHueHueHue's Froakie.",
+          "type": "other"
+        },
+        {
+          "raw": "BrHueHueHue's Manaphy was Knocked Out!",
+          "type": "knockout",
+          "target": "BrHueHueHue's Manaphy"
+        },
+        {
+          "raw": "BrHueHueHue's Froakie was Knocked Out!",
+          "type": "knockout",
+          "target": "BrHueHueHue's Froakie"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Rare Candy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "All Prize cards taken. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "All Prize cards taken. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "BrHueHueHue",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "BrHueHueHue's Snorunt was Knocked Out!",
+        "target": "BrHueHueHue's Snorunt"
+      },
+      {
+        "turn": 3,
+        "raw": "BrHueHueHue's Froakie was Knocked Out!",
+        "target": "BrHueHueHue's Froakie"
+      },
+      {
+        "turn": 4,
+        "raw": "BrHueHueHue's Froslass was Knocked Out!",
+        "target": "BrHueHueHue's Froslass"
+      },
+      {
+        "turn": 4,
+        "raw": "BrHueHueHue's Froakie was Knocked Out!",
+        "target": "BrHueHueHue's Froakie"
+      },
+      {
+        "turn": 5,
+        "raw": "BrHueHueHue's Manaphy was Knocked Out!",
+        "target": "BrHueHueHue's Manaphy"
+      },
+      {
+        "turn": 5,
+        "raw": "BrHueHueHue's Froakie was Knocked Out!",
+        "target": "BrHueHueHue's Froakie"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "All Prize cards taken. 0512SmileMan",
+      "method": null,
+      "final_turn": 5
+    }
+  }
+}

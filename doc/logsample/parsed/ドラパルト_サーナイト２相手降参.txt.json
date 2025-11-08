@@ -1,0 +1,810 @@
+{
+  "file": "ドラパルト　サーナイト２相手降参.txt",
+  "players": [
+    "6890infernape",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "6890infernape chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "6890infernape decided to go second.",
+    "6890infernape drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Boss's Orders, Lost Vacuum, Dreepy, Buddy-Buddy Poffin, Basic Psychic Energy, Dragapult ex, Rotom V",
+    "6890infernape played Ralts to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Iono, Iono, Xatu",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "6890infernape",
+      "actions": [
+        {
+          "raw": "6890infernape drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "6890infernape played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 6890infernape discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape attached Basic Psychic Energy to Ralts in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Ralts"
+        },
+        {
+          "raw": "6890infernape ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Xatu, Lost Vacuum, Iono, Boss's Orders, Basic Psychic Energy, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Basic Fire Energy, Earthen Vessel, Basic Fire Energy, Basic Fire Energy, Enhanced Hammer, Unfair Stamp",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Dragapult ex, Buddy-Buddy Poffin, Forest Seal Stone",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "6890infernape",
+      "actions": [
+        {
+          "raw": "6890infernape drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "6890infernape played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 6890infernape drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 6890infernape moved 6890infernape's Ralts to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape moved 6890infernape's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape played Ralts to the Bench.",
+          "type": "play",
+          "card": "Ralts",
+          "to": "Bench"
+        },
+        {
+          "raw": "6890infernape evolved Ralts to Kirlia in the Active Spot.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "6890infernape's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape discarded Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "6890infernape played Munkidori to the Bench.",
+          "type": "play",
+          "card": "Munkidori",
+          "to": "Bench"
+        },
+        {
+          "raw": "6890infernape played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 6890infernape drew Radiant Greninja and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 6890infernape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "6890infernape attached Technical Machine: Evolution to Kirlia in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Kirlia"
+        },
+        {
+          "raw": "6890infernape's Kirlia used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- 6890infernape evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- 6890infernape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 6890infernape's Kirlia.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Manaphy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- Forest Seal Stone was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape discarded Radiant Greninja.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on 6890infernape’s Kirlia for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "6890infernape’s Kirlia",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on 6890infernape's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "6890infernape's Kirlia"
+        },
+        {
+          "raw": "- 2 cards were discarded from 6890infernape's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape's Munkidori is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "6890infernape",
+      "actions": [
+        {
+          "raw": "6890infernape drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "6890infernape's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape discarded Flutter Mane.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "6890infernape played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 6890infernape shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Kirlia, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape put Ralts on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape discarded Professor Turo's Scenario.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "6890infernape evolved Kirlia to Gardevoir ex on the Bench.",
+          "type": "evolve",
+          "from": "Kirlia",
+          "to": "Gardevoir ex"
+        },
+        {
+          "raw": "6890infernape played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 6890infernape shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 7 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy, Unfair Stamp, Basic Psychic Energy, Technical Machine: Devolution, Rescue Board, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Arven, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 6890infernape drew Drifloon and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 6890infernape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape played Professor Turo's Scenario.",
+          "type": "play",
+          "card": "Professor Turo's Scenario",
+          "to": null
+        },
+        {
+          "raw": "- 6890infernape moved 6890infernape's Kirlia to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape moved 6890infernape's Ralts to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "6890infernape's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "6890infernape played Ralts to the Bench.",
+          "type": "play",
+          "card": "Ralts",
+          "to": "Bench"
+        },
+        {
+          "raw": "6890infernape's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- 6890infernape attached Basic Psychic Energy to Munkidori in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "- 6890infernape put 2 damage counters on 6890infernape's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape performed an action.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from 6890infernape's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "6890infernape ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Defiance Band, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 7,
+    "players": [
+      "6890infernape",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "6890infernape's Kirlia was Knocked Out!",
+        "target": "6890infernape's Kirlia"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "6890infernape",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

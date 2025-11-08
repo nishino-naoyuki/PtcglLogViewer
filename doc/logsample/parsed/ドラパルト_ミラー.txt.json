@@ -1,0 +1,315 @@
+{
+  "file": "ドラパルト　ミラー.txt",
+  "players": [
+    "MrJiangNan",
+    "0512SmileMan",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "MrJiangNan chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "MrJiangNan decided to go second.",
+    "MrJiangNan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Rare Candy, Arven, Dreepy, Iono, Basic Psychic Energy, Basic Psychic Energy, Dreepy",
+    "MrJiangNan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Forest Seal Stone, Nest Ball, Iono, Dragapult ex, Basic Psychic Energy, Ultra Ball, Arven",
+    "0512SmileMan drew 1 more card because MrJiangNan took at least 1 mulligan.",
+    "- 0512SmileMan drew Dragapult ex.",
+    "MrJiangNan played Radiant Alakazam to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "MrJiangNan",
+      "actions": [
+        {
+          "raw": "MrJiangNan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MrJiangNan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- MrJiangNan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Enhanced Hammer",
+          "type": "other"
+        },
+        {
+          "raw": "- MrJiangNan drew Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- MrJiangNan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "MrJiangNan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "MrJiangNan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- MrJiangNan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Bibarel, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- MrJiangNan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "- MrJiangNan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "MrJiangNan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "MrJiangNan played Roseanne's Backup.",
+          "type": "play",
+          "card": "Roseanne's Backup",
+          "to": null
+        },
+        {
+          "raw": "- MrJiangNan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Bibarel, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "MrJiangNan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- MrJiangNan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Defiance Band.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Defiance Band.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on MrJiangNan’s Radiant Alakazam for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "MrJiangNan’s Radiant Alakazam",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on MrJiangNan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "MrJiangNan's Radiant Alakazam was Knocked Out!",
+          "type": "knockout",
+          "target": "MrJiangNan's Radiant Alakazam"
+        },
+        {
+          "raw": "MrJiangNan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "MrJiangNan",
+      "actions": [
+        {
+          "raw": "MrJiangNan drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 4,
+    "players": [
+      "MrJiangNan",
+      "0512SmileMan",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "MrJiangNan's Radiant Alakazam was Knocked Out!",
+        "target": "MrJiangNan's Radiant Alakazam"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 2
+    }
+  }
+}

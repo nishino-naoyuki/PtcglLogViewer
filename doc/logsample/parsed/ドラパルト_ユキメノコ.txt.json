@@ -1,0 +1,1488 @@
+{
+  "file": "ドラパルト　ユキメノコ.txt",
+  "players": [
+    "0512SmileMan",
+    "patchgi_us"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Forest Seal Stone, Dreepy, Buddy-Buddy Poffin, Xatu, Iono, Drakloak, Rare Candy",
+    "patchgi_us drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "patchgi_us played Munkidori to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "patchgi_us",
+      "actions": [
+        {
+          "raw": "patchgi_us drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "patchgi_us played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us moved patchgi_us's Rotom V to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us moved patchgi_us's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "patchgi_us played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Snorunt, Snorunt",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us attached Basic Darkness Energy to Munkidori in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "patchgi_us's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Xatu, Rare Candy, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Rare Candy, Iono, Drakloak, Rotom V, Basic Psychic Energy, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "patchgi_us",
+      "actions": [
+        {
+          "raw": "patchgi_us drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "patchgi_us played Irida.",
+          "type": "play",
+          "card": "Irida",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Froslass, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us evolved Snorunt to Froslass on the Bench.",
+          "type": "evolve",
+          "from": "Snorunt",
+          "to": "Froslass"
+        },
+        {
+          "raw": "patchgi_us played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Noibat, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us drew Froslass.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us evolved Snorunt to Froslass on the Bench.",
+          "type": "evolve",
+          "from": "Snorunt",
+          "to": "Froslass"
+        },
+        {
+          "raw": "patchgi_us played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "patchgi_us played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us played Minior to the Bench.",
+          "type": "play",
+          "card": "Minior",
+          "to": "Bench"
+        },
+        {
+          "raw": "patchgi_us attached Basic Darkness Energy to Minior on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Minior"
+        },
+        {
+          "raw": "patchgi_us's Minior used Far-Flying Meteor.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us's Minior was switched with patchgi_us's Munkidori to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Minior is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Minior used Gravitational Tackle on 0512SmileMan’s Drakloak for 20 damage.",
+          "type": "attack",
+          "attackerOwner": "patchgi_us",
+          "attacker": "Minior",
+          "attack": "Gravitational Tackle",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 20
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "patchgi_us's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Minior.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Minior.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rotom V, Natu, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a card on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Lost Vacuum, Arven, Arven, Drakloak, Drakloak, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Drakloak to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us moved patchgi_us's Artazon to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on patchgi_us’s Minior for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "patchgi_us’s Minior",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on patchgi_us's Froslass.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Minior was Knocked Out!",
+          "type": "knockout",
+          "target": "patchgi_us's Minior"
+        },
+        {
+          "raw": "Basic Darkness Energy was discarded from patchgi_us's Minior.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Munkidori is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "patchgi_us's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "patchgi_us",
+      "actions": [
+        {
+          "raw": "patchgi_us drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "patchgi_us attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "patchgi_us's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us moved 3 damage counters from patchgi_us's Munkidori to 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us drew Snorunt and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us moved 3 damage counters from patchgi_us's Munkidori to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "Dreepy was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to patchgi_us's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on patchgi_us’s Munkidori for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "patchgi_us’s Munkidori",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on patchgi_us's Snorunt.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Munkidori was Knocked Out!",
+          "type": "knockout",
+          "target": "patchgi_us's Munkidori"
+        },
+        {
+          "raw": "Basic Darkness Energy was discarded from patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Snorunt was Knocked Out!",
+          "type": "knockout",
+          "target": "patchgi_us's Snorunt"
+        },
+        {
+          "raw": "patchgi_us's Munkidori is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "patchgi_us's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "patchgi_us",
+      "actions": [
+        {
+          "raw": "patchgi_us drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "patchgi_us played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Minior, Munkidori, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us drew Minior and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us played Irida.",
+          "type": "play",
+          "card": "Irida",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Snorunt, Unfair Stamp",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us attached Technical Machine: Devolution to Munkidori in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "patchgi_us played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us shuffled 7 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arven, Boss's Orders, Unfair Stamp, Technical Machine: Evolution, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Xatu, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us moved 3 damage counters from patchgi_us's Munkidori to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Munkidori used Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us devolved 0512SmileMan's Dragapult ex to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "0512SmileMan's Dragapult ex",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Dragapult ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us devolved 0512SmileMan's Dragapult ex to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "0512SmileMan's Dragapult ex",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Dragapult ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us devolved 0512SmileMan's Dragapult ex to Dreepy in the Active Spot.",
+          "type": "evolve",
+          "from": "0512SmileMan's Dragapult ex",
+          "to": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Dragapult ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "Dreepy was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Minior.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Minior.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to patchgi_us's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to patchgi_us's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Natu on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on patchgi_us’s Munkidori for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "patchgi_us’s Munkidori",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on patchgi_us's Froslass.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Munkidori was Knocked Out!",
+          "type": "knockout",
+          "target": "patchgi_us's Munkidori"
+        },
+        {
+          "raw": "Basic Darkness Energy was discarded from patchgi_us's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Froslass was Knocked Out!",
+          "type": "knockout",
+          "target": "patchgi_us's Froslass"
+        },
+        {
+          "raw": "Snorunt was discarded from patchgi_us's Froslass.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Minior is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Manaphy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "patchgi_us's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Minior.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "patchgi_us",
+      "actions": [
+        {
+          "raw": "patchgi_us drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "patchgi_us played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "patchgi_us played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- patchgi_us drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- patchgi_us shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "patchgi_us can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "patchgi_us can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "patchgi_us attached Technical Machine: Devolution to Minior in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Minior"
+        },
+        {
+          "raw": "patchgi_us attached Basic Darkness Energy to Minior in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Minior"
+        },
+        {
+          "raw": "patchgi_us's Minior used Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us devolved 0512SmileMan's Dragapult ex to Dreepy in the Active Spot.",
+          "type": "evolve",
+          "from": "0512SmileMan's Dragapult ex",
+          "to": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Dragapult ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from patchgi_us's Minior.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "patchgi_us's Froslass used Freezing Shroud.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Minior.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- patchgi_us put a damage counter on patchgi_us's Munkidori.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Jamming Tower.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 11,
+    "players": [
+      "0512SmileMan",
+      "patchgi_us"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "patchgi_us's Minior was Knocked Out!",
+        "target": "patchgi_us's Minior"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 4,
+        "raw": "patchgi_us's Munkidori was Knocked Out!",
+        "target": "patchgi_us's Munkidori"
+      },
+      {
+        "turn": 4,
+        "raw": "patchgi_us's Snorunt was Knocked Out!",
+        "target": "patchgi_us's Snorunt"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 5,
+        "raw": "patchgi_us's Munkidori was Knocked Out!",
+        "target": "patchgi_us's Munkidori"
+      },
+      {
+        "turn": 5,
+        "raw": "patchgi_us's Froslass was Knocked Out!",
+        "target": "patchgi_us's Froslass"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 5,
+        "raw": "patchgi_us can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "patchgi_us",
+      "method": "concession",
+      "final_turn": 6
+    }
+  }
+}

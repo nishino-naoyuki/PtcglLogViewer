@@ -1,0 +1,286 @@
+Setup
+0512SmileMan chose heads for the opening coin flip.
+0512SmileMan won the coin toss.
+0512SmileMan decided to go first.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Jacq, Lugia V, Flutter Mane, Professor's Research, Boss's Orders, Capturing Aroma, Capturing Aroma
+MNK12345 drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan played Flutter Mane to the Active Spot.
+MNK12345 played Brute Bonnet to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Archeops.
+0512SmileMan played Capturing Aroma.
+- 0512SmileMan flipped a coin and it landed on heads.
+- 0512SmileMan drew Archeops.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Capturing Aroma.
+- 0512SmileMan flipped a coin and it landed on tails.
+- 0512SmileMan drew Lumineon V.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Lugia V to the Bench.
+0512SmileMan played Lumineon V to the Bench.
+0512SmileMan's Lumineon V used Luminous Sign.
+- 0512SmileMan drew Carmine.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Carmine.
+- 0512SmileMan discarded 5 cards.
+   • Jacq, Professor's Research, Boss's Orders, Archeops, Archeops
+- 0512SmileMan drew 5 cards.
+   • Gift Energy, Jet Energy, Iron Hands ex, Mesagoza, Bloodmoon Ursaluna ex
+0512SmileMan ended their turn.
+
+Turn # 1 - MNK12345's Turn
+MNK12345 drew a card.
+MNK12345 played Nest Ball.
+- MNK12345 drew Radiant Greninja and played it to the Bench.
+- MNK12345 shuffled their deck.
+MNK12345 played Earthen Vessel.
+- MNK12345 discarded Explorer's Guidance.
+- MNK12345 drew 2 cards.
+   • Basic Darkness Energy, Basic Darkness Energy
+- MNK12345 shuffled their deck.
+MNK12345's Radiant Greninja used Concealed Cards.
+- MNK12345 discarded Basic Darkness Energy.
+- MNK12345 drew 2 cards.
+MNK12345 played Explorer's Guidance.
+- MNK12345 drew 2 cards.
+- MNK12345 moved MNK12345's 4 cards to the discard pile.
+   • Basic Darkness Energy, Munkidori, Roaring Moon ex, Roaring Moon ex
+MNK12345 played Roaring Moon to the Bench.
+MNK12345 attached Basic Darkness Energy to Roaring Moon on the Bench.
+MNK12345 played Dark Patch.
+- MNK12345 attached Basic Darkness Energy to Roaring Moon on the Bench.
+MNK12345 played Ultra Ball.
+- MNK12345 discarded 2 cards.
+   • Explorer's Guidance, Earthen Vessel
+- MNK12345 drew Roaring Moon.
+- MNK12345 shuffled their deck.
+MNK12345 played Roaring Moon to the Bench.
+MNK12345 played Switch Cart.
+- MNK12345's Roaring Moon was switched with MNK12345's Brute Bonnet to become the Active Pokémon.
+MNK12345's Roaring Moon is now in the Active Spot.
+MNK12345 attached Ancient Booster Energy Capsule to Brute Bonnet on the Bench.
+MNK12345's Roaring Moon used Vengeance Fletching on 0512SmileMan’s Flutter Mane for 140 damage.
+0512SmileMan's Flutter Mane was Knocked Out!
+0512SmileMan's Lugia V is now in the Active Spot.
+MNK12345 took a Prize card.
+A card was added to MNK12345's hand.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Lugia V.
+0512SmileMan played Lugia V to the Bench.
+0512SmileMan played Mesagoza to the Stadium spot.
+0512SmileMan played Mesagoza.
+- 0512SmileMan flipped a coin and it landed on tails.
+0512SmileMan attached Gift Energy to Lugia V in the Active Spot.
+0512SmileMan's Lugia V used Read the Wind.
+- 0512SmileMan discarded Jet Energy.
+- 0512SmileMan drew 3 cards.
+   • Minccino, Jet Energy, Cinccino
+
+Turn # 2 - MNK12345's Turn
+MNK12345 drew a card.
+MNK12345 played Mesagoza.
+- 0512SmileMan flipped a coin and it landed on tails.
+MNK12345 played Trekking Shoes.
+- MNK12345 moved MNK12345's Ancient Booster Energy Capsule to the discard pile.
+- MNK12345 drew a card.
+MNK12345 played Trekking Shoes.
+- MNK12345 drew a card.
+MNK12345 played Roaring Moon ex to the Bench.
+MNK12345 played Professor Sada's Vitality.
+- MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.
+- MNK12345 drew 3 cards.
+MNK12345 played Brute Bonnet to the Bench.
+MNK12345's Radiant Greninja used Concealed Cards.
+- MNK12345 discarded Basic Darkness Energy.
+- MNK12345 drew 2 cards.
+MNK12345 played Trekking Shoes.
+- MNK12345 drew a card.
+MNK12345 played Trekking Shoes.
+- MNK12345 drew a card.
+MNK12345 attached Ancient Booster Energy Capsule to Brute Bonnet on the Bench.
+MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.
+MNK12345's Brute Bonnet used Toxic Powder.
+- MNK12345's Roaring Moon is now Poisoned.
+- 0512SmileMan's Lugia V is now Poisoned.
+MNK12345's Roaring Moon used Vengeance Fletching on 0512SmileMan’s Lugia V for 160 damage.
+
+Pokémon Checkup
+1 damage counter was placed on MNK12345's Roaring Moon for the Special Condition Poisoned.
+1 damage counter was placed on 0512SmileMan's Lugia V for the Special Condition Poisoned.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Minccino.
+0512SmileMan played Minccino to the Bench.
+0512SmileMan played Mesagoza.
+- 0512SmileMan flipped a coin and it landed on tails.
+0512SmileMan attached Jet Energy to Minccino on the Bench.
+Jet Energy was activated.
+- 0512SmileMan's Minccino was switched with 0512SmileMan's Lugia V to become the Active Pokémon.
+0512SmileMan's Minccino is now in the Active Spot.
+0512SmileMan's Minccino used Beat on MNK12345’s Roaring Moon for 10 damage.
+
+Pokémon Checkup
+1 damage counter was placed on MNK12345's Roaring Moon for the Special Condition Poisoned.
+
+Turn # 3 - MNK12345's Turn
+MNK12345 drew a card.
+MNK12345 played Mesagoza.
+- 0512SmileMan flipped a coin and it landed on tails.
+MNK12345 played PokéStop to the Stadium spot.
+- 0512SmileMan discarded Mesagoza.
+MNK12345 played PokéStop.
+- MNK12345 moved MNK12345's 3 cards to the discard pile.
+   • Basic Darkness Energy, Dark Patch, Nest Ball
+- MNK12345 moved MNK12345's 2 cards to their hand.
+   • Dark Patch, Nest Ball
+MNK12345 played Professor Sada's Vitality.
+- MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.
+- MNK12345 attached Basic Darkness Energy to Roaring Moon on the Bench.
+- MNK12345 drew 3 cards.
+MNK12345 attached Ancient Booster Energy Capsule to Roaring Moon in the Active Spot.
+Ancient Booster Energy Capsule was activated.
+- MNK12345's Roaring Moon has recovered from all Special Conditions.
+MNK12345's Roaring Moon used Vengeance Fletching on 0512SmileMan’s Minccino for 170 damage.
+0512SmileMan's Minccino was Knocked Out!
+Jet Energy was discarded from 0512SmileMan's Minccino.
+0512SmileMan's Lugia V is now in the Active Spot.
+MNK12345 took a Prize card.
+A card was added to MNK12345's hand.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Mist Energy.
+0512SmileMan played PokéStop.
+- 0512SmileMan moved 0512SmileMan's 3 cards to the discard pile.
+   • Legacy Energy, Ultra Ball, Ultra Ball
+- 0512SmileMan moved 0512SmileMan's 2 cards to their hand.
+   • Ultra Ball, Ultra Ball
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Ultra Ball, Iron Hands ex
+- 0512SmileMan drew Lugia VSTAR.
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Lugia V to Lugia VSTAR in the Active Spot.
+0512SmileMan played Minccino to the Bench.
+0512SmileMan's Lugia VSTAR used Summoning Star.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Archeops, Archeops
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan's Archeops used Primal Turbo.
+- 0512SmileMan attached Double Turbo Energy to Lugia VSTAR in the Active Spot.
+- 0512SmileMan attached Mist Energy to Lugia VSTAR in the Active Spot.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Archeops used Primal Turbo.
+- 0512SmileMan attached Double Turbo Energy to Minccino on the Bench.
+- 0512SmileMan attached Gift Energy to Minccino on the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Lugia VSTAR used Tempest Dive on MNK12345’s Roaring Moon for 200 damage.
+- MNK12345 discarded PokéStop.
+MNK12345's Roaring Moon was Knocked Out!
+- 3 cards were discarded from MNK12345's Roaring Moon.
+   • Basic Darkness Energy, Basic Darkness Energy, Ancient Booster Energy Capsule
+MNK12345's Roaring Moon is now in the Active Spot.
+0512SmileMan took a Prize card.
+Iono was added to 0512SmileMan's hand.
+
+Turn # 4 - MNK12345's Turn
+MNK12345 drew a card.
+MNK12345 played Dark Patch.
+- MNK12345 attached Basic Darkness Energy to Brute Bonnet on the Bench.
+MNK12345 played PokéStop to the Stadium spot.
+MNK12345 played PokéStop.
+- MNK12345 moved MNK12345's 3 cards to the discard pile.
+   • Basic Darkness Energy, Nest Ball, Prime Catcher
+- MNK12345 moved MNK12345's 2 cards to their hand.
+   • Nest Ball, Prime Catcher
+MNK12345 played Nest Ball.
+- MNK12345 drew Roaring Moon and played it to the Bench.
+- MNK12345 shuffled their deck.
+MNK12345 played Prime Catcher.
+- 0512SmileMan's Lugia V was switched with 0512SmileMan's Lugia VSTAR to become the Active Pokémon.
+- MNK12345's Roaring Moon ex was switched with MNK12345's Roaring Moon to become the Active Pokémon.
+0512SmileMan's Lugia V is now in the Active Spot.
+MNK12345's Roaring Moon ex is now in the Active Spot.
+MNK12345 played Dark Patch.
+- MNK12345 attached Basic Darkness Energy to Roaring Moon on the Bench.
+MNK12345's Roaring Moon ex used Calamity Storm on 0512SmileMan’s Lugia V for 220 damage.
+- MNK12345 discarded PokéStop.
+0512SmileMan's Lugia V was Knocked Out!
+0512SmileMan's Minccino is now in the Active Spot.
+MNK12345 took 2 Prize cards.
+A card was added to MNK12345's hand.
+A card was added to MNK12345's hand.
+
+Turn # 5 - 0512SmileMan's Turn
+0512SmileMan drew Ultra Ball.
+0512SmileMan played Bloodmoon Ursaluna ex to the Bench.
+0512SmileMan evolved Minccino to Cinccino in the Active Spot.
+0512SmileMan's Archeops used Primal Turbo.
+- 0512SmileMan attached Jet Energy to Cinccino in the Active Spot.
+- 0512SmileMan attached Gift Energy to Cinccino in the Active Spot.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Mist Energy to Bloodmoon Ursaluna ex on the Bench.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put Ultra Ball on the bottom of their deck.
+- MNK12345 shuffled their hand.
+- MNK12345 put 5 cards on the bottom of their deck.
+- 0512SmileMan drew 5 cards.
+   • Great Ball, Gift Energy, Boss's Orders, Thorton, Carmine
+- MNK12345 drew 2 cards.
+0512SmileMan played Great Ball.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Cinccino used Special Roll on MNK12345’s Roaring Moon ex for 260 damage.
+MNK12345's Roaring Moon ex was Knocked Out!
+- 3 cards were discarded from MNK12345's Roaring Moon ex.
+   • Basic Darkness Energy, Basic Darkness Energy, Basic Darkness Energy
+MNK12345's Roaring Moon is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Double Turbo Energy was added to 0512SmileMan's hand.
+Mesagoza was added to 0512SmileMan's hand.
+
+Turn # 5 - MNK12345's Turn
+MNK12345 drew a card.
+MNK12345 played PokéStop to the Stadium spot.
+MNK12345 played PokéStop.
+- MNK12345 moved MNK12345's 3 cards to the discard pile.
+   • Ultra Ball, Basic Darkness Energy, Earthen Vessel
+- MNK12345 moved MNK12345's 2 cards to their hand.
+   • Ultra Ball, Earthen Vessel
+MNK12345 played Earthen Vessel.
+- MNK12345 discarded Brute Bonnet.
+- MNK12345 drew 2 cards.
+   • Basic Darkness Energy, Basic Darkness Energy
+- MNK12345 shuffled their deck.
+MNK12345's Radiant Greninja used Concealed Cards.
+- MNK12345 discarded Basic Darkness Energy.
+- MNK12345 drew 2 cards.
+MNK12345 played Explorer's Guidance.
+- MNK12345 drew 2 cards.
+- MNK12345 moved MNK12345's 4 cards to the discard pile.
+   • Professor Sada's Vitality, Roaring Moon, Earthen Vessel, Nest Ball
+MNK12345 played Roaring Moon ex to the Bench.
+MNK12345 played Dark Patch.
+- MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.
+MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.
+MNK12345's Roaring Moon used Vengeance Fletching on 0512SmileMan’s Cinccino for 260 damage.
+0512SmileMan's Cinccino was Knocked Out!
+- 5 cards were discarded from 0512SmileMan's Cinccino.
+   • Double Turbo Energy, Gift Energy, Jet Energy, Gift Energy, Minccino
+Gift Energy was activated.
+- 0512SmileMan drew Archeops.
+0512SmileMan's Bloodmoon Ursaluna ex is now in the Active Spot.
+MNK12345 took a Prize card.
+A card was added to MNK12345's hand.
+
+Turn # 6 - 0512SmileMan's Turn
+0512SmileMan drew Archeops.
+0512SmileMan ended their turn.
+
+Turn # 6 - MNK12345's Turn
+Opponent's deck ran out of cards. 0512SmileMan wins.
+

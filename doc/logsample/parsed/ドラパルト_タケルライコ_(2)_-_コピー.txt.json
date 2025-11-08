@@ -1,0 +1,1543 @@
+{
+  "file": "ドラパルト　タケルライコ (2) - コピー.txt",
+  "players": [
+    "Cymzz666",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "Cymzz666 chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "Cymzz666 decided to go second.",
+    "Cymzz666 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Rescue Board, Boss's Orders, Dreepy, Dreepy, Buddy-Buddy Poffin, Dreepy, Counter Catcher",
+    "Cymzz666 played Mew ex to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Cymzz666",
+      "actions": [
+        {
+          "raw": "Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Cymzz666 played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Teal Mask Ogerpon ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Cymzz666's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 discarded Basic Fighting Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played PokéStop to the Stadium spot.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Cymzz666 played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor Sada's Vitality, Ultra Ball, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 discarded Basic Fighting Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 drew Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played Raging Bolt ex to the Bench.",
+          "type": "play",
+          "card": "Raging Bolt ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Cymzz666 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Lightning Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- Cymzz666 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Cymzz666 played Energy Retrieval.",
+          "type": "play",
+          "card": "Energy Retrieval",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fighting Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 attached Basic Fighting Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Cymzz666 played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Cymzz666's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 retreated Mew ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dreepy for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "Cymzz666",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 70
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Cymzz666's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Cymzz666's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Basic Psychic Energy, Xatu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Buddy-Buddy Poffin to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Manaphy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Natu in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan retreated Natu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Cymzz666",
+      "actions": [
+        {
+          "raw": "Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 attached Bravery Charm to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Cymzz666 played Energy Retrieval.",
+          "type": "play",
+          "card": "Energy Retrieval",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's Basic Grass Energy to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's Basic Fighting Energy to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 drew Raging Bolt ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 discarded Basic Lightning Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 discarded Basic Fighting Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Fighting Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- Cymzz666 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Cymzz666 attached Basic Lightning Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Cymzz666 played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dreepy was switched with 0512SmileMan's Manaphy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666's Raging Bolt ex was switched with Cymzz666's Raging Bolt ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dreepy for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "Cymzz666",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 70
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Cymzz666's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Cymzz666's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666's Teal Mask Ogerpon ex was switched with Cymzz666's Raging Bolt ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Teal Mask Ogerpon ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Manaphy on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's 7 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Rotom V, Dragapult ex, Ultra Ball, Rare Candy, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Earthen Vessel, Boss's Orders, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Earthen Vessel, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan retreated Natu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Drakloak, Iono, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Cymzz666",
+      "actions": [
+        {
+          "raw": "Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Drakloak, Arven, Iono, Dragapult ex, Dragapult ex, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Basic Fire Energy, Arven, Buddy-Buddy Poffin, Radiant Alakazam, Dragapult ex, Enhanced Hammer",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Pokégear 3.0, Bravery Charm, Raging Bolt ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's Pokégear 3.0 to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 retreated Teal Mask Ogerpon ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Cymzz666's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Manaphy for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "Cymzz666",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Manaphy",
+          "damage": 70
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Cymzz666's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Manaphy"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Cymzz666's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Lost Vacuum, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Forest Seal Stone, Iono, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Earthen Vessel to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Rare Candy to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's Bravery Charm to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Cymzz666’s Raging Bolt ex for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Cymzz666’s Raging Bolt ex",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Cymzz666's Raging Bolt ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Cymzz666",
+      "actions": [
+        {
+          "raw": "Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Nest Ball, Pal Pad",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 moved Cymzz666's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Pal Pad",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Grass Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- Cymzz666 attached Basic Grass Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- Cymzz666 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Cymzz666 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, PokéStop",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 drew Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 played Pal Pad.",
+          "type": "play",
+          "card": "Pal Pad",
+          "to": null
+        },
+        {
+          "raw": "- Cymzz666 shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor Sada's Vitality, Professor Sada's Vitality",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dragapult ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "Cymzz666",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 350
+        },
+        {
+          "raw": "- 2 cards were discarded from Cymzz666's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 3 cards were discarded from Cymzz666's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 5 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Drakloak, Dreepy, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Cymzz666's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Cymzz666's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Drakloak, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved a damage counter from Cymzz666's Raging Bolt ex to Cymzz666's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex was Knocked Out!",
+          "type": "knockout",
+          "target": "Cymzz666's Raging Bolt ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from Cymzz666's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Mew ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Natu was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 put 10 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Arven, Buddy-Buddy Poffin, Arven, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Drakloak, Boss's Orders, Iono",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Cymzz666",
+      "actions": [
+        {
+          "raw": "Cymzz666 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Cymzz666 attached Basic Fighting Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Cymzz666 retreated Mew ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Cymzz666's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Rotom V for 210 damage.",
+          "type": "attack",
+          "attackerOwner": "Cymzz666",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Rotom V",
+          "damage": 210
+        },
+        {
+          "raw": "- 3 cards were discarded from Cymzz666's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fighting Energy, Basic Fighting Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Rotom V"
+        },
+        {
+          "raw": "Cymzz666 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Cymzz666's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. Cymzz666 wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. Cymzz666 wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 10,
+    "players": [
+      "Cymzz666",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 1,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Manaphy was Knocked Out!",
+        "target": "0512SmileMan's Manaphy"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "Cymzz666's Raging Bolt ex was Knocked Out!",
+        "target": "Cymzz666's Raging Bolt ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Rotom V was Knocked Out!",
+        "target": "0512SmileMan's Rotom V"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. Cymzz666",
+      "method": null,
+      "final_turn": 5
+    }
+  }
+}

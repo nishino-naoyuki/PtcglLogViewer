@@ -1,0 +1,1309 @@
+{
+  "file": "ドラパルト　タケルライコ.txt",
+  "players": [
+    "0512SmileMan",
+    "Adminyxz",
+    "- Adminyxz"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "Adminyxz won the coin toss.",
+    "Adminyxz decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Defiance Band, Technical Machine: Devolution, Boss's Orders, Buddy-Buddy Poffin, Nest Ball, Ultra Ball, Ultra Ball",
+    "Adminyxz drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Defiance Band, Technical Machine: Devolution, Boss's Orders, Buddy-Buddy Poffin, Nest Ball, Ultra Ball, Ultra Ball",
+    "Adminyxz drew 1 more card because 0512SmileMan took at least 1 mulligan.",
+    "- Adminyxz drew a card.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "Adminyxz played Teal Mask Ogerpon ex to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "Adminyxz",
+      "actions": [
+        {
+          "raw": "Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Teal Mask Ogerpon ex, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Adminyxz played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz drew Squawkabilly ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Adminyxz shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz discarded Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "Adminyxz's Squawkabilly ex used Squawk and Seize.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz discarded 6 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Pokégear 3.0, Professor Sada's Vitality, Basic Fighting Energy, Basic Lightning Energy, Basic Fighting Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "Adminyxz played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Adminyxz's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Forest Seal Stone, Lost Vacuum, Switch, Dragapult ex, Earthen Vessel, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Radiant Alakazam, Dragapult ex, Ultra Ball, Buddy-Buddy Poffin, Arven, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Adminyxz",
+      "actions": [
+        {
+          "raw": "Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz played Raging Bolt ex to the Bench.",
+          "type": "play",
+          "card": "Raging Bolt ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Adminyxz played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz drew Raging Bolt ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Adminyxz shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz attached Basic Fighting Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- Adminyxz attached Basic Lightning Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- Adminyxz drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Adminyxz attached Basic Lightning Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Adminyxz attached Bravery Charm to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Adminyxz attached Bravery Charm to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Adminyxz retreated Teal Mask Ogerpon ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Adminyxz's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dreepy for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "Adminyxz",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 70
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Adminyxz's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Adminyxz's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Defiance Band.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 4 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Ultra Ball, Arven, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz moved Adminyxz's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Ultra Ball, Earthen Vessel, Earthen Vessel, Dragapult ex, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Adminyxz",
+      "actions": [
+        {
+          "raw": "Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz discarded Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz played Energy Retrieval.",
+          "type": "play",
+          "card": "Energy Retrieval",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz moved Adminyxz's Basic Grass Energy to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz moved Adminyxz's Basic Fighting Energy to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz attached Basic Fighting Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Adminyxz's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Radiant Alakazam for 140 damage.",
+          "type": "attack",
+          "attackerOwner": "Adminyxz",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Radiant Alakazam",
+          "damage": 140
+        },
+        {
+          "raw": "- Basic Lightning Energy was discarded from Adminyxz's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Adminyxz's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Radiant Alakazam"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Adminyxz's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Defiance Band.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Natu, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Adminyxz",
+      "actions": [
+        {
+          "raw": "Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz discarded Radiant Greninja.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "Adminyxz's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Drakloak for 140 damage.",
+          "type": "attack",
+          "attackerOwner": "Adminyxz",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 140
+        },
+        {
+          "raw": "- 2 cards were discarded from Adminyxz's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "Dreepy was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Adminyxz's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Adminyxz’s Raging Bolt ex for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Adminyxz’s Raging Bolt ex",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Adminyxz's Raging Bolt ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Adminyxz",
+      "actions": [
+        {
+          "raw": "Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch, Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Basic Psychic Energy, Earthen Vessel, Arven, Enhanced Hammer, Iono, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dragapult ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "Adminyxz",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 350
+        },
+        {
+          "raw": "- Basic Lightning Energy was discarded from Adminyxz's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4 cards were discarded from Adminyxz's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fighting Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 5 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Drakloak, Dreepy, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Adminyxz's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Adminyxz's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Natu, Drakloak, Basic Psychic Energy, Basic Psychic Energy, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Forest Seal Stone, Drakloak, Xatu, Rare Candy, Boss's Orders, Hisuian Heavy Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "Adminyxz",
+      "actions": [
+        {
+          "raw": "Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz attached Bravery Charm to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "Adminyxz's Raging Bolt ex used Burst Roar.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz discarded Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rescue Board.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Counter Catcher, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz's Teal Mask Ogerpon ex was switched with Adminyxz's Raging Bolt ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz's Teal Mask Ogerpon ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "Adminyxz",
+      "actions": [
+        {
+          "raw": "Adminyxz drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Adminyxz played Pal Pad.",
+          "type": "play",
+          "card": "Pal Pad",
+          "to": null
+        },
+        {
+          "raw": "- Adminyxz shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor Sada's Vitality, Professor Sada's Vitality",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Xatu to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz's Raging Bolt ex was switched with Adminyxz's Teal Mask Ogerpon ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Adminyxz's Raging Bolt ex used Burst Roar.",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz discarded 5 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Nest Ball, Nest Ball, Boss's Orders, Raging Bolt ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Adminyxz drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "You conceded. Adminyxz wins.",
+          "type": "result",
+          "detail": "You conceded. Adminyxz wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 14,
+    "players": [
+      "0512SmileMan",
+      "Adminyxz",
+      "- Adminyxz"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Radiant Alakazam was Knocked Out!",
+        "target": "0512SmileMan's Radiant Alakazam"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "Adminyxz",
+      "method": "concession",
+      "final_turn": 7
+    }
+  }
+}

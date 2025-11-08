@@ -1,0 +1,1204 @@
+{
+  "file": "ドラパルト　イダイナキバLOmake .txt",
+  "players": [
+    "0512SmileMan",
+    "Towo213"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Psychic Energy, Super Rod, Drakloak, Dreepy, Natu, Rare Candy, Iono",
+    "Towo213 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Natu to the Active Spot.",
+    "Towo213 played Great Tusk to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Defiance Band, Manaphy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Towo213",
+      "actions": [
+        {
+          "raw": "Towo213 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Towo213 played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 drew Explorer's Guidance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 played Explorer's Guidance.",
+          "type": "play",
+          "card": "Explorer's Guidance",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- Towo213 moved Towo213's 4 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Koraidon, Flutter Mane, Flutter Mane, Professor Sada's Vitality",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 played PokéStop to the Stadium spot.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Towo213 played Roaring Moon to the Bench.",
+          "type": "play",
+          "card": "Roaring Moon",
+          "to": "Bench"
+        },
+        {
+          "raw": "Towo213 played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 moved Towo213's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Super Rod, Nest Ball, Flutter Mane",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 moved Towo213's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Super Rod, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 drew Radiant Greninja and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Towo213 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Towo213 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Manaphy, Rare Candy, Boss's Orders, Super Rod, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Nest Ball, Enhanced Hammer, Buddy-Buddy Poffin, Basic Fire Energy, Forest Seal Stone, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Drakloak, Manaphy, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Towo213",
+      "actions": [
+        {
+          "raw": "Towo213 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Towo213 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 drew Roaring Moon and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Towo213 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Towo213 played Roaring Moon to the Bench.",
+          "type": "play",
+          "card": "Roaring Moon",
+          "to": "Bench"
+        },
+        {
+          "raw": "Towo213 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ancient Booster Energy Capsule, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 drew Great Tusk.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 played Great Tusk to the Bench.",
+          "type": "play",
+          "card": "Great Tusk",
+          "to": "Bench"
+        },
+        {
+          "raw": "Towo213 played Awakening Drum.",
+          "type": "play",
+          "card": "Awakening Drum",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "Towo213 played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 moved Towo213's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Great Tusk, PokéStop, Counter Catcher",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 moved Towo213's Counter Catcher to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 played Explorer's Guidance.",
+          "type": "play",
+          "card": "Explorer's Guidance",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- Towo213 moved Towo213's 4 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor Sada's Vitality, Super Rod, Counter Catcher, Explorer's Guidance",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 played Pal Pad.",
+          "type": "play",
+          "card": "Pal Pad",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor Sada's Vitality, Professor Sada's Vitality",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 attached Basic Darkness Energy to Roaring Moon on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "Towo213 attached Ancient Booster Energy Capsule to Roaring Moon on the Bench.",
+          "type": "attach",
+          "energy": "Ancient Booster Energy Capsule",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "Towo213 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Enhanced Hammer",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Arven, Counter Catcher, Buddy-Buddy Poffin",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Towo213",
+      "actions": [
+        {
+          "raw": "Towo213 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Towo213 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 attached Basic Darkness Energy to Great Tusk in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Great Tusk"
+        },
+        {
+          "raw": "- Towo213 attached Basic Darkness Energy to Roaring Moon on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "- Towo213 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Towo213 attached Jet Energy to Great Tusk in the Active Spot.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Great Tusk"
+        },
+        {
+          "raw": "Towo213 played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 moved Towo213's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lost Vacuum, Flutter Mane, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 moved Towo213's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lost Vacuum, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Great Tusk used Land Collapse.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 4 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Ultra Ball, Super Rod, Unfair Stamp",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Switch, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Xatu to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Xatu on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Towo213’s Great Tusk for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Towo213’s Great Tusk",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Towo213's Great Tusk.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Great Tusk was Knocked Out!",
+          "type": "knockout",
+          "target": "Towo213's Great Tusk"
+        },
+        {
+          "raw": "- 2 cards were discarded from Towo213's Great Tusk.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Jet Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Roaring Moon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Rescue Board was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Towo213",
+      "actions": [
+        {
+          "raw": "Towo213 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Towo213 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 attached Basic Darkness Energy to Roaring Moon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "- Towo213 attached Basic Darkness Energy to Great Tusk on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Great Tusk"
+        },
+        {
+          "raw": "- Towo213 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Towo213 played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 attached Ancient Booster Energy Capsule to Great Tusk on the Bench.",
+          "type": "attach",
+          "energy": "Ancient Booster Energy Capsule",
+          "target": "Great Tusk"
+        },
+        {
+          "raw": "Towo213 attached Jet Energy to Great Tusk on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Great Tusk"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213's Great Tusk was switched with Towo213's Roaring Moon to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Great Tusk is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Great Tusk used Land Collapse.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 4 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Earthen Vessel, Arven, Earthen Vessel, Basic Fire Energy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Lost Vacuum, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Buddy-Buddy Poffin to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Forest Seal Stone to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan retreated Rotom V to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Towo213’s Great Tusk for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Towo213’s Great Tusk",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Towo213's Radiant Greninja.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Great Tusk was Knocked Out!",
+          "type": "knockout",
+          "target": "Towo213's Great Tusk"
+        },
+        {
+          "raw": "- 3 cards were discarded from Towo213's Great Tusk.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Jet Energy, Ancient Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Roaring Moon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Boss's Orders was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Towo213",
+      "actions": [
+        {
+          "raw": "Towo213 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Towo213 played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Great Tusk, Great Tusk",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 put Basic Darkness Energy on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 drew Great Tusk and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Towo213 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 retreated Roaring Moon to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- 2 cards were discarded from Towo213's Roaring Moon.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213's Great Tusk is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 attached Basic Darkness Energy to Great Tusk in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Great Tusk"
+        },
+        {
+          "raw": "- Towo213 attached Basic Darkness Energy to Roaring Moon on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "- Towo213 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Towo213 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Towo213 discarded Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 drew Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Towo213 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Towo213 attached Basic Darkness Energy to Great Tusk in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Great Tusk"
+        },
+        {
+          "raw": "Towo213's Great Tusk used Land Collapse.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Dreepy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "Your deck ran out of cards. Towo213 wins.",
+          "type": "result",
+          "detail": "Your deck ran out of cards. Towo213 wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 11,
+    "players": [
+      "0512SmileMan",
+      "Towo213"
+    ],
+    "knockouts": [
+      {
+        "turn": 4,
+        "raw": "Towo213's Great Tusk was Knocked Out!",
+        "target": "Towo213's Great Tusk"
+      },
+      {
+        "turn": 5,
+        "raw": "Towo213's Great Tusk was Knocked Out!",
+        "target": "Towo213's Great Tusk"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "Your deck ran out of cards. Towo213",
+      "method": null,
+      "final_turn": 6
+    }
+  }
+}

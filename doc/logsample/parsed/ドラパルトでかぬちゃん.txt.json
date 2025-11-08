@@ -1,0 +1,1571 @@
+{
+  "file": "ドラパルトでかぬちゃん.txt",
+  "players": [
+    "ButterfreeGX",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "ButterfreeGX chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "ButterfreeGX decided to go second.",
+    "ButterfreeGX drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Arven, Dreepy, Natu, Dreepy, Buddy-Buddy Poffin, Defiance Band, Arven",
+    "ButterfreeGX played Tinkatink to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "ButterfreeGX",
+      "actions": [
+        {
+          "raw": "ButterfreeGX drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ButterfreeGX played Nemona.",
+          "type": "play",
+          "card": "Nemona",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "ButterfreeGX played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew Dunsparce and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew Tinkatink.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX played Tinkatink to the Bench.",
+          "type": "play",
+          "card": "Tinkatink",
+          "to": "Bench"
+        },
+        {
+          "raw": "ButterfreeGX played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "ButterfreeGX played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew Dunsparce and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "ButterfreeGX",
+      "actions": [
+        {
+          "raw": "ButterfreeGX drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ButterfreeGX played Arezu.",
+          "type": "play",
+          "card": "Arezu",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Dudunsparce, Dudunsparce, Tinkaton",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.",
+          "type": "evolve",
+          "from": "Dunsparce",
+          "to": "Dudunsparce"
+        },
+        {
+          "raw": "ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.",
+          "type": "evolve",
+          "from": "Dunsparce",
+          "to": "Dudunsparce"
+        },
+        {
+          "raw": "ButterfreeGX's Dudunsparce used Run Away Draw.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- ButterfreeGX shuffled Dudunsparce into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX put Dunsparce on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew Dunsparce and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX evolved Tinkatink to Tinkaton ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Tinkatink",
+          "to": "Tinkaton ex"
+        },
+        {
+          "raw": "ButterfreeGX attached Double Turbo Energy to Tinkaton ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Tinkaton ex"
+        },
+        {
+          "raw": "ButterfreeGX evolved Tinkatink to Tinkatuff on the Bench.",
+          "type": "evolve",
+          "from": "Tinkatink",
+          "to": "Tinkatuff"
+        },
+        {
+          "raw": "ButterfreeGX played Dudunsparce.",
+          "type": "play",
+          "card": "Dudunsparce",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- ButterfreeGX shuffled Dudunsparce into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX put Dunsparce on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX played Tinkatink to the Bench.",
+          "type": "play",
+          "card": "Tinkatink",
+          "to": "Bench"
+        },
+        {
+          "raw": "ButterfreeGX's Tinkaton ex used Big Hammer on 0512SmileMan’s Dreepy for 220 damage.",
+          "type": "attack",
+          "attackerOwner": "ButterfreeGX",
+          "attacker": "Tinkaton ex",
+          "attack": "Big Hammer",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 220
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "Basic Fire Energy was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to ButterfreeGX's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Xatu in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch, Basic Psychic Energy, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX moved ButterfreeGX's 9 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Boss's Orders, Basic Psychic Energy, Radiant Alakazam, Basic Fire Energy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy used Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved ButterfreeGX's Tinkatuff to Tinkatink on the Bench.",
+          "type": "evolve",
+          "from": "ButterfreeGX's Tinkatuff",
+          "to": "Tinkatink"
+        },
+        {
+          "raw": "- ButterfreeGX moved ButterfreeGX's Tinkatuff to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan devolved ButterfreeGX's Tinkaton ex to Tinkatink in the Active Spot.",
+          "type": "evolve",
+          "from": "ButterfreeGX's Tinkaton ex",
+          "to": "Tinkatink"
+        },
+        {
+          "raw": "- ButterfreeGX moved ButterfreeGX's Tinkaton ex to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "ButterfreeGX",
+      "actions": [
+        {
+          "raw": "ButterfreeGX drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ButterfreeGX played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew Dunsparce and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX played Nemona.",
+          "type": "play",
+          "card": "Nemona",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- ButterfreeGX drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ButterfreeGX played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX evolved Tinkatink to Tinkaton ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Tinkatink",
+          "to": "Tinkaton ex"
+        },
+        {
+          "raw": "ButterfreeGX evolved Tinkatink to Tinkatuff on the Bench.",
+          "type": "evolve",
+          "from": "Tinkatink",
+          "to": "Tinkatuff"
+        },
+        {
+          "raw": "ButterfreeGX played Dunsparce to the Bench.",
+          "type": "play",
+          "card": "Dunsparce",
+          "to": "Bench"
+        },
+        {
+          "raw": "ButterfreeGX's Tinkaton ex used Big Hammer on 0512SmileMan’s Dreepy for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "ButterfreeGX",
+          "attacker": "Tinkaton ex",
+          "attack": "Big Hammer",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 70
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to ButterfreeGX's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX's Dunsparce was switched with ButterfreeGX's Tinkaton ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX's Dunsparce is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Radiant Alakazam",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Collapsed Stadium, Nest Ball, Dragapult ex, Switch, Drakloak, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- ButterfreeGX discarded Artazon.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX discarded Tinkatink.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on ButterfreeGX’s Dunsparce for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "ButterfreeGX’s Dunsparce",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on ButterfreeGX's Tinkatuff.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 damage counters on ButterfreeGX's Tinkaton ex.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX's Dunsparce was Knocked Out!",
+          "type": "knockout",
+          "target": "ButterfreeGX's Dunsparce"
+        },
+        {
+          "raw": "ButterfreeGX's Tinkaton ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "ButterfreeGX",
+      "actions": [
+        {
+          "raw": "ButterfreeGX drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.",
+          "type": "evolve",
+          "from": "Dunsparce",
+          "to": "Dudunsparce"
+        },
+        {
+          "raw": "ButterfreeGX played Dudunsparce.",
+          "type": "play",
+          "card": "Dudunsparce",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- ButterfreeGX shuffled Dudunsparce into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX put Dunsparce on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew Tinkaton.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX evolved Tinkatuff to Tinkaton on the Bench.",
+          "type": "evolve",
+          "from": "Tinkatuff",
+          "to": "Tinkaton"
+        },
+        {
+          "raw": "ButterfreeGX's Tinkaton used Gather Materials.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX discarded Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "ButterfreeGX played Morty's Conviction.",
+          "type": "play",
+          "card": "Morty's Conviction",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "ButterfreeGX played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew Dunsparce and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX's Tinkaton ex used Big Hammer on 0512SmileMan’s Dragapult ex for 220 damage.",
+          "type": "attack",
+          "attackerOwner": "ButterfreeGX",
+          "attacker": "Tinkaton ex",
+          "attack": "Big Hammer",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 220
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch, Arven, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Natu, Rare Candy, Boss's Orders, Forest Seal Stone, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Double Turbo Energy was discarded from ButterfreeGX's Tinkaton ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved a damage counter from ButterfreeGX's Tinkaton to ButterfreeGX's Dunsparce.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on ButterfreeGX’s Tinkaton ex for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "ButterfreeGX’s Tinkaton ex",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on ButterfreeGX's Dunsparce.",
+          "type": "other"
+        },
+        {
+          "raw": "Dunsparce was discarded from ButterfreeGX's Dudunsparce.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Buddy-Buddy Poffin was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "ButterfreeGX",
+      "actions": [
+        {
+          "raw": "ButterfreeGX drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ButterfreeGX attached Neo Upper Energy to Tinkaton ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Neo Upper Energy",
+          "target": "Tinkaton ex"
+        },
+        {
+          "raw": "ButterfreeGX played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Forest Seal Stone, Natu, Boss's Orders, Rare Candy, Buddy-Buddy Poffin, Rare Candy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Arven, Xatu, Ultra Ball, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.",
+          "type": "evolve",
+          "from": "Dunsparce",
+          "to": "Dudunsparce"
+        },
+        {
+          "raw": "ButterfreeGX played Dudunsparce.",
+          "type": "play",
+          "card": "Dudunsparce",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- ButterfreeGX shuffled Dudunsparce into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX put Dunsparce on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew Dunsparce and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX played Dunsparce to the Bench.",
+          "type": "play",
+          "card": "Dunsparce",
+          "to": "Bench"
+        },
+        {
+          "raw": "ButterfreeGX played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew Radiant Jirachi and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- ButterfreeGX shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX's Tinkaton used Gather Materials.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX discarded Jirachi.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "ButterfreeGX's Tinkaton ex used Big Hammer on 0512SmileMan’s Dragapult ex for 150 damage.",
+          "type": "attack",
+          "attackerOwner": "ButterfreeGX",
+          "attacker": "Tinkaton ex",
+          "attack": "Big Hammer",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 150
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 5 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to ButterfreeGX's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to ButterfreeGX's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Xatu, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from ButterfreeGX's Tinkaton ex to ButterfreeGX's Dunsparce.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on ButterfreeGX’s Tinkaton ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "ButterfreeGX’s Tinkaton ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on ButterfreeGX's Dunsparce.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on ButterfreeGX's Radiant Jirachi.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX's Tinkaton ex was Knocked Out!",
+          "type": "knockout",
+          "target": "ButterfreeGX's Tinkaton ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from ButterfreeGX's Tinkaton ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Neo Upper Energy, Tinkatink",
+          "type": "other"
+        },
+        {
+          "raw": "Dunsparce was discarded from ButterfreeGX's Dudunsparce.",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX's Radiant Jirachi is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Dragapult ex was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "ButterfreeGX",
+      "actions": [
+        {
+          "raw": "ButterfreeGX drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.",
+          "type": "evolve",
+          "from": "Dunsparce",
+          "to": "Dudunsparce"
+        },
+        {
+          "raw": "ButterfreeGX attached Double Turbo Energy to Radiant Jirachi in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Radiant Jirachi"
+        },
+        {
+          "raw": "ButterfreeGX played Nemona.",
+          "type": "play",
+          "card": "Nemona",
+          "to": null
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "ButterfreeGX's Tinkaton used Gather Materials.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX discarded Tinkatink.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "ButterfreeGX's Radiant Jirachi used Astral Misfortune.",
+          "type": "other"
+        },
+        {
+          "raw": "- ButterfreeGX flipped 2 coins, and 2 landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "ButterfreeGX took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to ButterfreeGX's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to ButterfreeGX's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. ButterfreeGX wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. ButterfreeGX wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 12,
+    "players": [
+      "ButterfreeGX",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 4,
+        "raw": "ButterfreeGX's Dunsparce was Knocked Out!",
+        "target": "ButterfreeGX's Dunsparce"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 6,
+        "raw": "ButterfreeGX's Tinkaton ex was Knocked Out!",
+        "target": "ButterfreeGX's Tinkaton ex"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. ButterfreeGX",
+      "method": null,
+      "final_turn": 6
+    }
+  }
+}

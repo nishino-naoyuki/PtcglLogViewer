@@ -1,0 +1,1249 @@
+{
+  "file": "ドラパルト　リザードン (2).txt",
+  "players": [
+    "0512SmileMan",
+    "Rijik_sihab",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Buddy-Buddy Poffin, Forest Seal Stone, Arven, Natu, Basic Psychic Energy, Rotom V, Lost Vacuum",
+    "Rijik_sihab drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "Rijik_sihab took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Pidgeot ex, Charizard ex, Forest Seal Stone, Damage Pump, Buddy-Buddy Poffin, Charmeleon, Buddy-Buddy Poffin",
+    "0512SmileMan drew 1 more card because Rijik_sihab took at least 1 mulligan.",
+    "- 0512SmileMan drew Buddy-Buddy Poffin.",
+    "0512SmileMan played Natu to the Active Spot.",
+    "Rijik_sihab played Rotom V to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Boss's Orders, Enhanced Hammer, Basic Fire Energy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Rijik_sihab",
+      "actions": [
+        {
+          "raw": "Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Rijik_sihab's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Enhanced Hammer, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Defiance Band.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dragapult ex, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Counter Catcher, Boss's Orders, Xatu",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Rijik_sihab",
+      "actions": [
+        {
+          "raw": "Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Rijik_sihab played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Rijik_sihab drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Charmander, Pidgey",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Xatu to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Rijik_sihab discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Roxanne, Mela",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew Charmander.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab played Charmander to the Bench.",
+          "type": "play",
+          "card": "Charmander",
+          "to": "Bench"
+        },
+        {
+          "raw": "Rijik_sihab's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan retreated Rotom V to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- Rijik_sihab's Charmander was switched with Rijik_sihab's Rotom V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Charmander is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Rijik_sihab’s Charmander for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Rijik_sihab’s Charmander",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Rijik_sihab's Charmander.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Charmander was Knocked Out!",
+          "type": "knockout",
+          "target": "Rijik_sihab's Charmander"
+        },
+        {
+          "raw": "Rijik_sihab's Charmander was Knocked Out!",
+          "type": "knockout",
+          "target": "Rijik_sihab's Charmander"
+        },
+        {
+          "raw": "Rijik_sihab's Pidgey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Dragapult ex was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Rijik_sihab",
+      "actions": [
+        {
+          "raw": "Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Rijik_sihab attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "Rijik_sihab's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "Rijik_sihab can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "Rijik_sihab played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- Rijik_sihab shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Charmander, Charmander",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Rijik_sihab drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Charmander, Charmander",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab evolved Pidgey to Pidgeotto in the Active Spot.",
+          "type": "evolve",
+          "from": "Pidgey",
+          "to": "Pidgeotto"
+        },
+        {
+          "raw": "Rijik_sihab played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Xatu was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab retreated Pidgeotto to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Charmander is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab attached Neo Upper Energy to Charmander in the Active Spot.",
+          "type": "attach",
+          "energy": "Neo Upper Energy",
+          "target": "Charmander"
+        },
+        {
+          "raw": "Rijik_sihab attached Technical Machine: Evolution to Charmander in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Charmander"
+        },
+        {
+          "raw": "Rijik_sihab's Charmander used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab evolved Pidgeotto to Pidgeot ex on the Bench.",
+          "type": "evolve",
+          "from": "Pidgeotto",
+          "to": "Pidgeot ex"
+        },
+        {
+          "raw": "- Rijik_sihab evolved Charmander to Charmeleon on the Bench.",
+          "type": "evolve",
+          "from": "Charmander",
+          "to": "Charmeleon"
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from Rijik_sihab's Charmander.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Xatu in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- Rijik_sihab's Charmeleon was switched with Rijik_sihab's Charmander to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Charmeleon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Rijik_sihab’s Charmeleon for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Rijik_sihab’s Charmeleon",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Rijik_sihab's Charmander.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Charmeleon was Knocked Out!",
+          "type": "knockout",
+          "target": "Rijik_sihab's Charmeleon"
+        },
+        {
+          "raw": "Charmander was discarded from Rijik_sihab's Charmeleon.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Charmander was Knocked Out!",
+          "type": "knockout",
+          "target": "Rijik_sihab's Charmander"
+        },
+        {
+          "raw": "Neo Upper Energy was discarded from Rijik_sihab's Charmander.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Pidgeot ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Rescue Board was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Rijik_sihab",
+      "actions": [
+        {
+          "raw": "Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Rijik_sihab's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- Rijik_sihab moved Rijik_sihab's Radiant Charizard to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab moved Rijik_sihab's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab played Radiant Charizard to the Bench.",
+          "type": "play",
+          "card": "Radiant Charizard",
+          "to": "Bench"
+        },
+        {
+          "raw": "Rijik_sihab retreated Pidgeot ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Radiant Charizard is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab attached Basic Fire Energy to Radiant Charizard in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Radiant Charizard"
+        },
+        {
+          "raw": "Rijik_sihab attached Defiance Band to Radiant Charizard in the Active Spot.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Radiant Charizard"
+        },
+        {
+          "raw": "Rijik_sihab's Radiant Charizard used Combustion Blast on 0512SmileMan’s Dragapult ex for 280 damage.",
+          "type": "attack",
+          "attackerOwner": "Rijik_sihab",
+          "attacker": "Radiant Charizard",
+          "attack": "Combustion Blast",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 280
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Super Rod.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Rijik_sihab’s Radiant Charizard for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Rijik_sihab’s Radiant Charizard",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Rijik_sihab's Pidgeot ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Radiant Charizard was Knocked Out!",
+          "type": "knockout",
+          "target": "Rijik_sihab's Radiant Charizard"
+        },
+        {
+          "raw": "- 2 cards were discarded from Rijik_sihab's Radiant Charizard.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Pidgeot ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Rijik_sihab",
+      "actions": [
+        {
+          "raw": "Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Rijik_sihab's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 13 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Drakloak, Radiant Alakazam, Switch, Ultra Ball, Earthen Vessel, Xatu, Natu, Rescue Board, Iono, Counter Catcher, Manaphy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Jamming Tower.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Jamming Tower, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab put 9 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Rijik_sihab’s Pidgeot ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Rijik_sihab’s Pidgeot ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Rijik_sihab's Rotom V.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "Rijik_sihab",
+      "actions": [
+        {
+          "raw": "Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Rijik_sihab played Pidgey to the Bench.",
+          "type": "play",
+          "card": "Pidgey",
+          "to": "Bench"
+        },
+        {
+          "raw": "Rijik_sihab played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Rijik_sihab drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Charmander, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab attached Basic Fire Energy to Charmander on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charmander"
+        },
+        {
+          "raw": "Rijik_sihab's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Rijik_sihab shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Rijik_sihab's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- Rijik_sihab drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan retreated Rotom V to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Jet Headbutt on Rijik_sihab’s Pidgeot ex for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Jet Headbutt",
+          "target": "Rijik_sihab’s Pidgeot ex",
+          "damage": 70
+        },
+        {
+          "raw": "Rijik_sihab's Pidgeot ex was Knocked Out!",
+          "type": "knockout",
+          "target": "Rijik_sihab's Pidgeot ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from Rijik_sihab's Pidgeot ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Pidgeotto, Pidgey",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 13,
+    "players": [
+      "0512SmileMan",
+      "Rijik_sihab",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "Rijik_sihab's Charmander was Knocked Out!",
+        "target": "Rijik_sihab's Charmander"
+      },
+      {
+        "turn": 3,
+        "raw": "Rijik_sihab's Charmander was Knocked Out!",
+        "target": "Rijik_sihab's Charmander"
+      },
+      {
+        "turn": 4,
+        "raw": "Rijik_sihab's Charmeleon was Knocked Out!",
+        "target": "Rijik_sihab's Charmeleon"
+      },
+      {
+        "turn": 4,
+        "raw": "Rijik_sihab's Charmander was Knocked Out!",
+        "target": "Rijik_sihab's Charmander"
+      },
+      {
+        "turn": 5,
+        "raw": "Rijik_sihab's Radiant Charizard was Knocked Out!",
+        "target": "Rijik_sihab's Radiant Charizard"
+      },
+      {
+        "turn": 7,
+        "raw": "Rijik_sihab's Pidgeot ex was Knocked Out!",
+        "target": "Rijik_sihab's Pidgeot ex"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 3,
+        "raw": "Rijik_sihab can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Rijik_sihab",
+      "method": "concession",
+      "final_turn": 7
+    }
+  }
+}

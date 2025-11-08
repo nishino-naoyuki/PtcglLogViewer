@@ -1,0 +1,247 @@
+Setup
+0512SmileMan chose heads for the opening coin flip.
+0512SmileMan won the coin toss.
+0512SmileMan decided to go first.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Rare Candy, Dreepy, Radiant Alakazam, Basic Fire Energy, Drakloak, Natu, Xatu
+zun-sugi-1216 drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan played Natu to the Active Spot.
+zun-sugi-1216 played Comfey to the Active Spot.
+zun-sugi-1216 played Dreepy to the Bench.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Basic Fire Energy.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.
+0512SmileMan ended their turn.
+
+Turn # 1 - zun-sugi-1216's Turn
+zun-sugi-1216 drew a card.
+zun-sugi-1216 played Buddy-Buddy Poffin.
+- zun-sugi-1216 drew 2 cards and played them to the Bench.
+   • Comfey, Dreepy
+- zun-sugi-1216 shuffled their deck.
+zun-sugi-1216's Comfey used Flower Selecting.
+- zun-sugi-1216 drew a card.
+- zun-sugi-1216 moved zun-sugi-1216's Buddy-Buddy Poffin to the Lost Zone.
+zun-sugi-1216 played Switch Cart.
+- zun-sugi-1216's Comfey was switched with zun-sugi-1216's Comfey to become the Active Pokémon.
+zun-sugi-1216's Comfey is now in the Active Spot.
+zun-sugi-1216's Comfey used Flower Selecting.
+- zun-sugi-1216 drew a card.
+- zun-sugi-1216 moved zun-sugi-1216's Nest Ball to the Lost Zone.
+zun-sugi-1216 attached Basic Psychic Energy to Dreepy on the Bench.
+zun-sugi-1216 ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Iono.
+0512SmileMan evolved Natu to Xatu in the Active Spot.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 3 cards on the bottom of their deck.
+   • Rare Candy, Basic Fire Energy, Radiant Alakazam
+- zun-sugi-1216 shuffled their hand.
+- zun-sugi-1216 put 5 cards on the bottom of their deck.
+- 0512SmileMan drew 6 cards.
+   • Buddy-Buddy Poffin, Dreepy, Earthen Vessel, Nest Ball, Buddy-Buddy Poffin, Basic Psychic Energy
+- zun-sugi-1216 drew 6 cards.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Natu
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Rotom V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Drakloak, Buddy-Buddy Poffin
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Dragapult ex.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Collapsed Stadium, Nest Ball, Defiance Band
+
+Turn # 2 - zun-sugi-1216's Turn
+zun-sugi-1216 drew a card.
+zun-sugi-1216's Comfey used Flower Selecting.
+- zun-sugi-1216 drew a card.
+- zun-sugi-1216 moved zun-sugi-1216's Switch to the Lost Zone.
+zun-sugi-1216 played Switch.
+- zun-sugi-1216's Comfey was switched with zun-sugi-1216's Comfey to become the Active Pokémon.
+zun-sugi-1216's Comfey is now in the Active Spot.
+zun-sugi-1216's Comfey used Flower Selecting.
+- zun-sugi-1216 drew a card.
+- zun-sugi-1216 moved zun-sugi-1216's Buddy-Buddy Poffin to the Lost Zone.
+zun-sugi-1216 played Nest Ball.
+- zun-sugi-1216 drew Cramorant and played it to the Bench.
+- zun-sugi-1216 shuffled their deck.
+zun-sugi-1216 played Switch Cart.
+- zun-sugi-1216's Cramorant was switched with zun-sugi-1216's Comfey to become the Active Pokémon.
+zun-sugi-1216's Cramorant is now in the Active Spot.
+zun-sugi-1216 attached Basic Psychic Energy to Dreepy on the Bench.
+zun-sugi-1216's Cramorant used Spit Innocently on 0512SmileMan’s Xatu for 110 damage.
+0512SmileMan's Xatu was Knocked Out!
+Natu was discarded from 0512SmileMan's Xatu.
+0512SmileMan's Drakloak is now in the Active Spot.
+zun-sugi-1216 took a Prize card.
+A card was added to zun-sugi-1216's hand.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Dragapult ex.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Rare Candy.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Unfair Stamp, Forest Seal Stone
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.
+0512SmileMan attached Defiance Band to Dragapult ex on the Bench.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Radiant Alakazam and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.
+0512SmileMan played Unfair Stamp.
+- 0512SmileMan shuffled 2 cards into their deck.
+   • Basic Psychic Energy, Collapsed Stadium
+- zun-sugi-1216 moved zun-sugi-1216's 6 cards to their deck.
+- 0512SmileMan drew 5 cards.
+   • Lost Vacuum, Arven, Rare Candy, Arven, Rescue Board
+- zun-sugi-1216 drew 2 cards.
+0512SmileMan's Rotom V used Star Alchemy.
+- 0512SmileMan drew Counter Catcher.
+- 0512SmileMan shuffled their deck.
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan played Counter Catcher.
+- zun-sugi-1216's Dreepy was switched with zun-sugi-1216's Cramorant to become the Active Pokémon.
+zun-sugi-1216's Dreepy is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on zun-sugi-1216’s Dreepy for 200 damage.
+- 0512SmileMan put a damage counter on zun-sugi-1216's Comfey.
+- 0512SmileMan put 5 damage counters on zun-sugi-1216's Comfey.
+zun-sugi-1216's Dreepy was Knocked Out!
+Basic Psychic Energy was discarded from zun-sugi-1216's Dreepy.
+zun-sugi-1216's Comfey is now in the Active Spot.
+0512SmileMan took a Prize card.
+Super Rod was added to 0512SmileMan's hand.
+
+Turn # 3 - zun-sugi-1216's Turn
+zun-sugi-1216 drew a card.
+zun-sugi-1216 played Iono.
+- zun-sugi-1216 shuffled their hand.
+- zun-sugi-1216 put 2 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 6 cards on the bottom of their deck.
+   • Rescue Board, Arven, Rare Candy, Lost Vacuum, Arven, Super Rod
+- zun-sugi-1216 drew 5 cards.
+- 0512SmileMan drew 5 cards.
+   • Nest Ball, Iono, Boss's Orders, Basic Psychic Energy, Manaphy
+zun-sugi-1216 evolved Dreepy to Drakloak on the Bench.
+zun-sugi-1216's Drakloak used Recon Directive.
+- zun-sugi-1216 drew a card.
+zun-sugi-1216's Comfey used Flower Selecting.
+- zun-sugi-1216 drew a card.
+- zun-sugi-1216 moved zun-sugi-1216's Rare Candy to the Lost Zone.
+zun-sugi-1216 played Switch.
+- zun-sugi-1216's Comfey was switched with zun-sugi-1216's Comfey to become the Active Pokémon.
+zun-sugi-1216's Comfey is now in the Active Spot.
+zun-sugi-1216's Comfey used Flower Selecting.
+- zun-sugi-1216 drew a card.
+- zun-sugi-1216 moved zun-sugi-1216's Dreepy to the Lost Zone.
+zun-sugi-1216 played Prime Catcher.
+- 0512SmileMan's Drakloak was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.
+- zun-sugi-1216's Cramorant was switched with zun-sugi-1216's Comfey to become the Active Pokémon.
+0512SmileMan's Drakloak is now in the Active Spot.
+zun-sugi-1216's Cramorant is now in the Active Spot.
+zun-sugi-1216 attached Basic Fire Energy to Drakloak on the Bench.
+zun-sugi-1216's Cramorant used Spit Innocently on 0512SmileMan’s Drakloak for 110 damage.
+0512SmileMan's Drakloak was Knocked Out!
+Dreepy was discarded from 0512SmileMan's Drakloak.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+zun-sugi-1216 took a Prize card.
+A card was added to zun-sugi-1216's hand.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Ultra Ball.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Manaphy, Nest Ball
+- 0512SmileMan drew Drakloak.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Radiant Alakazam on the Bench.
+0512SmileMan played Boss's Orders.
+- zun-sugi-1216's Drakloak was switched with zun-sugi-1216's Cramorant to become the Active Pokémon.
+zun-sugi-1216's Drakloak is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on zun-sugi-1216’s Drakloak for 200 damage.
+- 0512SmileMan put 4 damage counters on zun-sugi-1216's Comfey.
+- 0512SmileMan put 2 damage counters on zun-sugi-1216's Comfey.
+zun-sugi-1216's Drakloak was Knocked Out!
+- 3 cards were discarded from zun-sugi-1216's Drakloak.
+   • Basic Psychic Energy, Basic Fire Energy, Dreepy
+zun-sugi-1216's Comfey was Knocked Out!
+zun-sugi-1216's Comfey is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Xatu was added to 0512SmileMan's hand.
+Earthen Vessel was added to 0512SmileMan's hand.
+
+Turn # 4 - zun-sugi-1216's Turn
+zun-sugi-1216 drew a card.
+zun-sugi-1216 played Nest Ball.
+- zun-sugi-1216 drew Dreepy and played it to the Bench.
+- zun-sugi-1216 shuffled their deck.
+zun-sugi-1216's Comfey used Flower Selecting.
+- zun-sugi-1216 drew a card.
+- zun-sugi-1216 moved zun-sugi-1216's Comfey to the Lost Zone.
+zun-sugi-1216 played Colress's Experiment.
+- zun-sugi-1216 drew 3 cards.
+- zun-sugi-1216 moved zun-sugi-1216's 2 cards to the Lost Zone.
+   • Boss's Orders, Counter Catcher
+zun-sugi-1216 ended their turn.
+
+Turn # 5 - 0512SmileMan's Turn
+0512SmileMan drew Iono.
+0512SmileMan evolved Natu to Xatu on the Bench.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Drakloak.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dragapult ex on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Technical Machine: Evolution, Enhanced Hammer
+0512SmileMan attached Technical Machine: Evolution to Radiant Alakazam on the Bench.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 3 cards on the bottom of their deck.
+   • Iono, Basic Psychic Energy, Enhanced Hammer
+- zun-sugi-1216 shuffled their hand.
+- zun-sugi-1216 put 8 cards on the bottom of their deck.
+- 0512SmileMan drew 3 cards.
+   • Arven, Earthen Vessel, Rescue Board
+- zun-sugi-1216 drew 4 cards.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from zun-sugi-1216's Comfey to zun-sugi-1216's Dreepy.
+0512SmileMan's Dragapult ex used Phantom Dive on zun-sugi-1216’s Comfey for 200 damage.
+- 0512SmileMan put a damage counter on zun-sugi-1216's Cramorant.
+- 0512SmileMan put 5 damage counters on zun-sugi-1216's Dreepy.
+zun-sugi-1216's Comfey was Knocked Out!
+zun-sugi-1216's Dreepy was Knocked Out!
+Opponent conceded. 0512SmileMan wins.
+

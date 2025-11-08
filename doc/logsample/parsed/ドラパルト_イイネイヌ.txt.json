@@ -1,0 +1,964 @@
+{
+  "file": "ドラパルト　イイネイヌ.txt",
+  "players": [
+    "0512SmileMan",
+    "Johnnymagicmon",
+    "- Johnnymagicmon"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Earthen Vessel, Super Rod, Iono, Ultra Ball, Buddy-Buddy Poffin, Rare Candy, Defiance Band",
+    "Johnnymagicmon drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Earthen Vessel, Super Rod, Iono, Ultra Ball, Buddy-Buddy Poffin, Rare Candy, Defiance Band",
+    "Johnnymagicmon drew 1 more card because 0512SmileMan took at least 1 mulligan.",
+    "- Johnnymagicmon drew a card.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "Johnnymagicmon played Ting-Lu to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Dreepy, Manaphy, Radiant Alakazam",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Johnnymagicmon",
+      "actions": [
+        {
+          "raw": "Johnnymagicmon drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Johnnymagicmon played Radiant Greninja to the Bench.",
+          "type": "play",
+          "card": "Radiant Greninja",
+          "to": "Bench"
+        },
+        {
+          "raw": "Johnnymagicmon attached Basic Fighting Energy to Ting-Lu in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Ting-Lu"
+        },
+        {
+          "raw": "Johnnymagicmon played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Johnnymagicmon played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon discarded Tatsugiri.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fighting Energy, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon drew Okidogi and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Johnnymagicmon played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon drew Ting-Lu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon attached Bravery Charm to Ting-Lu in the Active Spot.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Ting-Lu"
+        },
+        {
+          "raw": "Johnnymagicmon's Ting-Lu used Ground Crasher on 0512SmileMan’s Dreepy for 30 damage.",
+          "type": "attack",
+          "attackerOwner": "Johnnymagicmon",
+          "attacker": "Ting-Lu",
+          "attack": "Ground Crasher",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 30
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V took 30 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Natu took 30 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Dreepy took 30 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Dreepy took 30 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon discarded Artazon.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Manaphy to the Bench.",
+          "type": "play",
+          "card": "Manaphy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Dragapult ex, Xatu, Arven",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Johnnymagicmon",
+      "actions": [
+        {
+          "raw": "Johnnymagicmon drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Johnnymagicmon played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Johnnymagicmon played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon drew Okidogi and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon attached Luminous Energy to Okidogi on the Bench.",
+          "type": "attach",
+          "energy": "Luminous Energy",
+          "target": "Okidogi"
+        },
+        {
+          "raw": "Johnnymagicmon's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon discarded Basic Fighting Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Johnnymagicmon played Okidogi to the Bench.",
+          "type": "play",
+          "card": "Okidogi",
+          "to": "Bench"
+        },
+        {
+          "raw": "Johnnymagicmon played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 10 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Super Rod, Xatu, Dragapult ex, Arven, Ultra Ball, Radiant Alakazam, Basic Fire Energy, Basic Psychic Energy, Dragapult ex, Jamming Tower",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Arven, Rescue Board, Boss's Orders, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon attached Bravery Charm to Okidogi on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Okidogi"
+        },
+        {
+          "raw": "Johnnymagicmon's Ting-Lu used Ground Crasher on 0512SmileMan’s Dreepy for 30 damage.",
+          "type": "attack",
+          "attackerOwner": "Johnnymagicmon",
+          "attacker": "Ting-Lu",
+          "attack": "Ground Crasher",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 30
+        },
+        {
+          "raw": "- Johnnymagicmon discarded Artazon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy used Wave Veil.",
+          "type": "other"
+        },
+        {
+          "raw": "- Damage to Xatu was prevented.",
+          "type": "other"
+        },
+        {
+          "raw": "- Damage to Manaphy was prevented.",
+          "type": "other"
+        },
+        {
+          "raw": "- Damage to Rotom V was prevented.",
+          "type": "other"
+        },
+        {
+          "raw": "- Damage to Dreepy was prevented.",
+          "type": "other"
+        },
+        {
+          "raw": "- Damage to Dreepy was prevented.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Boss's Orders, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan retreated Dreepy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Johnnymagicmon’s Ting-Lu for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Johnnymagicmon’s Ting-Lu",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Johnnymagicmon's Radiant Greninja.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon's Ting-Lu was Knocked Out!",
+          "type": "knockout",
+          "target": "Johnnymagicmon's Ting-Lu"
+        },
+        {
+          "raw": "- 2 cards were discarded from Johnnymagicmon's Ting-Lu.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fighting Energy, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon's Okidogi is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Johnnymagicmon",
+      "actions": [
+        {
+          "raw": "Johnnymagicmon drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Johnnymagicmon attached Basic Fighting Energy to Okidogi in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Okidogi"
+        },
+        {
+          "raw": "Johnnymagicmon attached Bravery Charm to Okidogi on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Okidogi"
+        },
+        {
+          "raw": "Johnnymagicmon played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Boss's Orders, Lost Vacuum, Arven, Ultra Ball, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Earthen Vessel, Iono, Iono, Buddy-Buddy Poffin, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon attached Bravery Charm to Okidogi on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Okidogi"
+        },
+        {
+          "raw": "Johnnymagicmon played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Johnnymagicmon played Okidogi to the Bench.",
+          "type": "play",
+          "card": "Okidogi",
+          "to": "Bench"
+        },
+        {
+          "raw": "Johnnymagicmon played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon's Okidogi used Good Punch on 0512SmileMan’s Dragapult ex for 170 damage.",
+          "type": "attack",
+          "attackerOwner": "Johnnymagicmon",
+          "attacker": "Okidogi",
+          "attack": "Good Punch",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 170
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Xatu, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Enhanced Hammer, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Luminous Energy was discarded from Johnnymagicmon's Okidogi.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Johnnymagicmon’s Okidogi for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Johnnymagicmon’s Okidogi",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Johnnymagicmon's Radiant Greninja.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon's Okidogi was Knocked Out!",
+          "type": "knockout",
+          "target": "Johnnymagicmon's Okidogi"
+        },
+        {
+          "raw": "- 2 cards were discarded from Johnnymagicmon's Okidogi.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fighting Energy, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon's Ting-Lu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Counter Catcher was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Johnnymagicmon",
+      "actions": [
+        {
+          "raw": "Johnnymagicmon drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Johnnymagicmon's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Johnnymagicmon drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Johnnymagicmon played Pal Pad.",
+          "type": "play",
+          "card": "Pal Pad",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Manaphy was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- Johnnymagicmon drew Tatsugiri and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Johnnymagicmon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Johnnymagicmon ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "0512SmileMan",
+      "Johnnymagicmon",
+      "- Johnnymagicmon"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "Johnnymagicmon's Ting-Lu was Knocked Out!",
+        "target": "Johnnymagicmon's Ting-Lu"
+      },
+      {
+        "turn": 4,
+        "raw": "Johnnymagicmon's Okidogi was Knocked Out!",
+        "target": "Johnnymagicmon's Okidogi"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Johnnymagicmon",
+      "method": "concession",
+      "final_turn": 5
+    }
+  }
+}

@@ -1,0 +1,332 @@
+Setup
+ButterfreeGX chose tails for the opening coin flip.
+0512SmileMan won the coin toss.
+ButterfreeGX decided to go second.
+ButterfreeGX drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Arven, Dreepy, Natu, Dreepy, Buddy-Buddy Poffin, Defiance Band, Arven
+ButterfreeGX played Tinkatink to the Active Spot.
+0512SmileMan played Dreepy to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Dreepy.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan played Natu to the Bench.
+0512SmileMan ended their turn.
+
+Turn # 1 - ButterfreeGX's Turn
+ButterfreeGX drew a card.
+ButterfreeGX played Nemona.
+- ButterfreeGX drew 3 cards.
+ButterfreeGX played Nest Ball.
+- ButterfreeGX drew Dunsparce and played it to the Bench.
+- ButterfreeGX shuffled their deck.
+ButterfreeGX played Capturing Aroma.
+- ButterfreeGX flipped a coin and it landed on tails.
+- ButterfreeGX drew Tinkatink.
+- ButterfreeGX shuffled their deck.
+ButterfreeGX played Tinkatink to the Bench.
+ButterfreeGX played Artazon to the Stadium spot.
+ButterfreeGX played Artazon.
+- ButterfreeGX drew Dunsparce and played it to the Bench.
+- ButterfreeGX shuffled their deck.
+ButterfreeGX ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Technical Machine: Evolution.
+0512SmileMan played Artazon.
+- 0512SmileMan drew Dreepy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Earthen Vessel, Rescue Board
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Fire Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.
+0512SmileMan attached Technical Machine: Evolution to Dreepy in the Active Spot.
+0512SmileMan's Dreepy used Evolution.
+- 0512SmileMan evolved Natu to Xatu on the Bench.
+- 0512SmileMan evolved Dreepy to Drakloak on the Bench.
+- 0512SmileMan shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 0512SmileMan's Dreepy.
+
+Turn # 2 - ButterfreeGX's Turn
+ButterfreeGX drew a card.
+ButterfreeGX played Arezu.
+- ButterfreeGX drew 3 cards.
+   • Dudunsparce, Dudunsparce, Tinkaton
+- ButterfreeGX shuffled their deck.
+ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.
+ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.
+ButterfreeGX's Dudunsparce used Run Away Draw.
+- ButterfreeGX drew 3 cards.
+- ButterfreeGX shuffled Dudunsparce into their deck.
+- ButterfreeGX put Dunsparce on top of their deck.
+ButterfreeGX played Artazon.
+- ButterfreeGX drew Dunsparce and played it to the Bench.
+- ButterfreeGX shuffled their deck.
+ButterfreeGX played Rare Candy.
+- ButterfreeGX evolved Tinkatink to Tinkaton ex in the Active Spot.
+ButterfreeGX attached Double Turbo Energy to Tinkaton ex in the Active Spot.
+ButterfreeGX evolved Tinkatink to Tinkatuff on the Bench.
+ButterfreeGX played Dudunsparce.
+- ButterfreeGX drew 3 cards.
+- ButterfreeGX shuffled Dudunsparce into their deck.
+- ButterfreeGX put Dunsparce on top of their deck.
+ButterfreeGX played Tinkatink to the Bench.
+ButterfreeGX's Tinkaton ex used Big Hammer on 0512SmileMan’s Dreepy for 220 damage.
+0512SmileMan's Dreepy was Knocked Out!
+Basic Fire Energy was discarded from 0512SmileMan's Dreepy.
+0512SmileMan's Xatu is now in the Active Spot.
+ButterfreeGX took a Prize card.
+A card was added to ButterfreeGX's hand.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Switch.
+0512SmileMan played Artazon.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Buddy-Buddy Poffin
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Rescue Board to Xatu in the Active Spot.
+0512SmileMan attached Defiance Band to Drakloak on the Bench.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Unfair Stamp, Technical Machine: Devolution
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Unfair Stamp.
+- 0512SmileMan shuffled 3 cards into their deck.
+   • Switch, Basic Psychic Energy, Technical Machine: Devolution
+- ButterfreeGX moved ButterfreeGX's 9 cards to their deck.
+- 0512SmileMan drew 5 cards.
+   • Boss's Orders, Basic Psychic Energy, Radiant Alakazam, Basic Fire Energy, Iono
+- ButterfreeGX drew 2 cards.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Technical Machine: Devolution.
+0512SmileMan attached Technical Machine: Devolution to Dreepy on the Bench.
+0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+0512SmileMan retreated Xatu to the Bench.
+0512SmileMan's Dreepy is now in the Active Spot.
+0512SmileMan's Dreepy used Devolution.
+- 0512SmileMan devolved ButterfreeGX's Tinkatuff to Tinkatink on the Bench.
+- ButterfreeGX moved ButterfreeGX's Tinkatuff to their hand.
+- 0512SmileMan devolved ButterfreeGX's Tinkaton ex to Tinkatink in the Active Spot.
+- ButterfreeGX moved ButterfreeGX's Tinkaton ex to their hand.
+Technical Machine: Devolution was activated.
+- Technical Machine: Devolution was discarded from 0512SmileMan's Dreepy.
+
+Turn # 3 - ButterfreeGX's Turn
+ButterfreeGX drew a card.
+ButterfreeGX played Artazon.
+- ButterfreeGX drew Dunsparce and played it to the Bench.
+- ButterfreeGX shuffled their deck.
+ButterfreeGX played Nemona.
+- ButterfreeGX drew 2 cards.
+- ButterfreeGX drew a card.
+ButterfreeGX played Rare Candy.
+- ButterfreeGX evolved Tinkatink to Tinkaton ex in the Active Spot.
+ButterfreeGX evolved Tinkatink to Tinkatuff on the Bench.
+ButterfreeGX played Dunsparce to the Bench.
+ButterfreeGX's Tinkaton ex used Big Hammer on 0512SmileMan’s Dreepy for 70 damage.
+0512SmileMan's Dreepy was Knocked Out!
+Basic Psychic Energy was discarded from 0512SmileMan's Dreepy.
+0512SmileMan's Xatu is now in the Active Spot.
+ButterfreeGX took a Prize card.
+A card was added to ButterfreeGX's hand.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Counter Catcher.
+0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.
+0512SmileMan played Counter Catcher.
+- ButterfreeGX's Dunsparce was switched with ButterfreeGX's Tinkaton ex to become the Active Pokémon.
+ButterfreeGX's Dunsparce is now in the Active Spot.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 2 cards on the bottom of their deck.
+   • Boss's Orders, Radiant Alakazam
+- ButterfreeGX shuffled their hand.
+- ButterfreeGX put 4 cards on the bottom of their deck.
+- 0512SmileMan drew 6 cards.
+   • Collapsed Stadium, Nest Ball, Dragapult ex, Switch, Drakloak, Drakloak
+- ButterfreeGX drew 4 cards.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan played Collapsed Stadium to the Stadium spot.
+- ButterfreeGX discarded Artazon.
+- ButterfreeGX discarded Tinkatink.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Nest Ball.
+0512SmileMan evolved Drakloak to Dragapult ex on the Bench.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Radiant Alakazam and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan retreated Xatu to the Bench.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on ButterfreeGX’s Dunsparce for 230 damage.
+- 0512SmileMan put 2 damage counters on ButterfreeGX's Tinkatuff.
+- 0512SmileMan put 4 damage counters on ButterfreeGX's Tinkaton ex.
+ButterfreeGX's Dunsparce was Knocked Out!
+ButterfreeGX's Tinkaton ex is now in the Active Spot.
+0512SmileMan took a Prize card.
+Iono was added to 0512SmileMan's hand.
+
+Turn # 4 - ButterfreeGX's Turn
+ButterfreeGX drew a card.
+ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.
+ButterfreeGX played Dudunsparce.
+- ButterfreeGX drew 3 cards.
+- ButterfreeGX shuffled Dudunsparce into their deck.
+- ButterfreeGX put Dunsparce on top of their deck.
+ButterfreeGX played Capturing Aroma.
+- ButterfreeGX flipped a coin and it landed on heads.
+- ButterfreeGX drew Tinkaton.
+- ButterfreeGX shuffled their deck.
+ButterfreeGX evolved Tinkatuff to Tinkaton on the Bench.
+ButterfreeGX's Tinkaton used Gather Materials.
+- ButterfreeGX discarded Manaphy.
+- ButterfreeGX drew 3 cards.
+ButterfreeGX played Morty's Conviction.
+- ButterfreeGX discarded Buddy-Buddy Poffin.
+- ButterfreeGX drew 3 cards.
+ButterfreeGX played Buddy-Buddy Poffin.
+- ButterfreeGX drew Dunsparce and played it to the Bench.
+- ButterfreeGX shuffled their deck.
+ButterfreeGX's Tinkaton ex used Big Hammer on 0512SmileMan’s Dragapult ex for 220 damage.
+
+Turn # 5 - 0512SmileMan's Turn
+0512SmileMan drew Nest Ball.
+0512SmileMan played Nest Ball.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 3 cards on the bottom of their deck.
+   • Switch, Arven, Drakloak
+- ButterfreeGX shuffled their hand.
+- ButterfreeGX put 8 cards on the bottom of their deck.
+- 0512SmileMan drew 5 cards.
+   • Natu, Rare Candy, Boss's Orders, Forest Seal Stone, Basic Psychic Energy
+- ButterfreeGX drew 4 cards.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Rare Candy, Iono
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Enhanced Hammer.
+0512SmileMan played Enhanced Hammer.
+- Double Turbo Energy was discarded from ButterfreeGX's Tinkaton ex.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved a damage counter from ButterfreeGX's Tinkaton to ButterfreeGX's Dunsparce.
+0512SmileMan's Dragapult ex used Phantom Dive on ButterfreeGX’s Tinkaton ex for 230 damage.
+- 0512SmileMan put 6 damage counters on ButterfreeGX's Dunsparce.
+Dunsparce was discarded from ButterfreeGX's Dudunsparce.
+0512SmileMan took a Prize card.
+Buddy-Buddy Poffin was added to 0512SmileMan's hand.
+
+Turn # 5 - ButterfreeGX's Turn
+ButterfreeGX drew a card.
+ButterfreeGX attached Neo Upper Energy to Tinkaton ex in the Active Spot.
+ButterfreeGX played Iono.
+- ButterfreeGX shuffled their hand.
+- ButterfreeGX put 3 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 7 cards on the bottom of their deck.
+   • Forest Seal Stone, Natu, Boss's Orders, Rare Candy, Buddy-Buddy Poffin, Rare Candy, Iono
+- ButterfreeGX drew 4 cards.
+- 0512SmileMan drew 4 cards.
+   • Arven, Xatu, Ultra Ball, Super Rod
+ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.
+ButterfreeGX played Dudunsparce.
+- ButterfreeGX drew 3 cards.
+- ButterfreeGX shuffled Dudunsparce into their deck.
+- ButterfreeGX put Dunsparce on top of their deck.
+ButterfreeGX played Buddy-Buddy Poffin.
+- ButterfreeGX drew Dunsparce and played it to the Bench.
+- ButterfreeGX shuffled their deck.
+ButterfreeGX played Dunsparce to the Bench.
+ButterfreeGX played Nest Ball.
+- ButterfreeGX drew Radiant Jirachi and played it to the Bench.
+- ButterfreeGX shuffled their deck.
+ButterfreeGX's Tinkaton used Gather Materials.
+- ButterfreeGX discarded Jirachi.
+- ButterfreeGX drew 3 cards.
+ButterfreeGX's Tinkaton ex used Big Hammer on 0512SmileMan’s Dragapult ex for 150 damage.
+0512SmileMan's Dragapult ex was Knocked Out!
+- 5 cards were discarded from 0512SmileMan's Dragapult ex.
+   • Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy, Defiance Band
+0512SmileMan's Xatu is now in the Active Spot.
+ButterfreeGX took 2 Prize cards.
+A card was added to ButterfreeGX's hand.
+A card was added to ButterfreeGX's hand.
+
+Turn # 6 - 0512SmileMan's Turn
+0512SmileMan drew Rotom V.
+0512SmileMan played Super Rod.
+- 0512SmileMan shuffled 3 cards into their deck.
+   • Basic Fire Energy, Basic Psychic Energy, Basic Psychic Energy
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Basic Psychic Energy.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Radiant Alakazam on the Bench.
+- 0512SmileMan drew Basic Fire Energy.
+- 0512SmileMan drew Basic Fire Energy.
+0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Rare Candy, Forest Seal Stone
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Xatu, Rare Candy
+- 0512SmileMan drew Dragapult ex.
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Drakloak to Dragapult ex on the Bench.
+0512SmileMan retreated Xatu to the Bench.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from ButterfreeGX's Tinkaton ex to ButterfreeGX's Dunsparce.
+0512SmileMan's Dragapult ex used Phantom Dive on ButterfreeGX’s Tinkaton ex for 200 damage.
+- 0512SmileMan put 5 damage counters on ButterfreeGX's Dunsparce.
+- 0512SmileMan put a damage counter on ButterfreeGX's Radiant Jirachi.
+ButterfreeGX's Tinkaton ex was Knocked Out!
+- 2 cards were discarded from ButterfreeGX's Tinkaton ex.
+   • Neo Upper Energy, Tinkatink
+Dunsparce was discarded from ButterfreeGX's Dudunsparce.
+ButterfreeGX's Radiant Jirachi is now in the Active Spot.
+0512SmileMan took 3 Prize cards.
+Basic Psychic Energy was added to 0512SmileMan's hand.
+Drakloak was added to 0512SmileMan's hand.
+Dragapult ex was added to 0512SmileMan's hand.
+
+Turn # 6 - ButterfreeGX's Turn
+ButterfreeGX drew a card.
+ButterfreeGX evolved Dunsparce to Dudunsparce on the Bench.
+ButterfreeGX attached Double Turbo Energy to Radiant Jirachi in the Active Spot.
+ButterfreeGX played Nemona.
+- ButterfreeGX drew 3 cards.
+ButterfreeGX's Tinkaton used Gather Materials.
+- ButterfreeGX discarded Tinkatink.
+- ButterfreeGX drew 3 cards.
+ButterfreeGX's Radiant Jirachi used Astral Misfortune.
+- ButterfreeGX flipped 2 coins, and 2 landed on heads.
+0512SmileMan's Dragapult ex was Knocked Out!
+- 4 cards were discarded from 0512SmileMan's Dragapult ex.
+   • Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy
+ButterfreeGX took 2 Prize cards.
+A card was added to ButterfreeGX's hand.
+A card was added to ButterfreeGX's hand.
+Opponent took all of their Prize cards. ButterfreeGX wins.
+

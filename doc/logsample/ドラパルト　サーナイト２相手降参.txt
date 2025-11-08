@@ -1,0 +1,178 @@
+Setup
+6890infernape chose tails for the opening coin flip.
+0512SmileMan won the coin toss.
+6890infernape decided to go second.
+6890infernape drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Boss's Orders, Lost Vacuum, Dreepy, Buddy-Buddy Poffin, Basic Psychic Energy, Dragapult ex, Rotom V
+6890infernape played Ralts to the Active Spot.
+0512SmileMan played Dreepy to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Basic Psychic Energy.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Dreepy
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Rotom V to the Bench.
+0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Iono, Iono, Xatu
+
+Turn # 1 - 6890infernape's Turn
+6890infernape drew a card.
+6890infernape played Earthen Vessel.
+- 6890infernape discarded Basic Psychic Energy.
+- 6890infernape drew 2 cards.
+   • Basic Psychic Energy, Basic Psychic Energy
+- 6890infernape shuffled their deck.
+6890infernape attached Basic Psychic Energy to Ralts in the Active Spot.
+6890infernape ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Nest Ball.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Natu and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 6 cards on the bottom of their deck.
+   • Xatu, Lost Vacuum, Iono, Boss's Orders, Basic Psychic Energy, Dragapult ex
+- 6890infernape shuffled their hand.
+- 6890infernape put 6 cards on the bottom of their deck.
+- 0512SmileMan drew 6 cards.
+   • Basic Fire Energy, Earthen Vessel, Basic Fire Energy, Basic Fire Energy, Enhanced Hammer, Unfair Stamp
+- 6890infernape drew 6 cards.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Enhanced Hammer.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Dragapult ex, Buddy-Buddy Poffin, Forest Seal Stone
+
+Turn # 2 - 6890infernape's Turn
+6890infernape drew a card.
+6890infernape played Buddy-Buddy Poffin.
+- 6890infernape drew 2 cards and played them to the Bench.
+   • Ralts, Ralts
+- 6890infernape shuffled their deck.
+6890infernape played Hisuian Heavy Ball.
+- 6890infernape moved 6890infernape's Ralts to their hand.
+- 6890infernape moved 6890infernape's Hisuian Heavy Ball to the Prize cards.
+- 6890infernape shuffled their Prize cards.
+6890infernape played Ralts to the Bench.
+6890infernape evolved Ralts to Kirlia in the Active Spot.
+6890infernape's Kirlia used Refinement.
+- 6890infernape discarded Arven.
+- 6890infernape drew 2 cards.
+6890infernape played Munkidori to the Bench.
+6890infernape played Nest Ball.
+- 6890infernape drew Radiant Greninja and played it to the Bench.
+- 6890infernape shuffled their deck.
+6890infernape's Radiant Greninja used Concealed Cards.
+- 6890infernape discarded Basic Darkness Energy.
+- 6890infernape drew 2 cards.
+6890infernape attached Technical Machine: Evolution to Kirlia in the Active Spot.
+6890infernape's Kirlia used Evolution.
+- 6890infernape evolved Ralts to Kirlia on the Bench.
+- 6890infernape evolved Ralts to Kirlia on the Bench.
+- 6890infernape shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 6890infernape's Kirlia.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Drakloak.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Xatu.
+0512SmileMan evolved Natu to Xatu on the Bench.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Technical Machine: Devolution, Arven
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Rare Candy, Rescue Board
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew Manaphy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.
+0512SmileMan's Rotom V used Star Alchemy.
+- 0512SmileMan drew Collapsed Stadium.
+- 0512SmileMan shuffled their deck.
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan played Collapsed Stadium to the Stadium spot.
+- 0512SmileMan discarded Rotom V.
+- Forest Seal Stone was discarded from 0512SmileMan's Rotom V.
+- 6890infernape discarded Radiant Greninja.
+0512SmileMan's Dragapult ex used Phantom Dive on 6890infernape’s Kirlia for 200 damage.
+- 0512SmileMan put 6 damage counters on 6890infernape's Kirlia.
+6890infernape's Kirlia was Knocked Out!
+- 2 cards were discarded from 6890infernape's Kirlia.
+   • Basic Psychic Energy, Ralts
+6890infernape's Munkidori is now in the Active Spot.
+0512SmileMan took a Prize card.
+Drakloak was added to 0512SmileMan's hand.
+
+Turn # 3 - 6890infernape's Turn
+6890infernape drew a card.
+6890infernape's Kirlia used Refinement.
+- 6890infernape discarded Flutter Mane.
+- 6890infernape drew 2 cards.
+6890infernape played Super Rod.
+- 6890infernape shuffled 2 cards into their deck.
+   • Kirlia, Basic Darkness Energy
+- 6890infernape put Ralts on top of their deck.
+6890infernape's Kirlia used Refinement.
+- 6890infernape discarded Professor Turo's Scenario.
+- 6890infernape drew 2 cards.
+6890infernape evolved Kirlia to Gardevoir ex on the Bench.
+6890infernape played Unfair Stamp.
+- 6890infernape shuffled 3 cards into their deck.
+- 0512SmileMan moved 0512SmileMan's 7 cards to their deck.
+   • Basic Fire Energy, Basic Fire Energy, Unfair Stamp, Basic Psychic Energy, Technical Machine: Devolution, Rescue Board, Drakloak
+- 6890infernape drew 5 cards.
+- 0512SmileMan drew 2 cards.
+   • Arven, Earthen Vessel
+6890infernape played Buddy-Buddy Poffin.
+- 6890infernape drew Drifloon and played it to the Bench.
+- 6890infernape shuffled their deck.
+6890infernape played Professor Turo's Scenario.
+- 6890infernape moved 6890infernape's Kirlia to their hand.
+- 6890infernape moved 6890infernape's Ralts to their hand.
+6890infernape evolved Ralts to Kirlia on the Bench.
+6890infernape's Kirlia used Refinement.
+- 6890infernape discarded Basic Psychic Energy.
+- 6890infernape drew 2 cards.
+6890infernape played Ralts to the Bench.
+6890infernape's Gardevoir ex used Psychic Embrace.
+- 6890infernape attached Basic Psychic Energy to Munkidori in the Active Spot.
+- 6890infernape put 2 damage counters on 6890infernape's Munkidori.
+6890infernape performed an action.
+- Basic Psychic Energy was discarded from 6890infernape's Munkidori.
+6890infernape ended their turn.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Earthen Vessel.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Earthen Vessel.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Defiance Band, Basic Fire Energy
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Iono.
+Opponent conceded. 0512SmileMan wins.
+

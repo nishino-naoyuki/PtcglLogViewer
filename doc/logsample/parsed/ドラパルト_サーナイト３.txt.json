@@ -1,0 +1,977 @@
+{
+  "file": "ドラパルト　サーナイト３.txt",
+  "players": [
+    "0512SmileMan",
+    "rhetttt"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "rhetttt won the coin toss.",
+    "rhetttt decided to go second.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Buddy-Buddy Poffin, Dragapult ex, Rotom V, Technical Machine: Evolution, Dreepy, Lost Vacuum, Iono",
+    "rhetttt drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "rhetttt played Drifloon to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Rescue Board, Nest Ball, Arven",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "rhetttt",
+      "actions": [
+        {
+          "raw": "rhetttt drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "rhetttt played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt drew Tatsugiri and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "rhetttt retreated Drifloon to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from rhetttt's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt's Tatsugiri is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt's Tatsugiri used Attract Customers.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "rhetttt",
+      "actions": [
+        {
+          "raw": "rhetttt drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "rhetttt's Tatsugiri used Attract Customers.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt attached Technical Machine: Evolution to Tatsugiri in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Tatsugiri"
+        },
+        {
+          "raw": "rhetttt attached Basic Psychic Energy to Tatsugiri in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Tatsugiri"
+        },
+        {
+          "raw": "rhetttt's Tatsugiri used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- rhetttt evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from rhetttt's Tatsugiri.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan retreated Dreepy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Enhanced Hammer, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt's Kirlia was switched with rhetttt's Tatsugiri to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt's Kirlia is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- Forest Seal Stone was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt discarded Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on rhetttt’s Kirlia for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "rhetttt’s Kirlia",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on rhetttt's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "rhetttt's Kirlia"
+        },
+        {
+          "raw": "Ralts was discarded from rhetttt's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt's Tatsugiri is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "rhetttt",
+      "actions": [
+        {
+          "raw": "rhetttt drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "rhetttt's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "rhetttt's Tatsugiri used Attract Customers.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt played Munkidori to the Bench.",
+          "type": "play",
+          "card": "Munkidori",
+          "to": "Bench"
+        },
+        {
+          "raw": "rhetttt attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "rhetttt played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt shuffled 5 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 6 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lost Vacuum, Basic Fire Energy, Enhanced Hammer, Switch, Rare Candy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Switch, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt moved rhetttt's Scream Tail to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt moved rhetttt's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt moved 3 damage counters from rhetttt's Kirlia to 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on rhetttt’s Tatsugiri for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "rhetttt’s Tatsugiri",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on rhetttt's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt's Tatsugiri was Knocked Out!",
+          "type": "knockout",
+          "target": "rhetttt's Tatsugiri"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from rhetttt's Tatsugiri.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "rhetttt's Kirlia"
+        },
+        {
+          "raw": "Ralts was discarded from rhetttt's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt's Ralts is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Manaphy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Defiance Band was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "rhetttt",
+      "actions": [
+        {
+          "raw": "rhetttt drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "rhetttt played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Artazon, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt drew Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "rhetttt evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "rhetttt's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt discarded Cresselia.",
+          "type": "other"
+        },
+        {
+          "raw": "- rhetttt drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "rhetttt played Scream Tail to the Bench.",
+          "type": "play",
+          "card": "Scream Tail",
+          "to": "Bench"
+        },
+        {
+          "raw": "rhetttt played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- rhetttt drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- rhetttt shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 8,
+    "players": [
+      "0512SmileMan",
+      "rhetttt"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "rhetttt's Kirlia was Knocked Out!",
+        "target": "rhetttt's Kirlia"
+      },
+      {
+        "turn": 4,
+        "raw": "rhetttt's Tatsugiri was Knocked Out!",
+        "target": "rhetttt's Tatsugiri"
+      },
+      {
+        "turn": 4,
+        "raw": "rhetttt's Kirlia was Knocked Out!",
+        "target": "rhetttt's Kirlia"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

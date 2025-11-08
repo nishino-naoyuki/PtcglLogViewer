@@ -1,0 +1,959 @@
+{
+  "file": "ガオガエン　レジドラゴやけど.txt",
+  "players": [
+    "Revengè",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "Revengè chose heads for the opening coin flip.",
+    "Revengè won the coin toss.",
+    "0512SmileMan decided to go second.",
+    "Revengè drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Nest Ball, Arven, Switch, Hero's Cape, Basic Fire Energy, Basic Fire Energy, Litten",
+    "Revengè played Teal Mask Ogerpon ex to the Active Spot.",
+    "0512SmileMan played Litten to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "Revengè",
+      "actions": [
+        {
+          "raw": "Revengè drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Revengè ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Charcadet, Litten",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Litten and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Hisuian Heavy Ball, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Radiant Greninja to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Greninja to the Bench.",
+          "type": "play",
+          "card": "Radiant Greninja",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Torracat, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Charcadet and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Litten in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Litten"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Litten in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Litten"
+        },
+        {
+          "raw": "0512SmileMan's Litten used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Litten to Torracat on the Bench.",
+          "type": "evolve",
+          "from": "Litten",
+          "to": "Torracat"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Charcadet to Armarouge on the Bench.",
+          "type": "evolve",
+          "from": "Charcadet",
+          "to": "Armarouge"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Litten.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Revengè",
+      "actions": [
+        {
+          "raw": "Revengè drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Revengè played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Revengè shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Torracat, Hero's Cape, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Delphox V, Arven, Earthen Vessel, Magma Basin, Iono, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "Revengè's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Revengè drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Revengè played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Revengè's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Revengè drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Revengè ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Magma Basin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Delphox V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Armarouge, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Charcadet to Armarouge on the Bench.",
+          "type": "evolve",
+          "from": "Charcadet",
+          "to": "Armarouge"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Torracat on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Torracat"
+        },
+        {
+          "raw": "0512SmileMan played Magma Basin to the Stadium spot.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arven, Boss's Orders, Magma Basin, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Damage Pump, Basic Fire Energy, Basic Fire Energy, Counter Catcher, Earthen Vessel, Torracat",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan evolved Litten to Torracat on the Bench.",
+          "type": "evolve",
+          "from": "Litten",
+          "to": "Torracat"
+        },
+        {
+          "raw": "0512SmileMan played Magma Basin.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Fire Energy to Armarouge on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Armarouge"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on 0512SmileMan's Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Litten used Gnaw on Revengè’s Teal Mask Ogerpon ex for 20 damage. Revengè's Teal Mask Ogerpon ex took 10 more damage because of Fire Weakness.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Litten",
+          "attack": "Gnaw",
+          "target": "Revengè’s Teal Mask Ogerpon ex",
+          "damage": 20,
+          "extra_damage": 10,
+          "extra_reason": "Fire"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Revengè",
+      "actions": [
+        {
+          "raw": "Revengè drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Revengè played Regidrago V to the Bench.",
+          "type": "play",
+          "card": "Regidrago V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Revengè played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- Revengè discarded 5 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Regidrago V, Dragapult ex, Iono, Superior Energy Retrieval, Mew ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "Revengè's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Revengè drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Revengè's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Revengè drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Revengè played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Revengè discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Dragonite",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè drew Regidrago VSTAR.",
+          "type": "vstar",
+          "detail": "- Revengè drew Regidrago VSTAR."
+        },
+        {
+          "raw": "- Revengè shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Revengè attached Basic Fire Energy to Regidrago V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "Revengè ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Litten in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Litten"
+        },
+        {
+          "raw": "0512SmileMan played Damage Pump.",
+          "type": "play",
+          "card": "Damage Pump",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from 0512SmileMan's Armarouge to 0512SmileMan's Litten.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Magma Basin.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Fire Energy to Armarouge on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Armarouge"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on 0512SmileMan's Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Litten used Reprisal on Revengè’s Teal Mask Ogerpon ex for 80 damage. Revengè's Teal Mask Ogerpon ex took 40 more damage because of Fire Weakness.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Litten",
+          "attack": "Reprisal",
+          "target": "Revengè’s Teal Mask Ogerpon ex",
+          "damage": 80,
+          "extra_damage": 40,
+          "extra_reason": "Fire"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Revengè",
+      "actions": [
+        {
+          "raw": "Revengè drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Revengè evolved Regidrago V to Regidrago VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Regidrago V",
+          "to": "Regidrago VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Revengè's Regidrago VSTAR used Legacy Star.",
+          "type": "vstar",
+          "detail": "Revengè's Regidrago VSTAR used Legacy Star."
+        },
+        {
+          "raw": "- Revengè moved Revengè's 7 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Professor's Research, Energy Switch, Professor's Research, Basic Grass Energy, Teal Mask Ogerpon ex, Regidrago VSTAR",
+          "type": "vstar",
+          "detail": "• Nest Ball, Professor's Research, Energy Switch, Professor's Research, Basic Grass Energy, Teal Mask Ogerpon ex, Regidrago VSTAR"
+        },
+        {
+          "raw": "- Revengè moved Revengè's Professor's Research to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Revengè can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "Revengè can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "Revengè played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- Revengè attached Basic Grass Energy to Regidrago VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "Revengè played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- Revengè discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Nest Ball, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "Revengè attached Basic Grass Energy to Regidrago VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "Revengè retreated Teal Mask Ogerpon ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Revengè's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Revengè's Regidrago VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Revengè's Regidrago VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "Revengè played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- Revengè shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Regidrago V, Regidrago VSTAR, Mew ex",
+          "type": "vstar",
+          "detail": "• Regidrago V, Regidrago VSTAR, Mew ex"
+        },
+        {
+          "raw": "Revengè's Regidrago VSTAR used Apex Dragon on 0512SmileMan’s Litten for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "Revengè",
+          "attacker": "Regidrago VSTAR",
+          "attack": "Apex Dragon",
+          "target": "0512SmileMan’s Litten",
+          "damage": 200
+        },
+        {
+          "raw": "- Revengè chose Phantom Dive",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè put 5 damage counters on 0512SmileMan's Torracat.",
+          "type": "other"
+        },
+        {
+          "raw": "- Revengè put a damage counter on 0512SmileMan's Torracat.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Litten was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Litten"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Litten.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Armarouge is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Revengè took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Revengè's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Magma Basin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Entei V, Magma Basin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Entei V to the Bench.",
+          "type": "play",
+          "card": "Entei V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Armarouge in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Armarouge"
+        },
+        {
+          "raw": "0512SmileMan's Armarouge used Fire Off.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Fire Energy to Armarouge in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Armarouge"
+        },
+        {
+          "raw": "0512SmileMan played Magma Basin.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Fire Energy to Armarouge on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Armarouge"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on 0512SmileMan's Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Armarouge used Flame Cannon on Revengè’s Regidrago VSTAR for 90 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Armarouge",
+          "attack": "Flame Cannon",
+          "target": "Revengè’s Regidrago VSTAR",
+          "damage": 90
+        },
+        {
+          "raw": "- Revengè's Regidrago VSTAR is now Burned.",
+          "type": "vstar",
+          "detail": "- Revengè's Regidrago VSTAR is now Burned."
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "2 damage counters were placed on Revengè's Regidrago VSTAR for the Special Condition Burned.",
+          "type": "vstar",
+          "detail": "2 damage counters were placed on Revengè's Regidrago VSTAR for the Special Condition Burned."
+        },
+        {
+          "raw": "Revengè flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "Revengè's Regidrago VSTAR is no longer Burned.",
+          "type": "vstar",
+          "detail": "Revengè's Regidrago VSTAR is no longer Burned."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Revengè",
+      "actions": [
+        {
+          "raw": "Revengè drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "You conceded. Revengè wins.",
+          "type": "result",
+          "detail": "You conceded. Revengè wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "Revengè",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Litten was Knocked Out!",
+        "target": "0512SmileMan's Litten"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "- Revengè drew Regidrago VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "Revengè's Regidrago VSTAR used Legacy Star."
+      },
+      {
+        "turn": 4,
+        "raw": "• Nest Ball, Professor's Research, Energy Switch, Professor's Research, Basic Grass Energy, Teal Mask Ogerpon ex, Regidrago VSTAR"
+      },
+      {
+        "turn": 4,
+        "raw": "Revengè can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 4,
+        "raw": "Revengè's Regidrago VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 4,
+        "raw": "• Regidrago V, Regidrago VSTAR, Mew ex"
+      },
+      {
+        "turn": 4,
+        "attack": "Apex Dragon",
+        "raw": "Revengè's Regidrago VSTAR used Apex Dragon on 0512SmileMan’s Litten for 200 damage.",
+        "target": "0512SmileMan’s Litten",
+        "damage": 200
+      },
+      {
+        "turn": 4,
+        "attack": "Flame Cannon",
+        "raw": "0512SmileMan's Armarouge used Flame Cannon on Revengè’s Regidrago VSTAR for 90 damage.",
+        "target": "Revengè’s Regidrago VSTAR",
+        "damage": 90
+      },
+      {
+        "turn": 4,
+        "raw": "- Revengè's Regidrago VSTAR is now Burned."
+      },
+      {
+        "turn": 4,
+        "raw": "2 damage counters were placed on Revengè's Regidrago VSTAR for the Special Condition Burned."
+      },
+      {
+        "turn": 4,
+        "raw": "Revengè's Regidrago VSTAR is no longer Burned."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 5
+    }
+  }
+}

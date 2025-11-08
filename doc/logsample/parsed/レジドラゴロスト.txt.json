@@ -1,0 +1,1015 @@
+{
+  "file": "レジドラゴロスト.txt",
+  "players": [
+    "0512SmileMan",
+    "kiwi20230529"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "kiwi20230529 won the coin toss.",
+    "kiwi20230529 decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Teal Mask Ogerpon ex, Earthen Vessel, Superior Energy Retrieval, Boss's Orders, Professor's Research, Nest Ball, Professor's Research",
+    "kiwi20230529 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Teal Mask Ogerpon ex to the Active Spot.",
+    "kiwi20230529 played Comfey to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "kiwi20230529",
+      "actions": [
+        {
+          "raw": "kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "kiwi20230529's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- kiwi20230529 moved kiwi20230529's Counter Catcher to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 played Munkidori to the Bench.",
+          "type": "play",
+          "card": "Munkidori",
+          "to": "Bench"
+        },
+        {
+          "raw": "kiwi20230529 attached Basic Fire Energy to Comfey in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Comfey"
+        },
+        {
+          "raw": "kiwi20230529 retreated Comfey to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from kiwi20230529's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Munkidori is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Regidrago V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Regidrago V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Superior Energy Retrieval, Professor's Research",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Basic Fire Energy, Superior Energy Retrieval, Prime Catcher, Earthen Vessel, Ultra Ball, Energy Switch, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Hisuian Goodra VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Hisuian Goodra VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Hisuian Goodra VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan discarded Hisuian Goodra VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Regidrago V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "kiwi20230529",
+      "actions": [
+        {
+          "raw": "kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "kiwi20230529 played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Radiant Alakazam was switched with 0512SmileMan's Teal Mask Ogerpon ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529's Comfey was switched with kiwi20230529's Munkidori to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- kiwi20230529 moved kiwi20230529's Hisuian Heavy Ball to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 played Colress's Experiment.",
+          "type": "play",
+          "card": "Colress's Experiment",
+          "to": null
+        },
+        {
+          "raw": "- kiwi20230529 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- kiwi20230529 moved kiwi20230529's 2 cards to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch Cart, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 played Cramorant to the Bench.",
+          "type": "play",
+          "card": "Cramorant",
+          "to": "Bench"
+        },
+        {
+          "raw": "kiwi20230529 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- kiwi20230529 drew Comfey and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- kiwi20230529 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 attached Basic Darkness Energy to Comfey in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Comfey"
+        },
+        {
+          "raw": "kiwi20230529 retreated Comfey to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Darkness Energy was discarded from kiwi20230529's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Cramorant is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Cramorant used Spit Innocently on 0512SmileMan’s Radiant Alakazam for 110 damage.",
+          "type": "attack",
+          "attackerOwner": "kiwi20230529",
+          "attacker": "Cramorant",
+          "attack": "Spit Innocently",
+          "target": "0512SmileMan’s Radiant Alakazam",
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Giratina VSTAR.",
+          "type": "vstar",
+          "detail": "0512SmileMan drew Giratina VSTAR."
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Giratina VSTAR, Superior Energy Retrieval",
+          "type": "vstar",
+          "detail": "• Giratina VSTAR, Superior Energy Retrieval"
+        },
+        {
+          "raw": "- 0512SmileMan drew Regidrago VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Regidrago VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Regidrago V to Regidrago VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Regidrago V",
+          "to": "Regidrago VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Legacy Star.",
+          "type": "vstar",
+          "detail": "0512SmileMan's Regidrago VSTAR used Legacy Star."
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 7 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor's Research, Ultra Ball, Basic Grass Energy, Basic Grass Energy, Dragapult ex, Nest Ball, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Energy Switch, Superior Energy Retrieval",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Regidrago VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- kiwi20230529's Munkidori was switched with kiwi20230529's Cramorant to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Regidrago VSTAR was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan's Regidrago VSTAR was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon."
+        },
+        {
+          "raw": "kiwi20230529's Munkidori is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "0512SmileMan's Regidrago VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Superior Energy Retrieval on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Energy Switch, Basic Grass Energy, Regidrago VSTAR, Teal Mask Ogerpon ex, Energy Switch, Energy Switch",
+          "type": "vstar",
+          "detail": "• Energy Switch, Basic Grass Energy, Regidrago VSTAR, Teal Mask Ogerpon ex, Energy Switch, Energy Switch"
+        },
+        {
+          "raw": "- kiwi20230529 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Super Rod.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on kiwi20230529’s Munkidori for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Regidrago VSTAR",
+          "attack": "Apex Dragon",
+          "target": "kiwi20230529’s Munkidori",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan chose Rolling Iron",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Munkidori was Knocked Out!",
+          "type": "knockout",
+          "target": "kiwi20230529's Munkidori"
+        },
+        {
+          "raw": "kiwi20230529's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "kiwi20230529",
+      "actions": [
+        {
+          "raw": "kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "kiwi20230529's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- kiwi20230529 moved kiwi20230529's Buddy-Buddy Poffin to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- kiwi20230529's Comfey was switched with kiwi20230529's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- kiwi20230529 moved kiwi20230529's Super Rod to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 played Comfey to the Bench.",
+          "type": "play",
+          "card": "Comfey",
+          "to": "Bench"
+        },
+        {
+          "raw": "kiwi20230529 played Switch Cart.",
+          "type": "play",
+          "card": "Switch Cart",
+          "to": null
+        },
+        {
+          "raw": "- kiwi20230529's Comfey was switched with kiwi20230529's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "kiwi20230529 played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- kiwi20230529 drew Iron Bundle and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- kiwi20230529 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Iron Bundle used Hyper Blower.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Teal Mask Ogerpon ex was switched with 0512SmileMan's Regidrago VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan's Teal Mask Ogerpon ex was switched with 0512SmileMan's Regidrago VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "- kiwi20230529 discarded Iron Bundle.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- kiwi20230529 moved kiwi20230529's Nest Ball to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 attached Rescue Board to Comfey in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Comfey"
+        },
+        {
+          "raw": "kiwi20230529 retreated Comfey to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Cramorant is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 played Sableye to the Bench.",
+          "type": "play",
+          "card": "Sableye",
+          "to": "Bench"
+        },
+        {
+          "raw": "kiwi20230529's Cramorant used Spit Innocently on 0512SmileMan’s Teal Mask Ogerpon ex for 110 damage.",
+          "type": "attack",
+          "attackerOwner": "kiwi20230529",
+          "attacker": "Cramorant",
+          "attack": "Spit Innocently",
+          "target": "0512SmileMan’s Teal Mask Ogerpon ex",
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Mew ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Mew ex to the Bench.",
+          "type": "play",
+          "card": "Mew ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan retreated Teal Mask Ogerpon ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from 0512SmileMan's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "0512SmileMan's Regidrago VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on kiwi20230529’s Cramorant for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Regidrago VSTAR",
+          "attack": "Apex Dragon",
+          "target": "kiwi20230529’s Cramorant",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan chose Phantom Dive",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on kiwi20230529's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on kiwi20230529's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on kiwi20230529's Sableye.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Cramorant was Knocked Out!",
+          "type": "knockout",
+          "target": "kiwi20230529's Cramorant"
+        },
+        {
+          "raw": "kiwi20230529's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Professor's Research was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "kiwi20230529",
+      "actions": [
+        {
+          "raw": "kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "kiwi20230529 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- kiwi20230529 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- kiwi20230529 moved kiwi20230529's Artazon to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 retreated Comfey to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- kiwi20230529 moved kiwi20230529's Bloodmoon Ursaluna ex to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529 played Switch Cart.",
+          "type": "play",
+          "card": "Switch Cart",
+          "to": null
+        },
+        {
+          "raw": "- kiwi20230529's Comfey was switched with kiwi20230529's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529's Comfey healed 30 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "kiwi20230529's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- kiwi20230529 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- kiwi20230529 moved kiwi20230529's Switch to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 7,
+    "players": [
+      "0512SmileMan",
+      "kiwi20230529"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "kiwi20230529's Munkidori was Knocked Out!",
+        "target": "kiwi20230529's Munkidori"
+      },
+      {
+        "turn": 3,
+        "raw": "kiwi20230529's Cramorant was Knocked Out!",
+        "target": "kiwi20230529's Cramorant"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 1,
+        "raw": "- 0512SmileMan drew Hisuian Goodra VSTAR."
+      },
+      {
+        "turn": 1,
+        "raw": "- 0512SmileMan discarded Hisuian Goodra VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan drew Giratina VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "• Giratina VSTAR, Superior Energy Retrieval"
+      },
+      {
+        "turn": 2,
+        "raw": "- 0512SmileMan drew Regidrago VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Regidrago VSTAR used Legacy Star."
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "raw": "- 0512SmileMan's Regidrago VSTAR was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon."
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Regidrago VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 2,
+        "raw": "• Energy Switch, Basic Grass Energy, Regidrago VSTAR, Teal Mask Ogerpon ex, Energy Switch, Energy Switch"
+      },
+      {
+        "turn": 2,
+        "attack": "Apex Dragon",
+        "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on kiwi20230529’s Munkidori for 200 damage.",
+        "target": "kiwi20230529’s Munkidori",
+        "damage": 200
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan's Teal Mask Ogerpon ex was switched with 0512SmileMan's Regidrago VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Regidrago VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 3,
+        "attack": "Apex Dragon",
+        "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on kiwi20230529’s Cramorant for 200 damage.",
+        "target": "kiwi20230529’s Cramorant",
+        "damage": 200
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

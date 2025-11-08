@@ -1,0 +1,1307 @@
+{
+  "file": "ドラパルト　サーナイト６.txt",
+  "players": [
+    "Chef_K",
+    "0512SmileMan",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "Chef_K chose heads for the opening coin flip.",
+    "Chef_K won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "Chef_K drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Psychic Energy, Lost Vacuum, Dreepy, Dreepy, Ultra Ball, Nest Ball, Earthen Vessel",
+    "Chef_K took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Basic Psychic Energy, Super Rod, Artazon, Earthen Vessel, Basic Psychic Energy, Iono, Earthen Vessel",
+    "0512SmileMan drew 1 more card because Chef_K took at least 1 mulligan.",
+    "- 0512SmileMan drew Earthen Vessel.",
+    "Chef_K played Scream Tail to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Drakloak, Buddy-Buddy Poffin, Nest Ball",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Chef_K",
+      "actions": [
+        {
+          "raw": "Chef_K drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chef_K played Flutter Mane to the Bench.",
+          "type": "play",
+          "card": "Flutter Mane",
+          "to": "Bench"
+        },
+        {
+          "raw": "Chef_K played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K moved Chef_K's Ralts to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K moved Chef_K's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K played Ralts to the Bench.",
+          "type": "play",
+          "card": "Ralts",
+          "to": "Bench"
+        },
+        {
+          "raw": "Chef_K played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "Chef_K attached Technical Machine: Evolution to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "Chef_K's Scream Tail used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- Chef_K evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from Chef_K's Scream Tail.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Manaphy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Chef_K’s Scream Tail for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Chef_K’s Scream Tail",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Chef_K's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Scream Tail was Knocked Out!",
+          "type": "knockout",
+          "target": "Chef_K's Scream Tail"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from Chef_K's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Ralts is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Chef_K",
+      "actions": [
+        {
+          "raw": "Chef_K drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chef_K's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K discarded Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Chef_K's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Chef_K played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Chef_K played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K evolved Kirlia to Gardevoir ex on the Bench.",
+          "type": "evolve",
+          "from": "Kirlia",
+          "to": "Gardevoir ex"
+        },
+        {
+          "raw": "Chef_K played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Drakloak, Ultra Ball, Dreepy, Nest Ball, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Arven, Buddy-Buddy Poffin, Super Rod, Natu, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "Chef_K played Cresselia to the Bench.",
+          "type": "play",
+          "card": "Cresselia",
+          "to": "Bench"
+        },
+        {
+          "raw": "Chef_K's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K attached Basic Psychic Energy to Cresselia on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Cresselia"
+        },
+        {
+          "raw": "- Chef_K put 2 damage counters on Chef_K's Cresselia.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K moved 3 damage counters from Chef_K's Gardevoir ex to 0512SmileMan's Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arven, Buddy-Buddy Poffin, Super Rod, Natu, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from Chef_K's Cresselia to Chef_K's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Manaphy on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Chef_K’s Ralts for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Chef_K’s Ralts",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Chef_K's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Ralts was Knocked Out!",
+          "type": "knockout",
+          "target": "Chef_K's Ralts"
+        },
+        {
+          "raw": "Chef_K's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "Chef_K's Kirlia"
+        },
+        {
+          "raw": "Ralts was discarded from Chef_K's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Flutter Mane is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Unfair Stamp was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Counter Catcher was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Chef_K",
+      "actions": [
+        {
+          "raw": "Chef_K drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chef_K played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Kirlia, Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K attached Technical Machine: Evolution to Cresselia on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Cresselia"
+        },
+        {
+          "raw": "Chef_K played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K drew Ralts and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Unfair Stamp, Counter Catcher, Iono, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Ultra Ball, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K moved 3 damage counters from Chef_K's Gardevoir ex to 0512SmileMan's Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "Chef_K took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Chef_K's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K attached Basic Psychic Energy to Flutter Mane in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Flutter Mane"
+        },
+        {
+          "raw": "Chef_K ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from Chef_K's Cresselia.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Xatu, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Technical Machine: Devolution on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Arven, Natu, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Chef_K’s Flutter Mane for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Chef_K’s Flutter Mane",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Chef_K's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Flutter Mane was Knocked Out!",
+          "type": "knockout",
+          "target": "Chef_K's Flutter Mane"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from Chef_K's Flutter Mane.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Cresselia is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Chef_K",
+      "actions": [
+        {
+          "raw": "Chef_K drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Chef_K played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Radiant Alakazam was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K drew Ralts and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Gardevoir ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "Chef_K played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Chef_K discarded Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Chef_K attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "Chef_K's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K moved 3 damage counters from Chef_K's Kirlia to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K moved 3 damage counters from Chef_K's Kirlia to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K attached Basic Psychic Energy to Cresselia in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Cresselia"
+        },
+        {
+          "raw": "- Chef_K put 2 damage counters on Chef_K's Cresselia.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K attached Basic Psychic Energy to Cresselia in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Cresselia"
+        },
+        {
+          "raw": "- Chef_K put 2 damage counters on Chef_K's Cresselia.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K attached Basic Psychic Energy to Ralts on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Ralts"
+        },
+        {
+          "raw": "- Chef_K put 2 damage counters on Chef_K's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Cresselia used Moonglow Reverse.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K moved 2 damage counters from Chef_K's Cresselia to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- Chef_K moved 2 damage counters from Chef_K's Ralts to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Unfair Stamp.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Switch, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from Chef_K's Cresselia to Chef_K's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Chef_K’s Cresselia for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Chef_K’s Cresselia",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Chef_K's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Cresselia was Knocked Out!",
+          "type": "knockout",
+          "target": "Chef_K's Cresselia"
+        },
+        {
+          "raw": "- 3 cards were discarded from Chef_K's Cresselia.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Chef_K's Kirlia was Knocked Out!",
+          "type": "knockout",
+          "target": "Chef_K's Kirlia"
+        },
+        {
+          "raw": "Ralts was discarded from Chef_K's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Buddy-Buddy Poffin was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "All Prize cards taken. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "All Prize cards taken. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "Chef_K",
+      "0512SmileMan",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "Chef_K's Scream Tail was Knocked Out!",
+        "target": "Chef_K's Scream Tail"
+      },
+      {
+        "turn": 3,
+        "raw": "Chef_K's Ralts was Knocked Out!",
+        "target": "Chef_K's Ralts"
+      },
+      {
+        "turn": 3,
+        "raw": "Chef_K's Kirlia was Knocked Out!",
+        "target": "Chef_K's Kirlia"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      },
+      {
+        "turn": 4,
+        "raw": "Chef_K's Flutter Mane was Knocked Out!",
+        "target": "Chef_K's Flutter Mane"
+      },
+      {
+        "turn": 5,
+        "raw": "Chef_K's Cresselia was Knocked Out!",
+        "target": "Chef_K's Cresselia"
+      },
+      {
+        "turn": 5,
+        "raw": "Chef_K's Kirlia was Knocked Out!",
+        "target": "Chef_K's Kirlia"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "All Prize cards taken. 0512SmileMan",
+      "method": null,
+      "final_turn": 5
+    }
+  }
+}

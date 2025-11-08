@@ -1,0 +1,98 @@
+Setup
+hiroshired chose tails for the opening coin flip.
+0512SmileMan won the coin toss.
+hiroshired decided to go second.
+hiroshired drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Technical Machine: Devolution, Gengar ex, Basic Darkness Energy, Counter Catcher, Manaphy, Arven, Nest Ball
+hiroshired played Raging Bolt ex to the Active Spot.
+hiroshired played Raging Bolt ex to the Bench.
+0512SmileMan played Manaphy to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Prime Catcher.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Gastly and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Darkness Energy to Gastly on the Bench.
+0512SmileMan attached Technical Machine: Devolution to Manaphy in the Active Spot.
+0512SmileMan ended their turn.
+Technical Machine: Devolution was activated.
+- Technical Machine: Devolution was discarded from 0512SmileMan's Manaphy.
+
+Turn # 1 - hiroshired's Turn
+hiroshired drew a card.
+hiroshired played PokéStop to the Stadium spot.
+hiroshired played PokéStop.
+- hiroshired moved hiroshired's 3 cards to the discard pile.
+   • Basic Grass Energy, Basic Lightning Energy, Radiant Greninja
+hiroshired played Professor Sada's Vitality.
+- hiroshired attached Basic Grass Energy to Raging Bolt ex on the Bench.
+- hiroshired attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.
+- hiroshired drew 3 cards.
+hiroshired played Nest Ball.
+- hiroshired drew Squawkabilly ex and played it to the Bench.
+- hiroshired shuffled their deck.
+hiroshired's Squawkabilly ex used Squawk and Seize.
+- hiroshired discarded 6 cards.
+   • Basic Grass Energy, Basic Lightning Energy, Basic Grass Energy, Energy Retrieval, Basic Lightning Energy, Iono
+- hiroshired drew 6 cards.
+hiroshired played Teal Mask Ogerpon ex to the Bench.
+hiroshired played Earthen Vessel.
+- hiroshired discarded PokéStop.
+- hiroshired drew 2 cards.
+   • Basic Fighting Energy, Basic Grass Energy
+- hiroshired shuffled their deck.
+hiroshired attached Basic Fighting Energy to Raging Bolt ex in the Active Spot.
+hiroshired's Teal Mask Ogerpon ex used Teal Dance.
+- hiroshired attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- hiroshired drew a card.
+hiroshired's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Manaphy for 70 damage.
+- Basic Lightning Energy was discarded from hiroshired's Raging Bolt ex.
+0512SmileMan's Manaphy was Knocked Out!
+0512SmileMan's Gastly is now in the Active Spot.
+hiroshired took a Prize card.
+A card was added to hiroshired's hand.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Ultra Ball.
+0512SmileMan played PokéStop.
+- 0512SmileMan moved 0512SmileMan's 3 cards to the discard pile.
+   • Pidgeot ex, Pidgey, Arven
+0512SmileMan played Arven.
+- 0512SmileMan drew Rare Candy.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Counter Catcher.
+- hiroshired's Squawkabilly ex was switched with hiroshired's Raging Bolt ex to become the Active Pokémon.
+hiroshired's Squawkabilly ex is now in the Active Spot.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Gastly to Gengar ex in the Active Spot.
+0512SmileMan ended their turn.
+
+Turn # 2 - hiroshired's Turn
+hiroshired drew a card.
+hiroshired played Trekking Shoes.
+- hiroshired drew a card.
+hiroshired played Switch Cart.
+- hiroshired's Raging Bolt ex was switched with hiroshired's Squawkabilly ex to become the Active Pokémon.
+hiroshired's Raging Bolt ex is now in the Active Spot.
+hiroshired played Professor Sada's Vitality.
+- hiroshired attached Basic Lightning Energy to Raging Bolt ex on the Bench.
+- hiroshired attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.
+- hiroshired drew 3 cards.
+hiroshired played Teal Mask Ogerpon ex to the Bench.
+hiroshired's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Gengar ex for 350 damage.
+- 2 cards were discarded from hiroshired's Raging Bolt ex.
+   • Basic Lightning Energy, Basic Fighting Energy
+- 3 cards were discarded from hiroshired's Raging Bolt ex.
+   • Basic Lightning Energy, Basic Grass Energy, Basic Grass Energy
+0512SmileMan's Gengar ex was Knocked Out!
+- 2 cards were discarded from 0512SmileMan's Gengar ex.
+   • Basic Darkness Energy, Gastly
+hiroshired took 2 Prize cards.
+A card was added to hiroshired's hand.
+A card was added to hiroshired's hand.
+Knocked Out with no Benched Pokémon. hiroshired wins.
+

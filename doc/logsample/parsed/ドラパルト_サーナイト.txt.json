@@ -1,0 +1,1415 @@
+{
+  "file": "ドラパルト　サーナイト.txt",
+  "players": [
+    "0512SmileMan",
+    "ogushin112",
+    "- ogushin112"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "ogushin112 won the coin toss.",
+    "ogushin112 decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Nest Ball, Ultra Ball, Xatu, Arven, Buddy-Buddy Poffin, Rare Candy, Rescue Board",
+    "ogushin112 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Nest Ball, Ultra Ball, Xatu, Arven, Buddy-Buddy Poffin, Rare Candy, Rescue Board",
+    "ogushin112 drew 1 more card because 0512SmileMan took at least 1 mulligan.",
+    "- ogushin112 drew a card.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "ogushin112 played Ralts to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "ogushin112",
+      "actions": [
+        {
+          "raw": "ogushin112 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ogushin112 attached Basic Psychic Energy to Ralts in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Ralts"
+        },
+        {
+          "raw": "ogushin112 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Switch, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "ogushin112",
+      "actions": [
+        {
+          "raw": "ogushin112 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ogushin112 played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 drew Ralts and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 attached Technical Machine: Evolution to Ralts in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Ralts"
+        },
+        {
+          "raw": "ogushin112's Ralts used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- ogushin112 evolved Ralts to Kirlia on the Bench.",
+          "type": "evolve",
+          "from": "Ralts",
+          "to": "Kirlia"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from ogushin112's Ralts.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Radiant Alakazam, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Radiant Alakazam, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan retreated Dreepy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on ogushin112’s Ralts for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "ogushin112’s Ralts",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on ogushin112's Kirlia.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Ralts was Knocked Out!",
+          "type": "knockout",
+          "target": "ogushin112's Ralts"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from ogushin112's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Ralts is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "ogushin112",
+      "actions": [
+        {
+          "raw": "ogushin112 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ogushin112's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 discarded Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "ogushin112's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 discarded Klefki.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "ogushin112 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 discarded Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "ogushin112 played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Drifloon",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 drew Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 evolved Kirlia to Gardevoir ex on the Bench.",
+          "type": "evolve",
+          "from": "Kirlia",
+          "to": "Gardevoir ex"
+        },
+        {
+          "raw": "ogushin112 played Scream Tail to the Bench.",
+          "type": "play",
+          "card": "Scream Tail",
+          "to": "Bench"
+        },
+        {
+          "raw": "ogushin112's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 moved 3 damage counters from ogushin112's Gardevoir ex to 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Ralts in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Ralts"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 retreated Ralts to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from ogushin112's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Scream Tail is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 attached Bravery Charm to Ralts on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Ralts"
+        },
+        {
+          "raw": "ogushin112's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Scream Tail in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Scream Tail"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Scream Tail used Roaring Scream.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Xatu took 80 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Xatu"
+        },
+        {
+          "raw": "Natu was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to ogushin112's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on ogushin112’s Scream Tail for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "ogushin112’s Scream Tail",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on ogushin112's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Scream Tail was Knocked Out!",
+          "type": "knockout",
+          "target": "ogushin112's Scream Tail"
+        },
+        {
+          "raw": "- 2 cards were discarded from ogushin112's Scream Tail.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Munkidori is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Xatu was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "ogushin112",
+      "actions": [
+        {
+          "raw": "ogushin112 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ogushin112 played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Scream Tail, Drifloon, Drifloon",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "ogushin112 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Xatu, Counter Catcher, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Boss's Orders, Drakloak, Buddy-Buddy Poffin, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 played Cresselia to the Bench.",
+          "type": "play",
+          "card": "Cresselia",
+          "to": "Bench"
+        },
+        {
+          "raw": "ogushin112's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 moved 3 damage counters from ogushin112's Ralts to 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Munkidori in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Cresselia on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Cresselia"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Cresselia.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 retreated Munkidori to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from ogushin112's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Cresselia is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Cresselia used Moonglow Reverse.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 moved 2 damage counters from ogushin112's Cresselia to 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 moved 2 damage counters from ogushin112's Gardevoir ex to 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 moved 2 damage counters from ogushin112's Ralts to 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 moved 2 damage counters from ogushin112's Munkidori to 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to ogushin112's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Defiance Band.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Lost Vacuum, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Buddy-Buddy Poffin to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 moved ogushin112's Bravery Charm to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on ogushin112’s Cresselia for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "ogushin112’s Cresselia",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on ogushin112's Ralts.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Cresselia was Knocked Out!",
+          "type": "knockout",
+          "target": "ogushin112's Cresselia"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from ogushin112's Cresselia.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Ralts was Knocked Out!",
+          "type": "knockout",
+          "target": "ogushin112's Ralts"
+        },
+        {
+          "raw": "ogushin112's Gardevoir ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Dragapult ex was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "ogushin112",
+      "actions": [
+        {
+          "raw": "ogushin112 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "ogushin112's Kirlia used Refinement.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "ogushin112 played Drifloon to the Bench.",
+          "type": "play",
+          "card": "Drifloon",
+          "to": "Bench"
+        },
+        {
+          "raw": "ogushin112 attached Basic Psychic Energy to Gardevoir ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "ogushin112 played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Cresselia, Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 6 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Iono, Defiance Band, Technical Machine: Devolution, Drakloak, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Bravery Charm",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112 drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ralts, Ralts",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Gardevoir ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Gardevoir ex"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 retreated Gardevoir ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- 2 cards were discarded from ogushin112's Gardevoir ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Drifloon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 attached Bravery Charm to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "ogushin112's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 moved 3 damage counters from ogushin112's Gardevoir ex to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Gardevoir ex used Psychic Embrace.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "- ogushin112 attached Basic Psychic Energy to Drifloon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drifloon"
+        },
+        {
+          "raw": "- ogushin112 put 2 damage counters on ogushin112's Drifloon.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Drifloon used Balloon Blast on 0512SmileMan’s Dragapult ex for 300 damage.",
+          "type": "attack",
+          "attackerOwner": "ogushin112",
+          "attacker": "Drifloon",
+          "attack": "Balloon Blast",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 300
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to ogushin112's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to ogushin112's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Defiance Band.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- ogushin112's Munkidori was switched with ogushin112's Drifloon to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "ogushin112's Munkidori is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 10,
+    "players": [
+      "0512SmileMan",
+      "ogushin112",
+      "- ogushin112"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "ogushin112's Ralts was Knocked Out!",
+        "target": "ogushin112's Ralts"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Xatu was Knocked Out!",
+        "target": "0512SmileMan's Xatu"
+      },
+      {
+        "turn": 3,
+        "raw": "ogushin112's Scream Tail was Knocked Out!",
+        "target": "ogushin112's Scream Tail"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 4,
+        "raw": "ogushin112's Cresselia was Knocked Out!",
+        "target": "ogushin112's Cresselia"
+      },
+      {
+        "turn": 4,
+        "raw": "ogushin112's Ralts was Knocked Out!",
+        "target": "ogushin112's Ralts"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 1,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "ogushin112",
+      "method": "concession",
+      "final_turn": 5
+    }
+  }
+}

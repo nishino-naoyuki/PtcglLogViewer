@@ -1,0 +1,633 @@
+{
+  "file": "ドラパルトミラー2.txt",
+  "players": [
+    "Doravimon",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "Doravimon chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "Doravimon decided to go second.",
+    "Doravimon drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Earthen Vessel, Basic Fire Energy, Rescue Board, Earthen Vessel, Xatu, Drakloak, Natu",
+    "Doravimon played Rotom V to the Active Spot.",
+    "0512SmileMan played Natu to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Doravimon",
+      "actions": [
+        {
+          "raw": "Doravimon drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Doravimon played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- Doravimon drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Doravimon drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Pidgey",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon attached Basic Fire Energy to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "Doravimon retreated Rotom V to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from Doravimon's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon attached Rescue Board to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "Doravimon's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Xatu in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Xatu in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Doravimon",
+      "actions": [
+        {
+          "raw": "Doravimon drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Doravimon played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Doravimon drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Doravimon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- Doravimon discarded Pidgey.",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- Doravimon evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "Doravimon played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Doravimon shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Rescue Board, Drakloak, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Dragapult ex, Arven, Dreepy, Rare Candy, Switch, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon played Temple of Sinnoh to the Stadium spot.",
+          "type": "play",
+          "card": "Temple of Sinnoh",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Doravimon played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "Doravimon's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Super Rod, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Doravimon’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Doravimon’s Dragapult ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on Doravimon's Pidgey.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on Doravimon's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon's Pidgey was Knocked Out!",
+          "type": "knockout",
+          "target": "Doravimon's Pidgey"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Doravimon",
+      "actions": [
+        {
+          "raw": "Doravimon drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Doravimon attached Neo Upper Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Neo Upper Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "Doravimon played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Xatu was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon played Hawlucha to the Bench.",
+          "type": "play",
+          "card": "Hawlucha",
+          "to": "Bench"
+        },
+        {
+          "raw": "Doravimon's Hawlucha used Flying Entry.",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon put a damage counter on 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon put a damage counter on 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Doravimon discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Bidoof, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Doravimon evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "Doravimon's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- Doravimon drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 6,
+    "players": [
+      "Doravimon",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "Doravimon's Pidgey was Knocked Out!",
+        "target": "Doravimon's Pidgey"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 3
+    }
+  }
+}

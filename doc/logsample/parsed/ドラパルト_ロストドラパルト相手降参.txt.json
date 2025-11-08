@@ -1,0 +1,1156 @@
+{
+  "file": "ドラパルト　ロストドラパルト相手降参.txt",
+  "players": [
+    "0512SmileMan",
+    "zun-sugi-1216"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Rare Candy, Dreepy, Radiant Alakazam, Basic Fire Energy, Drakloak, Natu, Xatu",
+    "zun-sugi-1216 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Natu to the Active Spot.",
+    "zun-sugi-1216 played Comfey to the Active Spot.",
+    "zun-sugi-1216 played Dreepy to the Bench."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "zun-sugi-1216",
+      "actions": [
+        {
+          "raw": "zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "zun-sugi-1216 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216 drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Comfey, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- zun-sugi-1216 moved zun-sugi-1216's Buddy-Buddy Poffin to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 played Switch Cart.",
+          "type": "play",
+          "card": "Switch Cart",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216's Comfey was switched with zun-sugi-1216's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- zun-sugi-1216 moved zun-sugi-1216's Nest Ball to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "zun-sugi-1216 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rare Candy, Basic Fire Energy, Radiant Alakazam",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Dreepy, Earthen Vessel, Nest Ball, Buddy-Buddy Poffin, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Drakloak, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Collapsed Stadium, Nest Ball, Defiance Band",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "zun-sugi-1216",
+      "actions": [
+        {
+          "raw": "zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- zun-sugi-1216 moved zun-sugi-1216's Switch to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216's Comfey was switched with zun-sugi-1216's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- zun-sugi-1216 moved zun-sugi-1216's Buddy-Buddy Poffin to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216 drew Cramorant and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- zun-sugi-1216 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 played Switch Cart.",
+          "type": "play",
+          "card": "Switch Cart",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216's Cramorant was switched with zun-sugi-1216's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Cramorant is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "zun-sugi-1216's Cramorant used Spit Innocently on 0512SmileMan’s Xatu for 110 damage.",
+          "type": "attack",
+          "attackerOwner": "zun-sugi-1216",
+          "attacker": "Cramorant",
+          "attack": "Spit Innocently",
+          "target": "0512SmileMan’s Xatu",
+          "damage": 110
+        },
+        {
+          "raw": "0512SmileMan's Xatu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Xatu"
+        },
+        {
+          "raw": "Natu was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to zun-sugi-1216's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Collapsed Stadium",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 moved zun-sugi-1216's 6 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Lost Vacuum, Arven, Rare Candy, Arven, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216's Dreepy was switched with zun-sugi-1216's Cramorant to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on zun-sugi-1216’s Dreepy for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "zun-sugi-1216’s Dreepy",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on zun-sugi-1216's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on zun-sugi-1216's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "zun-sugi-1216's Dreepy"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from zun-sugi-1216's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Super Rod was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "zun-sugi-1216",
+      "actions": [
+        {
+          "raw": "zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "zun-sugi-1216 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rescue Board, Arven, Rare Candy, Lost Vacuum, Arven, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Nest Ball, Iono, Boss's Orders, Basic Psychic Energy, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "zun-sugi-1216's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- zun-sugi-1216 moved zun-sugi-1216's Rare Candy to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216's Comfey was switched with zun-sugi-1216's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- zun-sugi-1216 moved zun-sugi-1216's Dreepy to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216's Cramorant was switched with zun-sugi-1216's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Cramorant is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "zun-sugi-1216's Cramorant used Spit Innocently on 0512SmileMan’s Drakloak for 110 damage.",
+          "type": "attack",
+          "attackerOwner": "zun-sugi-1216",
+          "attacker": "Cramorant",
+          "attack": "Spit Innocently",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 110
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "Dreepy was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to zun-sugi-1216's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Manaphy, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216's Drakloak was switched with zun-sugi-1216's Cramorant to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on zun-sugi-1216’s Drakloak for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "zun-sugi-1216’s Drakloak",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 4 damage counters on zun-sugi-1216's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on zun-sugi-1216's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "zun-sugi-1216's Drakloak"
+        },
+        {
+          "raw": "- 3 cards were discarded from zun-sugi-1216's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey was Knocked Out!",
+          "type": "knockout",
+          "target": "zun-sugi-1216's Comfey"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Xatu was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "zun-sugi-1216",
+      "actions": [
+        {
+          "raw": "zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "zun-sugi-1216 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216 drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- zun-sugi-1216 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- zun-sugi-1216 moved zun-sugi-1216's Comfey to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 played Colress's Experiment.",
+          "type": "play",
+          "card": "Colress's Experiment",
+          "to": null
+        },
+        {
+          "raw": "- zun-sugi-1216 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- zun-sugi-1216 moved zun-sugi-1216's 2 cards to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Counter Catcher",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Technical Machine: Evolution, Enhanced Hammer",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Basic Psychic Energy, Enhanced Hammer",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Arven, Earthen Vessel, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- zun-sugi-1216 drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from zun-sugi-1216's Comfey to zun-sugi-1216's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on zun-sugi-1216’s Comfey for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "zun-sugi-1216’s Comfey",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on zun-sugi-1216's Cramorant.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on zun-sugi-1216's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "zun-sugi-1216's Comfey was Knocked Out!",
+          "type": "knockout",
+          "target": "zun-sugi-1216's Comfey"
+        },
+        {
+          "raw": "zun-sugi-1216's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "zun-sugi-1216's Dreepy"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "0512SmileMan",
+      "zun-sugi-1216"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Xatu was Knocked Out!",
+        "target": "0512SmileMan's Xatu"
+      },
+      {
+        "turn": 3,
+        "raw": "zun-sugi-1216's Dreepy was Knocked Out!",
+        "target": "zun-sugi-1216's Dreepy"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 4,
+        "raw": "zun-sugi-1216's Drakloak was Knocked Out!",
+        "target": "zun-sugi-1216's Drakloak"
+      },
+      {
+        "turn": 4,
+        "raw": "zun-sugi-1216's Comfey was Knocked Out!",
+        "target": "zun-sugi-1216's Comfey"
+      },
+      {
+        "turn": 5,
+        "raw": "zun-sugi-1216's Comfey was Knocked Out!",
+        "target": "zun-sugi-1216's Comfey"
+      },
+      {
+        "turn": 5,
+        "raw": "zun-sugi-1216's Dreepy was Knocked Out!",
+        "target": "zun-sugi-1216's Dreepy"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "zun-sugi-1216",
+      "method": "concession",
+      "final_turn": 5
+    }
+  }
+}

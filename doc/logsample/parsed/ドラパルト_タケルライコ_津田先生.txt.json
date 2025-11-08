@@ -1,0 +1,1378 @@
+{
+  "file": "ドラパルト　タケルライコ 津田先生.txt",
+  "players": [
+    "hiroshired",
+    "0512SmileMan",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "hiroshired chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "hiroshired decided to go second.",
+    "hiroshired drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Rare Candy, Gastly, Arven, Rare Candy, Technical Machine: Devolution, Pidgeot ex, Gastly",
+    "hiroshired took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Basic Fighting Energy, Basic Fighting Energy, Pokégear 3.0, Basic Grass Energy, Earthen Vessel, Basic Grass Energy, Professor Sada's Vitality",
+    "0512SmileMan drew 1 more card because hiroshired took at least 1 mulligan.",
+    "- 0512SmileMan drew Basic Darkness Energy.",
+    "hiroshired played Teal Mask Ogerpon ex to the Active Spot.",
+    "hiroshired played Radiant Greninja to the Bench.",
+    "0512SmileMan played Gastly to the Active Spot.",
+    "0512SmileMan played Gastly to the Bench."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Darkness Energy to Gastly on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Gastly"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "hiroshired",
+      "actions": [
+        {
+          "raw": "hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired played Trekking Shoes.",
+          "type": "play",
+          "card": "Trekking Shoes",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired played PokéStop to the Stadium spot.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "hiroshired's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired discarded Basic Fighting Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "hiroshired played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired moved hiroshired's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Pokégear 3.0, Energy Retrieval, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired moved hiroshired's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Pokégear 3.0, Energy Retrieval",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rare Candy, Rare Candy, Pidgeot ex, Basic Darkness Energy, Technical Machine: Devolution, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Ultra Ball, Arven, Rare Candy, Professor's Research, Radiant Alakazam, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Pidgey and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Gastly, Gastly",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Darkness Energy to Gastly on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Gastly"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "hiroshired",
+      "actions": [
+        {
+          "raw": "hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired moved hiroshired's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Professor Sada's Vitality, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired discarded Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "hiroshired attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "hiroshired's Teal Mask Ogerpon ex used Myriad Leaf Shower on 0512SmileMan’s Gastly for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "hiroshired",
+          "attacker": "Teal Mask Ogerpon ex",
+          "attack": "Myriad Leaf Shower",
+          "target": "0512SmileMan’s Gastly",
+          "damage": 120
+        },
+        {
+          "raw": "0512SmileMan's Gastly was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Gastly"
+        },
+        {
+          "raw": "0512SmileMan's Gastly is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to hiroshired's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Radiant Alakazam, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Pidgeot ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Pidgey to Pidgeot ex on the Bench.",
+          "type": "evolve",
+          "from": "Pidgey",
+          "to": "Pidgeot ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Darkness Energy to Gastly in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Gastly"
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Gengar ex, Pidgeot ex, Gengar ex, Professor's Research, Prime Catcher, Buddy-Buddy Poffin, Artazon",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- hiroshired discarded PokéStop.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Gastly to Gengar ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Gastly",
+          "to": "Gengar ex"
+        },
+        {
+          "raw": "0512SmileMan played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex used Tricky Steps on hiroshired’s Teal Mask Ogerpon ex for 160 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Gengar ex",
+          "attack": "Tricky Steps",
+          "target": "hiroshired’s Teal Mask Ogerpon ex",
+          "damage": 160
+        },
+        {
+          "raw": "- hiroshired attached Basic Grass Energy to Radiant Greninja on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Radiant Greninja"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "hiroshired",
+      "actions": [
+        {
+          "raw": "hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired drew Raging Bolt ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired discarded Pokégear 3.0.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex used Gnawing Curse.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired put 2 damage counters on hiroshired's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Energy Retrieval.",
+          "type": "play",
+          "card": "Energy Retrieval",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired moved hiroshired's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired discarded Basic Lightning Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "hiroshired played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Squawkabilly ex, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired drew Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Raging Bolt ex to the Bench.",
+          "type": "play",
+          "card": "Raging Bolt ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "hiroshired played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired attached Basic Fighting Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- hiroshired attached Basic Lightning Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- hiroshired drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "hiroshired retreated Teal Mask Ogerpon ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from hiroshired's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired attached Basic Fighting Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex used Gnawing Curse.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired put 2 damage counters on hiroshired's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired attached Bravery Charm to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "hiroshired's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Gengar ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "hiroshired",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Gengar ex",
+          "damage": 350
+        },
+        {
+          "raw": "- 3 cards were discarded from hiroshired's Radiant Greninja.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Fighting Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 2 cards were discarded from hiroshired's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Gengar ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Gengar ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Darkness Energy, Gastly",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Gastly is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to hiroshired's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to hiroshired's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Crushing Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Crushing Hammer.",
+          "type": "play",
+          "card": "Crushing Hammer",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Gastly to Gengar ex on the Bench.",
+          "type": "evolve",
+          "from": "Gastly",
+          "to": "Gengar ex"
+        },
+        {
+          "raw": "0512SmileMan played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired's Raging Bolt ex was switched with hiroshired's Raging Bolt ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Gengar ex was switched with 0512SmileMan's Gastly to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Pidgeot ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Boss's Orders, Basic Darkness Energy, Ultra Ball, Crushing Hammer, Basic Darkness Energy, Basic Darkness Energy, Giovanni's Charisma",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Crushing Hammer.",
+          "type": "play",
+          "card": "Crushing Hammer",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Manaphy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Darkness Energy to Gengar ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Gengar ex"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Haunter.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Gastly to Haunter on the Bench.",
+          "type": "evolve",
+          "from": "Gastly",
+          "to": "Haunter"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex used Tricky Steps on hiroshired’s Raging Bolt ex for 160 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Gengar ex",
+          "attack": "Tricky Steps",
+          "target": "hiroshired’s Raging Bolt ex",
+          "damage": 160
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "hiroshired",
+      "actions": [
+        {
+          "raw": "hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired attached Basic Fighting Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- hiroshired attached Basic Fighting Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- hiroshired drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "hiroshired played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired drew Raging Bolt ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired discarded Cornerstone Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex used Gnawing Curse.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired put 2 damage counters on hiroshired's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex used Gnawing Curse.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired put 2 damage counters on hiroshired's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Gengar ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "hiroshired",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Gengar ex",
+          "damage": 350
+        },
+        {
+          "raw": "- 2 cards were discarded from hiroshired's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 3 cards were discarded from hiroshired's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Gengar ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Gengar ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Darkness Energy, Gastly",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Pidgeot ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to hiroshired's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to hiroshired's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Darkness Energy to Haunter on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Haunter"
+        },
+        {
+          "raw": "0512SmileMan's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Gengar ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Haunter to Gengar ex on the Bench.",
+          "type": "evolve",
+          "from": "Haunter",
+          "to": "Gengar ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Pidgeot ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "hiroshired",
+      "actions": [
+        {
+          "raw": "hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired attached Bravery Charm to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "hiroshired played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired drew Professor Sada's Vitality.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired attached Basic Lightning Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- hiroshired attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- hiroshired drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "hiroshired played Trekking Shoes.",
+          "type": "play",
+          "card": "Trekking Shoes",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Super Rod.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Giovanni's Charisma.",
+          "type": "play",
+          "card": "Giovanni's Charisma",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired moved hiroshired's Basic Lightning Energy to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Darkness Energy to Gengar ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Gengar ex"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex used Tricky Steps on hiroshired’s Raging Bolt ex for 160 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Gengar ex",
+          "attack": "Tricky Steps",
+          "target": "hiroshired’s Raging Bolt ex",
+          "damage": 160
+        },
+        {
+          "raw": "hiroshired's Raging Bolt ex was Knocked Out!",
+          "type": "knockout",
+          "target": "hiroshired's Raging Bolt ex"
+        },
+        {
+          "raw": "hiroshired's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Pidgey was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "hiroshired",
+      "actions": [
+        {
+          "raw": "hiroshired drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "hiroshired played Energy Retrieval.",
+          "type": "play",
+          "card": "Energy Retrieval",
+          "to": null
+        },
+        {
+          "raw": "- hiroshired moved hiroshired's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fighting Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired attached Basic Fighting Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "0512SmileMan's Gengar ex used Gnawing Curse.",
+          "type": "other"
+        },
+        {
+          "raw": "- hiroshired put 2 damage counters on hiroshired's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Manaphy was switched with 0512SmileMan's Gengar ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "hiroshired's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Manaphy for 140 damage.",
+          "type": "attack",
+          "attackerOwner": "hiroshired",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Manaphy",
+          "damage": 140
+        },
+        {
+          "raw": "- 2 cards were discarded from hiroshired's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Manaphy"
+        },
+        {
+          "raw": "hiroshired took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to hiroshired's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. hiroshired wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. hiroshired wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 12,
+    "players": [
+      "hiroshired",
+      "0512SmileMan",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Gastly was Knocked Out!",
+        "target": "0512SmileMan's Gastly"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Gengar ex was Knocked Out!",
+        "target": "0512SmileMan's Gengar ex"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Gengar ex was Knocked Out!",
+        "target": "0512SmileMan's Gengar ex"
+      },
+      {
+        "turn": 6,
+        "raw": "hiroshired's Raging Bolt ex was Knocked Out!",
+        "target": "hiroshired's Raging Bolt ex"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Manaphy was Knocked Out!",
+        "target": "0512SmileMan's Manaphy"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. hiroshired",
+      "method": null,
+      "final_turn": 6
+    }
+  }
+}

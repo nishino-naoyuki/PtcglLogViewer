@@ -1,0 +1,1558 @@
+{
+  "file": "ローブシン.txt",
+  "players": [
+    "0512SmileMan",
+    "NeonShark27"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "NeonShark27 won the coin toss.",
+    "NeonShark27 decided to go second.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Artazon, Timburr, Boss's Orders, Defiance Band, Brute Bonnet, Bidoof, Switch",
+    "NeonShark27 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Bidoof to the Active Spot.",
+    "NeonShark27 played Froakie to the Active Spot.",
+    "NeonShark27 played Bloodmoon Ursaluna ex to the Bench."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Bidoof and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Timburr to the Bench.",
+          "type": "play",
+          "card": "Timburr",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "0512SmileMan played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Timburr and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "NeonShark27",
+      "actions": [
+        {
+          "raw": "NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "NeonShark27 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Brute Bonnet, Switch, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Rare Candy, Counter Catcher, Iono, Bibarel, Timburr, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Pidgey, Froakie",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 attached Basic Water Energy to Froakie in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Froakie"
+        },
+        {
+          "raw": "NeonShark27 played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 drew Froakie and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 played Lake Acuity to the Stadium spot.",
+          "type": "play",
+          "card": "Lake Acuity",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Artazon.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Bidoof to Bibarel on the Bench.",
+          "type": "evolve",
+          "from": "Bidoof",
+          "to": "Bibarel"
+        },
+        {
+          "raw": "0512SmileMan played Manaphy to the Bench.",
+          "type": "play",
+          "card": "Manaphy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Ancient Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Brute Bonnet and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Ancient Booster Energy Capsule to Brute Bonnet on the Bench.",
+          "type": "attach",
+          "energy": "Ancient Booster Energy Capsule",
+          "target": "Brute Bonnet"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Bidoof is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- 0512SmileMan's Bidoof"
+        },
+        {
+          "raw": "- NeonShark27's Froakie is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- NeonShark27's Froakie"
+        },
+        {
+          "raw": "0512SmileMan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Gurdurr.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Timburr to Gurdurr on the Bench.",
+          "type": "evolve",
+          "from": "Timburr",
+          "to": "Gurdurr"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on NeonShark27's Froakie for the Special Condition Poisoned.",
+          "type": "other"
+        },
+        {
+          "raw": "1 damage counter was placed on 0512SmileMan's Bidoof for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "NeonShark27",
+      "actions": [
+        {
+          "raw": "NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "NeonShark27 evolved Froakie to Frogadier on the Bench.",
+          "type": "evolve",
+          "from": "Froakie",
+          "to": "Frogadier"
+        },
+        {
+          "raw": "NeonShark27 attached Basic Water Energy to Frogadier on the Bench.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Frogadier"
+        },
+        {
+          "raw": "NeonShark27's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on NeonShark27's Froakie for the Special Condition Poisoned.",
+          "type": "other"
+        },
+        {
+          "raw": "1 damage counter was placed on 0512SmileMan's Bidoof for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Counter Catcher, Rare Candy, Iono, Timburr",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Artazon, Timburr, Super Rod, Nest Ball, Conkeldurr, Kieran",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan evolved Gurdurr to Conkeldurr on the Bench.",
+          "type": "evolve",
+          "from": "Gurdurr",
+          "to": "Conkeldurr"
+        },
+        {
+          "raw": "0512SmileMan played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- NeonShark27 discarded Lake Acuity.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Conkeldurr.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on NeonShark27's Froakie for the Special Condition Poisoned.",
+          "type": "other"
+        },
+        {
+          "raw": "1 damage counter was placed on 0512SmileMan's Bidoof for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "NeonShark27",
+      "actions": [
+        {
+          "raw": "NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "NeonShark27 attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "NeonShark27 retreated Froakie to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Water Energy was discarded from NeonShark27's Froakie.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27's Frogadier is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "NeonShark27 can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "NeonShark27 played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 evolved Pidgey to Pidgeot ex on the Bench.",
+          "type": "evolve",
+          "from": "Pidgey",
+          "to": "Pidgeot ex"
+        },
+        {
+          "raw": "NeonShark27's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 evolved Frogadier to Greninja ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Frogadier",
+          "to": "Greninja ex"
+        },
+        {
+          "raw": "NeonShark27's Greninja ex used Shinobi Blade on 0512SmileMan’s Bidoof for 340 damage. 0512SmileMan's Bidoof took 170 more damage because of Fighting Weakness.",
+          "type": "attack",
+          "attackerOwner": "NeonShark27",
+          "attacker": "Greninja ex",
+          "attack": "Shinobi Blade",
+          "target": "0512SmileMan’s Bidoof",
+          "damage": 340,
+          "extra_damage": 170,
+          "extra_reason": "Fighting"
+        },
+        {
+          "raw": "- NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Bidoof was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Bidoof"
+        },
+        {
+          "raw": "0512SmileMan's Conkeldurr is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to NeonShark27's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Brute Bonnet and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Counter Catcher, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27's Bloodmoon Ursaluna ex was switched with NeonShark27's Greninja ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27's Bloodmoon Ursaluna ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Timburr on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Timburr"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Conkeldurr is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- 0512SmileMan's Conkeldurr"
+        },
+        {
+          "raw": "- NeonShark27's Bloodmoon Ursaluna ex is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- NeonShark27's Bloodmoon Ursaluna ex"
+        },
+        {
+          "raw": "0512SmileMan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Bidoof.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Conkeldurr used Gutsy Swing on NeonShark27’s Bloodmoon Ursaluna ex for 500 damage. NeonShark27's Bloodmoon Ursaluna ex took 250 more damage because of Fighting Weakness.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Conkeldurr",
+          "attack": "Gutsy Swing",
+          "target": "NeonShark27’s Bloodmoon Ursaluna ex",
+          "damage": 500,
+          "extra_damage": 250,
+          "extra_reason": "Fighting"
+        },
+        {
+          "raw": "NeonShark27's Bloodmoon Ursaluna ex was Knocked Out!",
+          "type": "knockout",
+          "target": "NeonShark27's Bloodmoon Ursaluna ex"
+        },
+        {
+          "raw": "NeonShark27's Greninja ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Rare Candy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on 0512SmileMan's Conkeldurr for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "NeonShark27",
+      "actions": [
+        {
+          "raw": "NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "NeonShark27 attached Double Turbo Energy to Greninja ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Greninja ex"
+        },
+        {
+          "raw": "NeonShark27's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 shuffled Bloodmoon Ursaluna ex into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 put Basic Water Energy on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 shuffled 6 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 7 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Timburr, Super Rod, Kieran, Conkeldurr, Bidoof, Nest Ball, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Switch, Bibarel",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27's Greninja ex used Shinobi Blade on 0512SmileMan’s Conkeldurr for 150 damage.",
+          "type": "attack",
+          "attackerOwner": "NeonShark27",
+          "attacker": "Greninja ex",
+          "attack": "Shinobi Blade",
+          "target": "0512SmileMan’s Conkeldurr",
+          "damage": 150
+        },
+        {
+          "raw": "- NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on 0512SmileMan's Conkeldurr for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch, Bibarel",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Gurdurr.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Timburr to Gurdurr on the Bench.",
+          "type": "evolve",
+          "from": "Timburr",
+          "to": "Gurdurr"
+        },
+        {
+          "raw": "0512SmileMan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Lost Vacuum, Great Ball, Rare Candy, Nest Ball, Great Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Conkeldurr.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Timburr.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27's Greninja ex is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- NeonShark27's Greninja ex"
+        },
+        {
+          "raw": "0512SmileMan's Conkeldurr used Gutsy Swing on NeonShark27’s Greninja ex for 250 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Conkeldurr",
+          "attack": "Gutsy Swing",
+          "target": "NeonShark27’s Greninja ex",
+          "damage": 250
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on NeonShark27's Greninja ex for the Special Condition Poisoned.",
+          "type": "other"
+        },
+        {
+          "raw": "1 damage counter was placed on 0512SmileMan's Conkeldurr for the Special Condition Poisoned.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Conkeldurr was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Conkeldurr"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Conkeldurr.",
+          "type": "other"
+        },
+        {
+          "raw": "• Gurdurr, Timburr",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to NeonShark27's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "NeonShark27",
+      "actions": [
+        {
+          "raw": "NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "NeonShark27 played Bloodmoon Ursaluna ex to the Bench.",
+          "type": "play",
+          "card": "Bloodmoon Ursaluna ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "NeonShark27 attached Basic Water Energy to Bloodmoon Ursaluna ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Bloodmoon Ursaluna ex"
+        },
+        {
+          "raw": "NeonShark27's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 played Canceling Cologne.",
+          "type": "play",
+          "card": "Canceling Cologne",
+          "to": null
+        },
+        {
+          "raw": "NeonShark27's Greninja ex used Mirage Barrage on 0512SmileMan’s Manaphy for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "NeonShark27",
+          "attacker": "Greninja ex",
+          "attack": "Mirage Barrage",
+          "target": "0512SmileMan’s Manaphy",
+          "damage": 120
+        },
+        {
+          "raw": "- Double Turbo Energy was discarded from NeonShark27's Greninja ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Bibarel took 120 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Manaphy"
+        },
+        {
+          "raw": "0512SmileMan's Bibarel was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Bibarel"
+        },
+        {
+          "raw": "Bidoof was discarded from 0512SmileMan's Bibarel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Gurdurr is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to NeonShark27's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to NeonShark27's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on NeonShark27's Greninja ex for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Timburr to the Bench.",
+          "type": "play",
+          "card": "Timburr",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Gurdurr to Conkeldurr in the Active Spot.",
+          "type": "evolve",
+          "from": "Gurdurr",
+          "to": "Conkeldurr"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Hisuian Heavy Ball, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Radiant Hisuian Sneasler to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Bidoof and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Hisuian Sneasler to the Bench.",
+          "type": "play",
+          "card": "Radiant Hisuian Sneasler",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Conkeldurr is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- 0512SmileMan's Conkeldurr"
+        },
+        {
+          "raw": "- NeonShark27's Greninja ex is no longer Poisoned.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27's Greninja ex is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- NeonShark27's Greninja ex"
+        },
+        {
+          "raw": "0512SmileMan's Conkeldurr used Gutsy Swing on NeonShark27’s Greninja ex for 280 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Conkeldurr",
+          "attack": "Gutsy Swing",
+          "target": "NeonShark27’s Greninja ex",
+          "damage": 280
+        },
+        {
+          "raw": "NeonShark27's Greninja ex was Knocked Out!",
+          "type": "knockout",
+          "target": "NeonShark27's Greninja ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from NeonShark27's Greninja ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Water Energy, Frogadier, Froakie",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27's Pidgeot ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Hisuian Heavy Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on 0512SmileMan's Conkeldurr for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "NeonShark27",
+      "actions": [
+        {
+          "raw": "NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "NeonShark27 attached Basic Water Energy to Froakie on the Bench.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Froakie"
+        },
+        {
+          "raw": "NeonShark27 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew Greninja ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 evolved Froakie to Greninja ex on the Bench.",
+          "type": "evolve",
+          "from": "Froakie",
+          "to": "Greninja ex"
+        },
+        {
+          "raw": "NeonShark27's Pidgeot ex used Quick Search.",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 played Roxanne.",
+          "type": "play",
+          "card": "Roxanne",
+          "to": null
+        },
+        {
+          "raw": "- NeonShark27 shuffled 4 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lost Vacuum, Rare Candy, Defiance Band, Hisuian Heavy Ball, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- NeonShark27 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 retreated Pidgeot ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27's Greninja ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27's Greninja ex used Shinobi Blade on 0512SmileMan’s Conkeldurr for 170 damage.",
+          "type": "attack",
+          "attackerOwner": "NeonShark27",
+          "attacker": "Greninja ex",
+          "attack": "Shinobi Blade",
+          "target": "0512SmileMan’s Conkeldurr",
+          "damage": 170
+        },
+        {
+          "raw": "- NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Conkeldurr was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Conkeldurr"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Conkeldurr.",
+          "type": "other"
+        },
+        {
+          "raw": "• Gurdurr, Timburr, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Timburr is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to NeonShark27's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Big Air Balloon",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Bibarel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Bidoof to Bibarel on the Bench.",
+          "type": "evolve",
+          "from": "Bidoof",
+          "to": "Bibarel"
+        },
+        {
+          "raw": "0512SmileMan attached Big Air Balloon to Timburr in the Active Spot.",
+          "type": "attach",
+          "energy": "Big Air Balloon",
+          "target": "Timburr"
+        },
+        {
+          "raw": "0512SmileMan's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Super Rod, Boss's Orders, Rare Candy, Rare Candy, Artazon",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "NeonShark27",
+      "actions": [
+        {
+          "raw": "NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "NeonShark27's Greninja ex used Shinobi Blade on 0512SmileMan’s Timburr for 170 damage.",
+          "type": "attack",
+          "attackerOwner": "NeonShark27",
+          "attacker": "Greninja ex",
+          "attack": "Shinobi Blade",
+          "target": "0512SmileMan’s Timburr",
+          "damage": 170
+        },
+        {
+          "raw": "- NeonShark27 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- NeonShark27 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Timburr was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Timburr"
+        },
+        {
+          "raw": "Big Air Balloon was discarded from 0512SmileMan's Timburr.",
+          "type": "other"
+        },
+        {
+          "raw": "NeonShark27 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to NeonShark27's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. NeonShark27 wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. NeonShark27 wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 14,
+    "players": [
+      "0512SmileMan",
+      "NeonShark27"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Bidoof was Knocked Out!",
+        "target": "0512SmileMan's Bidoof"
+      },
+      {
+        "turn": 4,
+        "raw": "NeonShark27's Bloodmoon Ursaluna ex was Knocked Out!",
+        "target": "NeonShark27's Bloodmoon Ursaluna ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Conkeldurr was Knocked Out!",
+        "target": "0512SmileMan's Conkeldurr"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Manaphy was Knocked Out!",
+        "target": "0512SmileMan's Manaphy"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Bibarel was Knocked Out!",
+        "target": "0512SmileMan's Bibarel"
+      },
+      {
+        "turn": 6,
+        "raw": "NeonShark27's Greninja ex was Knocked Out!",
+        "target": "NeonShark27's Greninja ex"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Conkeldurr was Knocked Out!",
+        "target": "0512SmileMan's Conkeldurr"
+      },
+      {
+        "turn": 7,
+        "raw": "0512SmileMan's Timburr was Knocked Out!",
+        "target": "0512SmileMan's Timburr"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "NeonShark27 can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [
+      {
+        "turn": 2,
+        "raw": "- 0512SmileMan's Bidoof is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- 0512SmileMan's Bidoof"
+      },
+      {
+        "turn": 2,
+        "raw": "- NeonShark27's Froakie is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- NeonShark27's Froakie"
+      },
+      {
+        "turn": 4,
+        "raw": "- 0512SmileMan's Conkeldurr is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- 0512SmileMan's Conkeldurr"
+      },
+      {
+        "turn": 4,
+        "raw": "- NeonShark27's Bloodmoon Ursaluna ex is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- NeonShark27's Bloodmoon Ursaluna ex"
+      },
+      {
+        "turn": 5,
+        "raw": "- NeonShark27's Greninja ex is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- NeonShark27's Greninja ex"
+      },
+      {
+        "turn": 6,
+        "raw": "- 0512SmileMan's Conkeldurr is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- 0512SmileMan's Conkeldurr"
+      },
+      {
+        "turn": 6,
+        "raw": "- NeonShark27's Greninja ex is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- NeonShark27's Greninja ex"
+      }
+    ],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. NeonShark27",
+      "method": null,
+      "final_turn": 7
+    }
+  }
+}

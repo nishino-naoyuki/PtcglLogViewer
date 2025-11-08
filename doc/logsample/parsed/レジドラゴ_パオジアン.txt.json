@@ -1,0 +1,779 @@
+{
+  "file": "レジドラゴ　パオジアン.txt",
+  "players": [
+    "goodboyyuyu",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "goodboyyuyu chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "goodboyyuyu decided to go second.",
+    "goodboyyuyu drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Boss's Orders, Professor's Research, Mew ex, Basic Grass Energy, Regidrago V, Earthen Vessel, Teal Mask Ogerpon ex",
+    "goodboyyuyu played Radiant Greninja to the Active Spot.",
+    "0512SmileMan played Regidrago V to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Energy Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Professor's Research.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Professor's Research.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Mew ex to the Bench.",
+          "type": "play",
+          "card": "Mew ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Regidrago V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "goodboyyuyu",
+      "actions": [
+        {
+          "raw": "goodboyyuyu drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "goodboyyuyu played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- goodboyyuyu drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Bidoof, Frigibax",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- goodboyyuyu drew Chien-Pao ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- goodboyyuyu shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- goodboyyuyu drew Frigibax and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- goodboyyuyu shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu discarded Basic Water Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "goodboyyuyu played Irida.",
+          "type": "play",
+          "card": "Irida",
+          "to": null
+        },
+        {
+          "raw": "- goodboyyuyu drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Baxcalibur, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Energy Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Grass Energy to Regidrago V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "0512SmileMan's Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Regidrago VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Regidrago VSTAR."
+        },
+        {
+          "raw": "0512SmileMan evolved Regidrago V to Regidrago VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Regidrago V",
+          "to": "Regidrago VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Regidrago VSTAR, Superior Energy Retrieval, Teal Mask Ogerpon ex, Regidrago VSTAR, Regidrago V, Energy Switch, Poppy",
+          "type": "vstar",
+          "detail": "• Regidrago VSTAR, Superior Energy Retrieval, Teal Mask Ogerpon ex, Regidrago VSTAR, Regidrago V, Energy Switch, Poppy"
+        },
+        {
+          "raw": "0512SmileMan played Regidrago V to the Bench.",
+          "type": "play",
+          "card": "Regidrago V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Regidrago VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on goodboyyuyu’s Radiant Greninja for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Regidrago VSTAR",
+          "attack": "Apex Dragon",
+          "target": "goodboyyuyu’s Radiant Greninja",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan chose Phantom Dive",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on goodboyyuyu's Bidoof.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu's Radiant Greninja was Knocked Out!",
+          "type": "knockout",
+          "target": "goodboyyuyu's Radiant Greninja"
+        },
+        {
+          "raw": "goodboyyuyu's Bidoof was Knocked Out!",
+          "type": "knockout",
+          "target": "goodboyyuyu's Bidoof"
+        },
+        {
+          "raw": "goodboyyuyu's Chien-Pao ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Great Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "goodboyyuyu",
+      "actions": [
+        {
+          "raw": "goodboyyuyu drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "goodboyyuyu played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- goodboyyuyu evolved Frigibax to Baxcalibur on the Bench.",
+          "type": "evolve",
+          "from": "Frigibax",
+          "to": "Baxcalibur"
+        },
+        {
+          "raw": "goodboyyuyu played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- goodboyyuyu shuffled Radiant Greninja into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- goodboyyuyu discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lost Vacuum, Canceling Cologne",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu drew Lumineon V.",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu played Lumineon V to the Bench.",
+          "type": "play",
+          "card": "Lumineon V",
+          "to": "Bench"
+        },
+        {
+          "raw": "goodboyyuyu's Lumineon V used Luminous Sign.",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu drew Candice.",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu played Candice.",
+          "type": "play",
+          "card": "Candice",
+          "to": null
+        },
+        {
+          "raw": "- goodboyyuyu drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Baxcalibur, Basic Water Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu's Chien-Pao ex used Shivery Chill.",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Water Energy, Basic Water Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu's Baxcalibur used Super Cold.",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu attached Basic Water Energy to Chien-Pao ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Chien-Pao ex"
+        },
+        {
+          "raw": "- goodboyyuyu attached Basic Water Energy to Chien-Pao ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Chien-Pao ex"
+        },
+        {
+          "raw": "- goodboyyuyu attached Basic Water Energy to Chien-Pao ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Water Energy",
+          "target": "Chien-Pao ex"
+        },
+        {
+          "raw": "goodboyyuyu's Chien-Pao ex used Hail Blade on 0512SmileMan’s Regidrago VSTAR for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "goodboyyuyu",
+          "attacker": "Chien-Pao ex",
+          "attack": "Hail Blade",
+          "target": "0512SmileMan’s Regidrago VSTAR",
+          "damage": 180
+        },
+        {
+          "raw": "- 3 cards were discarded from goodboyyuyu's Chien-Pao ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Water Energy, Basic Water Energy, Basic Water Energy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Regidrago V to Regidrago VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Regidrago V",
+          "to": "Regidrago VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "0512SmileMan played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Jamming Tower.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Hisuian Goodra VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Hisuian Goodra VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Legacy Star.",
+          "type": "vstar",
+          "detail": "0512SmileMan's Regidrago VSTAR used Legacy Star."
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 7 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Great Ball, Radiant Alakazam, Nest Ball, Ultra Ball, Teal Mask Ogerpon ex, Earthen Vessel, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Radiant Alakazam, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- goodboyyuyu's Baxcalibur was switched with goodboyyuyu's Chien-Pao ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu's Baxcalibur is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Superior Energy Retrieval.",
+          "type": "play",
+          "card": "Superior Energy Retrieval",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Regidrago VSTAR, Jamming Tower",
+          "type": "vstar",
+          "detail": "• Regidrago VSTAR, Jamming Tower"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Basic Grass Energy to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Superior Energy Retrieval.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on goodboyyuyu’s Baxcalibur for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Regidrago VSTAR",
+          "attack": "Apex Dragon",
+          "target": "goodboyyuyu’s Baxcalibur",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan chose Phantom Dive",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on goodboyyuyu's Frigibax.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on goodboyyuyu's Lumineon V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on goodboyyuyu's Chien-Pao ex.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu's Baxcalibur was Knocked Out!",
+          "type": "knockout",
+          "target": "goodboyyuyu's Baxcalibur"
+        },
+        {
+          "raw": "Frigibax was discarded from goodboyyuyu's Baxcalibur.",
+          "type": "other"
+        },
+        {
+          "raw": "goodboyyuyu's Chien-Pao ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "goodboyyuyu",
+      "actions": [
+        {
+          "raw": "goodboyyuyu drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "goodboyyuyu played Origin Forme Palkia V to the Bench.",
+          "type": "play",
+          "card": "Origin Forme Palkia V",
+          "to": "Bench"
+        },
+        {
+          "raw": "goodboyyuyu's Chien-Pao ex used Shivery Chill.",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Water Energy, Basic Water Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- goodboyyuyu shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 6,
+    "players": [
+      "goodboyyuyu",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "goodboyyuyu's Radiant Greninja was Knocked Out!",
+        "target": "goodboyyuyu's Radiant Greninja"
+      },
+      {
+        "turn": 2,
+        "raw": "goodboyyuyu's Bidoof was Knocked Out!",
+        "target": "goodboyyuyu's Bidoof"
+      },
+      {
+        "turn": 3,
+        "raw": "goodboyyuyu's Baxcalibur was Knocked Out!",
+        "target": "goodboyyuyu's Baxcalibur"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "- 0512SmileMan drew Regidrago VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "• Regidrago VSTAR, Superior Energy Retrieval, Teal Mask Ogerpon ex, Regidrago VSTAR, Regidrago V, Energy Switch, Poppy"
+      },
+      {
+        "turn": 2,
+        "attack": "Apex Dragon",
+        "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on goodboyyuyu’s Radiant Greninja for 200 damage.",
+        "target": "goodboyyuyu’s Radiant Greninja",
+        "damage": 200
+      },
+      {
+        "turn": 2,
+        "attack": "Hail Blade",
+        "raw": "goodboyyuyu's Chien-Pao ex used Hail Blade on 0512SmileMan’s Regidrago VSTAR for 180 damage.",
+        "target": "0512SmileMan’s Regidrago VSTAR",
+        "damage": 180
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan drew Hisuian Goodra VSTAR."
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Regidrago VSTAR used Legacy Star."
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 3,
+        "raw": "• Regidrago VSTAR, Jamming Tower"
+      },
+      {
+        "turn": 3,
+        "attack": "Apex Dragon",
+        "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on goodboyyuyu’s Baxcalibur for 200 damage.",
+        "target": "goodboyyuyu’s Baxcalibur",
+        "damage": 200
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 3
+    }
+  }
+}

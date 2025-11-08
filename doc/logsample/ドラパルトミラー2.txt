@@ -1,0 +1,140 @@
+Setup
+Doravimon chose tails for the opening coin flip.
+0512SmileMan won the coin toss.
+Doravimon decided to go second.
+Doravimon drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Earthen Vessel, Basic Fire Energy, Rescue Board, Earthen Vessel, Xatu, Drakloak, Natu
+Doravimon played Rotom V to the Active Spot.
+0512SmileMan played Natu to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Technical Machine: Evolution.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Earthen Vessel.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan ended their turn.
+
+Turn # 1 - Doravimon's Turn
+Doravimon drew a card.
+Doravimon played Arven.
+- Doravimon drew 2 cards.
+   • Buddy-Buddy Poffin, Forest Seal Stone
+- Doravimon shuffled their deck.
+Doravimon played Buddy-Buddy Poffin.
+- Doravimon drew 2 cards and played them to the Bench.
+   • Dreepy, Pidgey
+- Doravimon shuffled their deck.
+Doravimon attached Basic Fire Energy to Rotom V in the Active Spot.
+Doravimon retreated Rotom V to the Bench.
+- Basic Fire Energy was discarded from Doravimon's Rotom V.
+Doravimon's Dreepy is now in the Active Spot.
+Doravimon attached Rescue Board to Rotom V on the Bench.
+Doravimon's Rotom V used Instant Charge.
+- Doravimon drew 3 cards.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Arven.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Buddy-Buddy Poffin, Forest Seal Stone
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Dreepy
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Natu to Xatu in the Active Spot.
+0512SmileMan attached Technical Machine: Evolution to Xatu in the Active Spot.
+0512SmileMan attached Basic Fire Energy to Xatu in the Active Spot.
+0512SmileMan's Xatu used Evolution.
+- 0512SmileMan evolved Dreepy to Drakloak on the Bench.
+- 0512SmileMan evolved Dreepy to Drakloak on the Bench.
+- 0512SmileMan shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 0512SmileMan's Xatu.
+
+Turn # 2 - Doravimon's Turn
+Doravimon drew a card.
+Doravimon played Nest Ball.
+- Doravimon drew Dreepy and played it to the Bench.
+- Doravimon shuffled their deck.
+Doravimon played Earthen Vessel.
+- Doravimon discarded Pidgey.
+- Doravimon drew 2 cards.
+   • Basic Psychic Energy, Basic Fire Energy
+- Doravimon shuffled their deck.
+Doravimon played Rare Candy.
+- Doravimon evolved Dreepy to Dragapult ex in the Active Spot.
+Doravimon played Iono.
+- Doravimon shuffled their hand.
+- Doravimon put 5 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 5 cards on the bottom of their deck.
+   • Basic Fire Energy, Basic Psychic Energy, Rescue Board, Drakloak, Forest Seal Stone
+- Doravimon drew 6 cards.
+- 0512SmileMan drew 6 cards.
+   • Dragapult ex, Arven, Dreepy, Rare Candy, Switch, Nest Ball
+Doravimon played Temple of Sinnoh to the Stadium spot.
+Doravimon played Dreepy to the Bench.
+Doravimon's Rotom V used Instant Charge.
+- Doravimon drew 3 cards.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Technical Machine: Devolution.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Earthen Vessel, Forest Seal Stone
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Rare Candy.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Super Rod, Buddy-Buddy Poffin
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Buddy-Buddy Poffin.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Rare Candy.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew Dreepy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan retreated Xatu to the Bench.
+- Basic Fire Energy was discarded from 0512SmileMan's Xatu.
+0512SmileMan's Drakloak is now in the Active Spot.
+0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.
+0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on Doravimon’s Dragapult ex for 200 damage.
+- 0512SmileMan put 5 damage counters on Doravimon's Pidgey.
+- 0512SmileMan put a damage counter on Doravimon's Dreepy.
+Doravimon's Pidgey was Knocked Out!
+0512SmileMan took a Prize card.
+Arven was added to 0512SmileMan's hand.
+
+Turn # 3 - Doravimon's Turn
+Doravimon drew a card.
+Doravimon attached Neo Upper Energy to Dragapult ex in the Active Spot.
+Doravimon played Boss's Orders.
+- 0512SmileMan's Xatu was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.
+0512SmileMan's Xatu is now in the Active Spot.
+Doravimon played Hawlucha to the Bench.
+Doravimon's Hawlucha used Flying Entry.
+- Doravimon put a damage counter on 0512SmileMan's Dreepy.
+- Doravimon put a damage counter on 0512SmileMan's Dreepy.
+Doravimon played Ultra Ball.
+- Doravimon discarded 2 cards.
+   • Bidoof, Ultra Ball
+- Doravimon drew Drakloak.
+- Doravimon shuffled their deck.
+Doravimon evolved Dreepy to Drakloak on the Bench.
+Doravimon's Drakloak used Recon Directive.
+- Doravimon drew a card.
+Opponent conceded. 0512SmileMan wins.
+

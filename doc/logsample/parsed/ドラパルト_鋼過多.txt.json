@@ -1,0 +1,885 @@
+{
+  "file": "ドラパルト　鋼過多.txt",
+  "players": [
+    "tate1108",
+    "0512SmileMan",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "tate1108 chose heads for the opening coin flip.",
+    "tate1108 won the coin toss.",
+    "0512SmileMan decided to go second.",
+    "tate1108 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Psychic Energy, Natu, Nest Ball, Earthen Vessel, Unfair Stamp, Counter Catcher, Drakloak",
+    "tate1108 took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy",
+    "tate1108 took 2 mulligans.",
+    "- Cards revealed from Mulligan 2",
+    "• Adaman, Adaman, Metang, Basic Metal Energy, Irida, Basic Metal Energy, Basic Metal Energy",
+    "0512SmileMan drew 2 more cards because tate1108 took at least 1 mulligan.",
+    "- 0512SmileMan drew 2 cards.",
+    "• Drakloak, Earthen Vessel",
+    "tate1108 played Heatran to the Active Spot.",
+    "0512SmileMan played Natu to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "tate1108",
+      "actions": [
+        {
+          "raw": "tate1108 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tate1108 played Beldum to the Bench.",
+          "type": "play",
+          "card": "Beldum",
+          "to": "Bench"
+        },
+        {
+          "raw": "tate1108 attached Basic Metal Energy to Heatran in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Metal Energy",
+          "target": "Heatran"
+        },
+        {
+          "raw": "tate1108 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Boss's Orders, Drakloak, Buddy-Buddy Poffin",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "tate1108",
+      "actions": [
+        {
+          "raw": "tate1108 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tate1108 evolved Beldum to Metang on the Bench.",
+          "type": "evolve",
+          "from": "Beldum",
+          "to": "Metang"
+        },
+        {
+          "raw": "tate1108 played Adaman.",
+          "type": "play",
+          "card": "Adaman",
+          "to": null
+        },
+        {
+          "raw": "- tate1108 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Metal Energy, Basic Metal Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- tate1108 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- tate1108 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- tate1108 drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Beldum, Hisuian Basculin",
+          "type": "other"
+        },
+        {
+          "raw": "- tate1108 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108's Metang used Metal Maker.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their cards.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108 attached Basic Metal Energy to Heatran in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Metal Energy",
+          "target": "Heatran"
+        },
+        {
+          "raw": "tate1108 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Natu in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Natu in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan's Natu used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Natu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "tate1108",
+      "actions": [
+        {
+          "raw": "tate1108 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tate1108 played Irida.",
+          "type": "play",
+          "card": "Irida",
+          "to": null
+        },
+        {
+          "raw": "- tate1108 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Hisuian Basculin, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- tate1108 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108 played Hisuian Basculin to the Bench.",
+          "type": "play",
+          "card": "Hisuian Basculin",
+          "to": "Bench"
+        },
+        {
+          "raw": "tate1108 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- tate1108 drew Heatran and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- tate1108 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108 played Hyper Aroma.",
+          "type": "play",
+          "card": "Hyper Aroma",
+          "to": null
+        },
+        {
+          "raw": "- tate1108 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Metang, Hisuian Basculegion, Hisuian Basculegion",
+          "type": "other"
+        },
+        {
+          "raw": "- tate1108 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108 evolved Beldum to Metang on the Bench.",
+          "type": "evolve",
+          "from": "Beldum",
+          "to": "Metang"
+        },
+        {
+          "raw": "tate1108 evolved Hisuian Basculin to Hisuian Basculegion on the Bench.",
+          "type": "evolve",
+          "from": "Hisuian Basculin",
+          "to": "Hisuian Basculegion"
+        },
+        {
+          "raw": "tate1108's Metang used Metal Maker.",
+          "type": "other"
+        },
+        {
+          "raw": "- tate1108 attached Basic Metal Energy to Heatran in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Metal Energy",
+          "target": "Heatran"
+        },
+        {
+          "raw": "- tate1108 attached Basic Metal Energy to Heatran in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Metal Energy",
+          "target": "Heatran"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their cards.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108's Metang used Metal Maker.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their cards.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108's Heatran used Steel Burst on 0512SmileMan’s Natu for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "tate1108",
+          "attacker": "Heatran",
+          "attack": "Steel Burst",
+          "target": "0512SmileMan’s Natu",
+          "damage": 200
+        },
+        {
+          "raw": "- 4 cards were discarded from tate1108's Heatran.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from 0512SmileMan's Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to tate1108's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Arven, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- tate1108's Metang was switched with tate1108's Heatran to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108's Metang is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Collapsed Stadium",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 4 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Boss's Orders, Arven, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "- tate1108 moved tate1108's 3 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Arven, Dreepy, Nest Ball, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- tate1108 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Forest Seal Stone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rescue Board.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on tate1108’s Metang for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "tate1108’s Metang",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on tate1108's Hisuian Basculin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on tate1108's Hisuian Basculegion.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108's Metang was Knocked Out!",
+          "type": "knockout",
+          "target": "tate1108's Metang"
+        },
+        {
+          "raw": "Beldum was discarded from tate1108's Metang.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108's Hisuian Basculin was Knocked Out!",
+          "type": "knockout",
+          "target": "tate1108's Hisuian Basculin"
+        },
+        {
+          "raw": "tate1108's Heatran is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Dragapult ex was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "tate1108",
+      "actions": [
+        {
+          "raw": "tate1108 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tate1108 attached Basic Metal Energy to Heatran in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Metal Energy",
+          "target": "Heatran"
+        },
+        {
+          "raw": "tate1108's Metang used Metal Maker.",
+          "type": "other"
+        },
+        {
+          "raw": "- tate1108 attached Basic Metal Energy to Heatran in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Metal Energy",
+          "target": "Heatran"
+        },
+        {
+          "raw": "- tate1108 attached Basic Metal Energy to Heatran in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Metal Energy",
+          "target": "Heatran"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their cards.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108's Heatran used Steel Burst on 0512SmileMan’s Dragapult ex for 150 damage.",
+          "type": "attack",
+          "attackerOwner": "tate1108",
+          "attacker": "Heatran",
+          "attack": "Steel Burst",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 150
+        },
+        {
+          "raw": "- 3 cards were discarded from tate1108's Heatran.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Metal Energy, Basic Metal Energy, Basic Metal Energy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- tate1108's Metang was switched with tate1108's Heatran to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "tate1108's Metang is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 8,
+    "players": [
+      "tate1108",
+      "0512SmileMan",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      },
+      {
+        "turn": 3,
+        "raw": "tate1108's Metang was Knocked Out!",
+        "target": "tate1108's Metang"
+      },
+      {
+        "turn": 3,
+        "raw": "tate1108's Hisuian Basculin was Knocked Out!",
+        "target": "tate1108's Hisuian Basculin"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 4,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "tate1108",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

@@ -1,0 +1,280 @@
+Setup
+0512SmileMan chose heads for the opening coin flip.
+0512SmileMan won the coin toss.
+0512SmileMan decided to go first.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Nest Ball, Super Rod, Natu, Rescue Board, Rare Candy, Basic Psychic Energy, Xatu
+meiom drew 7 cards for the opening hand.
+- 7 drawn cards.
+meiom took a mulligan.
+- Cards revealed from Mulligan 1
+   • Bravery Charm, Judge, Professor Sada's Vitality, Switch Cart, Nest Ball, Professor Sada's Vitality, Pokémon Catcher
+0512SmileMan drew 1 more card because meiom took at least 1 mulligan.
+- 0512SmileMan drew Enhanced Hammer.
+0512SmileMan played Natu to the Active Spot.
+meiom played Raging Bolt ex to the Active Spot.
+meiom played Radiant Greninja to the Bench.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Basic Fire Energy.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Rotom V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Basic Psychic Energy, Earthen Vessel, Radiant Alakazam
+
+Turn # 1 - meiom's Turn
+meiom drew a card.
+meiom's Radiant Greninja used Concealed Cards.
+- meiom discarded Basic Grass Energy.
+- meiom drew 2 cards.
+meiom played Ultra Ball.
+- meiom discarded 2 cards.
+   • Sandy Shocks, Basic Grass Energy
+- meiom drew Squawkabilly ex.
+- meiom shuffled their deck.
+meiom played Squawkabilly ex to the Bench.
+meiom played Pokémon Catcher.
+- meiom flipped a coin and it landed on tails.
+meiom played Ultra Ball.
+- meiom discarded 2 cards.
+   • Professor Sada's Vitality, Pokégear 3.0
+- meiom drew Teal Mask Ogerpon ex.
+- meiom shuffled their deck.
+meiom played Teal Mask Ogerpon ex to the Bench.
+meiom's Squawkabilly ex used Squawk and Seize.
+- meiom drew 6 cards.
+meiom's Teal Mask Ogerpon ex used Teal Dance.
+- meiom attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- meiom drew a card.
+meiom attached Bravery Charm to Raging Bolt ex in the Active Spot.
+meiom played Nest Ball.
+- meiom drew Raging Bolt ex and played it to the Bench.
+- meiom shuffled their deck.
+meiom played Prime Catcher.
+- 0512SmileMan's Rotom V was switched with 0512SmileMan's Natu to become the Active Pokémon.
+- meiom's Raging Bolt ex was switched with meiom's Raging Bolt ex to become the Active Pokémon.
+0512SmileMan's Rotom V is now in the Active Spot.
+meiom's Raging Bolt ex is now in the Active Spot.
+meiom attached Basic Fighting Energy to Raging Bolt ex in the Active Spot.
+meiom's Raging Bolt ex used Burst Roar.
+- meiom discarded 2 cards.
+   • Sandy Shocks ex, Nest Ball
+- meiom drew 6 cards.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Arven.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Buddy-Buddy Poffin, Technical Machine: Evolution
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Natu to Xatu on the Bench.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Dreepy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Arven, Boss's Orders
+0512SmileMan attached Technical Machine: Evolution to Rotom V in the Active Spot.
+0512SmileMan attached Basic Psychic Energy to Rotom V in the Active Spot.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Enhanced Hammer.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Fire Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Rotom V used Evolution.
+- 0512SmileMan evolved Dreepy to Drakloak on the Bench.
+- 0512SmileMan evolved Dreepy to Drakloak on the Bench.
+- 0512SmileMan shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 0512SmileMan's Rotom V.
+
+Turn # 2 - meiom's Turn
+meiom drew a card.
+meiom attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.
+meiom played Earthen Vessel.
+- meiom discarded Basic Grass Energy.
+- meiom drew 2 cards.
+   • Basic Fighting Energy, Basic Grass Energy
+- meiom shuffled their deck.
+meiom's Teal Mask Ogerpon ex used Teal Dance.
+- meiom attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- meiom drew a card.
+meiom attached Bravery Charm to Raging Bolt ex in the Active Spot.
+meiom's Radiant Greninja used Concealed Cards.
+- meiom discarded Basic Fighting Energy.
+- meiom drew 2 cards.
+meiom played Professor Sada's Vitality.
+- meiom attached Basic Grass Energy to Raging Bolt ex in the Active Spot.
+- meiom attached Basic Fighting Energy to Raging Bolt ex on the Bench.
+- meiom drew 3 cards.
+meiom's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Rotom V for 210 damage.
+- 2 cards were discarded from meiom's Raging Bolt ex.
+   • Basic Grass Energy, Basic Lightning Energy
+- Basic Grass Energy was discarded from meiom's Teal Mask Ogerpon ex.
+0512SmileMan's Rotom V was Knocked Out!
+Basic Psychic Energy was discarded from 0512SmileMan's Rotom V.
+0512SmileMan's Xatu is now in the Active Spot.
+meiom took 2 Prize cards.
+A card was added to meiom's hand.
+A card was added to meiom's hand.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Earthen Vessel.
+0512SmileMan attached Rescue Board to Xatu in the Active Spot.
+0512SmileMan played Radiant Alakazam to the Bench.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Rare Candy, Natu
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Rare Candy.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Ultra Ball.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Natu, Rare Candy
+- 0512SmileMan drew Dragapult ex.
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Drakloak to Dragapult ex on the Bench.
+0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Lost Vacuum, Defiance Band
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Iono.
+0512SmileMan retreated Xatu to the Bench.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+0512SmileMan attached Defiance Band to Dragapult ex in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on meiom’s Raging Bolt ex for 230 damage.
+- 0512SmileMan put 6 damage counters on meiom's Raging Bolt ex.
+
+Turn # 3 - meiom's Turn
+meiom drew a card.
+meiom's Teal Mask Ogerpon ex used Teal Dance.
+- meiom attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- meiom drew a card.
+meiom played Pokégear 3.0.
+- meiom drew Judge.
+- meiom shuffled their deck.
+meiom attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.
+meiom played Pal Pad.
+- meiom shuffled 2 cards into their deck.
+   • Professor Sada's Vitality, Professor Sada's Vitality
+meiom played Energy Retrieval.
+- meiom moved meiom's 2 cards to their hand.
+   • Basic Grass Energy, Basic Grass Energy
+meiom played Judge.
+- meiom shuffled 9 cards into their deck.
+- 0512SmileMan moved 0512SmileMan's 7 cards to their deck.
+   • Super Rod, Basic Fire Energy, Boss's Orders, Basic Fire Energy, Basic Psychic Energy, Lost Vacuum, Iono
+- meiom drew 4 cards.
+- 0512SmileMan drew 4 cards.
+   • Xatu, Iono, Buddy-Buddy Poffin, Nest Ball
+meiom's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dragapult ex for 350 damage.
+- 2 cards were discarded from meiom's Raging Bolt ex.
+   • Basic Fighting Energy, Basic Lightning Energy
+- 3 cards were discarded from meiom's Raging Bolt ex.
+   • Basic Fighting Energy, Basic Grass Energy, Basic Grass Energy
+0512SmileMan's Dragapult ex was Knocked Out!
+- 5 cards were discarded from 0512SmileMan's Dragapult ex.
+   • Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy, Defiance Band
+0512SmileMan's Xatu is now in the Active Spot.
+meiom took 2 Prize cards.
+A card was added to meiom's hand.
+A card was added to meiom's hand.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Technical Machine: Devolution.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Technical Machine: Devolution to Radiant Alakazam on the Bench.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put Xatu on the bottom of their deck.
+- meiom shuffled their hand.
+- meiom put 6 cards on the bottom of their deck.
+- 0512SmileMan drew 6 cards.
+   • Nest Ball, Dragapult ex, Arven, Buddy-Buddy Poffin, Boss's Orders, Dragapult ex
+- meiom drew 2 cards.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Basic Fire Energy.
+0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Manaphy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan retreated Xatu to the Bench.
+0512SmileMan's Manaphy is now in the Active Spot.
+0512SmileMan ended their turn.
+Technical Machine: Devolution was activated.
+- Technical Machine: Devolution was discarded from 0512SmileMan's Radiant Alakazam.
+
+Turn # 4 - meiom's Turn
+meiom drew a card.
+meiom played Earthen Vessel.
+- meiom discarded Teal Mask Ogerpon ex.
+- meiom drew 2 cards.
+   • Basic Grass Energy, Basic Grass Energy
+- meiom shuffled their deck.
+meiom's Teal Mask Ogerpon ex used Teal Dance.
+- meiom attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- meiom drew a card.
+meiom played Bug Catching Set.
+- meiom shuffled their deck.
+meiom's Radiant Greninja used Concealed Cards.
+- meiom discarded Basic Grass Energy.
+- meiom drew 2 cards.
+meiom played Switch Cart.
+- meiom's Raging Bolt ex was switched with meiom's Raging Bolt ex to become the Active Pokémon.
+- meiom's Raging Bolt ex healed 30 damage.
+meiom's Raging Bolt ex is now in the Active Spot.
+meiom ended their turn.
+
+Turn # 5 - 0512SmileMan's Turn
+0512SmileMan drew Jamming Tower.
+0512SmileMan played Arven.
+- 0512SmileMan drew Switch.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Super Rod.
+0512SmileMan played Super Rod.
+- 0512SmileMan shuffled 3 cards into their deck.
+   • Dreepy, Drakloak, Basic Psychic Energy
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew Dreepy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Switch.
+- 0512SmileMan's Drakloak was switched with 0512SmileMan's Manaphy to become the Active Pokémon.
+0512SmileMan's Drakloak is now in the Active Spot.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from meiom's Raging Bolt ex to meiom's Teal Mask Ogerpon ex.
+0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.
+0512SmileMan played Jamming Tower to the Stadium spot.
+0512SmileMan's Dragapult ex used Phantom Dive on meiom’s Raging Bolt ex for 200 damage.
+- 0512SmileMan put 2 damage counters on meiom's Teal Mask Ogerpon ex.
+- 0512SmileMan put 4 damage counters on meiom's Raging Bolt ex.
+meiom's Raging Bolt ex was Knocked Out!
+Bravery Charm was discarded from meiom's Raging Bolt ex.
+meiom's Raging Bolt ex was Knocked Out!
+Bravery Charm was discarded from meiom's Raging Bolt ex.
+meiom's Teal Mask Ogerpon ex is now in the Active Spot.
+0512SmileMan took 4 Prize cards.
+Unfair Stamp was added to 0512SmileMan's hand.
+Dreepy was added to 0512SmileMan's hand.
+Drakloak was added to 0512SmileMan's hand.
+Earthen Vessel was added to 0512SmileMan's hand.
+
+Turn # 5 - meiom's Turn
+meiom drew a card.
+Opponent conceded. 0512SmileMan wins.
+

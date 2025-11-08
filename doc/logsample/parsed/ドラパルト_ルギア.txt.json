@@ -1,0 +1,1441 @@
+{
+  "file": "ドラパルト　ルギア.txt",
+  "players": [
+    "0512SmileMan",
+    "Jinorino"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Natu, Dragapult ex, Dreepy, Hisuian Heavy Ball, Arven, Nest Ball, Buddy-Buddy Poffin",
+    "Jinorino drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "Jinorino played Lugia V to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Radiant Alakazam to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Forest Seal Stone, Earthen Vessel, Drakloak",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Jinorino",
+      "actions": [
+        {
+          "raw": "Jinorino drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Jinorino played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino drew Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- Jinorino drew Lugia VSTAR."
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino played Lumineon V to the Bench.",
+          "type": "play",
+          "card": "Lumineon V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Jinorino's Lumineon V used Luminous Sign.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino drew Jacq.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino played Jacq.",
+          "type": "play",
+          "card": "Jacq",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Archeops, Archeops",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino played Lugia V to the Bench.",
+          "type": "play",
+          "card": "Lugia V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Jinorino attached Gift Energy to Lugia V in the Active Spot.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Lugia V"
+        },
+        {
+          "raw": "Jinorino ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Enhanced Hammer, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan retreated Drakloak to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Jinorino’s Lugia V for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Jinorino’s Lugia V",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Jinorino's Lugia V.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Jinorino",
+      "actions": [
+        {
+          "raw": "Jinorino drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Jinorino evolved Lugia V to Lugia VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Lugia V",
+          "to": "Lugia VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Jinorino played Mesagoza to the Stadium spot.",
+          "type": "play",
+          "card": "Mesagoza",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Jinorino played Mesagoza.",
+          "type": "play",
+          "card": "Mesagoza",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino attached Mist Energy to Lugia VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "Jinorino played Carmine.",
+          "type": "play",
+          "card": "Carmine",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Archeops, Archeops, Archeops",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "Jinorino's Lugia VSTAR used Summoning Star.",
+          "type": "vstar",
+          "detail": "Jinorino's Lugia VSTAR used Summoning Star."
+        },
+        {
+          "raw": "- Jinorino drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Archeops, Archeops",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "Jinorino can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "Jinorino played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino drew Cinccino.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino attached Double Turbo Energy to Lugia V in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Lugia V"
+        },
+        {
+          "raw": "- Jinorino attached Mist Energy to Lugia V in the Active Spot.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Lugia V"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino attached Double Turbo Energy to Lugia VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "- Jinorino attached Gift Energy to Lugia VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino drew Wellspring Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino evolved Lugia V to Lugia VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Lugia V",
+          "to": "Lugia VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Jinorino retreated Lugia VSTAR to the Bench.",
+          "type": "vstar",
+          "detail": "Jinorino retreated Lugia VSTAR to the Bench."
+        },
+        {
+          "raw": "- Double Turbo Energy was discarded from Jinorino's Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- Double Turbo Energy was discarded from Jinorino's Lugia VSTAR."
+        },
+        {
+          "raw": "Jinorino's Lugia VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Jinorino's Lugia VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "Jinorino's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "Jinorino",
+          "attacker": "Lugia VSTAR",
+          "attack": "Tempest Dive",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 200
+        },
+        {
+          "raw": "- Jinorino discarded Mesagoza.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino's Archeops was switched with Jinorino's Lugia VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- Jinorino's Archeops was switched with Jinorino's Lugia VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "Jinorino's Archeops is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from Jinorino's Lugia VSTAR to Jinorino's Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan moved 2 damage counters from Jinorino's Lugia VSTAR to Jinorino's Lugia VSTAR."
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Mist Energy was discarded from Jinorino's Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- Mist Energy was discarded from Jinorino's Lugia VSTAR."
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Jinorino’s Archeops for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Jinorino’s Archeops",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Jinorino's Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan put 6 damage counters on Jinorino's Lugia VSTAR."
+        },
+        {
+          "raw": "Jinorino's Archeops was Knocked Out!",
+          "type": "knockout",
+          "target": "Jinorino's Archeops"
+        },
+        {
+          "raw": "Jinorino's Lugia VSTAR was Knocked Out!",
+          "type": "knockout",
+          "target": "Jinorino's Lugia VSTAR"
+        },
+        {
+          "raw": "- 2 cards were discarded from Jinorino's Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- 2 cards were discarded from Jinorino's Lugia VSTAR."
+        },
+        {
+          "raw": "• Gift Energy, Lugia V",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino's Lugia VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Jinorino's Lugia VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Defiance Band was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Jinorino",
+      "actions": [
+        {
+          "raw": "Jinorino drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Jinorino played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino drew Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- Jinorino drew Lugia VSTAR."
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino played Wellspring Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Wellspring Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Jinorino's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino attached Mist Energy to Wellspring Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Wellspring Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Jinorino attached Legacy Energy to Wellspring Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Legacy Energy",
+          "target": "Wellspring Mask Ogerpon ex"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino attached Gift Energy to Wellspring Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Wellspring Mask Ogerpon ex"
+        },
+        {
+          "raw": "Jinorino's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "Jinorino",
+          "attacker": "Lugia VSTAR",
+          "attack": "Tempest Dive",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 200
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Jinorino's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Jinorino's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Lost Vacuum, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Drakloak to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino's Lumineon V was switched with Jinorino's Lugia VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- Jinorino's Lumineon V was switched with Jinorino's Lugia VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "Jinorino's Lumineon V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Jinorino’s Lumineon V for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Jinorino’s Lumineon V",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Jinorino's Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino's Lumineon V was Knocked Out!",
+          "type": "knockout",
+          "target": "Jinorino's Lumineon V"
+        },
+        {
+          "raw": "Jinorino's Lugia VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Jinorino's Lugia VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Jinorino",
+      "actions": [
+        {
+          "raw": "Jinorino drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Jinorino played Carmine.",
+          "type": "play",
+          "card": "Carmine",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino discarded 5 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Cinccino, Cinccino, Lugia VSTAR, Minccino, Jet Energy",
+          "type": "vstar",
+          "detail": "• Cinccino, Cinccino, Lugia VSTAR, Minccino, Jet Energy"
+        },
+        {
+          "raw": "- Jinorino drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "Jinorino played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino drew Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- Jinorino drew Lugia VSTAR."
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Jinorino discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lugia VSTAR, Ultra Ball",
+          "type": "vstar",
+          "detail": "• Lugia VSTAR, Ultra Ball"
+        },
+        {
+          "raw": "- Jinorino drew Bloodmoon Ursaluna ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "Jinorino",
+          "attacker": "Lugia VSTAR",
+          "attack": "Tempest Dive",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 200
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Super Rod, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled Dragapult ex into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Counter Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Xatu on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Jinorino’s Lugia VSTAR for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Jinorino’s Lugia VSTAR",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Jinorino's Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Jinorino",
+      "actions": [
+        {
+          "raw": "Jinorino drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Jinorino played Bloodmoon Ursaluna ex to the Bench.",
+          "type": "play",
+          "card": "Bloodmoon Ursaluna ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "Jinorino attached Jet Energy to Bloodmoon Ursaluna ex on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Bloodmoon Ursaluna ex"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino's Bloodmoon Ursaluna ex was switched with Jinorino's Lugia VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- Jinorino's Bloodmoon Ursaluna ex was switched with Jinorino's Lugia VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "Jinorino's Bloodmoon Ursaluna ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jinorino attached V Guard Energy to Archeops on the Bench.",
+          "type": "attach",
+          "energy": "V Guard Energy",
+          "target": "Archeops"
+        },
+        {
+          "raw": "- Jinorino shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino played Lugia V to the Bench.",
+          "type": "play",
+          "card": "Lugia V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Jinorino's Bloodmoon Ursaluna ex used Blood Moon on 0512SmileMan’s Dragapult ex for 240 damage.",
+          "type": "attack",
+          "attackerOwner": "Jinorino",
+          "attacker": "Bloodmoon Ursaluna ex",
+          "attack": "Blood Moon",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 240
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Jinorino's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Jinorino's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Jinorino’s Bloodmoon Ursaluna ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Jinorino’s Bloodmoon Ursaluna ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Jinorino's Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "Jinorino's Archeops was Knocked Out!",
+          "type": "knockout",
+          "target": "Jinorino's Archeops"
+        },
+        {
+          "raw": "V Guard Energy was discarded from Jinorino's Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Hisuian Heavy Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "All Prize cards taken. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "All Prize cards taken. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 11,
+    "players": [
+      "0512SmileMan",
+      "Jinorino"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "Jinorino's Archeops was Knocked Out!",
+        "target": "Jinorino's Archeops"
+      },
+      {
+        "turn": 3,
+        "raw": "Jinorino's Lugia VSTAR was Knocked Out!",
+        "target": "Jinorino's Lugia VSTAR"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 4,
+        "raw": "Jinorino's Lumineon V was Knocked Out!",
+        "target": "Jinorino's Lumineon V"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 6,
+        "raw": "Jinorino's Archeops was Knocked Out!",
+        "target": "Jinorino's Archeops"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 1,
+        "raw": "- Jinorino drew Lugia VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "raw": "Jinorino's Lugia VSTAR used Summoning Star."
+      },
+      {
+        "turn": 2,
+        "raw": "Jinorino can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "raw": "Jinorino retreated Lugia VSTAR to the Bench."
+      },
+      {
+        "turn": 2,
+        "raw": "- Double Turbo Energy was discarded from Jinorino's Lugia VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "Jinorino's Lugia VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 2,
+        "attack": "Tempest Dive",
+        "raw": "Jinorino's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 200
+      },
+      {
+        "turn": 3,
+        "raw": "- Jinorino's Archeops was switched with Jinorino's Lugia VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan moved 2 damage counters from Jinorino's Lugia VSTAR to Jinorino's Lugia VSTAR."
+      },
+      {
+        "turn": 3,
+        "raw": "- Mist Energy was discarded from Jinorino's Lugia VSTAR."
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan put 6 damage counters on Jinorino's Lugia VSTAR."
+      },
+      {
+        "turn": 3,
+        "raw": "- 2 cards were discarded from Jinorino's Lugia VSTAR."
+      },
+      {
+        "turn": 3,
+        "raw": "Jinorino's Lugia VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 3,
+        "raw": "- Jinorino drew Lugia VSTAR."
+      },
+      {
+        "turn": 3,
+        "attack": "Tempest Dive",
+        "raw": "Jinorino's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 200
+      },
+      {
+        "turn": 4,
+        "raw": "- Jinorino's Lumineon V was switched with Jinorino's Lugia VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 4,
+        "raw": "Jinorino's Lugia VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 4,
+        "raw": "• Cinccino, Cinccino, Lugia VSTAR, Minccino, Jet Energy"
+      },
+      {
+        "turn": 4,
+        "raw": "- Jinorino drew Lugia VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "• Lugia VSTAR, Ultra Ball"
+      },
+      {
+        "turn": 4,
+        "attack": "Tempest Dive",
+        "raw": "Jinorino's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Dragapult ex for 200 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 200
+      },
+      {
+        "turn": 5,
+        "attack": "Phantom Dive",
+        "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Jinorino’s Lugia VSTAR for 200 damage.",
+        "target": "Jinorino’s Lugia VSTAR",
+        "damage": 200
+      },
+      {
+        "turn": 5,
+        "raw": "- Jinorino's Bloodmoon Ursaluna ex was switched with Jinorino's Lugia VSTAR to become the Active Pokémon."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "All Prize cards taken. 0512SmileMan",
+      "method": null,
+      "final_turn": 6
+    }
+  }
+}

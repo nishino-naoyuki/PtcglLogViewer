@@ -1,0 +1,1396 @@
+{
+  "file": "山札切れ.txt",
+  "players": [
+    "0512SmileMan",
+    "MNK12345"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Jacq, Lugia V, Flutter Mane, Professor's Research, Boss's Orders, Capturing Aroma, Capturing Aroma",
+    "MNK12345 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Flutter Mane to the Active Spot.",
+    "MNK12345 played Brute Bonnet to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Lumineon V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Lugia V to the Bench.",
+          "type": "play",
+          "card": "Lugia V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Lumineon V to the Bench.",
+          "type": "play",
+          "card": "Lumineon V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Lumineon V used Luminous Sign.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Carmine.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Carmine.",
+          "type": "play",
+          "card": "Carmine",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 5 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Jacq, Professor's Research, Boss's Orders, Archeops, Archeops",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Gift Energy, Jet Energy, Iron Hands ex, Mesagoza, Bloodmoon Ursaluna ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "MNK12345",
+      "actions": [
+        {
+          "raw": "MNK12345 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MNK12345 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 drew Radiant Greninja and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- MNK12345 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 discarded Explorer's Guidance.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "MNK12345 played Explorer's Guidance.",
+          "type": "play",
+          "card": "Explorer's Guidance",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- MNK12345 moved MNK12345's 4 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Munkidori, Roaring Moon ex, Roaring Moon ex",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Roaring Moon to the Bench.",
+          "type": "play",
+          "card": "Roaring Moon",
+          "to": "Bench"
+        },
+        {
+          "raw": "MNK12345 attached Basic Darkness Energy to Roaring Moon on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "MNK12345 played Dark Patch.",
+          "type": "play",
+          "card": "Dark Patch",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 attached Basic Darkness Energy to Roaring Moon on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "MNK12345 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Explorer's Guidance, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 drew Roaring Moon.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Roaring Moon to the Bench.",
+          "type": "play",
+          "card": "Roaring Moon",
+          "to": "Bench"
+        },
+        {
+          "raw": "MNK12345 played Switch Cart.",
+          "type": "play",
+          "card": "Switch Cart",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345's Roaring Moon was switched with MNK12345's Brute Bonnet to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 attached Ancient Booster Energy Capsule to Brute Bonnet on the Bench.",
+          "type": "attach",
+          "energy": "Ancient Booster Energy Capsule",
+          "target": "Brute Bonnet"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon used Vengeance Fletching on 0512SmileMan’s Flutter Mane for 140 damage.",
+          "type": "attack",
+          "attackerOwner": "MNK12345",
+          "attacker": "Roaring Moon",
+          "attack": "Vengeance Fletching",
+          "target": "0512SmileMan’s Flutter Mane",
+          "damage": 140
+        },
+        {
+          "raw": "0512SmileMan's Flutter Mane was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Flutter Mane"
+        },
+        {
+          "raw": "0512SmileMan's Lugia V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to MNK12345's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Lugia V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Lugia V to the Bench.",
+          "type": "play",
+          "card": "Lugia V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Mesagoza to the Stadium spot.",
+          "type": "play",
+          "card": "Mesagoza",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "0512SmileMan played Mesagoza.",
+          "type": "play",
+          "card": "Mesagoza",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Gift Energy to Lugia V in the Active Spot.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Lugia V"
+        },
+        {
+          "raw": "0512SmileMan's Lugia V used Read the Wind.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Jet Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Minccino, Jet Energy, Cinccino",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "MNK12345",
+      "actions": [
+        {
+          "raw": "MNK12345 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MNK12345 played Mesagoza.",
+          "type": "play",
+          "card": "Mesagoza",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Trekking Shoes.",
+          "type": "play",
+          "card": "Trekking Shoes",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 moved MNK12345's Ancient Booster Energy Capsule to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MNK12345 played Trekking Shoes.",
+          "type": "play",
+          "card": "Trekking Shoes",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MNK12345 played Roaring Moon ex to the Bench.",
+          "type": "play",
+          "card": "Roaring Moon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "MNK12345 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon ex"
+        },
+        {
+          "raw": "- MNK12345 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "MNK12345 played Brute Bonnet to the Bench.",
+          "type": "play",
+          "card": "Brute Bonnet",
+          "to": "Bench"
+        },
+        {
+          "raw": "MNK12345's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "MNK12345 played Trekking Shoes.",
+          "type": "play",
+          "card": "Trekking Shoes",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MNK12345 played Trekking Shoes.",
+          "type": "play",
+          "card": "Trekking Shoes",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MNK12345 attached Ancient Booster Energy Capsule to Brute Bonnet on the Bench.",
+          "type": "attach",
+          "energy": "Ancient Booster Energy Capsule",
+          "target": "Brute Bonnet"
+        },
+        {
+          "raw": "MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon ex"
+        },
+        {
+          "raw": "MNK12345's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345's Roaring Moon is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- MNK12345's Roaring Moon"
+        },
+        {
+          "raw": "- 0512SmileMan's Lugia V is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- 0512SmileMan's Lugia V"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon used Vengeance Fletching on 0512SmileMan’s Lugia V for 160 damage.",
+          "type": "attack",
+          "attackerOwner": "MNK12345",
+          "attacker": "Roaring Moon",
+          "attack": "Vengeance Fletching",
+          "target": "0512SmileMan’s Lugia V",
+          "damage": 160
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on MNK12345's Roaring Moon for the Special Condition Poisoned.",
+          "type": "other"
+        },
+        {
+          "raw": "1 damage counter was placed on 0512SmileMan's Lugia V for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Minccino.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Minccino to the Bench.",
+          "type": "play",
+          "card": "Minccino",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Mesagoza.",
+          "type": "play",
+          "card": "Mesagoza",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Jet Energy to Minccino on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Minccino"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Minccino was switched with 0512SmileMan's Lugia V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Minccino is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Minccino used Beat on MNK12345’s Roaring Moon for 10 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Minccino",
+          "attack": "Beat",
+          "target": "MNK12345’s Roaring Moon",
+          "damage": 10
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "1 damage counter was placed on MNK12345's Roaring Moon for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "MNK12345",
+      "actions": [
+        {
+          "raw": "MNK12345 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MNK12345 played Mesagoza.",
+          "type": "play",
+          "card": "Mesagoza",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played PokéStop to the Stadium spot.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Mesagoza.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 moved MNK12345's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Dark Patch, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 moved MNK12345's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dark Patch, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon ex"
+        },
+        {
+          "raw": "- MNK12345 attached Basic Darkness Energy to Roaring Moon on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "- MNK12345 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "MNK12345 attached Ancient Booster Energy Capsule to Roaring Moon in the Active Spot.",
+          "type": "attach",
+          "energy": "Ancient Booster Energy Capsule",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "Ancient Booster Energy Capsule was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345's Roaring Moon has recovered from all Special Conditions.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon used Vengeance Fletching on 0512SmileMan’s Minccino for 170 damage.",
+          "type": "attack",
+          "attackerOwner": "MNK12345",
+          "attacker": "Roaring Moon",
+          "attack": "Vengeance Fletching",
+          "target": "0512SmileMan’s Minccino",
+          "damage": 170
+        },
+        {
+          "raw": "0512SmileMan's Minccino was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Minccino"
+        },
+        {
+          "raw": "Jet Energy was discarded from 0512SmileMan's Minccino.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Lugia V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to MNK12345's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Mist Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Legacy Energy, Ultra Ball, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Iron Hands ex",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Lugia VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Lugia V to Lugia VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Lugia V",
+          "to": "Lugia VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "0512SmileMan played Minccino to the Bench.",
+          "type": "play",
+          "card": "Minccino",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Lugia VSTAR used Summoning Star.",
+          "type": "vstar",
+          "detail": "0512SmileMan's Lugia VSTAR used Summoning Star."
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Archeops, Archeops",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Double Turbo Energy to Lugia VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "- 0512SmileMan attached Mist Energy to Lugia VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Double Turbo Energy to Minccino on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Minccino"
+        },
+        {
+          "raw": "- 0512SmileMan attached Gift Energy to Minccino on the Bench.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Minccino"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Lugia VSTAR used Tempest Dive on MNK12345’s Roaring Moon for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Lugia VSTAR",
+          "attack": "Tempest Dive",
+          "target": "MNK12345’s Roaring Moon",
+          "damage": 200
+        },
+        {
+          "raw": "- MNK12345 discarded PokéStop.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon was Knocked Out!",
+          "type": "knockout",
+          "target": "MNK12345's Roaring Moon"
+        },
+        {
+          "raw": "- 3 cards were discarded from MNK12345's Roaring Moon.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Darkness Energy, Ancient Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "MNK12345",
+      "actions": [
+        {
+          "raw": "MNK12345 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MNK12345 played Dark Patch.",
+          "type": "play",
+          "card": "Dark Patch",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 attached Basic Darkness Energy to Brute Bonnet on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Brute Bonnet"
+        },
+        {
+          "raw": "MNK12345 played PokéStop to the Stadium spot.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "MNK12345 played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 moved MNK12345's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Nest Ball, Prime Catcher",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 moved MNK12345's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Prime Catcher",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 drew Roaring Moon and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- MNK12345 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Prime Catcher.",
+          "type": "play",
+          "card": "Prime Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Lugia V was switched with 0512SmileMan's Lugia VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan's Lugia V was switched with 0512SmileMan's Lugia VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "- MNK12345's Roaring Moon ex was switched with MNK12345's Roaring Moon to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Lugia V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Dark Patch.",
+          "type": "play",
+          "card": "Dark Patch",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 attached Basic Darkness Energy to Roaring Moon on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon ex used Calamity Storm on 0512SmileMan’s Lugia V for 220 damage.",
+          "type": "attack",
+          "attackerOwner": "MNK12345",
+          "attacker": "Roaring Moon ex",
+          "attack": "Calamity Storm",
+          "target": "0512SmileMan’s Lugia V",
+          "damage": 220
+        },
+        {
+          "raw": "- MNK12345 discarded PokéStop.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Lugia V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Lugia V"
+        },
+        {
+          "raw": "0512SmileMan's Minccino is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to MNK12345's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to MNK12345's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Bloodmoon Ursaluna ex to the Bench.",
+          "type": "play",
+          "card": "Bloodmoon Ursaluna ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Minccino to Cinccino in the Active Spot.",
+          "type": "evolve",
+          "from": "Minccino",
+          "to": "Cinccino"
+        },
+        {
+          "raw": "0512SmileMan's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Jet Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- 0512SmileMan attached Gift Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Mist Energy to Bloodmoon Ursaluna ex on the Bench.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Bloodmoon Ursaluna ex"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Ultra Ball on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Great Ball, Gift Energy, Boss's Orders, Thorton, Carmine",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Cinccino used Special Roll on MNK12345’s Roaring Moon ex for 260 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Cinccino",
+          "attack": "Special Roll",
+          "target": "MNK12345’s Roaring Moon ex",
+          "damage": 260
+        },
+        {
+          "raw": "MNK12345's Roaring Moon ex was Knocked Out!",
+          "type": "knockout",
+          "target": "MNK12345's Roaring Moon ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from MNK12345's Roaring Moon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Darkness Energy, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Double Turbo Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Mesagoza was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "MNK12345",
+      "actions": [
+        {
+          "raw": "MNK12345 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "MNK12345 played PokéStop to the Stadium spot.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "MNK12345 played PokéStop.",
+          "type": "play",
+          "card": "PokéStop",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 moved MNK12345's 3 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Basic Darkness Energy, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 moved MNK12345's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 discarded Brute Bonnet.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Darkness Energy, Basic Darkness Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 discarded Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- MNK12345 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "MNK12345 played Explorer's Guidance.",
+          "type": "play",
+          "card": "Explorer's Guidance",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- MNK12345 moved MNK12345's 4 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor Sada's Vitality, Roaring Moon, Earthen Vessel, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 played Roaring Moon ex to the Bench.",
+          "type": "play",
+          "card": "Roaring Moon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "MNK12345 played Dark Patch.",
+          "type": "play",
+          "card": "Dark Patch",
+          "to": null
+        },
+        {
+          "raw": "- MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon ex"
+        },
+        {
+          "raw": "MNK12345 attached Basic Darkness Energy to Roaring Moon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Roaring Moon ex"
+        },
+        {
+          "raw": "MNK12345's Roaring Moon used Vengeance Fletching on 0512SmileMan’s Cinccino for 260 damage.",
+          "type": "attack",
+          "attackerOwner": "MNK12345",
+          "attacker": "Roaring Moon",
+          "attack": "Vengeance Fletching",
+          "target": "0512SmileMan’s Cinccino",
+          "damage": 260
+        },
+        {
+          "raw": "0512SmileMan's Cinccino was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Cinccino"
+        },
+        {
+          "raw": "- 5 cards were discarded from 0512SmileMan's Cinccino.",
+          "type": "other"
+        },
+        {
+          "raw": "• Double Turbo Energy, Gift Energy, Jet Energy, Gift Energy, Minccino",
+          "type": "other"
+        },
+        {
+          "raw": "Gift Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Bloodmoon Ursaluna ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "MNK12345 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to MNK12345's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "MNK12345",
+      "actions": [
+        {
+          "raw": "Opponent's deck ran out of cards. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent's deck ran out of cards. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 12,
+    "players": [
+      "0512SmileMan",
+      "MNK12345"
+    ],
+    "knockouts": [
+      {
+        "turn": 1,
+        "raw": "0512SmileMan's Flutter Mane was Knocked Out!",
+        "target": "0512SmileMan's Flutter Mane"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Minccino was Knocked Out!",
+        "target": "0512SmileMan's Minccino"
+      },
+      {
+        "turn": 4,
+        "raw": "MNK12345's Roaring Moon was Knocked Out!",
+        "target": "MNK12345's Roaring Moon"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Lugia V was Knocked Out!",
+        "target": "0512SmileMan's Lugia V"
+      },
+      {
+        "turn": 5,
+        "raw": "MNK12345's Roaring Moon ex was Knocked Out!",
+        "target": "MNK12345's Roaring Moon ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Cinccino was Knocked Out!",
+        "target": "0512SmileMan's Cinccino"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 4,
+        "raw": "- 0512SmileMan drew Lugia VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Lugia VSTAR used Summoning Star."
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 4,
+        "attack": "Tempest Dive",
+        "raw": "0512SmileMan's Lugia VSTAR used Tempest Dive on MNK12345’s Roaring Moon for 200 damage.",
+        "target": "MNK12345’s Roaring Moon",
+        "damage": 200
+      },
+      {
+        "turn": 4,
+        "raw": "- 0512SmileMan's Lugia V was switched with 0512SmileMan's Lugia VSTAR to become the Active Pokémon."
+      }
+    ],
+    "special_conditions": [
+      {
+        "turn": 2,
+        "raw": "- MNK12345's Roaring Moon is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- MNK12345's Roaring Moon"
+      },
+      {
+        "turn": 2,
+        "raw": "- 0512SmileMan's Lugia V is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- 0512SmileMan's Lugia V"
+      }
+    ],
+    "result": {
+      "winner": "Opponent's deck ran out of cards. 0512SmileMan",
+      "method": null,
+      "final_turn": 6
+    }
+  }
+}

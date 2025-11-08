@@ -1,0 +1,211 @@
+Setup
+100nadzmi chose tails for the opening coin flip.
+0512SmileMan won the coin toss.
+100nadzmi decided to go second.
+100nadzmi drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Radiant Alakazam, Regidrago VSTAR, Basic Grass Energy, Nest Ball, Regidrago V, Professor's Research, Basic Grass Energy
+100nadzmi took a mulligan.
+- Cards revealed from Mulligan 1
+   • Techno Radar, Basic Psychic Energy, Nest Ball, Nest Ball, Future Booster Energy Capsule, Basic Psychic Energy, Arven
+0512SmileMan drew 1 more card because 100nadzmi took at least 1 mulligan.
+- 0512SmileMan drew Boss's Orders.
+100nadzmi played Miraidon to the Active Spot.
+0512SmileMan played Regidrago V to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Iono.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Teal Mask Ogerpon ex and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.
+- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- 0512SmileMan drew Jamming Tower.
+0512SmileMan played Radiant Alakazam to the Bench.
+0512SmileMan attached Basic Grass Energy to Regidrago V in the Active Spot.
+0512SmileMan ended their turn.
+
+Turn # 1 - 100nadzmi's Turn
+100nadzmi drew a card.
+100nadzmi played Arven.
+- 100nadzmi drew 2 cards.
+   • Techno Radar, Future Booster Energy Capsule
+- 100nadzmi shuffled their deck.
+100nadzmi played Techno Radar.
+- 100nadzmi discarded Earthen Vessel.
+- 100nadzmi drew 2 cards.
+   • Iron Valiant ex, Iron Crown ex
+- 100nadzmi shuffled their deck.
+100nadzmi played Iron Crown ex to the Bench.
+100nadzmi played Iron Valiant ex to the Bench.
+100nadzmi attached Basic Psychic Energy to Miraidon in the Active Spot.
+100nadzmi attached Future Booster Energy Capsule to Miraidon in the Active Spot.
+100nadzmi's Miraidon used Peak Acceleration on 0512SmileMan’s Regidrago V for 80 damage.
+- 100nadzmi attached Basic Psychic Energy to Iron Valiant ex on the Bench.
+- 100nadzmi attached Basic Psychic Energy to Iron Valiant ex on the Bench.
+- 100nadzmi shuffled their deck.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Regidrago V.
+0512SmileMan played Regidrago V to the Bench.
+0512SmileMan evolved Regidrago V to Regidrago VSTAR in the Active Spot.
+0512SmileMan played Jamming Tower to the Stadium spot.
+0512SmileMan played Professor's Research.
+- 0512SmileMan discarded 2 cards.
+   • Boss's Orders, Iono
+- 0512SmileMan drew 7 cards.
+   • Giratina VSTAR, Energy Switch, Mew ex, Basic Fire Energy, Energy Switch, Poppy, Energy Switch
+0512SmileMan attached Basic Fire Energy to Regidrago VSTAR in the Active Spot.
+0512SmileMan's Regidrago VSTAR used Legacy Star.
+- 0512SmileMan moved 0512SmileMan's 7 cards to the discard pile.
+   • Earthen Vessel, Basic Fire Energy, Regidrago VSTAR, Canceling Cologne, Superior Energy Retrieval, Nest Ball, Ultra Ball
+- 0512SmileMan moved 0512SmileMan's 2 cards to their hand.
+   • Ultra Ball, Earthen Vessel
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Giratina VSTAR, Poppy
+- 0512SmileMan drew Dragapult ex.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Dragapult ex.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Grass Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.
+- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- 0512SmileMan drew Basic Grass Energy.
+0512SmileMan played Mew ex to the Bench.
+0512SmileMan played Energy Switch.
+- 0512SmileMan attached Basic Grass Energy to Regidrago VSTAR in the Active Spot.
+0512SmileMan's Regidrago VSTAR used Apex Dragon on 100nadzmi’s Miraidon for 200 damage.
+- 0512SmileMan chose Phantom Dive
+- 0512SmileMan put 3 damage counters on 100nadzmi's Iron Crown ex.
+- 0512SmileMan put 3 damage counters on 100nadzmi's Iron Valiant ex.
+100nadzmi's Miraidon was Knocked Out!
+- 2 cards were discarded from 100nadzmi's Miraidon.
+   • Basic Psychic Energy, Future Booster Energy Capsule
+100nadzmi's Iron Valiant ex is now in the Active Spot.
+0512SmileMan took a Prize card.
+Switch was added to 0512SmileMan's hand.
+
+Turn # 2 - 100nadzmi's Turn
+100nadzmi drew a card.
+100nadzmi attached Basic Psychic Energy to Iron Valiant ex in the Active Spot.
+100nadzmi played Techno Radar.
+- 100nadzmi discarded Penny.
+- 100nadzmi drew 2 cards.
+   • Miraidon, Iron Crown ex
+- 100nadzmi shuffled their deck.
+100nadzmi played Iron Crown ex to the Bench.
+100nadzmi played Miraidon to the Bench.
+100nadzmi played Iono.
+- 100nadzmi shuffled their hand.
+- 100nadzmi put a card on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 5 cards on the bottom of their deck.
+   • Basic Fire Energy, Energy Switch, Switch, Basic Grass Energy, Energy Switch
+- 100nadzmi drew 6 cards.
+- 0512SmileMan drew 5 cards.
+   • Basic Grass Energy, Earthen Vessel, Regidrago V, Ultra Ball, Nest Ball
+100nadzmi played Iron Valiant ex to the Bench.
+100nadzmi's Iron Valiant ex used Laser Blade on 0512SmileMan’s Regidrago VSTAR for 240 damage.
+0512SmileMan's Regidrago VSTAR was Knocked Out!
+- 4 cards were discarded from 0512SmileMan's Regidrago VSTAR.
+   • Basic Grass Energy, Basic Fire Energy, Basic Grass Energy, Regidrago V
+0512SmileMan's Mew ex is now in the Active Spot.
+100nadzmi took 2 Prize cards.
+A card was added to 100nadzmi's hand.
+A card was added to 100nadzmi's hand.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Basic Grass Energy.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Nest Ball.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Grass Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Fire Energy to Regidrago V on the Bench.
+0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.
+- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- 0512SmileMan drew Professor's Research.
+0512SmileMan played Regidrago V to the Bench.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Basic Grass Energy, Basic Grass Energy
+- 0512SmileMan drew Regidrago VSTAR.
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Regidrago V to Regidrago VSTAR on the Bench.
+0512SmileMan played Professor's Research.
+- 0512SmileMan drew 7 cards.
+   • Energy Switch, Nest Ball, Iono, Basic Grass Energy, Great Ball, Professor's Research, Ultra Ball
+0512SmileMan played Great Ball.
+- 0512SmileMan drew Teal Mask Ogerpon ex.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Teal Mask Ogerpon ex to the Bench.
+0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.
+- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- 0512SmileMan drew Great Ball.
+0512SmileMan played Energy Switch.
+- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+0512SmileMan retreated Mew ex to the Bench.
+0512SmileMan's Teal Mask Ogerpon ex is now in the Active Spot.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from 100nadzmi's Iron Valiant ex to 100nadzmi's Iron Valiant ex.
+0512SmileMan's Teal Mask Ogerpon ex used Myriad Leaf Shower on 100nadzmi’s Iron Valiant ex for 210 damage.
+100nadzmi's Iron Valiant ex was Knocked Out!
+- 3 cards were discarded from 100nadzmi's Iron Valiant ex.
+   • Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy
+100nadzmi's Miraidon is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Dragapult ex was added to 0512SmileMan's hand.
+Superior Energy Retrieval was added to 0512SmileMan's hand.
+
+Turn # 3 - 100nadzmi's Turn
+100nadzmi drew a card.
+100nadzmi played Miraidon to the Bench.
+100nadzmi attached Basic Psychic Energy to Miraidon in the Active Spot.
+100nadzmi played Arven.
+- 100nadzmi drew 2 cards.
+   • Nest Ball, Future Booster Energy Capsule
+- 100nadzmi shuffled their deck.
+100nadzmi played Nest Ball.
+- 100nadzmi drew Iron Crown ex and played it to the Bench.
+- 100nadzmi shuffled their deck.
+100nadzmi's Miraidon used Peak Acceleration on 0512SmileMan’s Teal Mask Ogerpon ex for 100 damage.
+- 100nadzmi attached Basic Psychic Energy to Iron Valiant ex on the Bench.
+- 100nadzmi attached Basic Psychic Energy to Iron Valiant ex on the Bench.
+- 100nadzmi shuffled their deck.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Boss's Orders.
+0512SmileMan played Superior Energy Retrieval.
+- 0512SmileMan discarded 2 cards.
+   • Dragapult ex, Nest Ball
+- 0512SmileMan moved 0512SmileMan's 4 cards to their hand.
+   • Basic Fire Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy
+0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.
+- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- 0512SmileMan drew Professor's Research.
+0512SmileMan attached Basic Grass Energy to Regidrago VSTAR on the Bench.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Professor's Research, Great Ball
+- 0512SmileMan drew Hisuian Goodra VSTAR.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Boss's Orders.
+- 100nadzmi's Iron Valiant ex was switched with 100nadzmi's Miraidon to become the Active Pokémon.
+100nadzmi's Iron Valiant ex is now in the Active Spot.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from 100nadzmi's Iron Crown ex to 100nadzmi's Iron Valiant ex.
+0512SmileMan's Teal Mask Ogerpon ex used Myriad Leaf Shower on 100nadzmi’s Iron Valiant ex for 180 damage.
+100nadzmi's Iron Valiant ex was Knocked Out!
+- 2 cards were discarded from 100nadzmi's Iron Valiant ex.
+   • Basic Psychic Energy, Basic Psychic Energy
+0512SmileMan took 2 Prize cards.
+Basic Grass Energy was added to 0512SmileMan's hand.
+Prime Catcher was added to 0512SmileMan's hand.
+Opponent conceded. 0512SmileMan wins.
+

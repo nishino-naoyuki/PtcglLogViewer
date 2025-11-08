@@ -1,0 +1,774 @@
+{
+  "file": "ドラパルトミラー　相手時間切れ.txt",
+  "players": [
+    "4theW",
+    "0512SmileMan",
+    "- 4theW"
+  ],
+  "setup": [
+    "Setup",
+    "4theW chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "4theW decided to go second.",
+    "4theW drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Psychic Energy, Super Rod, Drakloak, Basic Psychic Energy, Basic Psychic Energy, Basic Fire Energy, Boss's Orders",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Basic Psychic Energy, Super Rod, Drakloak, Basic Psychic Energy, Basic Psychic Energy, Basic Fire Energy, Boss's Orders",
+    "0512SmileMan took 5 mulligans.",
+    "- Cards revealed from Mulligan 2",
+    "• Iono, Rare Candy, Basic Fire Energy, Basic Psychic Energy, Xatu, Iono, Earthen Vessel",
+    "- Cards revealed from Mulligan 3",
+    "• Rare Candy, Basic Fire Energy, Technical Machine: Evolution, Rare Candy, Boss's Orders, Arven, Unfair Stamp",
+    "- Cards revealed from Mulligan 4",
+    "• Counter Catcher, Collapsed Stadium, Lost Vacuum, Hisuian Heavy Ball, Xatu, Iono, Technical Machine: Devolution",
+    "- Cards revealed from Mulligan 5",
+    "• Basic Psychic Energy, Rescue Board, Nest Ball, Xatu, Boss's Orders, Drakloak, Switch",
+    "4theW drew 5 more cards because 0512SmileMan took at least 1 mulligan.",
+    "- 4theW drew 5 cards.",
+    "4theW played Tatsugiri to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "4theW",
+      "actions": [
+        {
+          "raw": "4theW drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "4theW played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "4theW played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "4theW played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "4theW played Lumineon V to the Bench.",
+          "type": "play",
+          "card": "Lumineon V",
+          "to": "Bench"
+        },
+        {
+          "raw": "4theW's Lumineon V used Luminous Sign.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "4theW played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 4theW drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "4theW's Tatsugiri used Attract Customers.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "4theW attached Technical Machine: Evolution to Tatsugiri in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Tatsugiri"
+        },
+        {
+          "raw": "4theW attached Basic Psychic Energy to Tatsugiri in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Tatsugiri"
+        },
+        {
+          "raw": "4theW's Tatsugiri used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 4theW evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 4theW shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 4theW's Tatsugiri.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "4theW",
+      "actions": [
+        {
+          "raw": "4theW drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "4theW's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "4theW's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "4theW played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 4theW evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "4theW attached Basic Psychic Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "4theW played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Dreepy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "4theW's Tatsugiri used Attract Customers.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "4theW retreated Tatsugiri to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from 4theW's Tatsugiri.",
+          "type": "other"
+        },
+        {
+          "raw": "4theW's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "4theW's Dragapult ex used Jet Headbutt on 0512SmileMan’s Drakloak for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "4theW",
+          "attacker": "Dragapult ex",
+          "attack": "Jet Headbutt",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 70
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "4theW",
+      "actions": [
+        {
+          "raw": "4theW drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "4theW didn't take an action in time.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arven, Lost Vacuum, Super Rod, Rare Candy, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW put 10 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Counter Catcher, Basic Psychic Energy, Nest Ball, Dragapult ex, Arven, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 4theW drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Manaphy, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Forest Seal Stone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on 4theW’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "4theW’s Dragapult ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on 4theW's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on 4theW's Drakloak.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "4theW",
+      "actions": [
+        {
+          "raw": "4theW drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "4theW didn't take an action in time.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on 4theW’s Dragapult ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "4theW’s Dragapult ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on 4theW's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "4theW's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "4theW's Dragapult ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from 4theW's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "4theW's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "4theW's Drakloak"
+        },
+        {
+          "raw": "Dreepy was discarded from 4theW's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Buddy-Buddy Poffin was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent was inactive for too long. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent was inactive for too long. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "4theW",
+      "0512SmileMan",
+      "- 4theW"
+    ],
+    "knockouts": [
+      {
+        "turn": 5,
+        "raw": "4theW's Dragapult ex was Knocked Out!",
+        "target": "4theW's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "4theW's Drakloak was Knocked Out!",
+        "target": "4theW's Drakloak"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent was inactive for too long. 0512SmileMan",
+      "method": null,
+      "final_turn": 5
+    }
+  }
+}

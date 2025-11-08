@@ -1,0 +1,1109 @@
+{
+  "file": "ドラパルト　アルセウス.txt",
+  "players": [
+    "0512SmileMan",
+    "Ferayer"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Dreepy, Arven, Arven, Rare Candy, Super Rod, Rescue Board, Iono",
+    "Ferayer drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "Ferayer played Munkidori to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Ferayer",
+      "actions": [
+        {
+          "raw": "Ferayer drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ferayer played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Bidoof, Charcadet",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arven, Arven, Super Rod, Iono, Dragapult ex, Rescue Board, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Defiance Band, Enhanced Hammer, Natu, Nest Ball, Manaphy, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer played Arceus V to the Bench.",
+          "type": "play",
+          "card": "Arceus V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Ferayer attached Double Turbo Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Ferayer ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Double Turbo Energy was discarded from Ferayer's Arceus V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Basic Psychic Energy, Counter Catcher, Buddy-Buddy Poffin",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Ferayer",
+      "actions": [
+        {
+          "raw": "Ferayer drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ferayer attached Jet Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer's Arceus V was switched with Ferayer's Munkidori to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer's Arceus V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Manaphy, Defiance Band, Collapsed Stadium, Basic Psychic Energy, Buddy-Buddy Poffin, Counter Catcher",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Basic Psychic Energy, Technical Machine: Evolution, Earthen Vessel, Xatu, Lost Vacuum, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dragapult ex, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan retreated Dreepy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Ferayer’s Arceus V for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Ferayer’s Arceus V",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Ferayer's Bidoof.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer's Bidoof was Knocked Out!",
+          "type": "knockout",
+          "target": "Ferayer's Bidoof"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Ferayer",
+      "actions": [
+        {
+          "raw": "Ferayer drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ferayer played Arceus V to the Bench.",
+          "type": "play",
+          "card": "Arceus V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Ferayer played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer drew Radiant Charizard and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Ferayer shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Delphox V, Magma Basin",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer drew Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- Ferayer drew Arceus VSTAR."
+        },
+        {
+          "raw": "- Ferayer shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer evolved Arceus V to Arceus VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Arceus V",
+          "to": "Arceus VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Ferayer's Arceus VSTAR used Starbirth.",
+          "type": "vstar",
+          "detail": "Ferayer's Arceus VSTAR used Starbirth."
+        },
+        {
+          "raw": "- Ferayer drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- Ferayer shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "Ferayer can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "Ferayer attached Double Turbo Energy to Arceus VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Arceus VSTAR"
+        },
+        {
+          "raw": "Ferayer played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Earthen Vessel, Ultra Ball, Lost Vacuum, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Drakloak, Iono, Rare Candy, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer evolved Charcadet to Armarouge on the Bench.",
+          "type": "evolve",
+          "from": "Charcadet",
+          "to": "Armarouge"
+        },
+        {
+          "raw": "Ferayer's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Dragapult ex for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "Ferayer",
+          "attacker": "Arceus VSTAR",
+          "attack": "Trinity Nova",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 180
+        },
+        {
+          "raw": "- Ferayer attached Basic Fire Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "- Ferayer attached Basic Fire Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "- Ferayer attached Basic Fire Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "- Ferayer shuffled their deck.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Xatu on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Super Rod, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Drakloak, Basic Fire Energy, Unfair Stamp, Drakloak, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Ferayer’s Arceus VSTAR for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Ferayer’s Arceus VSTAR",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Ferayer's Arceus V.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer's Arceus VSTAR was Knocked Out!",
+          "type": "knockout",
+          "target": "Ferayer's Arceus VSTAR"
+        },
+        {
+          "raw": "- 3 cards were discarded from Ferayer's Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- 3 cards were discarded from Ferayer's Arceus VSTAR."
+        },
+        {
+          "raw": "• Jet Energy, Double Turbo Energy, Arceus V",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer's Arceus V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Buddy-Buddy Poffin was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Ferayer",
+      "actions": [
+        {
+          "raw": "Ferayer drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ferayer played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Super Rod, Choice Belt",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer shuffled Delphox V into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arceus V, Choice Belt",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer drew Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- Ferayer drew Arceus VSTAR."
+        },
+        {
+          "raw": "- Ferayer shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer evolved Arceus V to Arceus VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Arceus V",
+          "to": "Arceus VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Ferayer played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Maximum Belt, Counter Catcher",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer drew Delphox V.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer played Delphox V to the Bench.",
+          "type": "play",
+          "card": "Delphox V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Ferayer played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer's Delphox V was switched with Ferayer's Arceus VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- Ferayer's Delphox V was switched with Ferayer's Arceus VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "Ferayer's Delphox V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer's Armarouge used Fire Off.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer attached Basic Fire Energy to Delphox V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Delphox V"
+        },
+        {
+          "raw": "- Ferayer attached Basic Fire Energy to Delphox V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Delphox V"
+        },
+        {
+          "raw": "- Ferayer attached Basic Fire Energy to Delphox V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Delphox V"
+        },
+        {
+          "raw": "Ferayer's Delphox V used Magical Fire on 0512SmileMan’s Dragapult ex for 120 damage.",
+          "type": "attack",
+          "attackerOwner": "Ferayer",
+          "attacker": "Delphox V",
+          "attack": "Magical Fire",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 120
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak took 120 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ferayer moved Ferayer's 2 cards to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Dreepy, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Ferayer's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Super Rod.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- Ferayer's Armarouge was switched with Ferayer's Delphox V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer's Armarouge is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Ferayer’s Armarouge for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Ferayer’s Armarouge",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on Ferayer's Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan put 2 damage counters on Ferayer's Arceus VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan put 4 damage counters on Ferayer's Delphox V.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer's Armarouge was Knocked Out!",
+          "type": "knockout",
+          "target": "Ferayer's Armarouge"
+        },
+        {
+          "raw": "Charcadet was discarded from Ferayer's Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "Ferayer's Radiant Charizard is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Dragapult ex was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Ferayer",
+      "actions": [
+        {
+          "raw": "Ferayer drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ferayer played Magma Basin to the Stadium spot.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Ferayer played Arceus V to the Bench.",
+          "type": "play",
+          "card": "Arceus V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 10,
+    "players": [
+      "0512SmileMan",
+      "Ferayer"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "Ferayer's Bidoof was Knocked Out!",
+        "target": "Ferayer's Bidoof"
+      },
+      {
+        "turn": 4,
+        "raw": "Ferayer's Arceus VSTAR was Knocked Out!",
+        "target": "Ferayer's Arceus VSTAR"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 5,
+        "raw": "Ferayer's Armarouge was Knocked Out!",
+        "target": "Ferayer's Armarouge"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "- Ferayer drew Arceus VSTAR."
+      },
+      {
+        "turn": 3,
+        "raw": "Ferayer's Arceus VSTAR used Starbirth."
+      },
+      {
+        "turn": 3,
+        "raw": "Ferayer can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 3,
+        "attack": "Trinity Nova",
+        "raw": "Ferayer's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Dragapult ex for 180 damage.",
+        "target": "0512SmileMan’s Dragapult ex",
+        "damage": 180
+      },
+      {
+        "turn": 4,
+        "attack": "Phantom Dive",
+        "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Ferayer’s Arceus VSTAR for 200 damage.",
+        "target": "Ferayer’s Arceus VSTAR",
+        "damage": 200
+      },
+      {
+        "turn": 4,
+        "raw": "- 3 cards were discarded from Ferayer's Arceus VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "- Ferayer drew Arceus VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "- Ferayer's Delphox V was switched with Ferayer's Arceus VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 5,
+        "raw": "- 0512SmileMan put 2 damage counters on Ferayer's Arceus VSTAR."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 5
+    }
+  }
+}

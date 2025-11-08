@@ -1,0 +1,606 @@
+{
+  "file": "ドラパルト　アルセウス　相手校さん.txt",
+  "players": [
+    "0512SmileMan",
+    "Hollow684",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose heads for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Natu, Dragapult ex, Technical Machine: Evolution, Natu, Basic Psychic Energy, Rescue Board, Basic Psychic Energy",
+    "Hollow684 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "Hollow684 took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Bibarel, Nest Ball, Iono, Basic Fire Energy, Grabber, Jet Energy, Eri",
+    "0512SmileMan drew 1 more card because Hollow684 took at least 1 mulligan.",
+    "- 0512SmileMan drew Basic Psychic Energy.",
+    "0512SmileMan played Natu to the Active Spot.",
+    "0512SmileMan played Natu to the Bench.",
+    "Hollow684 played Arceus V to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Hollow684",
+      "actions": [
+        {
+          "raw": "Hollow684 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Hollow684 played Grabber.",
+          "type": "play",
+          "card": "Grabber",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan put Dragapult ex on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Hollow684 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Hollow684 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Radiant Charizard",
+          "type": "other"
+        },
+        {
+          "raw": "- Hollow684 drew Bidoof.",
+          "type": "other"
+        },
+        {
+          "raw": "- Hollow684 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Hollow684 played Bidoof to the Bench.",
+          "type": "play",
+          "card": "Bidoof",
+          "to": "Bench"
+        },
+        {
+          "raw": "Hollow684 attached Basic Fire Energy to Arceus V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Hollow684 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Lost Vacuum, Dragapult ex, Earthen Vessel",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Hollow684",
+      "actions": [
+        {
+          "raw": "Hollow684 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Hollow684 evolved Bidoof to Bibarel on the Bench.",
+          "type": "evolve",
+          "from": "Bidoof",
+          "to": "Bibarel"
+        },
+        {
+          "raw": "Hollow684 played Eri.",
+          "type": "play",
+          "card": "Eri",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Earthen Vessel, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "Hollow684's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Hollow684 drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "Hollow684 evolved Arceus V to Arceus VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Arceus V",
+          "to": "Arceus VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Hollow684's Arceus VSTAR used Starbirth.",
+          "type": "vstar",
+          "detail": "Hollow684's Arceus VSTAR used Starbirth."
+        },
+        {
+          "raw": "- Hollow684 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- Hollow684 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Hollow684 can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "Hollow684 can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "Hollow684 attached Double Turbo Energy to Arceus VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Arceus VSTAR"
+        },
+        {
+          "raw": "Hollow684 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Hollow684 drew Arceus V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Hollow684 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Hollow684's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Natu for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "Hollow684",
+          "attacker": "Arceus VSTAR",
+          "attack": "Trinity Nova",
+          "target": "0512SmileMan’s Natu",
+          "damage": 180
+        },
+        {
+          "raw": "- Hollow684 attached Basic Fire Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "- Hollow684 attached Basic Fire Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "- Hollow684 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Hollow684 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Hollow684's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Hollow684",
+      "actions": [
+        {
+          "raw": "Hollow684 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Hollow684 played Eri.",
+          "type": "play",
+          "card": "Eri",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "Hollow684 attached Basic Fire Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Hollow684 attached Technical Machine: Devolution to Arceus VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Arceus VSTAR"
+        },
+        {
+          "raw": "Hollow684's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Hollow684 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Hollow684's Arceus VSTAR used Devolution.",
+          "type": "vstar",
+          "detail": "Hollow684's Arceus VSTAR used Devolution."
+        },
+        {
+          "raw": "- Hollow684 devolved 0512SmileMan's Xatu to Natu on the Bench.",
+          "type": "evolve",
+          "from": "0512SmileMan's Xatu",
+          "to": "Natu"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Xatu to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Hollow684 devolved 0512SmileMan's Drakloak to Dreepy on the Bench.",
+          "type": "evolve",
+          "from": "0512SmileMan's Drakloak",
+          "to": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Drakloak to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from Hollow684's Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- Technical Machine: Devolution was discarded from Hollow684's Arceus VSTAR."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Rescue Board, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Hollow684 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Hollow684 put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Ultra Ball, Arven, Switch, Defiance Band, Collapsed Stadium, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- Hollow684 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Unfair Stamp.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Radiant Alakazam, Iono, Iono",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Hollow684",
+      "actions": [
+        {
+          "raw": "Hollow684 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Hollow684 didn't take an action in time.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "0512SmileMan",
+      "Hollow684",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "Hollow684's Arceus VSTAR used Starbirth."
+      },
+      {
+        "turn": 2,
+        "raw": "Hollow684 can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "attack": "Trinity Nova",
+        "raw": "Hollow684's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Natu for 180 damage.",
+        "target": "0512SmileMan’s Natu",
+        "damage": 180
+      },
+      {
+        "turn": 3,
+        "raw": "Hollow684's Arceus VSTAR used Devolution."
+      },
+      {
+        "turn": 3,
+        "raw": "- Technical Machine: Devolution was discarded from Hollow684's Arceus VSTAR."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Hollow684",
+      "method": "concession",
+      "final_turn": 5
+    }
+  }
+}

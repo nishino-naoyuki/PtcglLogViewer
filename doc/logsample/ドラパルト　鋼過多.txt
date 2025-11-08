@@ -1,0 +1,198 @@
+Setup
+tate1108 chose heads for the opening coin flip.
+tate1108 won the coin toss.
+0512SmileMan decided to go second.
+tate1108 drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Basic Psychic Energy, Natu, Nest Ball, Earthen Vessel, Unfair Stamp, Counter Catcher, Drakloak
+tate1108 took a mulligan.
+- Cards revealed from Mulligan 1
+   • Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy
+tate1108 took 2 mulligans.
+- Cards revealed from Mulligan 2
+   • Adaman, Adaman, Metang, Basic Metal Energy, Irida, Basic Metal Energy, Basic Metal Energy
+0512SmileMan drew 2 more cards because tate1108 took at least 1 mulligan.
+- 0512SmileMan drew 2 cards.
+   • Drakloak, Earthen Vessel
+tate1108 played Heatran to the Active Spot.
+0512SmileMan played Natu to the Active Spot.
+
+Turn # 1 - tate1108's Turn
+tate1108 drew a card.
+tate1108 played Beldum to the Bench.
+tate1108 attached Basic Metal Energy to Heatran in the Active Spot.
+tate1108 ended their turn.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Buddy-Buddy Poffin.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Dreepy
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Rotom V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Earthen Vessel.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Fire Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Boss's Orders, Drakloak, Buddy-Buddy Poffin
+
+Turn # 2 - tate1108's Turn
+tate1108 drew a card.
+tate1108 evolved Beldum to Metang on the Bench.
+tate1108 played Adaman.
+- tate1108 discarded 2 cards.
+   • Basic Metal Energy, Basic Metal Energy
+- tate1108 drew 2 cards.
+- tate1108 shuffled their deck.
+tate1108 played Buddy-Buddy Poffin.
+- tate1108 drew 2 cards and played them to the Bench.
+   • Beldum, Hisuian Basculin
+- tate1108 shuffled their deck.
+tate1108's Metang used Metal Maker.
+- 0512SmileMan shuffled their cards.
+tate1108 attached Basic Metal Energy to Heatran in the Active Spot.
+tate1108 ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Iono.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Natu
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Collapsed Stadium.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Earthen Vessel, Technical Machine: Evolution
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Technical Machine: Evolution to Natu in the Active Spot.
+0512SmileMan attached Basic Psychic Energy to Natu in the Active Spot.
+0512SmileMan's Natu used Evolution.
+- 0512SmileMan evolved Natu to Xatu on the Bench.
+- 0512SmileMan shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 0512SmileMan's Natu.
+
+Turn # 3 - tate1108's Turn
+tate1108 drew a card.
+tate1108 played Irida.
+- tate1108 drew 2 cards.
+   • Hisuian Basculin, Nest Ball
+- tate1108 shuffled their deck.
+tate1108 played Hisuian Basculin to the Bench.
+tate1108 played Nest Ball.
+- tate1108 drew Heatran and played it to the Bench.
+- tate1108 shuffled their deck.
+tate1108 played Hyper Aroma.
+- tate1108 drew 3 cards.
+   • Metang, Hisuian Basculegion, Hisuian Basculegion
+- tate1108 shuffled their deck.
+tate1108 evolved Beldum to Metang on the Bench.
+tate1108 evolved Hisuian Basculin to Hisuian Basculegion on the Bench.
+tate1108's Metang used Metal Maker.
+- tate1108 attached Basic Metal Energy to Heatran in the Active Spot.
+- tate1108 attached Basic Metal Energy to Heatran in the Active Spot.
+- 0512SmileMan shuffled their cards.
+tate1108's Metang used Metal Maker.
+- 0512SmileMan shuffled their cards.
+tate1108's Heatran used Steel Burst on 0512SmileMan’s Natu for 200 damage.
+- 4 cards were discarded from tate1108's Heatran.
+   • Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy
+0512SmileMan's Natu was Knocked Out!
+Basic Psychic Energy was discarded from 0512SmileMan's Natu.
+0512SmileMan's Drakloak is now in the Active Spot.
+tate1108 took a Prize card.
+A card was added to tate1108's hand.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Rare Candy.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Rare Candy.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Arven, Ultra Ball
+0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.
+0512SmileMan played Counter Catcher.
+- tate1108's Metang was switched with tate1108's Heatran to become the Active Pokémon.
+tate1108's Metang is now in the Active Spot.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Iono, Collapsed Stadium
+- 0512SmileMan drew Dragapult ex.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Manaphy.
+0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.
+0512SmileMan played Unfair Stamp.
+- 0512SmileMan shuffled 4 cards into their deck.
+   • Basic Fire Energy, Boss's Orders, Arven, Manaphy
+- tate1108 moved tate1108's 3 cards to their deck.
+- 0512SmileMan drew 5 cards.
+   • Technical Machine: Devolution, Arven, Dreepy, Nest Ball, Iono
+- tate1108 drew 2 cards.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Radiant Alakazam and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Forest Seal Stone.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Rescue Board.
+0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.
+0512SmileMan's Dragapult ex used Phantom Dive on tate1108’s Metang for 200 damage.
+- 0512SmileMan put 5 damage counters on tate1108's Hisuian Basculin.
+- 0512SmileMan put a damage counter on tate1108's Hisuian Basculegion.
+tate1108's Metang was Knocked Out!
+Beldum was discarded from tate1108's Metang.
+tate1108's Hisuian Basculin was Knocked Out!
+tate1108's Heatran is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Drakloak was added to 0512SmileMan's hand.
+Dragapult ex was added to 0512SmileMan's hand.
+
+Turn # 4 - tate1108's Turn
+tate1108 drew a card.
+tate1108 attached Basic Metal Energy to Heatran in the Active Spot.
+tate1108's Metang used Metal Maker.
+- tate1108 attached Basic Metal Energy to Heatran in the Active Spot.
+- tate1108 attached Basic Metal Energy to Heatran in the Active Spot.
+- 0512SmileMan shuffled their cards.
+tate1108's Heatran used Steel Burst on 0512SmileMan’s Dragapult ex for 150 damage.
+- 3 cards were discarded from tate1108's Heatran.
+   • Basic Metal Energy, Basic Metal Energy, Basic Metal Energy
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Switch.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Basic Psychic Energy.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Nest Ball, Super Rod
+0512SmileMan's Rotom V used Star Alchemy.
+- 0512SmileMan drew Boss's Orders.
+- 0512SmileMan shuffled their deck.
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan played Boss's Orders.
+- tate1108's Metang was switched with tate1108's Heatran to become the Active Pokémon.
+tate1108's Metang is now in the Active Spot.
+Opponent conceded. 0512SmileMan wins.
+

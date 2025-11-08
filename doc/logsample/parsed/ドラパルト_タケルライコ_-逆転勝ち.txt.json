@@ -1,0 +1,1127 @@
+{
+  "file": "ドラパルト　タケルライコ -逆転勝ち.txt",
+  "players": [
+    "FabioDrago89",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "FabioDrago89 chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "FabioDrago89 decided to go second.",
+    "FabioDrago89 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Arven, Dreepy, Basic Fire Energy, Buddy-Buddy Poffin, Dreepy, Manaphy, Basic Psychic Energy",
+    "FabioDrago89 played Sandy Shocks to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "FabioDrago89",
+      "actions": [
+        {
+          "raw": "FabioDrago89 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FabioDrago89 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 drew Teal Mask Ogerpon ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- FabioDrago89 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- FabioDrago89 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FabioDrago89 played Worker.",
+          "type": "play",
+          "card": "Worker",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "FabioDrago89 played Raging Bolt ex to the Bench.",
+          "type": "play",
+          "card": "Raging Bolt ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "FabioDrago89 played Squawkabilly ex to the Bench.",
+          "type": "play",
+          "card": "Squawkabilly ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "FabioDrago89's Squawkabilly ex used Squawk and Seize.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 discarded 6 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor Sada's Vitality, Cyllene, Team Yell's Cheer, Basic Grass Energy, Professor Sada's Vitality, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "FabioDrago89 attached Ancient Booster Energy Capsule to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Ancient Booster Energy Capsule",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "FabioDrago89 played Switch Cart.",
+          "type": "play",
+          "card": "Switch Cart",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89's Squawkabilly ex was switched with FabioDrago89's Sandy Shocks to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Squawkabilly ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89 attached Basic Fighting Energy to Squawkabilly ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Squawkabilly ex"
+        },
+        {
+          "raw": "FabioDrago89's Squawkabilly ex used Motivate on 0512SmileMan’s Dreepy for 20 damage.",
+          "type": "attack",
+          "attackerOwner": "FabioDrago89",
+          "attacker": "Squawkabilly ex",
+          "attack": "Motivate",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 20
+        },
+        {
+          "raw": "- FabioDrago89 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- FabioDrago89 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "FabioDrago89",
+      "actions": [
+        {
+          "raw": "FabioDrago89 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FabioDrago89 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 discarded Switch Cart.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- FabioDrago89 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FabioDrago89 retreated Squawkabilly ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fighting Energy was discarded from FabioDrago89's Squawkabilly ex.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 attached Basic Fighting Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "- FabioDrago89 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "FabioDrago89 attached Basic Lightning Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "FabioDrago89's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dreepy for 70 damage.",
+          "type": "attack",
+          "attackerOwner": "FabioDrago89",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 70
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from FabioDrago89's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to FabioDrago89's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Manaphy to the Bench.",
+          "type": "play",
+          "card": "Manaphy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dragapult ex, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Xatu in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Rare Candy on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Dragapult ex, Iono, Iono, Dragapult ex, Jamming Tower, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Earthen Vessel, Arven, Basic Psychic Energy",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "FabioDrago89",
+      "actions": [
+        {
+          "raw": "FabioDrago89 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FabioDrago89 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 drew Raging Bolt ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- FabioDrago89 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Manaphy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89 attached Basic Lightning Energy to Raging Bolt ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "FabioDrago89 played Pal Pad.",
+          "type": "play",
+          "card": "Pal Pad",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Cyllene, Team Yell's Cheer",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dragapult ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "FabioDrago89",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 350
+        },
+        {
+          "raw": "- Basic Fighting Energy was discarded from FabioDrago89's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 4 cards were discarded from FabioDrago89's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Basic Lightning Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Drakloak, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to FabioDrago89's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to FabioDrago89's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Xatu",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Xatu in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on FabioDrago89’s Raging Bolt ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "FabioDrago89’s Raging Bolt ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on FabioDrago89's Raging Bolt ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "FabioDrago89",
+      "actions": [
+        {
+          "raw": "FabioDrago89 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FabioDrago89 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 discarded Sandy Shocks.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89 played Cyllene.",
+          "type": "play",
+          "card": "Cyllene",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 flipped 2 coins, and 1 landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 put Professor Sada's Vitality on top of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- FabioDrago89 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FabioDrago89 attached Basic Fighting Energy to Raging Bolt ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Raging Bolt ex"
+        },
+        {
+          "raw": "FabioDrago89's Raging Bolt ex used Bellowing Thunder on 0512SmileMan’s Dragapult ex for 210 damage.",
+          "type": "attack",
+          "attackerOwner": "FabioDrago89",
+          "attacker": "Raging Bolt ex",
+          "attack": "Bellowing Thunder",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 210
+        },
+        {
+          "raw": "- 2 cards were discarded from FabioDrago89's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from FabioDrago89's Teal Mask Ogerpon ex.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Counter Catcher, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89's Raging Bolt ex was switched with FabioDrago89's Raging Bolt ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Raging Bolt ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from FabioDrago89's Raging Bolt ex to FabioDrago89's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Jamming Tower to the Stadium spot.",
+          "type": "play",
+          "card": "Jamming Tower",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on FabioDrago89’s Raging Bolt ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "FabioDrago89’s Raging Bolt ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on FabioDrago89's Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 damage counters on FabioDrago89's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Raging Bolt ex was Knocked Out!",
+          "type": "knockout",
+          "target": "FabioDrago89's Raging Bolt ex"
+        },
+        {
+          "raw": "FabioDrago89's Raging Bolt ex was Knocked Out!",
+          "type": "knockout",
+          "target": "FabioDrago89's Raging Bolt ex"
+        },
+        {
+          "raw": "Ancient Booster Energy Capsule was discarded from FabioDrago89's Raging Bolt ex.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Sandy Shocks is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 4 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Forest Seal Stone was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Super Rod was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Natu was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Boss's Orders was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "FabioDrago89",
+      "actions": [
+        {
+          "raw": "FabioDrago89 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FabioDrago89 played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 discarded Explorer's Guidance.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Lightning Energy, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- FabioDrago89 attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- FabioDrago89 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "FabioDrago89 played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89 attached Basic Lightning Energy to Sandy Shocks in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Lightning Energy",
+          "target": "Sandy Shocks"
+        },
+        {
+          "raw": "- FabioDrago89 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "FabioDrago89 attached Basic Fighting Energy to Sandy Shocks in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Sandy Shocks"
+        },
+        {
+          "raw": "FabioDrago89's Sandy Shocks used Magnetic Burst on 0512SmileMan’s Dragapult ex for 90 damage.",
+          "type": "attack",
+          "attackerOwner": "FabioDrago89",
+          "attacker": "Sandy Shocks",
+          "attack": "Magnetic Burst",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- FabioDrago89's Teal Mask Ogerpon ex was switched with FabioDrago89's Sandy Shocks to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "FabioDrago89's Teal Mask Ogerpon ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 11,
+    "players": [
+      "FabioDrago89",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "FabioDrago89's Raging Bolt ex was Knocked Out!",
+        "target": "FabioDrago89's Raging Bolt ex"
+      },
+      {
+        "turn": 5,
+        "raw": "FabioDrago89's Raging Bolt ex was Knocked Out!",
+        "target": "FabioDrago89's Raging Bolt ex"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "FabioDrago89",
+      "method": "concession",
+      "final_turn": 6
+    }
+  }
+}

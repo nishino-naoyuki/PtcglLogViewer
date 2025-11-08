@@ -1,0 +1,1497 @@
+{
+  "file": "ドラパルト　ハピナス２.txt",
+  "players": [
+    "aman460",
+    "0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "aman460 chose heads for the opening coin flip.",
+    "aman460 won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "aman460 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Rescue Board, Rare Candy, Switch, Dragapult ex, Radiant Alakazam, Hisuian Heavy Ball, Defiance Band",
+    "aman460 played Chansey to the Active Spot.",
+    "0512SmileMan played Radiant Alakazam to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Natu to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "aman460",
+      "actions": [
+        {
+          "raw": "aman460 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "aman460 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew Chansey and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 played Artazon to the Stadium spot.",
+          "type": "play",
+          "card": "Artazon",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "aman460 played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 played Energy Loto.",
+          "type": "play",
+          "card": "Energy Loto",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew Basic Fighting Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 attached Basic Fighting Energy to Chansey in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Chansey"
+        },
+        {
+          "raw": "aman460 attached Technical Machine: Turbo Energize to Chansey in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Turbo Energize",
+          "target": "Chansey"
+        },
+        {
+          "raw": "aman460 played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Technical Machine: Turbo Energize",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Chansey used Turbo Energize.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 attached Basic Psychic Energy to Chansey on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Chansey"
+        },
+        {
+          "raw": "- aman460 attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Turbo Energize was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Turbo Energize was discarded from aman460's Chansey.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "aman460",
+      "actions": [
+        {
+          "raw": "aman460 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "aman460 played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew Chansey and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 attached Technical Machine: Turbo Energize to Chansey in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Turbo Energize",
+          "target": "Chansey"
+        },
+        {
+          "raw": "aman460's Chansey used Turbo Energize.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "- aman460 attached Basic Darkness Energy to Chansey on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Chansey"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Turbo Energize was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Turbo Energize was discarded from aman460's Chansey.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on aman460’s Chansey for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "aman460’s Chansey",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on aman460's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Chansey was Knocked Out!",
+          "type": "knockout",
+          "target": "aman460's Chansey"
+        },
+        {
+          "raw": "Basic Fighting Energy was discarded from aman460's Chansey.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Chansey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "aman460",
+      "actions": [
+        {
+          "raw": "aman460 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "aman460 played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew Munkidori and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- aman460 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Chansey, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 drew Blissey ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 evolved Chansey to Blissey ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Chansey",
+          "to": "Blissey ex"
+        },
+        {
+          "raw": "aman460's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved 3 damage counters from aman460's Munkidori to 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved 3 damage counters from aman460's Munkidori to 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Blissey ex used Happy Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 attached Basic Darkness Energy to Blissey ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Blissey ex"
+        },
+        {
+          "raw": "aman460's Blissey ex used Return on 0512SmileMan’s Dragapult ex for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "aman460",
+          "attacker": "Blissey ex",
+          "attack": "Return",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 180
+        },
+        {
+          "raw": "- aman460 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Enhanced Hammer, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Manaphy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Dragapult ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Enhanced Hammer on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Earthen Vessel, Nest Ball, Forest Seal Stone, Iono, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on aman460’s Blissey ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "aman460’s Blissey ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on aman460's Munkidori.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "aman460",
+      "actions": [
+        {
+          "raw": "aman460 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "aman460 evolved Chansey to Blissey ex on the Bench.",
+          "type": "evolve",
+          "from": "Chansey",
+          "to": "Blissey ex"
+        },
+        {
+          "raw": "aman460's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved 3 damage counters from aman460's Munkidori to 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "Dreepy was discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to aman460's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Blissey ex used Happy Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "aman460's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved 3 damage counters from aman460's Munkidori to 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Blissey ex used Happy Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "aman460's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved 3 damage counters from aman460's Blissey ex to 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 attached Double Turbo Energy to Blissey ex on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Blissey ex"
+        },
+        {
+          "raw": "aman460 played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Blissey ex used Return on 0512SmileMan’s Dragapult ex for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "aman460",
+          "attacker": "Blissey ex",
+          "attack": "Return",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 180
+        },
+        {
+          "raw": "- aman460 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 5 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to aman460's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to aman460's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Earthen Vessel, Basic Fire Energy, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 put 8 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Boss's Orders, Technical Machine: Devolution, Buddy-Buddy Poffin, Dreepy, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Double Turbo Energy was discarded from aman460's Blissey ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from aman460's Blissey ex to aman460's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on aman460’s Blissey ex for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "aman460’s Blissey ex",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on aman460's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Blissey ex was Knocked Out!",
+          "type": "knockout",
+          "target": "aman460's Blissey ex"
+        },
+        {
+          "raw": "- 4 cards were discarded from aman460's Blissey ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Darkness Energy, Basic Darkness Energy, Chansey",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Munkidori is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Unfair Stamp was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Psychic Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Radiant Alakazam.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "aman460",
+      "actions": [
+        {
+          "raw": "aman460 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "aman460 played Artazon.",
+          "type": "play",
+          "card": "Artazon",
+          "to": null
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- aman460 moved aman460's Cornerstone Mask Ogerpon ex to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Defiance Band to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Pokégear 3.0, Technical Machine: Blindside",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved 3 damage counters from aman460's Munkidori to 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Blissey ex used Happy Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "aman460's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved 3 damage counters from aman460's Munkidori to 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Xatu"
+        },
+        {
+          "raw": "Natu was discarded from 0512SmileMan's Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to aman460's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 played Energy Sticker.",
+          "type": "play",
+          "card": "Energy Sticker",
+          "to": null
+        },
+        {
+          "raw": "- aman460 flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 attached Basic Darkness Energy to Blissey ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Blissey ex"
+        },
+        {
+          "raw": "aman460 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Xatu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- aman460's Blissey ex was switched with aman460's Munkidori to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Blissey ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 4 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Buddy-Buddy Poffin, Dreepy, Xatu",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved aman460's 3 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Boss's Orders, Collapsed Stadium, Buddy-Buddy Poffin, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- aman460 discarded Artazon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on aman460’s Blissey ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "aman460’s Blissey ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on aman460's Munkidori.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "aman460",
+      "actions": [
+        {
+          "raw": "aman460 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "aman460 played Pokégear 3.0.",
+          "type": "play",
+          "card": "Pokégear 3.0",
+          "to": null
+        },
+        {
+          "raw": "- aman460 drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved 3 damage counters from aman460's Blissey ex to 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Blissey ex used Happy Switch.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "aman460's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- aman460 moved 3 damage counters from aman460's Blissey ex to 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 attached Double Turbo Energy to Blissey ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Blissey ex"
+        },
+        {
+          "raw": "aman460 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460's Blissey ex used Return on 0512SmileMan’s Rotom V for 160 damage.",
+          "type": "attack",
+          "attackerOwner": "aman460",
+          "attacker": "Blissey ex",
+          "attack": "Return",
+          "target": "0512SmileMan’s Rotom V",
+          "damage": 160
+        },
+        {
+          "raw": "- aman460 drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "0512SmileMan's Rotom V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Rotom V"
+        },
+        {
+          "raw": "Forest Seal Stone was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "aman460 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to aman460's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to aman460's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. aman460 wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. aman460 wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 12,
+    "players": [
+      "aman460",
+      "0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "aman460's Chansey was Knocked Out!",
+        "target": "aman460's Chansey"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "aman460's Blissey ex was Knocked Out!",
+        "target": "aman460's Blissey ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Xatu was Knocked Out!",
+        "target": "0512SmileMan's Xatu"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Rotom V was Knocked Out!",
+        "target": "0512SmileMan's Rotom V"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 5,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. aman460",
+      "method": null,
+      "final_turn": 6
+    }
+  }
+}

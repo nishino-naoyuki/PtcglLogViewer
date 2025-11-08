@@ -1,0 +1,1053 @@
+{
+  "file": "レジドラゴおまつりおんど.txt",
+  "players": [
+    "0512SmileMan",
+    "Wonderful_cape",
+    "-"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "Wonderful_cape won the coin toss.",
+    "Wonderful_cape decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Grass Energy, Ultra Ball, Energy Switch, Earthen Vessel, Basic Fire Energy, Earthen Vessel, Prime Catcher",
+    "Wonderful_cape drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Basic Grass Energy, Ultra Ball, Energy Switch, Earthen Vessel, Basic Fire Energy, Earthen Vessel, Prime Catcher",
+    "0512SmileMan took 2 mulligans.",
+    "- Cards revealed from Mulligan 2",
+    "• Energy Switch, Basic Grass Energy, Nest Ball, Switch, Iono, Canceling Cologne, Great Ball",
+    "Wonderful_cape drew 2 more cards because 0512SmileMan took at least 1 mulligan.",
+    "- Wonderful_cape drew 2 cards.",
+    "0512SmileMan played Mew ex to the Active Spot.",
+    "Wonderful_cape played Cleffa to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "Wonderful_cape",
+      "actions": [
+        {
+          "raw": "Wonderful_cape drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Wonderful_cape played Applin to the Bench.",
+          "type": "play",
+          "card": "Applin",
+          "to": "Bench"
+        },
+        {
+          "raw": "Wonderful_cape played Grookey to the Bench.",
+          "type": "play",
+          "card": "Grookey",
+          "to": "Bench"
+        },
+        {
+          "raw": "Wonderful_cape played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Wonderful_cape drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Grookey, Thwackey",
+          "type": "other"
+        },
+        {
+          "raw": "- Wonderful_cape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape played Grookey to the Bench.",
+          "type": "play",
+          "card": "Grookey",
+          "to": "Bench"
+        },
+        {
+          "raw": "Wonderful_cape attached Basic Grass Energy to Applin on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Applin"
+        },
+        {
+          "raw": "Wonderful_cape ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Regidrago V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Regidrago V to the Bench.",
+          "type": "play",
+          "card": "Regidrago V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Regidrago V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Teal Mask Ogerpon ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- Wonderful_cape's Grookey was switched with Wonderful_cape's Cleffa to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape's Grookey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Giratina VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Giratina VSTAR."
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Giratina VSTAR",
+          "type": "vstar",
+          "detail": "• Nest Ball, Giratina VSTAR"
+        },
+        {
+          "raw": "- 0512SmileMan drew Regidrago VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Regidrago VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Wonderful_cape",
+      "actions": [
+        {
+          "raw": "Wonderful_cape drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Wonderful_cape evolved Grookey to Thwackey on the Bench.",
+          "type": "evolve",
+          "from": "Grookey",
+          "to": "Thwackey"
+        },
+        {
+          "raw": "Wonderful_cape attached Basic Grass Energy to Grookey in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Grookey"
+        },
+        {
+          "raw": "Wonderful_cape retreated Grookey to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Grass Energy was discarded from Wonderful_cape's Grookey.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape's Cleffa is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape played Festival Grounds to the Stadium spot.",
+          "type": "play",
+          "card": "Festival Grounds",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Wonderful_cape played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Wonderful_cape discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rabsca, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- Wonderful_cape drew Rellor.",
+          "type": "other"
+        },
+        {
+          "raw": "- Wonderful_cape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape played Rellor to the Bench.",
+          "type": "play",
+          "card": "Rellor",
+          "to": "Bench"
+        },
+        {
+          "raw": "Wonderful_cape played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- Wonderful_cape drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "Wonderful_cape played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Wonderful_cape drew Applin and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Wonderful_cape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Wonderful_cape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape's Cleffa used Grasping Draw.",
+          "type": "other"
+        },
+        {
+          "raw": "- Wonderful_cape drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Prime Catcher.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Regidrago V to Regidrago VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Regidrago V",
+          "to": "Regidrago VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "0512SmileMan's Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Professor's Research, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Prime Catcher, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Boss's Orders, Energy Switch, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy, Earthen Vessel, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Regidrago VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Regidrago VSTAR."
+        },
+        {
+          "raw": "0512SmileMan attached Basic Grass Energy to Regidrago VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Regidrago V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Legacy Star.",
+          "type": "vstar",
+          "detail": "0512SmileMan's Regidrago VSTAR used Legacy Star."
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 7 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Energy Switch, Canceling Cologne, Nest Ball, Earthen Vessel, Basic Grass Energy, Professor's Research, Great Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Regidrago VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan retreated Mew ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "0512SmileMan's Regidrago VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on Wonderful_cape’s Cleffa for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Regidrago VSTAR",
+          "attack": "Apex Dragon",
+          "target": "Wonderful_cape’s Cleffa",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan chose Phantom Dive",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on Wonderful_cape's Grookey.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on Wonderful_cape's Rellor.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape's Cleffa was Knocked Out!",
+          "type": "knockout",
+          "target": "Wonderful_cape's Cleffa"
+        },
+        {
+          "raw": "Wonderful_cape's Rellor was Knocked Out!",
+          "type": "knockout",
+          "target": "Wonderful_cape's Rellor"
+        },
+        {
+          "raw": "Wonderful_cape's Applin is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Professor's Research was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Energy Switch was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Wonderful_cape",
+      "actions": [
+        {
+          "raw": "Wonderful_cape drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Wonderful_cape played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Wonderful_cape drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dipplin, Thwackey",
+          "type": "other"
+        },
+        {
+          "raw": "- Wonderful_cape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape evolved Applin to Dipplin in the Active Spot.",
+          "type": "evolve",
+          "from": "Applin",
+          "to": "Dipplin"
+        },
+        {
+          "raw": "Wonderful_cape evolved Grookey to Thwackey on the Bench.",
+          "type": "evolve",
+          "from": "Grookey",
+          "to": "Thwackey"
+        },
+        {
+          "raw": "Wonderful_cape's Thwackey used Boom Boom Groove.",
+          "type": "other"
+        },
+        {
+          "raw": "- Wonderful_cape drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Wonderful_cape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape's Thwackey used Boom Boom Groove.",
+          "type": "other"
+        },
+        {
+          "raw": "- Wonderful_cape drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Wonderful_cape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Wonderful_cape drew Rellor and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Wonderful_cape shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape played Applin to the Bench.",
+          "type": "play",
+          "card": "Applin",
+          "to": "Bench"
+        },
+        {
+          "raw": "Wonderful_cape played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Radiant Alakazam was switched with 0512SmileMan's Regidrago VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan's Radiant Alakazam was switched with 0512SmileMan's Regidrago VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape played Lake Acuity to the Stadium spot.",
+          "type": "play",
+          "card": "Lake Acuity",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- Wonderful_cape discarded Festival Grounds.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape attached Basic Grass Energy to Applin on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Applin"
+        },
+        {
+          "raw": "Wonderful_cape's Dipplin used Do the Wave on 0512SmileMan’s Radiant Alakazam for 100 damage.",
+          "type": "attack",
+          "attackerOwner": "Wonderful_cape",
+          "attacker": "Dipplin",
+          "attack": "Do the Wave",
+          "target": "0512SmileMan’s Radiant Alakazam",
+          "damage": 100
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Superior Energy Retrieval.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Regidrago V to Regidrago VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Regidrago V",
+          "to": "Regidrago VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "0512SmileMan played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Radiant Alakazam in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Superior Energy Retrieval.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Basic Grass Energy, Great Ball, Poppy, Earthen Vessel, Energy Switch, Switch, Regidrago VSTAR",
+          "type": "vstar",
+          "detail": "• Basic Grass Energy, Great Ball, Poppy, Earthen Vessel, Energy Switch, Switch, Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Professor's Research.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Regidrago VSTAR was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan's Regidrago VSTAR was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon."
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "0512SmileMan's Regidrago VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Regidrago VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan discarded Regidrago VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Regidrago VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Hisuian Goodra VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Hisuian Goodra VSTAR."
+        },
+        {
+          "raw": "0512SmileMan played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Regidrago VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on Wonderful_cape’s Dipplin for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Regidrago VSTAR",
+          "attack": "Apex Dragon",
+          "target": "Wonderful_cape’s Dipplin",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan chose Phantom Dive",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on Wonderful_cape's Applin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on Wonderful_cape's Rellor.",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape's Dipplin was Knocked Out!",
+          "type": "knockout",
+          "target": "Wonderful_cape's Dipplin"
+        },
+        {
+          "raw": "- 2 cards were discarded from Wonderful_cape's Dipplin.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Applin",
+          "type": "other"
+        },
+        {
+          "raw": "Wonderful_cape's Rellor was Knocked Out!",
+          "type": "knockout",
+          "target": "Wonderful_cape's Rellor"
+        },
+        {
+          "raw": "Wonderful_cape's Applin is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Wonderful_cape",
+      "actions": [
+        {
+          "raw": "Wonderful_cape drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Wonderful_cape attached Maximum Belt to Applin on the Bench.",
+          "type": "attach",
+          "energy": "Maximum Belt",
+          "target": "Applin"
+        },
+        {
+          "raw": "Wonderful_cape played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Wonderful_cape shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Wonderful_cape put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Basic Fire Energy, Hisuian Goodra VSTAR, Poppy, Teal Mask Ogerpon ex, Professor's Research",
+          "type": "vstar",
+          "detail": "• Ultra Ball, Basic Fire Energy, Hisuian Goodra VSTAR, Poppy, Teal Mask Ogerpon ex, Professor's Research"
+        },
+        {
+          "raw": "- Wonderful_cape drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Super Rod, Superior Energy Retrieval",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 7,
+    "players": [
+      "0512SmileMan",
+      "Wonderful_cape",
+      "-"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "Wonderful_cape's Cleffa was Knocked Out!",
+        "target": "Wonderful_cape's Cleffa"
+      },
+      {
+        "turn": 2,
+        "raw": "Wonderful_cape's Rellor was Knocked Out!",
+        "target": "Wonderful_cape's Rellor"
+      },
+      {
+        "turn": 3,
+        "raw": "Wonderful_cape's Dipplin was Knocked Out!",
+        "target": "Wonderful_cape's Dipplin"
+      },
+      {
+        "turn": 3,
+        "raw": "Wonderful_cape's Rellor was Knocked Out!",
+        "target": "Wonderful_cape's Rellor"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 1,
+        "raw": "- 0512SmileMan drew Giratina VSTAR."
+      },
+      {
+        "turn": 1,
+        "raw": "• Nest Ball, Giratina VSTAR"
+      },
+      {
+        "turn": 1,
+        "raw": "- 0512SmileMan drew Regidrago VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "- 0512SmileMan drew Regidrago VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Regidrago VSTAR used Legacy Star."
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Regidrago VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 2,
+        "attack": "Apex Dragon",
+        "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on Wonderful_cape’s Cleffa for 200 damage.",
+        "target": "Wonderful_cape’s Cleffa",
+        "damage": 200
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan's Radiant Alakazam was switched with 0512SmileMan's Regidrago VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 3,
+        "raw": "• Basic Grass Energy, Great Ball, Poppy, Earthen Vessel, Energy Switch, Switch, Regidrago VSTAR"
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan's Regidrago VSTAR was switched with 0512SmileMan's Radiant Alakazam to become the Active Pokémon."
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Regidrago VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan discarded Regidrago VSTAR."
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan drew Hisuian Goodra VSTAR."
+      },
+      {
+        "turn": 3,
+        "attack": "Apex Dragon",
+        "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on Wonderful_cape’s Dipplin for 200 damage.",
+        "target": "Wonderful_cape’s Dipplin",
+        "damage": 200
+      },
+      {
+        "turn": 4,
+        "raw": "• Ultra Ball, Basic Fire Energy, Hisuian Goodra VSTAR, Poppy, Teal Mask Ogerpon ex, Professor's Research"
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

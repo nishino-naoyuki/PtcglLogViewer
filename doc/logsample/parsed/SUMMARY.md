@@ -1,0 +1,82 @@
+# logsample parsed summary
+
+Parsed files: 78
+
+- ガオガエン　イサハ.txt → doc/logsample/parsed/ガオガエン_イサハ.txt.json — players: 0512SmileMan, FongChiLik, - FongChiLik — turns: 17
+- ガオガエン　レジドラゴやけど.txt → doc/logsample/parsed/ガオガエン_レジドラゴやけど.txt.json — players: Revengè, 0512SmileMan — turns: 9
+- ガケガニ.txt → doc/logsample/parsed/ガケガニ.txt.json — players: 0512SmileMan, Fffantasia — turns: 14
+- コイン投げる前に相手降参.txt → doc/logsample/parsed/コイン投げる前に相手降参.txt.json — players: unknown — turns: 0
+- サーナイト　タケルライコ　津田先生.txt → doc/logsample/parsed/サーナイト_タケルライコ_津田先生.txt.json — players: hiroshired, 0512SmileMan, - 0512SmileMan — turns: 12
+- ドラパルト　おまつり.txt → doc/logsample/parsed/ドラパルト_おまつり.txt.json — players: Joaorocio7, 0512SmileMan, - 0512SmileMan — turns: 12
+- ドラパルト　めたぐろすー.txt → doc/logsample/parsed/ドラパルト_めたぐろすー.txt.json — players: Gundalf888, 0512SmileMan, - Gundalf888 — turns: 12
+- ドラパルト　アルギラ.txt → doc/logsample/parsed/ドラパルト_アルギラ.txt.json — players: Gyocchan, 0512SmileMan, - 0512SmileMan — turns: 17
+- ドラパルト　アルセウス.txt → doc/logsample/parsed/ドラパルト_アルセウス.txt.json — players: 0512SmileMan, Ferayer — turns: 10
+- ドラパルト　アルセウス　相手校さん.txt → doc/logsample/parsed/ドラパルト_アルセウス_相手校さん.txt.json — players: 0512SmileMan, Hollow684, - 0512SmileMan — turns: 9
+- ドラパルト　イイネイヌ.txt → doc/logsample/parsed/ドラパルト_イイネイヌ.txt.json — players: 0512SmileMan, Johnnymagicmon, - Johnnymagicmon — turns: 9
+- ドラパルト　イサハ.txt → doc/logsample/parsed/ドラパルト_イサハ.txt.json — players: V2M707, 0512SmileMan, - 0512SmileMan — turns: 13
+- ドラパルト　イダイナキバLOmake .txt → doc/logsample/parsed/ドラパルト_イダイナキバLOmake_.txt.json — players: 0512SmileMan, Towo213 — turns: 11
+- ドラパルト　エンテイ.txt → doc/logsample/parsed/ドラパルト_エンテイ.txt.json — players: 0512SmileMan, monogatari_, - 0512SmileMan — turns: 8
+- ドラパルト　エンテイ2.txt → doc/logsample/parsed/ドラパルト_エンテイ2.txt.json — players: 0512SmileMan, tokakuOvO — turns: 10
+- ドラパルト　オーダイル.txt → doc/logsample/parsed/ドラパルト_オーダイル.txt.json — players: 0512SmileMan, Pixtoxenemus, - 0512SmileMan — turns: 8
+- ドラパルト　サーナイト.txt → doc/logsample/parsed/ドラパルト_サーナイト.txt.json — players: 0512SmileMan, ogushin112, - ogushin112 — turns: 10
+- ドラパルト　サーナイト5 - コピー.txt → doc/logsample/parsed/ドラパルト_サーナイト5_-_コピー.txt.json — players: 0512SmileMan, itsleofeo, - itsleofeo — turns: 11
+- ドラパルト　サーナイト5.txt → doc/logsample/parsed/ドラパルト_サーナイト5.txt.json — players: HiKatz, 0512SmileMan — turns: 15
+- ドラパルト　サーナイト２ー.txt → doc/logsample/parsed/ドラパルト_サーナイト２ー.txt.json — players: hachi88228, 0512SmileMan, - hachi88228 — turns: 11
+- ドラパルト　サーナイト２相手降参.txt → doc/logsample/parsed/ドラパルト_サーナイト２相手降参.txt.json — players: 6890infernape, 0512SmileMan — turns: 7
+- ドラパルト　サーナイト３.txt → doc/logsample/parsed/ドラパルト_サーナイト３.txt.json — players: 0512SmileMan, rhetttt — turns: 8
+- ドラパルト　サーナイト４.txt → doc/logsample/parsed/ドラパルト_サーナイト４.txt.json — players: su-ke, 0512SmileMan — turns: 10
+- ドラパルト　サーナイト６.txt → doc/logsample/parsed/ドラパルト_サーナイト６.txt.json — players: Chef_K, 0512SmileMan, - 0512SmileMan — turns: 9
+- ドラパルト　タケルライコ (2) - コピー.txt → doc/logsample/parsed/ドラパルト_タケルライコ_(2)_-_コピー.txt.json — players: Cymzz666, 0512SmileMan — turns: 10
+- ドラパルト　タケルライコ (2).txt → doc/logsample/parsed/ドラパルト_タケルライコ_(2).txt.json — players: 0512SmileMan, Lmanuel — turns: 11
+- ドラパルト　タケルライコ - コピー (2).txt → doc/logsample/parsed/ドラパルト_タケルライコ_-_コピー_(2).txt.json — players: 0512SmileMan, meiom, - 0512SmileMan — turns: 10
+- ドラパルト　タケルライコ - コピー.txt → doc/logsample/parsed/ドラパルト_タケルライコ_-_コピー.txt.json — players: hiroshired, 0512SmileMan — turns: 4
+- ドラパルト　タケルライコ -逆転勝ち.txt → doc/logsample/parsed/ドラパルト_タケルライコ_-逆転勝ち.txt.json — players: FabioDrago89, 0512SmileMan — turns: 11
+- ドラパルト　タケルライコ free.txt → doc/logsample/parsed/ドラパルト_タケルライコ_free.txt.json — players: 0512SmileMan, AndyLIT — turns: 8
+- ドラパルト　タケルライコ vs津田.txt → doc/logsample/parsed/ドラパルト_タケルライコ_vs津田.txt.json — players: 0512SmileMan, hiroshired — turns: 9
+- ドラパルト　タケルライコ 勝ち - コピー.txt → doc/logsample/parsed/ドラパルト_タケルライコ_勝ち_-_コピー.txt.json — players: Chaseybaby84, 0512SmileMan — turns: 8
+- ドラパルト　タケルライコ 勝ち.txt → doc/logsample/parsed/ドラパルト_タケルライコ_勝ち.txt.json — players: 0512SmileMan, Shadowvincents — turns: 7
+- ドラパルト　タケルライコ 津田先生.txt → doc/logsample/parsed/ドラパルト_タケルライコ_津田先生.txt.json — players: hiroshired, 0512SmileMan, - 0512SmileMan — turns: 12
+- ドラパルト　タケルライコ.txt → doc/logsample/parsed/ドラパルト_タケルライコ.txt.json — players: 0512SmileMan, Adminyxz, - Adminyxz — turns: 14
+- ドラパルト　テツノイサハ.txt → doc/logsample/parsed/ドラパルト_テツノイサハ.txt.json — players: Kowalski4242, 0512SmileMan, - 0512SmileMan — turns: 10
+- ドラパルト　ハピナス.txt → doc/logsample/parsed/ドラパルト_ハピナス.txt.json — players: Pokesisters843, 0512SmileMan, - 0512SmileMan — turns: 19
+- ドラパルト　ハピナス3.txt → doc/logsample/parsed/ドラパルト_ハピナス3.txt.json — players: 0512SmileMan, Civokenes, - 0512SmileMan — turns: 14
+- ドラパルト　ハピナス２.txt → doc/logsample/parsed/ドラパルト_ハピナス２.txt.json — players: aman460, 0512SmileMan — turns: 12
+- ドラパルト　バチンキ.txt → doc/logsample/parsed/ドラパルト_バチンキ.txt.json — players: 0512SmileMan, Ahinato55 — turns: 9
+- ドラパルト　パオジアン.txt → doc/logsample/parsed/ドラパルト_パオジアン.txt.json — players: SimiKoto, 0512SmileMan — turns: 4
+- ドラパルト　ヒラヒナ相手種切れ.txt → doc/logsample/parsed/ドラパルト_ヒラヒナ相手種切れ.txt.json — players: JohnnyEm56, 0512SmileMan — turns: 3
+- ドラパルト　ミライドン.txt → doc/logsample/parsed/ドラパルト_ミライドン.txt.json — players: Soero, 0512SmileMan — turns: 11
+- ドラパルト　ミラー.txt → doc/logsample/parsed/ドラパルト_ミラー.txt.json — players: MrJiangNan, 0512SmileMan, - 0512SmileMan — turns: 4
+- ドラパルト　ユキメノコ.txt → doc/logsample/parsed/ドラパルト_ユキメノコ.txt.json — players: 0512SmileMan, patchgi_us — turns: 11
+- ドラパルト　リザ.txt → doc/logsample/parsed/ドラパルト_リザ.txt.json — players: theloniusmonk, 0512SmileMan — turns: 13
+- ドラパルト　リザ　でぼ.txt → doc/logsample/parsed/ドラパルト_リザ_でぼ.txt.json — players: Gundalf888, 0512SmileMan, - Gundalf888 — turns: 12
+- ドラパルト　リザードン (2).txt → doc/logsample/parsed/ドラパルト_リザードン_(2).txt.json — players: 0512SmileMan, Rijik_sihab, - 0512SmileMan — turns: 13
+- ドラパルト　リザードン.txt → doc/logsample/parsed/ドラパルト_リザードン.txt.json — players: 0512SmileMan, Lmanuel — turns: 11
+- ドラパルト　ルギア (2).txt → doc/logsample/parsed/ドラパルト_ルギア_(2).txt.json — players: 0512SmileMan, J4ger — turns: 12
+- ドラパルト　ルギア - コピー.txt → doc/logsample/parsed/ドラパルト_ルギア_-_コピー.txt.json — players: 0512SmileMan, DrLigmaa — turns: 9
+- ドラパルト　ルギア.txt → doc/logsample/parsed/ドラパルト_ルギア.txt.json — players: 0512SmileMan, Jinorino — turns: 11
+- ドラパルト　ルギアお互い事故.txt → doc/logsample/parsed/ドラパルト_ルギアお互い事故.txt.json — players: 0512SmileMan, TTT_Lv100 — turns: 3
+- ドラパルト　ルギア負け.txt → doc/logsample/parsed/ドラパルト_ルギア負け.txt.json — players: 0512SmileMan, SaurusHaineko, - 0512SmileMan — turns: 9
+- ドラパルト　ルギア負けー.txt → doc/logsample/parsed/ドラパルト_ルギア負けー.txt.json — players: 0512SmileMan, WhiteFlame0069 — turns: 15
+- ドラパルト　レジドラゴ.txt → doc/logsample/parsed/ドラパルト_レジドラゴ.txt.json — players: pokesaka1313, 0512SmileMan, - pokesaka1313 — turns: 7
+- ドラパルト　ロスギラ.txt → doc/logsample/parsed/ドラパルト_ロスギラ.txt.json — players: Obsetileo, 0512SmileMan, - 0512SmileMan — turns: 7
+- ドラパルト　ロストドラパルト相手降参.txt → doc/logsample/parsed/ドラパルト_ロストドラパルト相手降参.txt.json — players: 0512SmileMan, zun-sugi-1216 — turns: 9
+- ドラパルト　ロスト相手事故.txt → doc/logsample/parsed/ドラパルト_ロスト相手事故.txt.json — players: 0512SmileMan, Cloudy_Noir — turns: 4
+- ドラパルト　変則サーナイト.txt → doc/logsample/parsed/ドラパルト_変則サーナイト.txt.json — players: 0512SmileMan, AbuelitoH — turns: 16
+- ドラパルト　目の子.txt → doc/logsample/parsed/ドラパルト_目の子.txt.json — players: BrHueHueHue, 0512SmileMan — turns: 9
+- ドラパルト　緑の仮面.txt → doc/logsample/parsed/ドラパルト_緑の仮面.txt.json — players: volleydvd, 0512SmileMan — turns: 7
+- ドラパルト　自分降参.txt → doc/logsample/parsed/ドラパルト_自分降参.txt.json — players: 0512SmileMan, BeeSting_Racing, - BeeSting_Racing — turns: 5
+- ドラパルト　鋼過多.txt → doc/logsample/parsed/ドラパルト_鋼過多.txt.json — players: tate1108, 0512SmileMan, - 0512SmileMan — turns: 8
+- ドラパルトあまー所相手降参.txt → doc/logsample/parsed/ドラパルトあまー所相手降参.txt.json — players: Orz_Zong, 0512SmileMan, - 0512SmileMan — turns: 4
+- ドラパルトでかぬちゃん.txt → doc/logsample/parsed/ドラパルトでかぬちゃん.txt.json — players: ButterfreeGX, 0512SmileMan — turns: 12
+- ドラパルトミラー2.txt → doc/logsample/parsed/ドラパルトミラー2.txt.json — players: Doravimon, 0512SmileMan — turns: 6
+- ドラパルトミラー　相手時間切れ.txt → doc/logsample/parsed/ドラパルトミラー_相手時間切れ.txt.json — players: 4theW, 0512SmileMan, - 4theW — turns: 9
+- レジドラゴ　らいこぽん.txt → doc/logsample/parsed/レジドラゴ_らいこぽん.txt.json — players: powarup, 0512SmileMan, - 0512SmileMan — turns: 19
+- レジドラゴ　パオジアン (2).txt → doc/logsample/parsed/レジドラゴ_パオジアン_(2).txt.json — players: 0512SmileMan, akira130, - akira130 — turns: 4
+- レジドラゴ　パオジアン.txt → doc/logsample/parsed/レジドラゴ_パオジアン.txt.json — players: goodboyyuyu, 0512SmileMan — turns: 6
+- レジドラゴおまつりおんど.txt → doc/logsample/parsed/レジドラゴおまつりおんど.txt.json — players: 0512SmileMan, Wonderful_cape, - — turns: 7
+- レジドラゴロスト.txt → doc/logsample/parsed/レジドラゴロスト.txt.json — players: 0512SmileMan, kiwi20230529 — turns: 7
+- レジドラゴロトム.txt → doc/logsample/parsed/レジドラゴロトム.txt.json — players: 0512SmileMan, Wonderful_cape, - — turns: 7
+- レジドラゴ未来バレット.txt → doc/logsample/parsed/レジドラゴ未来バレット.txt.json — players: 100nadzmi, 0512SmileMan, - 0512SmileMan — turns: 7
+- ローブシン.txt → doc/logsample/parsed/ローブシン.txt.json — players: 0512SmileMan, NeonShark27 — turns: 14
+- 山札切れ.txt → doc/logsample/parsed/山札切れ.txt.json — players: 0512SmileMan, MNK12345 — turns: 12
+- 相手がすぐに降参.txt → doc/logsample/parsed/相手がすぐに降参.txt.json — players: 0512SmileMan, XxDemonkiller, - 0512SmileMan — turns: 1

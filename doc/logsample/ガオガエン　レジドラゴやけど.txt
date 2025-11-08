@@ -1,0 +1,196 @@
+Setup
+Revengè chose heads for the opening coin flip.
+Revengè won the coin toss.
+0512SmileMan decided to go second.
+Revengè drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Nest Ball, Arven, Switch, Hero's Cape, Basic Fire Energy, Basic Fire Energy, Litten
+Revengè played Teal Mask Ogerpon ex to the Active Spot.
+0512SmileMan played Litten to the Active Spot.
+
+Turn # 1 - Revengè's Turn
+Revengè drew a card.
+Revengè ended their turn.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Buddy-Buddy Poffin.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Charcadet, Litten
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Litten and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Hisuian Heavy Ball, Technical Machine: Evolution
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Hisuian Heavy Ball.
+- 0512SmileMan moved 0512SmileMan's Radiant Greninja to their hand.
+- 0512SmileMan moved 0512SmileMan's Hisuian Heavy Ball to the Prize cards.
+- 0512SmileMan shuffled their Prize cards.
+0512SmileMan played Radiant Greninja to the Bench.
+0512SmileMan's Radiant Greninja used Concealed Cards.
+- 0512SmileMan discarded Basic Fire Energy.
+- 0512SmileMan drew 2 cards.
+   • Torracat, Buddy-Buddy Poffin
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew Charcadet and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Technical Machine: Evolution to Litten in the Active Spot.
+0512SmileMan attached Basic Fire Energy to Litten in the Active Spot.
+0512SmileMan's Litten used Evolution.
+- 0512SmileMan evolved Litten to Torracat on the Bench.
+- 0512SmileMan evolved Charcadet to Armarouge on the Bench.
+- 0512SmileMan shuffled their deck.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 0512SmileMan's Litten.
+
+Turn # 2 - Revengè's Turn
+Revengè drew a card.
+Revengè played Iono.
+- Revengè shuffled their hand.
+- Revengè put 7 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 3 cards on the bottom of their deck.
+   • Torracat, Hero's Cape, Switch
+- Revengè drew 6 cards.
+- 0512SmileMan drew 6 cards.
+   • Delphox V, Arven, Earthen Vessel, Magma Basin, Iono, Arven
+Revengè's Teal Mask Ogerpon ex used Teal Dance.
+- Revengè attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.
+- Revengè drew a card.
+Revengè played Teal Mask Ogerpon ex to the Bench.
+Revengè's Teal Mask Ogerpon ex used Teal Dance.
+- Revengè attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- Revengè drew a card.
+Revengè ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Magma Basin.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Delphox V.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Fire Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Radiant Greninja used Concealed Cards.
+- 0512SmileMan discarded Basic Fire Energy.
+- 0512SmileMan drew 2 cards.
+   • Armarouge, Boss's Orders
+0512SmileMan evolved Charcadet to Armarouge on the Bench.
+0512SmileMan attached Basic Fire Energy to Torracat on the Bench.
+0512SmileMan played Magma Basin to the Stadium spot.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 4 cards on the bottom of their deck.
+   • Arven, Boss's Orders, Magma Basin, Arven
+- Revengè shuffled their hand.
+- Revengè put 5 cards on the bottom of their deck.
+- 0512SmileMan drew 6 cards.
+   • Damage Pump, Basic Fire Energy, Basic Fire Energy, Counter Catcher, Earthen Vessel, Torracat
+- Revengè drew 6 cards.
+0512SmileMan evolved Litten to Torracat on the Bench.
+0512SmileMan played Magma Basin.
+- 0512SmileMan attached Basic Fire Energy to Armarouge on the Bench.
+- 0512SmileMan put 2 damage counters on 0512SmileMan's Armarouge.
+0512SmileMan's Litten used Gnaw on Revengè’s Teal Mask Ogerpon ex for 20 damage. Revengè's Teal Mask Ogerpon ex took 10 more damage because of Fire Weakness.
+
+Turn # 3 - Revengè's Turn
+Revengè drew a card.
+Revengè played Regidrago V to the Bench.
+Revengè played Professor's Research.
+- Revengè discarded 5 cards.
+   • Regidrago V, Dragapult ex, Iono, Superior Energy Retrieval, Mew ex
+- Revengè drew 7 cards.
+Revengè's Teal Mask Ogerpon ex used Teal Dance.
+- Revengè attached Basic Grass Energy to Teal Mask Ogerpon ex in the Active Spot.
+- Revengè drew a card.
+Revengè's Teal Mask Ogerpon ex used Teal Dance.
+- Revengè attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.
+- Revengè drew a card.
+Revengè played Ultra Ball.
+- Revengè discarded 2 cards.
+   • Dragapult ex, Dragonite
+- Revengè drew Regidrago VSTAR.
+- Revengè shuffled their deck.
+Revengè attached Basic Fire Energy to Regidrago V on the Bench.
+Revengè ended their turn.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Basic Fire Energy.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Counter Catcher.
+- 0512SmileMan drew 2 cards.
+   • Basic Fire Energy, Basic Fire Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Radiant Greninja used Concealed Cards.
+- 0512SmileMan discarded Basic Fire Energy.
+- 0512SmileMan drew 2 cards.
+   • Buddy-Buddy Poffin, Nest Ball
+0512SmileMan attached Basic Fire Energy to Litten in the Active Spot.
+0512SmileMan played Damage Pump.
+- 0512SmileMan moved 2 damage counters from 0512SmileMan's Armarouge to 0512SmileMan's Litten.
+0512SmileMan played Magma Basin.
+- 0512SmileMan attached Basic Fire Energy to Armarouge on the Bench.
+- 0512SmileMan put 2 damage counters on 0512SmileMan's Armarouge.
+0512SmileMan's Litten used Reprisal on Revengè’s Teal Mask Ogerpon ex for 80 damage. Revengè's Teal Mask Ogerpon ex took 40 more damage because of Fire Weakness.
+
+Turn # 4 - Revengè's Turn
+Revengè drew a card.
+Revengè evolved Regidrago V to Regidrago VSTAR on the Bench.
+Revengè's Regidrago VSTAR used Legacy Star.
+- Revengè moved Revengè's 7 cards to the discard pile.
+   • Nest Ball, Professor's Research, Energy Switch, Professor's Research, Basic Grass Energy, Teal Mask Ogerpon ex, Regidrago VSTAR
+- Revengè moved Revengè's Professor's Research to their hand.
+Revengè can no longer use VSTAR Powers.
+Revengè played Energy Switch.
+- Revengè attached Basic Grass Energy to Regidrago VSTAR on the Bench.
+Revengè played Professor's Research.
+- Revengè discarded 3 cards.
+   • Nest Ball, Nest Ball, Nest Ball
+- Revengè drew 7 cards.
+Revengè attached Basic Grass Energy to Regidrago VSTAR on the Bench.
+Revengè retreated Teal Mask Ogerpon ex to the Bench.
+- Basic Grass Energy was discarded from Revengè's Teal Mask Ogerpon ex.
+Revengè's Regidrago VSTAR is now in the Active Spot.
+Revengè played Super Rod.
+- Revengè shuffled 3 cards into their deck.
+   • Regidrago V, Regidrago VSTAR, Mew ex
+Revengè's Regidrago VSTAR used Apex Dragon on 0512SmileMan’s Litten for 200 damage.
+- Revengè chose Phantom Dive
+- Revengè put 5 damage counters on 0512SmileMan's Torracat.
+- Revengè put a damage counter on 0512SmileMan's Torracat.
+0512SmileMan's Litten was Knocked Out!
+- 2 cards were discarded from 0512SmileMan's Litten.
+   • Basic Fire Energy, Basic Fire Energy
+0512SmileMan's Armarouge is now in the Active Spot.
+Revengè took a Prize card.
+A card was added to Revengè's hand.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Magma Basin.
+0512SmileMan's Radiant Greninja used Concealed Cards.
+- 0512SmileMan discarded Basic Fire Energy.
+- 0512SmileMan drew 2 cards.
+   • Entei V, Magma Basin
+0512SmileMan played Entei V to the Bench.
+0512SmileMan attached Basic Fire Energy to Armarouge in the Active Spot.
+0512SmileMan's Armarouge used Fire Off.
+- 0512SmileMan attached Basic Fire Energy to Armarouge in the Active Spot.
+0512SmileMan played Magma Basin.
+- 0512SmileMan attached Basic Fire Energy to Armarouge on the Bench.
+- 0512SmileMan put 2 damage counters on 0512SmileMan's Armarouge.
+0512SmileMan's Armarouge used Flame Cannon on Revengè’s Regidrago VSTAR for 90 damage.
+- Revengè's Regidrago VSTAR is now Burned.
+
+Pokémon Checkup
+2 damage counters were placed on Revengè's Regidrago VSTAR for the Special Condition Burned.
+Revengè flipped a coin and it landed on heads.
+Revengè's Regidrago VSTAR is no longer Burned.
+
+Turn # 5 - Revengè's Turn
+Revengè drew a card.
+You conceded. Revengè wins.
+

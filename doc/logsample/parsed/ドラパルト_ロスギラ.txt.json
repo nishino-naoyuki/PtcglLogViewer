@@ -1,0 +1,1024 @@
+{
+  "file": "ドラパルト　ロスギラ.txt",
+  "players": [
+    "Obsetileo",
+    "0512SmileMan",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "Obsetileo chose heads for the opening coin flip.",
+    "Obsetileo won the coin toss.",
+    "0512SmileMan decided to go first.",
+    "Obsetileo drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Unfair Stamp, Drakloak, Rotom V, Dragapult ex, Forest Seal Stone, Rescue Board, Boss's Orders",
+    "Obsetileo took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Mirage Gate, Colress's Experiment, Basic Grass Energy, Giratina VSTAR, Pokégear 3.0, Nest Ball, Forest Seal Stone",
+    "0512SmileMan drew 1 more card because Obsetileo took at least 1 mulligan.",
+    "- 0512SmileMan drew Enhanced Hammer.",
+    "Obsetileo played Manaphy to the Active Spot.",
+    "0512SmileMan played Rotom V to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V in the Active Spot.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Super Rod, Buddy-Buddy Poffin, Dragapult ex",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Obsetileo",
+      "actions": [
+        {
+          "raw": "Obsetileo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Obsetileo played Colress's Experiment.",
+          "type": "play",
+          "card": "Colress's Experiment",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's 2 cards to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "• Rescue Board, Colress's Experiment",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Comfey, Comfey",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo attached Jet Energy to Comfey on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Comfey"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo's Comfey was switched with Obsetileo's Manaphy to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's Roxanne to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo played Radiant Greninja to the Bench.",
+          "type": "play",
+          "card": "Radiant Greninja",
+          "to": "Bench"
+        },
+        {
+          "raw": "Obsetileo retreated Comfey to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jet Energy was discarded from Obsetileo's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's Basic Psychic Energy to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo discarded Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Obsetileo played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo drew Giratina V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Obsetileo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo played Spiritomb to the Bench.",
+          "type": "play",
+          "card": "Spiritomb",
+          "to": "Bench"
+        },
+        {
+          "raw": "Obsetileo ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Obsetileo",
+      "actions": [
+        {
+          "raw": "Obsetileo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Obsetileo's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's Basic Water Energy to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo played Colress's Experiment.",
+          "type": "play",
+          "card": "Colress's Experiment",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's 2 cards to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Giratina VSTAR",
+          "type": "vstar",
+          "detail": "• Basic Grass Energy, Giratina VSTAR"
+        },
+        {
+          "raw": "Obsetileo's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Obsetileo evolved Giratina V to Giratina VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Giratina V",
+          "to": "Giratina VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Obsetileo played Mirage Gate.",
+          "type": "play",
+          "card": "Mirage Gate",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo attached Basic Psychic Energy to Giratina VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "- Obsetileo attached Basic Grass Energy to Giratina VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "- Obsetileo shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo attached Basic Psychic Energy to Giratina VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "Obsetileo played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo's Comfey was switched with Obsetileo's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's Comfey to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo played Switch Cart.",
+          "type": "play",
+          "card": "Switch Cart",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo's Giratina VSTAR was switched with Obsetileo's Comfey to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- Obsetileo's Giratina VSTAR was switched with Obsetileo's Comfey to become the Active Pokémon."
+        },
+        {
+          "raw": "Obsetileo's Giratina VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Obsetileo's Giratina VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "Obsetileo's Giratina VSTAR used Lost Impact on 0512SmileMan’s Rotom V for 280 damage.",
+          "type": "attack",
+          "attackerOwner": "Obsetileo",
+          "attacker": "Giratina VSTAR",
+          "attack": "Lost Impact",
+          "target": "0512SmileMan’s Rotom V",
+          "damage": 280
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's 2 cards to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Rotom V"
+        },
+        {
+          "raw": "Forest Seal Stone was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Obsetileo's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Obsetileo's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Hand Trimmer, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Hand Trimmer.",
+          "type": "play",
+          "card": "Hand Trimmer",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo discarded 5 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Giratina V, Giratina VSTAR, Hisuian Heavy Ball, Temple of Sinnoh, Forest Seal Stone",
+          "type": "vstar",
+          "detail": "• Giratina V, Giratina VSTAR, Hisuian Heavy Ball, Temple of Sinnoh, Forest Seal Stone"
+        },
+        {
+          "raw": "- 0512SmileMan discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dreepy, Dragapult ex, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Arven, Xatu, Natu, Boss's Orders, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Obsetileo’s Giratina VSTAR for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Obsetileo’s Giratina VSTAR",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on Obsetileo's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on Obsetileo's Comfey.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Obsetileo",
+      "actions": [
+        {
+          "raw": "Obsetileo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Obsetileo played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo's Comfey was switched with Obsetileo's Giratina VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- Obsetileo's Comfey was switched with Obsetileo's Giratina VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "Obsetileo's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's Maximum Belt to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- Obsetileo's Comfey was switched with Obsetileo's Comfey to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey used Flower Selecting.",
+          "type": "other"
+        },
+        {
+          "raw": "- Obsetileo drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Obsetileo moved Obsetileo's Sableye to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Manaphy was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Drakloak, Drakloak",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Hisuian Heavy Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Hisuian Heavy Ball.",
+          "type": "play",
+          "card": "Hisuian Heavy Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Radiant Alakazam to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Hisuian Heavy Ball to the Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Manaphy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan retreated Manaphy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved a damage counter from Obsetileo's Comfey to Obsetileo's Giratina VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan moved a damage counter from Obsetileo's Comfey to Obsetileo's Giratina VSTAR."
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Obsetileo’s Comfey for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Obsetileo’s Comfey",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 4 damage counters on Obsetileo's Giratina VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan put 4 damage counters on Obsetileo's Giratina VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on Obsetileo's Comfey.",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey was Knocked Out!",
+          "type": "knockout",
+          "target": "Obsetileo's Comfey"
+        },
+        {
+          "raw": "Obsetileo's Giratina VSTAR was Knocked Out!",
+          "type": "knockout",
+          "target": "Obsetileo's Giratina VSTAR"
+        },
+        {
+          "raw": "- 2 cards were discarded from Obsetileo's Giratina VSTAR.",
+          "type": "vstar",
+          "detail": "- 2 cards were discarded from Obsetileo's Giratina VSTAR."
+        },
+        {
+          "raw": "• Basic Psychic Energy, Giratina V",
+          "type": "other"
+        },
+        {
+          "raw": "Obsetileo's Comfey was Knocked Out!",
+          "type": "knockout",
+          "target": "Obsetileo's Comfey"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 7,
+    "players": [
+      "Obsetileo",
+      "0512SmileMan",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Rotom V was Knocked Out!",
+        "target": "0512SmileMan's Rotom V"
+      },
+      {
+        "turn": 4,
+        "raw": "Obsetileo's Comfey was Knocked Out!",
+        "target": "Obsetileo's Comfey"
+      },
+      {
+        "turn": 4,
+        "raw": "Obsetileo's Giratina VSTAR was Knocked Out!",
+        "target": "Obsetileo's Giratina VSTAR"
+      },
+      {
+        "turn": 4,
+        "raw": "Obsetileo's Comfey was Knocked Out!",
+        "target": "Obsetileo's Comfey"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 1,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "raw": "• Basic Grass Energy, Giratina VSTAR"
+      },
+      {
+        "turn": 2,
+        "raw": "- Obsetileo's Giratina VSTAR was switched with Obsetileo's Comfey to become the Active Pokémon."
+      },
+      {
+        "turn": 2,
+        "raw": "Obsetileo's Giratina VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 2,
+        "attack": "Lost Impact",
+        "raw": "Obsetileo's Giratina VSTAR used Lost Impact on 0512SmileMan’s Rotom V for 280 damage.",
+        "target": "0512SmileMan’s Rotom V",
+        "damage": 280
+      },
+      {
+        "turn": 3,
+        "raw": "• Giratina V, Giratina VSTAR, Hisuian Heavy Ball, Temple of Sinnoh, Forest Seal Stone"
+      },
+      {
+        "turn": 3,
+        "attack": "Phantom Dive",
+        "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Obsetileo’s Giratina VSTAR for 230 damage.",
+        "target": "Obsetileo’s Giratina VSTAR",
+        "damage": 230
+      },
+      {
+        "turn": 3,
+        "raw": "- Obsetileo's Comfey was switched with Obsetileo's Giratina VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 4,
+        "raw": "- 0512SmileMan moved a damage counter from Obsetileo's Comfey to Obsetileo's Giratina VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "- 0512SmileMan put 4 damage counters on Obsetileo's Giratina VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "- 2 cards were discarded from Obsetileo's Giratina VSTAR."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Obsetileo",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

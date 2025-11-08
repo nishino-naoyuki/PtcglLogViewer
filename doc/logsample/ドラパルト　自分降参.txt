@@ -1,0 +1,88 @@
+Setup
+0512SmileMan chose heads for the opening coin flip.
+0512SmileMan won the coin toss.
+0512SmileMan decided to go first.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Basic Psychic Energy, Ultra Ball, Arven, Dragapult ex, Drakloak, Forest Seal Stone, Counter Catcher
+BeeSting_Racing drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan took a mulligan.
+- Cards revealed from Mulligan 1
+   • Basic Psychic Energy, Ultra Ball, Arven, Dragapult ex, Drakloak, Forest Seal Stone, Counter Catcher
+0512SmileMan took 2 mulligans.
+- Cards revealed from Mulligan 2
+   • Boss's Orders, Nest Ball, Rescue Board, Rare Candy, Earthen Vessel, Iono, Jamming Tower
+BeeSting_Racing drew 2 more cards because 0512SmileMan took at least 1 mulligan.
+- BeeSting_Racing drew 2 cards.
+0512SmileMan played Radiant Alakazam to the Active Spot.
+BeeSting_Racing played Klefki to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Xatu.
+0512SmileMan attached Basic Psychic Energy to Radiant Alakazam in the Active Spot.
+0512SmileMan ended their turn.
+
+Turn # 1 - BeeSting_Racing's Turn
+BeeSting_Racing drew a card.
+BeeSting_Racing played Buddy-Buddy Poffin.
+- BeeSting_Racing drew 2 cards and played them to the Bench.
+   • Froakie, Cleffa
+- BeeSting_Racing shuffled their deck.
+BeeSting_Racing played Buddy-Buddy Poffin.
+- BeeSting_Racing drew 2 cards and played them to the Bench.
+   • Froakie, Manaphy
+- BeeSting_Racing shuffled their deck.
+BeeSting_Racing played Giovanni's Charisma.
+- 0512SmileMan moved 0512SmileMan's Basic Psychic Energy to their hand.
+- BeeSting_Racing attached Boomerang Energy to Klefki in the Active Spot.
+BeeSting_Racing played Earthen Vessel.
+- BeeSting_Racing discarded Boomerang Energy.
+- BeeSting_Racing drew 2 cards.
+   • Basic Water Energy, Basic Water Energy
+- BeeSting_Racing shuffled their deck.
+BeeSting_Racing attached Basic Water Energy to Froakie on the Bench.
+BeeSting_Racing retreated Klefki to the Bench.
+- Boomerang Energy was discarded from BeeSting_Racing's Klefki.
+BeeSting_Racing's Cleffa is now in the Active Spot.
+BeeSting_Racing's Cleffa used Grasping Draw.
+- BeeSting_Racing drew 3 cards.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Natu.
+0512SmileMan played Natu to the Bench.
+0512SmileMan played Boss's Orders.
+- BeeSting_Racing's Manaphy was switched with BeeSting_Racing's Cleffa to become the Active Pokémon.
+BeeSting_Racing's Manaphy is now in the Active Spot.
+0512SmileMan attached Basic Psychic Energy to Radiant Alakazam in the Active Spot.
+0512SmileMan ended their turn.
+
+Turn # 2 - BeeSting_Racing's Turn
+BeeSting_Racing drew a card.
+BeeSting_Racing played Arven.
+- BeeSting_Racing drew 2 cards.
+   • Rare Candy, Handheld Fan
+- BeeSting_Racing shuffled their deck.
+BeeSting_Racing played Energy Loto.
+- BeeSting_Racing drew Double Turbo Energy.
+- BeeSting_Racing shuffled their deck.
+BeeSting_Racing played Rare Candy.
+- BeeSting_Racing evolved Froakie to Greninja ex on the Bench.
+BeeSting_Racing attached Handheld Fan to Greninja ex on the Bench.
+BeeSting_Racing attached Boomerang Energy to Manaphy in the Active Spot.
+BeeSting_Racing retreated Manaphy to the Bench.
+- Boomerang Energy was discarded from BeeSting_Racing's Manaphy.
+BeeSting_Racing's Greninja ex is now in the Active Spot.
+BeeSting_Racing's Greninja ex used Shinobi Blade on 0512SmileMan’s Radiant Alakazam for 140 damage. 0512SmileMan's Radiant Alakazam took 30 less damage because of Fighting Resistance.
+- BeeSting_Racing drew a card.
+- BeeSting_Racing shuffled their deck.
+0512SmileMan's Radiant Alakazam was Knocked Out!
+Basic Psychic Energy was discarded from 0512SmileMan's Radiant Alakazam.
+0512SmileMan's Natu is now in the Active Spot.
+BeeSting_Racing took a Prize card.
+A card was added to BeeSting_Racing's hand.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Drakloak.
+You conceded. BeeSting_Racing wins.
+

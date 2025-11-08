@@ -1,0 +1,1160 @@
+{
+  "file": "ドラパルト　ルギア負け.txt",
+  "players": [
+    "0512SmileMan",
+    "SaurusHaineko",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "SaurusHaineko won the coin toss.",
+    "SaurusHaineko decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Basic Psychic Energy, Manaphy, Iono, Super Rod, Forest Seal Stone, Drakloak, Nest Ball",
+    "SaurusHaineko drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "SaurusHaineko took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Carmine, Ultra Ball, Cinccino, Carmine, Mist Energy, Archeops, Carmine",
+    "0512SmileMan drew 1 more card because SaurusHaineko took at least 1 mulligan.",
+    "- 0512SmileMan drew Dragapult ex.",
+    "0512SmileMan played Manaphy to the Active Spot.",
+    "SaurusHaineko played Minccino to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "SaurusHaineko",
+      "actions": [
+        {
+          "raw": "SaurusHaineko drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "SaurusHaineko played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- SaurusHaineko discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Archeops, Jet Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko drew Lumineon V.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko played Lugia V to the Bench.",
+          "type": "play",
+          "card": "Lugia V",
+          "to": "Bench"
+        },
+        {
+          "raw": "SaurusHaineko played Lumineon V to the Bench.",
+          "type": "play",
+          "card": "Lumineon V",
+          "to": "Bench"
+        },
+        {
+          "raw": "SaurusHaineko's Lumineon V used Luminous Sign.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko attached Jet Energy to Lugia V on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Lugia V"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko's Lugia V was switched with SaurusHaineko's Minccino to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko's Lugia V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Drakloak, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Nest Ball, Ultra Ball, Rescue Board, Buddy-Buddy Poffin, Technical Machine: Devolution, Collapsed Stadium",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Rare Candy, Arven, Xatu",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "SaurusHaineko",
+      "actions": [
+        {
+          "raw": "SaurusHaineko drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "SaurusHaineko played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- SaurusHaineko flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- SaurusHaineko drew Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- SaurusHaineko drew Lugia VSTAR."
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- SaurusHaineko drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko evolved Lugia V to Lugia VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Lugia V",
+          "to": "Lugia VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "SaurusHaineko attached Gift Energy to Lugia VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "SaurusHaineko played Carmine.",
+          "type": "play",
+          "card": "Carmine",
+          "to": null
+        },
+        {
+          "raw": "- SaurusHaineko discarded 4 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lugia VSTAR, V Guard Energy, Archeops, Archeops",
+          "type": "vstar",
+          "detail": "• Lugia VSTAR, V Guard Energy, Archeops, Archeops"
+        },
+        {
+          "raw": "- SaurusHaineko drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "SaurusHaineko played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- SaurusHaineko discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lake Acuity, Double Turbo Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko drew Cinccino.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko evolved Minccino to Cinccino on the Bench.",
+          "type": "evolve",
+          "from": "Minccino",
+          "to": "Cinccino"
+        },
+        {
+          "raw": "SaurusHaineko's Lugia VSTAR used Summoning Star.",
+          "type": "vstar",
+          "detail": "SaurusHaineko's Lugia VSTAR used Summoning Star."
+        },
+        {
+          "raw": "- SaurusHaineko drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Archeops, Archeops",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "SaurusHaineko can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "SaurusHaineko's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko attached Mist Energy to Cinccino on the Bench.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- SaurusHaineko attached Gift Energy to Cinccino on the Bench.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko attached Double Turbo Energy to Lugia VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Manaphy for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "SaurusHaineko",
+          "attacker": "Lugia VSTAR",
+          "attack": "Tempest Dive",
+          "target": "0512SmileMan’s Manaphy",
+          "damage": 200
+        },
+        {
+          "raw": "0512SmileMan's Manaphy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Manaphy"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to SaurusHaineko's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Technical Machine: Devolution, Xatu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Counter Catcher, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Technical Machine: Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- SaurusHaineko's Archeops was switched with SaurusHaineko's Lugia VSTAR to become the Active Pokémon.",
+          "type": "vstar",
+          "detail": "- SaurusHaineko's Archeops was switched with SaurusHaineko's Lugia VSTAR to become the Active Pokémon."
+        },
+        {
+          "raw": "SaurusHaineko's Archeops is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on SaurusHaineko’s Archeops for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "SaurusHaineko’s Archeops",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on SaurusHaineko's Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko's Archeops was Knocked Out!",
+          "type": "knockout",
+          "target": "SaurusHaineko's Archeops"
+        },
+        {
+          "raw": "SaurusHaineko's Cinccino is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Natu was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "SaurusHaineko",
+      "actions": [
+        {
+          "raw": "SaurusHaineko drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "SaurusHaineko attached Gift Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "SaurusHaineko's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko attached Jet Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- SaurusHaineko attached Jet Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko played Minccino to the Bench.",
+          "type": "play",
+          "card": "Minccino",
+          "to": "Bench"
+        },
+        {
+          "raw": "SaurusHaineko's Cinccino used Special Roll on 0512SmileMan’s Dragapult ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "SaurusHaineko",
+          "attacker": "Cinccino",
+          "attack": "Special Roll",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 350
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to SaurusHaineko's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to SaurusHaineko's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Unfair Stamp, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Collapsed Stadium",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko moved SaurusHaineko's 4 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Basic Fire Energy, Ultra Ball, Basic Fire Energy, Buddy-Buddy Poffin, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan retreated Dreepy to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Iono, Arven, Iono",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "SaurusHaineko",
+      "actions": [
+        {
+          "raw": "SaurusHaineko drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "SaurusHaineko evolved Minccino to Cinccino on the Bench.",
+          "type": "evolve",
+          "from": "Minccino",
+          "to": "Cinccino"
+        },
+        {
+          "raw": "SaurusHaineko played Iron Hands ex to the Bench.",
+          "type": "play",
+          "card": "Iron Hands ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "SaurusHaineko's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko attached Legacy Energy to Iron Hands ex on the Bench.",
+          "type": "attach",
+          "energy": "Legacy Energy",
+          "target": "Iron Hands ex"
+        },
+        {
+          "raw": "- SaurusHaineko attached Mist Energy to Iron Hands ex on the Bench.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Iron Hands ex"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko retreated Cinccino to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Jet Energy was discarded from SaurusHaineko's Cinccino.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko's Lugia VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "SaurusHaineko's Lugia VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "SaurusHaineko's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Natu for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "SaurusHaineko",
+          "attacker": "Lugia VSTAR",
+          "attack": "Tempest Dive",
+          "target": "0512SmileMan’s Natu",
+          "damage": 200
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to SaurusHaineko's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Mist Energy was discarded from SaurusHaineko's Cinccino.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on SaurusHaineko’s Lugia VSTAR for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "SaurusHaineko’s Lugia VSTAR",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on SaurusHaineko's Archeops.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "SaurusHaineko",
+      "actions": [
+        {
+          "raw": "SaurusHaineko drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "SaurusHaineko retreated Lugia VSTAR to the Bench.",
+          "type": "vstar",
+          "detail": "SaurusHaineko retreated Lugia VSTAR to the Bench."
+        },
+        {
+          "raw": "- Double Turbo Energy was discarded from SaurusHaineko's Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- Double Turbo Energy was discarded from SaurusHaineko's Lugia VSTAR."
+        },
+        {
+          "raw": "SaurusHaineko's Cinccino is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- SaurusHaineko attached Gift Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- SaurusHaineko attached Mist Energy to Cinccino in the Active Spot.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Cinccino"
+        },
+        {
+          "raw": "- SaurusHaineko shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko's Cinccino used Special Roll on 0512SmileMan’s Dragapult ex for 350 damage.",
+          "type": "attack",
+          "attackerOwner": "SaurusHaineko",
+          "attacker": "Cinccino",
+          "attack": "Special Roll",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 350
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 5 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "SaurusHaineko took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to SaurusHaineko's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to SaurusHaineko's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. SaurusHaineko wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. SaurusHaineko wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "0512SmileMan",
+      "SaurusHaineko",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Manaphy was Knocked Out!",
+        "target": "0512SmileMan's Manaphy"
+      },
+      {
+        "turn": 2,
+        "raw": "SaurusHaineko's Archeops was Knocked Out!",
+        "target": "SaurusHaineko's Archeops"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "- SaurusHaineko drew Lugia VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "• Lugia VSTAR, V Guard Energy, Archeops, Archeops"
+      },
+      {
+        "turn": 2,
+        "raw": "SaurusHaineko's Lugia VSTAR used Summoning Star."
+      },
+      {
+        "turn": 2,
+        "raw": "SaurusHaineko can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "attack": "Tempest Dive",
+        "raw": "SaurusHaineko's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Manaphy for 200 damage.",
+        "target": "0512SmileMan’s Manaphy",
+        "damage": 200
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "raw": "- SaurusHaineko's Archeops was switched with SaurusHaineko's Lugia VSTAR to become the Active Pokémon."
+      },
+      {
+        "turn": 4,
+        "raw": "SaurusHaineko's Lugia VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 4,
+        "attack": "Tempest Dive",
+        "raw": "SaurusHaineko's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Natu for 200 damage.",
+        "target": "0512SmileMan’s Natu",
+        "damage": 200
+      },
+      {
+        "turn": 4,
+        "attack": "Phantom Dive",
+        "raw": "0512SmileMan's Dragapult ex used Phantom Dive on SaurusHaineko’s Lugia VSTAR for 230 damage.",
+        "target": "SaurusHaineko’s Lugia VSTAR",
+        "damage": 230
+      },
+      {
+        "turn": 5,
+        "raw": "SaurusHaineko retreated Lugia VSTAR to the Bench."
+      },
+      {
+        "turn": 5,
+        "raw": "- Double Turbo Energy was discarded from SaurusHaineko's Lugia VSTAR."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. SaurusHaineko",
+      "method": null,
+      "final_turn": 5
+    }
+  }
+}

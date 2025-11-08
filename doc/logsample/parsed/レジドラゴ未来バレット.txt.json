@@ -1,0 +1,1040 @@
+{
+  "file": "レジドラゴ未来バレット.txt",
+  "players": [
+    "100nadzmi",
+    "0512SmileMan",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "100nadzmi chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "100nadzmi decided to go second.",
+    "100nadzmi drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Radiant Alakazam, Regidrago VSTAR, Basic Grass Energy, Nest Ball, Regidrago V, Professor's Research, Basic Grass Energy",
+    "100nadzmi took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Techno Radar, Basic Psychic Energy, Nest Ball, Nest Ball, Future Booster Energy Capsule, Basic Psychic Energy, Arven",
+    "0512SmileMan drew 1 more card because 100nadzmi took at least 1 mulligan.",
+    "- 0512SmileMan drew Boss's Orders.",
+    "100nadzmi played Miraidon to the Active Spot.",
+    "0512SmileMan played Regidrago V to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Teal Mask Ogerpon ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Jamming Tower.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Grass Energy to Regidrago V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "100nadzmi",
+      "actions": [
+        {
+          "raw": "100nadzmi drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "100nadzmi played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 100nadzmi drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Techno Radar, Future Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "- 100nadzmi shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi played Techno Radar.",
+          "type": "play",
+          "card": "Techno Radar",
+          "to": null
+        },
+        {
+          "raw": "- 100nadzmi discarded Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "- 100nadzmi drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iron Valiant ex, Iron Crown ex",
+          "type": "other"
+        },
+        {
+          "raw": "- 100nadzmi shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi played Iron Crown ex to the Bench.",
+          "type": "play",
+          "card": "Iron Crown ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "100nadzmi played Iron Valiant ex to the Bench.",
+          "type": "play",
+          "card": "Iron Valiant ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "100nadzmi attached Basic Psychic Energy to Miraidon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Miraidon"
+        },
+        {
+          "raw": "100nadzmi attached Future Booster Energy Capsule to Miraidon in the Active Spot.",
+          "type": "attach",
+          "energy": "Future Booster Energy Capsule",
+          "target": "Miraidon"
+        },
+        {
+          "raw": "100nadzmi's Miraidon used Peak Acceleration on 0512SmileMan’s Regidrago V for 80 damage.",
+          "type": "attack",
+          "attackerOwner": "100nadzmi",
+          "attacker": "Miraidon",
+          "attack": "Peak Acceleration",
+          "target": "0512SmileMan’s Regidrago V",
+          "damage": 80
+        },
+        {
+          "raw": "- 100nadzmi attached Basic Psychic Energy to Iron Valiant ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Iron Valiant ex"
+        },
+        {
+          "raw": "- 100nadzmi attached Basic Psychic Energy to Iron Valiant ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Iron Valiant ex"
+        },
+        {
+          "raw": "- 100nadzmi shuffled their deck.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Regidrago V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Regidrago V to the Bench.",
+          "type": "play",
+          "card": "Regidrago V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Regidrago V to Regidrago VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Regidrago V",
+          "to": "Regidrago VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "0512SmileMan played Jamming Tower to the Stadium spot.",
+          "type": "play",
+          "card": "Jamming Tower",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Giratina VSTAR, Energy Switch, Mew ex, Basic Fire Energy, Energy Switch, Poppy, Energy Switch",
+          "type": "vstar",
+          "detail": "• Giratina VSTAR, Energy Switch, Mew ex, Basic Fire Energy, Energy Switch, Poppy, Energy Switch"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Regidrago VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Legacy Star.",
+          "type": "vstar",
+          "detail": "0512SmileMan's Regidrago VSTAR used Legacy Star."
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 7 cards to the discard pile.",
+          "type": "other"
+        },
+        {
+          "raw": "• Earthen Vessel, Basic Fire Energy, Regidrago VSTAR, Canceling Cologne, Superior Energy Retrieval, Nest Ball, Ultra Ball",
+          "type": "vstar",
+          "detail": "• Earthen Vessel, Basic Fire Energy, Regidrago VSTAR, Canceling Cologne, Superior Energy Retrieval, Nest Ball, Ultra Ball"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 2 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Giratina VSTAR, Poppy",
+          "type": "vstar",
+          "detail": "• Giratina VSTAR, Poppy"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Mew ex to the Bench.",
+          "type": "play",
+          "card": "Mew ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Regidrago VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on 100nadzmi’s Miraidon for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Regidrago VSTAR",
+          "attack": "Apex Dragon",
+          "target": "100nadzmi’s Miraidon",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan chose Phantom Dive",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on 100nadzmi's Iron Crown ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on 100nadzmi's Iron Valiant ex.",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi's Miraidon was Knocked Out!",
+          "type": "knockout",
+          "target": "100nadzmi's Miraidon"
+        },
+        {
+          "raw": "- 2 cards were discarded from 100nadzmi's Miraidon.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Future Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi's Iron Valiant ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Switch was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "100nadzmi",
+      "actions": [
+        {
+          "raw": "100nadzmi drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "100nadzmi attached Basic Psychic Energy to Iron Valiant ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Iron Valiant ex"
+        },
+        {
+          "raw": "100nadzmi played Techno Radar.",
+          "type": "play",
+          "card": "Techno Radar",
+          "to": null
+        },
+        {
+          "raw": "- 100nadzmi discarded Penny.",
+          "type": "other"
+        },
+        {
+          "raw": "- 100nadzmi drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Miraidon, Iron Crown ex",
+          "type": "other"
+        },
+        {
+          "raw": "- 100nadzmi shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi played Iron Crown ex to the Bench.",
+          "type": "play",
+          "card": "Iron Crown ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "100nadzmi played Miraidon to the Bench.",
+          "type": "play",
+          "card": "Miraidon",
+          "to": "Bench"
+        },
+        {
+          "raw": "100nadzmi played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 100nadzmi shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 100nadzmi put a card on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Energy Switch, Switch, Basic Grass Energy, Energy Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- 100nadzmi drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Basic Grass Energy, Earthen Vessel, Regidrago V, Ultra Ball, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi played Iron Valiant ex to the Bench.",
+          "type": "play",
+          "card": "Iron Valiant ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "100nadzmi's Iron Valiant ex used Laser Blade on 0512SmileMan’s Regidrago VSTAR for 240 damage.",
+          "type": "attack",
+          "attackerOwner": "100nadzmi",
+          "attacker": "Iron Valiant ex",
+          "attack": "Laser Blade",
+          "target": "0512SmileMan’s Regidrago VSTAR",
+          "damage": 240
+        },
+        {
+          "raw": "0512SmileMan's Regidrago VSTAR was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Regidrago VSTAR"
+        },
+        {
+          "raw": "- 4 cards were discarded from 0512SmileMan's Regidrago VSTAR.",
+          "type": "vstar",
+          "detail": "- 4 cards were discarded from 0512SmileMan's Regidrago VSTAR."
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Fire Energy, Basic Grass Energy, Regidrago V",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Mew ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to 100nadzmi's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to 100nadzmi's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Grass Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Regidrago V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Regidrago V"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Professor's Research.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Regidrago V to the Bench.",
+          "type": "play",
+          "card": "Regidrago V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Regidrago VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Regidrago VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Regidrago V to Regidrago VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Regidrago V",
+          "to": "Regidrago VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Energy Switch, Nest Ball, Iono, Basic Grass Energy, Great Ball, Professor's Research, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Great Ball.",
+          "type": "play",
+          "card": "Great Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Teal Mask Ogerpon ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Teal Mask Ogerpon ex to the Bench.",
+          "type": "play",
+          "card": "Teal Mask Ogerpon ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Great Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Energy Switch.",
+          "type": "play",
+          "card": "Energy Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Mew ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from 100nadzmi's Iron Valiant ex to 100nadzmi's Iron Valiant ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Myriad Leaf Shower on 100nadzmi’s Iron Valiant ex for 210 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Teal Mask Ogerpon ex",
+          "attack": "Myriad Leaf Shower",
+          "target": "100nadzmi’s Iron Valiant ex",
+          "damage": 210
+        },
+        {
+          "raw": "100nadzmi's Iron Valiant ex was Knocked Out!",
+          "type": "knockout",
+          "target": "100nadzmi's Iron Valiant ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 100nadzmi's Iron Valiant ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi's Miraidon is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Dragapult ex was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Superior Energy Retrieval was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "100nadzmi",
+      "actions": [
+        {
+          "raw": "100nadzmi drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "100nadzmi played Miraidon to the Bench.",
+          "type": "play",
+          "card": "Miraidon",
+          "to": "Bench"
+        },
+        {
+          "raw": "100nadzmi attached Basic Psychic Energy to Miraidon in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Miraidon"
+        },
+        {
+          "raw": "100nadzmi played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 100nadzmi drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Future Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "- 100nadzmi shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 100nadzmi drew Iron Crown ex and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 100nadzmi shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi's Miraidon used Peak Acceleration on 0512SmileMan’s Teal Mask Ogerpon ex for 100 damage.",
+          "type": "attack",
+          "attackerOwner": "100nadzmi",
+          "attacker": "Miraidon",
+          "attack": "Peak Acceleration",
+          "target": "0512SmileMan’s Teal Mask Ogerpon ex",
+          "damage": 100
+        },
+        {
+          "raw": "- 100nadzmi attached Basic Psychic Energy to Iron Valiant ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Iron Valiant ex"
+        },
+        {
+          "raw": "- 100nadzmi attached Basic Psychic Energy to Iron Valiant ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Iron Valiant ex"
+        },
+        {
+          "raw": "- 100nadzmi shuffled their deck.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Superior Energy Retrieval.",
+          "type": "play",
+          "card": "Superior Energy Retrieval",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 4 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Grass Energy, Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Teal Dance.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Grass Energy to Teal Mask Ogerpon ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Teal Mask Ogerpon ex"
+        },
+        {
+          "raw": "- 0512SmileMan drew Professor's Research.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Grass Energy to Regidrago VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Regidrago VSTAR"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor's Research, Great Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Hisuian Goodra VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan drew Hisuian Goodra VSTAR."
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 100nadzmi's Iron Valiant ex was switched with 100nadzmi's Miraidon to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "100nadzmi's Iron Valiant ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from 100nadzmi's Iron Crown ex to 100nadzmi's Iron Valiant ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Teal Mask Ogerpon ex used Myriad Leaf Shower on 100nadzmi’s Iron Valiant ex for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Teal Mask Ogerpon ex",
+          "attack": "Myriad Leaf Shower",
+          "target": "100nadzmi’s Iron Valiant ex",
+          "damage": 180
+        },
+        {
+          "raw": "100nadzmi's Iron Valiant ex was Knocked Out!",
+          "type": "knockout",
+          "target": "100nadzmi's Iron Valiant ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from 100nadzmi's Iron Valiant ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Grass Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Prime Catcher was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 7,
+    "players": [
+      "100nadzmi",
+      "0512SmileMan",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "100nadzmi's Miraidon was Knocked Out!",
+        "target": "100nadzmi's Miraidon"
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Regidrago VSTAR was Knocked Out!",
+        "target": "0512SmileMan's Regidrago VSTAR"
+      },
+      {
+        "turn": 3,
+        "raw": "100nadzmi's Iron Valiant ex was Knocked Out!",
+        "target": "100nadzmi's Iron Valiant ex"
+      },
+      {
+        "turn": 4,
+        "raw": "100nadzmi's Iron Valiant ex was Knocked Out!",
+        "target": "100nadzmi's Iron Valiant ex"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "• Giratina VSTAR, Energy Switch, Mew ex, Basic Fire Energy, Energy Switch, Poppy, Energy Switch"
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Regidrago VSTAR used Legacy Star."
+      },
+      {
+        "turn": 2,
+        "raw": "• Earthen Vessel, Basic Fire Energy, Regidrago VSTAR, Canceling Cologne, Superior Energy Retrieval, Nest Ball, Ultra Ball"
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 2,
+        "raw": "• Giratina VSTAR, Poppy"
+      },
+      {
+        "turn": 2,
+        "attack": "Apex Dragon",
+        "raw": "0512SmileMan's Regidrago VSTAR used Apex Dragon on 100nadzmi’s Miraidon for 200 damage.",
+        "target": "100nadzmi’s Miraidon",
+        "damage": 200
+      },
+      {
+        "turn": 2,
+        "attack": "Laser Blade",
+        "raw": "100nadzmi's Iron Valiant ex used Laser Blade on 0512SmileMan’s Regidrago VSTAR for 240 damage.",
+        "target": "0512SmileMan’s Regidrago VSTAR",
+        "damage": 240
+      },
+      {
+        "turn": 2,
+        "raw": "- 4 cards were discarded from 0512SmileMan's Regidrago VSTAR."
+      },
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan drew Regidrago VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "- 0512SmileMan drew Hisuian Goodra VSTAR."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "100nadzmi",
+      "method": "concession",
+      "final_turn": 4
+    }
+  }
+}

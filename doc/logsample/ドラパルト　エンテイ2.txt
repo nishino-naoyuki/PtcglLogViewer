@@ -1,0 +1,325 @@
+Setup
+0512SmileMan chose tails for the opening coin flip.
+tokakuOvO won the coin toss.
+tokakuOvO decided to go first.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Boss's Orders, Dreepy, Dragapult ex, Ultra Ball, Basic Psychic Energy, Radiant Alakazam, Buddy-Buddy Poffin
+tokakuOvO drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan played Dreepy to the Active Spot.
+tokakuOvO played Charcadet to the Active Spot.
+
+Turn # 1 - tokakuOvO's Turn
+tokakuOvO drew a card.
+tokakuOvO played Ultra Ball.
+- tokakuOvO discarded 2 cards.
+   • Basic Fire Energy, Basic Fire Energy
+- tokakuOvO drew Radiant Greninja.
+- tokakuOvO shuffled their deck.
+tokakuOvO played Radiant Greninja to the Bench.
+tokakuOvO's Radiant Greninja used Concealed Cards.
+- tokakuOvO discarded Basic Fire Energy.
+- tokakuOvO drew 2 cards.
+tokakuOvO played Charcadet to the Bench.
+tokakuOvO played Magma Basin to the Stadium spot.
+tokakuOvO played Magma Basin.
+- tokakuOvO attached Basic Fire Energy to Charcadet on the Bench.
+- tokakuOvO put 2 damage counters on tokakuOvO's Charcadet.
+tokakuOvO ended their turn.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Iono.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Natu
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 4 cards on the bottom of their deck.
+   • Radiant Alakazam, Boss's Orders, Ultra Ball, Dragapult ex
+- tokakuOvO shuffled their hand.
+- tokakuOvO put 3 cards on the bottom of their deck.
+- 0512SmileMan drew 6 cards.
+   • Nest Ball, Buddy-Buddy Poffin, Basic Fire Energy, Jamming Tower, Earthen Vessel, Dragapult ex
+- tokakuOvO drew 6 cards.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew 2 cards and played them to the Bench.
+   • Dreepy, Manaphy
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Rotom V and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Boss's Orders, Xatu, Unfair Stamp
+
+Turn # 2 - tokakuOvO's Turn
+tokakuOvO drew a card.
+tokakuOvO's Radiant Greninja used Concealed Cards.
+- tokakuOvO discarded Basic Fire Energy.
+- tokakuOvO drew 2 cards.
+tokakuOvO played Flutter Mane to the Bench.
+tokakuOvO played Gouging Fire ex to the Bench.
+tokakuOvO played Professor Sada's Vitality.
+- tokakuOvO attached Basic Fire Energy to Flutter Mane on the Bench.
+- tokakuOvO attached Basic Fire Energy to Gouging Fire ex on the Bench.
+- tokakuOvO drew 3 cards.
+tokakuOvO played Mew ex to the Bench.
+tokakuOvO attached Exp. Share to Mew ex on the Bench.
+tokakuOvO attached Exp. Share to Charcadet on the Bench.
+tokakuOvO played Ultra Ball.
+- tokakuOvO discarded 2 cards.
+   • Magma Basin, Charcadet
+- tokakuOvO drew Armarouge.
+- tokakuOvO shuffled their deck.
+tokakuOvO evolved Charcadet to Armarouge on the Bench.
+tokakuOvO's Mew ex used Restart.
+- tokakuOvO drew a card.
+tokakuOvO attached Basic Fire Energy to Charcadet in the Active Spot.
+tokakuOvO retreated Charcadet to the Bench.
+- Basic Fire Energy was discarded from tokakuOvO's Charcadet.
+tokakuOvO's Flutter Mane is now in the Active Spot.
+tokakuOvO played Magma Basin.
+- tokakuOvO attached Basic Fire Energy to Charcadet on the Bench.
+- tokakuOvO put 2 damage counters on tokakuOvO's Charcadet.
+tokakuOvO's Armarouge used Fire Off.
+- tokakuOvO attached Basic Fire Energy to Flutter Mane in the Active Spot.
+- tokakuOvO attached Basic Fire Energy to Flutter Mane in the Active Spot.
+tokakuOvO's Flutter Mane used Hex Hurl on 0512SmileMan’s Dreepy for 90 damage.
+- tokakuOvO put 2 damage counters on 0512SmileMan's Dreepy.
+0512SmileMan's Dreepy was Knocked Out!
+0512SmileMan's Dreepy is now in the Active Spot.
+tokakuOvO took a Prize card.
+A card was added to tokakuOvO's hand.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Dragapult ex.
+0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.
+0512SmileMan evolved Natu to Xatu on the Bench.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Boss's Orders.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Fire Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Ultra Ball, Super Rod
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Dragapult ex, Basic Fire Energy
+- 0512SmileMan drew Drakloak.
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Forest Seal Stone.
+0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.
+0512SmileMan's Rotom V used Star Alchemy.
+- 0512SmileMan drew Rare Candy.
+- 0512SmileMan shuffled their deck.
+0512SmileMan can no longer use VSTAR Powers.
+0512SmileMan played Rare Candy.
+- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.
+0512SmileMan played Super Rod.
+- 0512SmileMan shuffled 3 cards into their deck.
+   • Dreepy, Dragapult ex, Basic Fire Energy
+0512SmileMan played Jamming Tower to the Stadium spot.
+- tokakuOvO discarded Magma Basin.
+0512SmileMan played Unfair Stamp.
+- tokakuOvO shuffled 3 cards into their deck.
+- 0512SmileMan drew 5 cards.
+   • Dragapult ex, Buddy-Buddy Poffin, Basic Psychic Energy, Dragapult ex, Switch
+- tokakuOvO drew 2 cards.
+0512SmileMan played Buddy-Buddy Poffin.
+- 0512SmileMan drew Dreepy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Dragapult ex used Phantom Dive on tokakuOvO’s Flutter Mane for 200 damage.
+- 0512SmileMan put a damage counter on tokakuOvO's Gouging Fire ex.
+- 0512SmileMan put 5 damage counters on tokakuOvO's Charcadet.
+tokakuOvO's Flutter Mane was Knocked Out!
+- 3 cards were discarded from tokakuOvO's Flutter Mane.
+   • Basic Fire Energy, Basic Fire Energy, Basic Fire Energy
+tokakuOvO's Charcadet was Knocked Out!
+tokakuOvO's Mew ex is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Basic Fire Energy was added to 0512SmileMan's hand.
+Iono was added to 0512SmileMan's hand.
+
+Turn # 3 - tokakuOvO's Turn
+tokakuOvO drew a card.
+tokakuOvO played Gouging Fire ex to the Bench.
+tokakuOvO played Tatsugiri to the Bench.
+tokakuOvO's Mew ex used Restart.
+- tokakuOvO drew 2 cards.
+tokakuOvO's Radiant Greninja used Concealed Cards.
+- tokakuOvO discarded Basic Water Energy.
+- tokakuOvO drew 2 cards.
+tokakuOvO played Iono.
+- tokakuOvO shuffled their hand.
+- tokakuOvO put 3 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 6 cards on the bottom of their deck.
+   • Basic Psychic Energy, Switch, Dragapult ex, Iono, Basic Fire Energy, Dragapult ex
+- tokakuOvO drew 5 cards.
+- 0512SmileMan drew 4 cards.
+   • Arven, Drakloak, Rare Candy, Nest Ball
+tokakuOvO attached Basic Fire Energy to Gouging Fire ex on the Bench.
+tokakuOvO played Lost Vacuum.
+- tokakuOvO moved tokakuOvO's Luminous Energy to the Lost Zone.
+- 0512SmileMan moved 0512SmileMan's Jamming Tower to the Lost Zone.
+tokakuOvO retreated Mew ex to the Bench.
+tokakuOvO's Tatsugiri is now in the Active Spot.
+tokakuOvO's Tatsugiri used Attract Customers.
+- tokakuOvO drew Professor Sada's Vitality.
+- tokakuOvO shuffled their deck.
+tokakuOvO ended their turn.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Nest Ball.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Earthen Vessel, Technical Machine: Devolution
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Rare Candy.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Fire Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Iono, Arven
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Radiant Alakazam.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan attached Technical Machine: Devolution to Manaphy on the Bench.
+0512SmileMan's Dragapult ex used Phantom Dive on tokakuOvO’s Tatsugiri for 200 damage.
+- 0512SmileMan put a damage counter on tokakuOvO's Gouging Fire ex.
+- 0512SmileMan put 2 damage counters on tokakuOvO's Armarouge.
+- 0512SmileMan put 3 damage counters on tokakuOvO's Gouging Fire ex.
+tokakuOvO's Tatsugiri was Knocked Out!
+tokakuOvO's Mew ex is now in the Active Spot.
+0512SmileMan took a Prize card.
+Enhanced Hammer was added to 0512SmileMan's hand.
+Technical Machine: Devolution was activated.
+- Technical Machine: Devolution was discarded from 0512SmileMan's Manaphy.
+
+Turn # 4 - tokakuOvO's Turn
+tokakuOvO drew a card.
+tokakuOvO played Professor Sada's Vitality.
+- tokakuOvO attached Basic Fire Energy to Gouging Fire ex on the Bench.
+- tokakuOvO attached Basic Fire Energy to Gouging Fire ex on the Bench.
+- tokakuOvO drew 3 cards.
+tokakuOvO's Radiant Greninja used Concealed Cards.
+- tokakuOvO discarded Basic Fire Energy.
+- tokakuOvO drew 2 cards.
+tokakuOvO played Munkidori to the Bench.
+tokakuOvO attached Luminous Energy to Munkidori on the Bench.
+tokakuOvO's Munkidori used Adrena-Brain.
+- tokakuOvO moved 3 damage counters from tokakuOvO's Gouging Fire ex to 0512SmileMan's Dragapult ex.
+tokakuOvO retreated Mew ex to the Bench.
+tokakuOvO's Gouging Fire ex is now in the Active Spot.
+tokakuOvO's Armarouge used Fire Off.
+- tokakuOvO attached Basic Fire Energy to Gouging Fire ex in the Active Spot.
+tokakuOvO's Gouging Fire ex used Blaze Blitz on 0512SmileMan’s Dragapult ex for 260 damage.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Natu.
+0512SmileMan played Enhanced Hammer.
+- Luminous Energy was discarded from tokakuOvO's Munkidori.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Dragapult ex.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Basic Psychic Energy.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Manaphy on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Rescue Board, Buddy-Buddy Poffin
+0512SmileMan evolved Drakloak to Dragapult ex on the Bench.
+0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.
+0512SmileMan attached Rescue Board to Xatu on the Bench.
+0512SmileMan played Iono.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 7 cards on the bottom of their deck.
+   • Arven, Arven, Natu, Nest Ball, Nest Ball, Buddy-Buddy Poffin, Radiant Alakazam
+- tokakuOvO shuffled their hand.
+- tokakuOvO put 5 cards on the bottom of their deck.
+- 0512SmileMan drew 3 cards.
+   • Counter Catcher, Technical Machine: Evolution, Switch
+- tokakuOvO drew 5 cards.
+0512SmileMan attached Technical Machine: Evolution to Manaphy on the Bench.
+0512SmileMan's Dragapult ex used Phantom Dive on tokakuOvO’s Gouging Fire ex for 200 damage.
+- 0512SmileMan put 6 damage counters on tokakuOvO's Armarouge.
+Technical Machine: Evolution was activated.
+- Technical Machine: Evolution was discarded from 0512SmileMan's Manaphy.
+
+Turn # 5 - tokakuOvO's Turn
+tokakuOvO drew a card.
+tokakuOvO attached Rescue Board to Radiant Greninja on the Bench.
+tokakuOvO played Switch.
+- tokakuOvO's Gouging Fire ex was switched with tokakuOvO's Gouging Fire ex to become the Active Pokémon.
+tokakuOvO's Gouging Fire ex is now in the Active Spot.
+tokakuOvO played Iono.
+- tokakuOvO shuffled their hand.
+- tokakuOvO put 3 cards on the bottom of their deck.
+- 0512SmileMan shuffled their hand.
+- 0512SmileMan put 2 cards on the bottom of their deck.
+   • Switch, Counter Catcher
+- tokakuOvO drew 5 cards.
+- 0512SmileMan drew 3 cards.
+   • Ultra Ball, Boss's Orders, Arven
+tokakuOvO played Earthen Vessel.
+- tokakuOvO discarded Armarouge.
+- tokakuOvO drew Basic Darkness Energy.
+- tokakuOvO shuffled their deck.
+tokakuOvO attached Basic Darkness Energy to Munkidori on the Bench.
+tokakuOvO's Munkidori used Adrena-Brain.
+- tokakuOvO moved 3 damage counters from tokakuOvO's Gouging Fire ex to 0512SmileMan's Dragapult ex.
+0512SmileMan's Dragapult ex was Knocked Out!
+- 3 cards were discarded from 0512SmileMan's Dragapult ex.
+   • Basic Psychic Energy, Basic Fire Energy, Dreepy
+0512SmileMan's Manaphy is now in the Active Spot.
+tokakuOvO took 2 Prize cards.
+A card was added to tokakuOvO's hand.
+A card was added to tokakuOvO's hand.
+tokakuOvO's Radiant Greninja used Concealed Cards.
+- tokakuOvO discarded Basic Fire Energy.
+- tokakuOvO drew 2 cards.
+tokakuOvO played Ultra Ball.
+- tokakuOvO discarded 2 cards.
+   • Nest Ball, Nest Ball
+- tokakuOvO drew Iron Hands ex.
+- tokakuOvO shuffled their deck.
+tokakuOvO's Armarouge used Fire Off.
+- tokakuOvO attached Basic Fire Energy to Gouging Fire ex in the Active Spot.
+- tokakuOvO attached Basic Fire Energy to Gouging Fire ex in the Active Spot.
+tokakuOvO's Gouging Fire ex used Blaze Blitz on 0512SmileMan’s Manaphy for 260 damage.
+0512SmileMan's Manaphy was Knocked Out!
+Basic Psychic Energy was discarded from 0512SmileMan's Manaphy.
+0512SmileMan's Dragapult ex is now in the Active Spot.
+tokakuOvO took a Prize card.
+A card was added to tokakuOvO's hand.
+
+Turn # 5 - 0512SmileMan's Turn
+0512SmileMan drew Earthen Vessel.
+0512SmileMan played Boss's Orders.
+- tokakuOvO's Gouging Fire ex was switched with tokakuOvO's Gouging Fire ex to become the Active Pokémon.
+tokakuOvO's Gouging Fire ex is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on tokakuOvO’s Gouging Fire ex for 200 damage.
+- 0512SmileMan put 6 damage counters on tokakuOvO's Armarouge.
+Exp. Share was activated.
+- tokakuOvO attached Basic Fire Energy to Mew ex on the Bench.
+tokakuOvO's Gouging Fire ex was Knocked Out!
+tokakuOvO's Armarouge was Knocked Out!
+- 2 cards were discarded from tokakuOvO's Armarouge.
+   • Charcadet, Exp. Share
+0512SmileMan took 3 Prize cards.
+Dreepy was added to 0512SmileMan's hand.
+Defiance Band was added to 0512SmileMan's hand.
+Lost Vacuum was added to 0512SmileMan's hand.
+All Prize cards taken. 0512SmileMan wins.
+

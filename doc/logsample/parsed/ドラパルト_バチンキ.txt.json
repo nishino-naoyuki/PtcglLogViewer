@@ -1,0 +1,1032 @@
+{
+  "file": "ドラパルト　バチンキ.txt",
+  "players": [
+    "0512SmileMan",
+    "Ahinato55"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "Ahinato55 won the coin toss.",
+    "Ahinato55 decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Buddy-Buddy Poffin, Unfair Stamp, Earthen Vessel, Counter Catcher, Arven, Basic Fire Energy, Earthen Vessel",
+    "Ahinato55 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Buddy-Buddy Poffin, Unfair Stamp, Earthen Vessel, Counter Catcher, Arven, Basic Fire Energy, Earthen Vessel",
+    "Ahinato55 took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Ultra Ball, Buddy-Buddy Poffin, Arven, Iono, Boss's Orders, Basic Fighting Energy, Annihilape",
+    "0512SmileMan played Natu to the Active Spot.",
+    "Ahinato55 played Mankey to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "Ahinato55",
+      "actions": [
+        {
+          "raw": "Ahinato55 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ahinato55 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Ahinato55 drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Bidoof, Mankey",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55 attached Basic Fighting Energy to Mankey in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Mankey"
+        },
+        {
+          "raw": "Ahinato55 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Enhanced Hammer.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Natu in the Active Spot.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Natu in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan's Natu used Evolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Natu.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Ahinato55",
+      "actions": [
+        {
+          "raw": "Ahinato55 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ahinato55 played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- Ahinato55 evolved Mankey to Annihilape ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Mankey",
+          "to": "Annihilape ex"
+        },
+        {
+          "raw": "Ahinato55 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Natu to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55's Annihilape ex used Angry Grudge on 0512SmileMan’s Rotom V for 200 damage. 0512SmileMan's Rotom V took 100 more damage because of Fighting Weakness.",
+          "type": "attack",
+          "attackerOwner": "Ahinato55",
+          "attacker": "Annihilape ex",
+          "attack": "Angry Grudge",
+          "target": "0512SmileMan’s Rotom V",
+          "damage": 200,
+          "extra_damage": 100,
+          "extra_reason": "Fighting"
+        },
+        {
+          "raw": "- Ahinato55 chose 5",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 put 5 damage counters on Ahinato55's Annihilape ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Ahinato55's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Ahinato55's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Forest Seal Stone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled Basic Psychic Energy into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 moved Ahinato55's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Xatu, Arven, Buddy-Buddy Poffin, Earthen Vessel, Rare Candy",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Xatu on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Ahinato55",
+      "actions": [
+        {
+          "raw": "Ahinato55 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ahinato55 played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- Ahinato55 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Ahinato55 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lost Vacuum, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 drew Bibarel.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55 evolved Bidoof to Bibarel on the Bench.",
+          "type": "evolve",
+          "from": "Bidoof",
+          "to": "Bibarel"
+        },
+        {
+          "raw": "Ahinato55's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "Ahinato55 played Cleffa to the Bench.",
+          "type": "play",
+          "card": "Cleffa",
+          "to": "Bench"
+        },
+        {
+          "raw": "Ahinato55 played Mankey to the Bench.",
+          "type": "play",
+          "card": "Mankey",
+          "to": "Bench"
+        },
+        {
+          "raw": "Ahinato55's Annihilape ex used Angry Grudge on 0512SmileMan’s Dreepy for 80 damage.",
+          "type": "attack",
+          "attackerOwner": "Ahinato55",
+          "attacker": "Annihilape ex",
+          "attack": "Angry Grudge",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 80
+        },
+        {
+          "raw": "- Ahinato55 chose 4",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 put 4 damage counters on Ahinato55's Annihilape ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Ahinato55's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Ultra Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ultra Ball, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put Iono on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Dragapult ex, Basic Psychic Energy, Iono, Xatu, Rare Candy, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Ahinato55’s Annihilape ex for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Ahinato55’s Annihilape ex",
+          "damage": 230
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Ahinato55's Mankey.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55's Annihilape ex was Knocked Out!",
+          "type": "knockout",
+          "target": "Ahinato55's Annihilape ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from Ahinato55's Annihilape ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fighting Energy, Mankey",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55's Mankey was Knocked Out!",
+          "type": "knockout",
+          "target": "Ahinato55's Mankey"
+        },
+        {
+          "raw": "Ahinato55's Mankey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Dreepy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Natu was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Ahinato55",
+      "actions": [
+        {
+          "raw": "Ahinato55 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ahinato55 played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- Ahinato55 shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Mankey, Basic Fighting Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 moved Ahinato55's Mankey to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "Ahinato55 played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- Ahinato55 evolved Mankey to Annihilape in the Active Spot.",
+          "type": "evolve",
+          "from": "Mankey",
+          "to": "Annihilape"
+        },
+        {
+          "raw": "Ahinato55 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Ahinato55 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Iono, Natu, Buddy-Buddy Poffin, Drakloak, Dreepy, Xatu",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- Ahinato55 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Switch, Manaphy, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55 played Mankey to the Bench.",
+          "type": "play",
+          "card": "Mankey",
+          "to": "Bench"
+        },
+        {
+          "raw": "Ahinato55 played Mankey to the Bench.",
+          "type": "play",
+          "card": "Mankey",
+          "to": "Bench"
+        },
+        {
+          "raw": "Ahinato55 attached Basic Fighting Energy to Annihilape in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fighting Energy",
+          "target": "Annihilape"
+        },
+        {
+          "raw": "Ahinato55's Annihilape used Rage Fist on 0512SmileMan’s Dragapult ex for 210 damage.",
+          "type": "attack",
+          "attackerOwner": "Ahinato55",
+          "attacker": "Annihilape",
+          "attack": "Rage Fist",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 210
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Collapsed Stadium.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Collapsed Stadium to the Stadium spot.",
+          "type": "play",
+          "card": "Collapsed Stadium",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Dragapult ex was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Ahinato55’s Annihilape for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Ahinato55’s Annihilape",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on Ahinato55's Mankey.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55's Annihilape was Knocked Out!",
+          "type": "knockout",
+          "target": "Ahinato55's Annihilape"
+        },
+        {
+          "raw": "- 2 cards were discarded from Ahinato55's Annihilape.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fighting Energy, Mankey",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55's Mankey was Knocked Out!",
+          "type": "knockout",
+          "target": "Ahinato55's Mankey"
+        },
+        {
+          "raw": "Ahinato55's Cleffa is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Ahinato55",
+      "actions": [
+        {
+          "raw": "Ahinato55 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Ahinato55's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "Ahinato55 played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- Ahinato55 evolved Mankey to Annihilape on the Bench.",
+          "type": "evolve",
+          "from": "Mankey",
+          "to": "Annihilape"
+        },
+        {
+          "raw": "Ahinato55 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Ahinato55 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Grant, Jirachi",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 drew Skwovet.",
+          "type": "other"
+        },
+        {
+          "raw": "- Ahinato55 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Ahinato55 played Skwovet to the Bench.",
+          "type": "play",
+          "card": "Skwovet",
+          "to": "Bench"
+        },
+        {
+          "raw": "Opponent conceded. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "Opponent conceded. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "0512SmileMan",
+      "Ahinato55"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Rotom V was Knocked Out!",
+        "target": "0512SmileMan's Rotom V"
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 3,
+        "raw": "Ahinato55's Annihilape ex was Knocked Out!",
+        "target": "Ahinato55's Annihilape ex"
+      },
+      {
+        "turn": 3,
+        "raw": "Ahinato55's Mankey was Knocked Out!",
+        "target": "Ahinato55's Mankey"
+      },
+      {
+        "turn": 4,
+        "raw": "Ahinato55's Annihilape was Knocked Out!",
+        "target": "Ahinato55's Annihilape"
+      },
+      {
+        "turn": 4,
+        "raw": "Ahinato55's Mankey was Knocked Out!",
+        "target": "Ahinato55's Mankey"
+      }
+    ],
+    "vstar": [],
+    "special_conditions": [],
+    "result": {
+      "winner": "0512SmileMan",
+      "method": "concession",
+      "final_turn": 5
+    }
+  }
+}

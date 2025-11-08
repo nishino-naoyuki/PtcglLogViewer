@@ -1,0 +1,1741 @@
+{
+  "file": "ガケガニ.txt",
+  "players": [
+    "0512SmileMan",
+    "Fffantasia"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "Fffantasia won the coin toss.",
+    "Fffantasia decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Bloodmoon Ursaluna ex, Bravery Charm, Switch, Switch Cart, Iron Valiant ex, Switch Cart, Professor's Research",
+    "Fffantasia drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Bloodmoon Ursaluna ex to the Active Spot.",
+    "Fffantasia played Arceus V to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "Fffantasia",
+      "actions": [
+        {
+          "raw": "Fffantasia drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Fffantasia attached Basic Psychic Energy to Arceus V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Fffantasia ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Brute Bonnet and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Iron Valiant ex to the Bench.",
+          "type": "play",
+          "card": "Iron Valiant ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Iron Valiant ex was switched with 0512SmileMan's Bloodmoon Ursaluna ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Iron Valiant ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Iron Valiant ex used Tachyon Bits.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on Fffantasia's Arceus V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Bravery Charm to Bloodmoon Ursaluna ex on the Bench.",
+          "type": "attach",
+          "energy": "Bravery Charm",
+          "target": "Bloodmoon Ursaluna ex"
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch Cart, Switch Cart",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Professor's Research, Serena, Switch, Secret Box, Perilous Jungle, Carmine, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Fffantasia",
+      "actions": [
+        {
+          "raw": "Fffantasia drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Fffantasia played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia drew Giratina V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia attached Basic Grass Energy to Arceus V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Fffantasia evolved Arceus V to Arceus VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Arceus V",
+          "to": "Arceus VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Fffantasia played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Brute Bonnet was switched with 0512SmileMan's Iron Valiant ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Ancient Booster Energy Capsule.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Ancient Booster Energy Capsule to Brute Bonnet in the Active Spot.",
+          "type": "attach",
+          "energy": "Ancient Booster Energy Capsule",
+          "target": "Brute Bonnet"
+        },
+        {
+          "raw": "0512SmileMan played Secret Box.",
+          "type": "play",
+          "card": "Secret Box",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Serena, Carmine, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Switch Cart, Rescue Board, Professor's Research",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Perilous Jungle to the Stadium spot.",
+          "type": "play",
+          "card": "Perilous Jungle",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia's Arceus VSTAR is now Poisoned.",
+          "type": "vstar",
+          "detail": "- Fffantasia's Arceus VSTAR is now Poisoned."
+        },
+        {
+          "raw": "0512SmileMan played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Iron Valiant ex was switched with 0512SmileMan's Brute Bonnet to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Iron Valiant ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Iron Valiant ex used Tachyon Bits.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on Fffantasia's Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan put 2 damage counters on Fffantasia's Arceus VSTAR."
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Iron Valiant ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Iron Valiant ex"
+        },
+        {
+          "raw": "0512SmileMan played Professor's Research.",
+          "type": "play",
+          "card": "Professor's Research",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Professor's Research, Switch Cart",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 7 cards.",
+          "type": "draw",
+          "count": 7
+        },
+        {
+          "raw": "• Super Rod, Carmine, Forest Seal Stone, Iron Valiant ex, Ultra Ball, Ditto, Brute Bonnet",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ditto, Brute Bonnet",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Klawf.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Klawf to the Bench.",
+          "type": "play",
+          "card": "Klawf",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Iron Valiant ex to the Bench.",
+          "type": "play",
+          "card": "Iron Valiant ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "3 damage counters were placed on Fffantasia's Arceus VSTAR for the Special Condition Poisoned.",
+          "type": "vstar",
+          "detail": "3 damage counters were placed on Fffantasia's Arceus VSTAR for the Special Condition Poisoned."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Fffantasia",
+      "actions": [
+        {
+          "raw": "Fffantasia drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Fffantasia evolved Giratina V to Giratina VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Giratina V",
+          "to": "Giratina VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Fffantasia attached Jet Energy to Arceus VSTAR in the Active Spot.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Arceus VSTAR"
+        },
+        {
+          "raw": "Fffantasia played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia put a card on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Super Rod, Forest Seal Stone, Carmine",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Nest Ball, Forest Seal Stone, Brute Bonnet, Perilous Jungle, Perilous Jungle, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia moved Fffantasia's Double Turbo Energy to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Rescue Board to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia's Arceus VSTAR used Starbirth.",
+          "type": "vstar",
+          "detail": "Fffantasia's Arceus VSTAR used Starbirth."
+        },
+        {
+          "raw": "- Fffantasia drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "Fffantasia can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "Fffantasia played Bidoof to the Bench.",
+          "type": "play",
+          "card": "Bidoof",
+          "to": "Bench"
+        },
+        {
+          "raw": "Fffantasia's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Iron Valiant ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "Fffantasia",
+          "attacker": "Arceus VSTAR",
+          "attack": "Trinity Nova",
+          "target": "0512SmileMan’s Iron Valiant ex",
+          "damage": 200
+        },
+        {
+          "raw": "- Fffantasia attached Basic Grass Energy to Giratina VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "- Fffantasia attached Basic Psychic Energy to Giratina VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "- Fffantasia attached Basic Psychic Energy to Giratina VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "3 damage counters were placed on Fffantasia's Arceus VSTAR for the Special Condition Poisoned.",
+          "type": "vstar",
+          "detail": "3 damage counters were placed on Fffantasia's Arceus VSTAR for the Special Condition Poisoned."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Carmine.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Oranguru V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Oranguru V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Oranguru V"
+        },
+        {
+          "raw": "0512SmileMan played Carmine.",
+          "type": "play",
+          "card": "Carmine",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 4 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Brute Bonnet, Perilous Jungle, Perilous Jungle, Ultra Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Ancient Booster Energy Capsule, Forest Seal Stone, Klawf, Nest Ball, Switch Cart",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Oranguru V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Double Turbo Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan attached Double Turbo Energy to Klawf on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Klawf"
+        },
+        {
+          "raw": "0512SmileMan played Switch Cart.",
+          "type": "play",
+          "card": "Switch Cart",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Klawf was switched with 0512SmileMan's Iron Valiant ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Iron Valiant ex healed 30 damage.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Klawf is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Klawf is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- 0512SmileMan's Klawf"
+        },
+        {
+          "raw": "- Fffantasia's Arceus VSTAR is no longer Poisoned.",
+          "type": "vstar",
+          "detail": "- Fffantasia's Arceus VSTAR is no longer Poisoned."
+        },
+        {
+          "raw": "- Fffantasia's Arceus VSTAR is now Poisoned.",
+          "type": "vstar",
+          "detail": "- Fffantasia's Arceus VSTAR is now Poisoned."
+        },
+        {
+          "raw": "0512SmileMan's Klawf used Unhinged Scissors on Fffantasia’s Arceus VSTAR for 340 damage. Fffantasia's Arceus VSTAR took 170 more damage because of Fighting Weakness.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Klawf",
+          "attack": "Unhinged Scissors",
+          "target": "Fffantasia’s Arceus VSTAR",
+          "damage": 340,
+          "extra_damage": 170,
+          "extra_reason": "Fighting"
+        },
+        {
+          "raw": "Fffantasia's Arceus VSTAR was Knocked Out!",
+          "type": "knockout",
+          "target": "Fffantasia's Arceus VSTAR"
+        },
+        {
+          "raw": "- 4 cards were discarded from Fffantasia's Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- 4 cards were discarded from Fffantasia's Arceus VSTAR."
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Grass Energy, Jet Energy, Arceus V",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia's Giratina VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Fffantasia's Giratina VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Ancient Booster Energy Capsule was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Oranguru V was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "3 damage counters were placed on 0512SmileMan's Klawf for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Fffantasia",
+      "actions": [
+        {
+          "raw": "Fffantasia drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Fffantasia played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia drew Arceus V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia attached Double Turbo Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Fffantasia played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Iron Valiant ex was switched with 0512SmileMan's Klawf to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Iron Valiant ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia's Giratina VSTAR used Lost Impact on 0512SmileMan’s Iron Valiant ex for 280 damage.",
+          "type": "attack",
+          "attackerOwner": "Fffantasia",
+          "attacker": "Giratina VSTAR",
+          "attack": "Lost Impact",
+          "target": "0512SmileMan’s Iron Valiant ex",
+          "damage": 280
+        },
+        {
+          "raw": "- Fffantasia moved Fffantasia's 2 cards to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Iron Valiant ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Iron Valiant ex"
+        },
+        {
+          "raw": "0512SmileMan's Klawf is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Fffantasia's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Fffantasia's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Serena.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Klawf and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Serena.",
+          "type": "play",
+          "card": "Serena",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan chose Discard up to 3 cards from your hand. Then, draw cards until you have 5 cards in your hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan discarded 3 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Oranguru V, Forest Seal Stone, Ancient Booster Energy Capsule",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Klawf, Super Rod, Squawkabilly ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Klawf is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- 0512SmileMan's Klawf"
+        },
+        {
+          "raw": "- Fffantasia's Giratina VSTAR is now Poisoned.",
+          "type": "vstar",
+          "detail": "- Fffantasia's Giratina VSTAR is now Poisoned."
+        },
+        {
+          "raw": "0512SmileMan's Klawf used Unhinged Scissors on Fffantasia’s Giratina VSTAR for 170 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Klawf",
+          "attack": "Unhinged Scissors",
+          "target": "Fffantasia’s Giratina VSTAR",
+          "damage": 170
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "3 damage counters were placed on Fffantasia's Giratina VSTAR for the Special Condition Poisoned.",
+          "type": "vstar",
+          "detail": "3 damage counters were placed on Fffantasia's Giratina VSTAR for the Special Condition Poisoned."
+        },
+        {
+          "raw": "3 damage counters were placed on 0512SmileMan's Klawf for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Fffantasia",
+      "actions": [
+        {
+          "raw": "Fffantasia drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Fffantasia played Bidoof to the Bench.",
+          "type": "play",
+          "card": "Bidoof",
+          "to": "Bench"
+        },
+        {
+          "raw": "Fffantasia played Professor Turo's Scenario.",
+          "type": "play",
+          "card": "Professor Turo's Scenario",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia moved Fffantasia's Giratina VSTAR to their hand.",
+          "type": "vstar",
+          "detail": "- Fffantasia moved Fffantasia's Giratina VSTAR to their hand."
+        },
+        {
+          "raw": "- Basic Psychic Energy was discarded from Fffantasia's Giratina VSTAR.",
+          "type": "vstar",
+          "detail": "- Basic Psychic Energy was discarded from Fffantasia's Giratina VSTAR."
+        },
+        {
+          "raw": "- Fffantasia moved Fffantasia's Giratina V to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia's Arceus V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia played Giratina V to the Bench.",
+          "type": "play",
+          "card": "Giratina V",
+          "to": "Bench"
+        },
+        {
+          "raw": "Fffantasia attached Basic Grass Energy to Arceus V in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Fffantasia's Arceus V used Power Edge on 0512SmileMan’s Klawf for 110 damage.",
+          "type": "attack",
+          "attackerOwner": "Fffantasia",
+          "attacker": "Arceus V",
+          "attack": "Power Edge",
+          "target": "0512SmileMan’s Klawf",
+          "damage": 110
+        },
+        {
+          "raw": "0512SmileMan's Klawf was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Klawf"
+        },
+        {
+          "raw": "Double Turbo Energy was discarded from 0512SmileMan's Klawf.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Klawf is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Fffantasia's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Klawf is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- 0512SmileMan's Klawf"
+        },
+        {
+          "raw": "- Fffantasia's Arceus V is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- Fffantasia's Arceus V"
+        },
+        {
+          "raw": "0512SmileMan played Klawf to the Bench.",
+          "type": "play",
+          "card": "Klawf",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "3 damage counters were placed on Fffantasia's Arceus V for the Special Condition Poisoned.",
+          "type": "other"
+        },
+        {
+          "raw": "3 damage counters were placed on 0512SmileMan's Klawf for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "Fffantasia",
+      "actions": [
+        {
+          "raw": "Fffantasia drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Fffantasia played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia moved Fffantasia's Iono to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Ancient Booster Energy Capsule to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia attached Basic Grass Energy to Giratina V on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Giratina V"
+        },
+        {
+          "raw": "Fffantasia evolved Giratina V to Giratina VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Giratina V",
+          "to": "Giratina VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "Fffantasia played Judge.",
+          "type": "play",
+          "card": "Judge",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia shuffled a card into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's 4 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Ancient Booster Energy Capsule, Klawf, Super Rod, Squawkabilly ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Carmine, Squawkabilly ex, Super Rod, Double Turbo Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia flipped a coin and it landed on tails.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia drew Skwovet.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia played Skwovet to the Bench.",
+          "type": "play",
+          "card": "Skwovet",
+          "to": "Bench"
+        },
+        {
+          "raw": "Fffantasia played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia drew Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- Fffantasia drew Arceus VSTAR."
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia evolved Arceus V to Arceus VSTAR in the Active Spot.",
+          "type": "evolve",
+          "from": "Arceus V",
+          "to": "Arceus VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "- Fffantasia's Arceus VSTAR is no longer Poisoned.",
+          "type": "vstar",
+          "detail": "- Fffantasia's Arceus VSTAR is no longer Poisoned."
+        },
+        {
+          "raw": "Fffantasia's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Klawf for 180 damage.",
+          "type": "attack",
+          "attackerOwner": "Fffantasia",
+          "attacker": "Arceus VSTAR",
+          "attack": "Trinity Nova",
+          "target": "0512SmileMan’s Klawf",
+          "damage": 180
+        },
+        {
+          "raw": "- Fffantasia attached Basic Grass Energy to Giratina VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Giratina VSTAR"
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Klawf was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Klawf"
+        },
+        {
+          "raw": "0512SmileMan's Klawf is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Fffantasia's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Double Turbo Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Klawf, Klawf",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Double Turbo Energy to Klawf in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Klawf"
+        },
+        {
+          "raw": "0512SmileMan played Carmine.",
+          "type": "play",
+          "card": "Carmine",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Squawkabilly ex, Double Turbo Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Ancient Booster Energy Capsule, Klawf, Klawf, Klawf, Squawkabilly ex",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Ancient Booster Energy Capsule to Brute Bonnet on the Bench.",
+          "type": "attach",
+          "energy": "Ancient Booster Energy Capsule",
+          "target": "Brute Bonnet"
+        },
+        {
+          "raw": "0512SmileMan played Klawf to the Bench.",
+          "type": "play",
+          "card": "Klawf",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Brute Bonnet used Toxic Powder.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan's Klawf is now Poisoned.",
+          "type": "special_condition",
+          "condition": "Poisoned",
+          "target": "- 0512SmileMan's Klawf"
+        },
+        {
+          "raw": "- Fffantasia's Arceus VSTAR is now Poisoned.",
+          "type": "vstar",
+          "detail": "- Fffantasia's Arceus VSTAR is now Poisoned."
+        },
+        {
+          "raw": "0512SmileMan's Klawf used Unhinged Scissors on Fffantasia’s Arceus VSTAR for 340 damage. Fffantasia's Arceus VSTAR took 170 more damage because of Fighting Weakness.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Klawf",
+          "attack": "Unhinged Scissors",
+          "target": "Fffantasia’s Arceus VSTAR",
+          "damage": 340,
+          "extra_damage": 170,
+          "extra_reason": "Fighting"
+        },
+        {
+          "raw": "Fffantasia's Arceus VSTAR was Knocked Out!",
+          "type": "knockout",
+          "target": "Fffantasia's Arceus VSTAR"
+        },
+        {
+          "raw": "- 3 cards were discarded from Fffantasia's Arceus VSTAR.",
+          "type": "vstar",
+          "detail": "- 3 cards were discarded from Fffantasia's Arceus VSTAR."
+        },
+        {
+          "raw": "• Double Turbo Energy, Basic Grass Energy, Arceus V",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia's Giratina VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "Fffantasia's Giratina VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Double Turbo Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Radiant Hisuian Sneasler was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "3 damage counters were placed on 0512SmileMan's Klawf for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "Fffantasia",
+      "actions": [
+        {
+          "raw": "Fffantasia drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Fffantasia evolved Bidoof to Bibarel on the Bench.",
+          "type": "evolve",
+          "from": "Bidoof",
+          "to": "Bibarel"
+        },
+        {
+          "raw": "Fffantasia's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "Fffantasia played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia drew Arceus V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Judge, Giratina VSTAR",
+          "type": "vstar",
+          "detail": "• Judge, Giratina VSTAR"
+        },
+        {
+          "raw": "- Fffantasia drew Bibarel.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia evolved Bidoof to Bibarel on the Bench.",
+          "type": "evolve",
+          "from": "Bidoof",
+          "to": "Bibarel"
+        },
+        {
+          "raw": "Fffantasia's Bibarel used Industrious Incisors.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "Fffantasia attached Double Turbo Energy to Arceus V on the Bench.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Arceus V"
+        },
+        {
+          "raw": "Fffantasia played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia drew Arceus V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- Fffantasia shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia retreated Giratina VSTAR to the Bench.",
+          "type": "vstar",
+          "detail": "Fffantasia retreated Giratina VSTAR to the Bench."
+        },
+        {
+          "raw": "- 2 cards were discarded from Fffantasia's Giratina VSTAR.",
+          "type": "vstar",
+          "detail": "- 2 cards were discarded from Fffantasia's Giratina VSTAR."
+        },
+        {
+          "raw": "• Basic Grass Energy, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia's Arceus V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Klawf, Radiant Hisuian Sneasler, Double Turbo Energy, Klawf, Squawkabilly ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ditto, Professor's Research",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia's Skwovet was switched with Fffantasia's Arceus V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia's Skwovet is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia's Skwovet used Nest Stash.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia put a card on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Fffantasia drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Fffantasia ended their turn.",
+          "type": "other"
+        },
+        {
+          "raw": "Pokémon Checkup",
+          "type": "pokemon_checkup"
+        },
+        {
+          "raw": "3 damage counters were placed on 0512SmileMan's Klawf for the Special Condition Poisoned.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- Fffantasia's Arceus V was switched with Fffantasia's Skwovet to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "Fffantasia's Arceus V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Klawf used Unhinged Scissors on Fffantasia’s Arceus V for 340 damage. Fffantasia's Arceus V took 170 more damage because of Fighting Weakness.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Klawf",
+          "attack": "Unhinged Scissors",
+          "target": "Fffantasia’s Arceus V",
+          "damage": 340,
+          "extra_damage": 170,
+          "extra_reason": "Fighting"
+        },
+        {
+          "raw": "Fffantasia's Arceus V was Knocked Out!",
+          "type": "knockout",
+          "target": "Fffantasia's Arceus V"
+        },
+        {
+          "raw": "Double Turbo Energy was discarded from Fffantasia's Arceus V.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Carmine was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "All Prize cards taken. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "All Prize cards taken. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 14,
+    "players": [
+      "0512SmileMan",
+      "Fffantasia"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "Fffantasia's Arceus VSTAR was Knocked Out!",
+        "target": "Fffantasia's Arceus VSTAR"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Iron Valiant ex was Knocked Out!",
+        "target": "0512SmileMan's Iron Valiant ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Klawf was Knocked Out!",
+        "target": "0512SmileMan's Klawf"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Klawf was Knocked Out!",
+        "target": "0512SmileMan's Klawf"
+      },
+      {
+        "turn": 6,
+        "raw": "Fffantasia's Arceus VSTAR was Knocked Out!",
+        "target": "Fffantasia's Arceus VSTAR"
+      },
+      {
+        "turn": 7,
+        "raw": "Fffantasia's Arceus V was Knocked Out!",
+        "target": "Fffantasia's Arceus V"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "- Fffantasia's Arceus VSTAR is now Poisoned."
+      },
+      {
+        "turn": 2,
+        "raw": "- 0512SmileMan put 2 damage counters on Fffantasia's Arceus VSTAR."
+      },
+      {
+        "turn": 2,
+        "raw": "3 damage counters were placed on Fffantasia's Arceus VSTAR for the Special Condition Poisoned."
+      },
+      {
+        "turn": 3,
+        "raw": "Fffantasia's Arceus VSTAR used Starbirth."
+      },
+      {
+        "turn": 3,
+        "raw": "Fffantasia can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 3,
+        "attack": "Trinity Nova",
+        "raw": "Fffantasia's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Iron Valiant ex for 200 damage.",
+        "target": "0512SmileMan’s Iron Valiant ex",
+        "damage": 200
+      },
+      {
+        "turn": 3,
+        "raw": "3 damage counters were placed on Fffantasia's Arceus VSTAR for the Special Condition Poisoned."
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 3,
+        "raw": "- Fffantasia's Arceus VSTAR is no longer Poisoned."
+      },
+      {
+        "turn": 3,
+        "raw": "- Fffantasia's Arceus VSTAR is now Poisoned."
+      },
+      {
+        "turn": 3,
+        "attack": "Unhinged Scissors",
+        "raw": "0512SmileMan's Klawf used Unhinged Scissors on Fffantasia’s Arceus VSTAR for 340 damage. Fffantasia's Arceus VSTAR took 170 more damage because of Fighting Weakness.",
+        "target": "Fffantasia’s Arceus VSTAR",
+        "damage": 340
+      },
+      {
+        "turn": 3,
+        "raw": "- 4 cards were discarded from Fffantasia's Arceus VSTAR."
+      },
+      {
+        "turn": 3,
+        "raw": "Fffantasia's Giratina VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 4,
+        "attack": "Lost Impact",
+        "raw": "Fffantasia's Giratina VSTAR used Lost Impact on 0512SmileMan’s Iron Valiant ex for 280 damage.",
+        "target": "0512SmileMan’s Iron Valiant ex",
+        "damage": 280
+      },
+      {
+        "turn": 4,
+        "raw": "- Fffantasia's Giratina VSTAR is now Poisoned."
+      },
+      {
+        "turn": 4,
+        "attack": "Unhinged Scissors",
+        "raw": "0512SmileMan's Klawf used Unhinged Scissors on Fffantasia’s Giratina VSTAR for 170 damage.",
+        "target": "Fffantasia’s Giratina VSTAR",
+        "damage": 170
+      },
+      {
+        "turn": 4,
+        "raw": "3 damage counters were placed on Fffantasia's Giratina VSTAR for the Special Condition Poisoned."
+      },
+      {
+        "turn": 5,
+        "raw": "- Fffantasia moved Fffantasia's Giratina VSTAR to their hand."
+      },
+      {
+        "turn": 5,
+        "raw": "- Basic Psychic Energy was discarded from Fffantasia's Giratina VSTAR."
+      },
+      {
+        "turn": 6,
+        "raw": "- Fffantasia drew Arceus VSTAR."
+      },
+      {
+        "turn": 6,
+        "raw": "- Fffantasia's Arceus VSTAR is no longer Poisoned."
+      },
+      {
+        "turn": 6,
+        "attack": "Trinity Nova",
+        "raw": "Fffantasia's Arceus VSTAR used Trinity Nova on 0512SmileMan’s Klawf for 180 damage.",
+        "target": "0512SmileMan’s Klawf",
+        "damage": 180
+      },
+      {
+        "turn": 6,
+        "raw": "- Fffantasia's Arceus VSTAR is now Poisoned."
+      },
+      {
+        "turn": 6,
+        "attack": "Unhinged Scissors",
+        "raw": "0512SmileMan's Klawf used Unhinged Scissors on Fffantasia’s Arceus VSTAR for 340 damage. Fffantasia's Arceus VSTAR took 170 more damage because of Fighting Weakness.",
+        "target": "Fffantasia’s Arceus VSTAR",
+        "damage": 340
+      },
+      {
+        "turn": 6,
+        "raw": "- 3 cards were discarded from Fffantasia's Arceus VSTAR."
+      },
+      {
+        "turn": 6,
+        "raw": "Fffantasia's Giratina VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 7,
+        "raw": "• Judge, Giratina VSTAR"
+      },
+      {
+        "turn": 7,
+        "raw": "Fffantasia retreated Giratina VSTAR to the Bench."
+      },
+      {
+        "turn": 7,
+        "raw": "- 2 cards were discarded from Fffantasia's Giratina VSTAR."
+      }
+    ],
+    "special_conditions": [
+      {
+        "turn": 3,
+        "raw": "- 0512SmileMan's Klawf is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- 0512SmileMan's Klawf"
+      },
+      {
+        "turn": 4,
+        "raw": "- 0512SmileMan's Klawf is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- 0512SmileMan's Klawf"
+      },
+      {
+        "turn": 5,
+        "raw": "- 0512SmileMan's Klawf is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- 0512SmileMan's Klawf"
+      },
+      {
+        "turn": 5,
+        "raw": "- Fffantasia's Arceus V is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- Fffantasia's Arceus V"
+      },
+      {
+        "turn": 6,
+        "raw": "- 0512SmileMan's Klawf is now Poisoned.",
+        "condition": "Poisoned",
+        "target": "- 0512SmileMan's Klawf"
+      }
+    ],
+    "result": {
+      "winner": "All Prize cards taken. 0512SmileMan",
+      "method": null,
+      "final_turn": 7
+    }
+  }
+}

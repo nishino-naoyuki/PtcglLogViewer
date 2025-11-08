@@ -1,0 +1,1041 @@
+{
+  "file": "ドラパルト　ルギア - コピー.txt",
+  "players": [
+    "0512SmileMan",
+    "DrLigmaa"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "DrLigmaa won the coin toss.",
+    "DrLigmaa decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Natu, Dreepy, Technical Machine: Devolution, Super Rod, Arven, Basic Psychic Energy, Switch",
+    "DrLigmaa drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "DrLigmaa played Lugia V to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "DrLigmaa",
+      "actions": [
+        {
+          "raw": "DrLigmaa drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "DrLigmaa attached Mist Energy to Lugia V in the Active Spot.",
+          "type": "attach",
+          "energy": "Mist Energy",
+          "target": "Lugia V"
+        },
+        {
+          "raw": "DrLigmaa played Capturing Aroma.",
+          "type": "play",
+          "card": "Capturing Aroma",
+          "to": null
+        },
+        {
+          "raw": "- DrLigmaa flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa drew Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "DrLigmaa",
+      "actions": [
+        {
+          "raw": "DrLigmaa drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "DrLigmaa attached Double Turbo Energy to Lugia V in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Lugia V"
+        },
+        {
+          "raw": "DrLigmaa's Lugia V used Read the Wind.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa discarded Archeops.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Nest Ball, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Ultra Ball, Arven, Iono",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "DrLigmaa",
+      "actions": [
+        {
+          "raw": "DrLigmaa drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "DrLigmaa played Lugia V to the Bench.",
+          "type": "play",
+          "card": "Lugia V",
+          "to": "Bench"
+        },
+        {
+          "raw": "DrLigmaa played Iron Hands ex to the Bench.",
+          "type": "play",
+          "card": "Iron Hands ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "DrLigmaa attached Jet Energy to Iron Hands ex on the Bench.",
+          "type": "attach",
+          "energy": "Jet Energy",
+          "target": "Iron Hands ex"
+        },
+        {
+          "raw": "Jet Energy was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa's Iron Hands ex was switched with DrLigmaa's Lugia V to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa's Iron Hands ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa evolved Lugia V to Lugia VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Lugia V",
+          "to": "Lugia VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "DrLigmaa's Lugia VSTAR used Summoning Star.",
+          "type": "vstar",
+          "detail": "DrLigmaa's Lugia VSTAR used Summoning Star."
+        },
+        {
+          "raw": "- DrLigmaa drew Archeops and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "DrLigmaa can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "DrLigmaa can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "DrLigmaa's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa attached Legacy Energy to Iron Hands ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Legacy Energy",
+          "target": "Iron Hands ex"
+        },
+        {
+          "raw": "- DrLigmaa attached Double Turbo Energy to Iron Hands ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Double Turbo Energy",
+          "target": "Iron Hands ex"
+        },
+        {
+          "raw": "- DrLigmaa shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa's Iron Hands ex used Amp You Very Much on 0512SmileMan’s Dreepy for 100 damage.",
+          "type": "attack",
+          "attackerOwner": "DrLigmaa",
+          "attacker": "Iron Hands ex",
+          "attack": "Amp You Very Much",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 100
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to DrLigmaa's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to DrLigmaa's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Lost Vacuum.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Natu in the Active Spot.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Natu"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Lost Vacuum, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arven, Super Rod, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Psychic Energy, Drakloak, Xatu, Iono, Earthen Vessel",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu in the Active Spot.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Drakloak, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on DrLigmaa’s Iron Hands ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "DrLigmaa’s Iron Hands ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on DrLigmaa's Archeops.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "DrLigmaa",
+      "actions": [
+        {
+          "raw": "DrLigmaa drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "DrLigmaa's Archeops used Primal Turbo.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa attached Gift Energy to Lugia VSTAR on the Bench.",
+          "type": "attach",
+          "energy": "Gift Energy",
+          "target": "Lugia VSTAR"
+        },
+        {
+          "raw": "- DrLigmaa shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa played Mesagoza to the Stadium spot.",
+          "type": "play",
+          "card": "Mesagoza",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "DrLigmaa played Mesagoza.",
+          "type": "play",
+          "card": "Mesagoza",
+          "to": null
+        },
+        {
+          "raw": "- DrLigmaa flipped a coin and it landed on heads.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa drew Lumineon V.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa played Lumineon V to the Bench.",
+          "type": "play",
+          "card": "Lumineon V",
+          "to": "Bench"
+        },
+        {
+          "raw": "DrLigmaa's Lumineon V used Luminous Sign.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Drakloak was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa's Iron Hands ex used Amp You Very Much on 0512SmileMan’s Drakloak for 100 damage.",
+          "type": "attack",
+          "attackerOwner": "DrLigmaa",
+          "attacker": "Iron Hands ex",
+          "attack": "Amp You Very Much",
+          "target": "0512SmileMan’s Drakloak",
+          "damage": 100
+        },
+        {
+          "raw": "0512SmileMan's Drakloak was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Drakloak"
+        },
+        {
+          "raw": "- 2 cards were discarded from 0512SmileMan's Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to DrLigmaa's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to DrLigmaa's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Unfair Stamp.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Counter Catcher, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Counter Catcher.",
+          "type": "play",
+          "card": "Counter Catcher",
+          "to": null
+        },
+        {
+          "raw": "- DrLigmaa's Archeops was switched with DrLigmaa's Iron Hands ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa's Archeops is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Radiant Alakazam used Painful Spoons.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 2 damage counters from DrLigmaa's Archeops to DrLigmaa's Lugia VSTAR.",
+          "type": "vstar",
+          "detail": "- 0512SmileMan moved 2 damage counters from DrLigmaa's Archeops to DrLigmaa's Lugia VSTAR."
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Iono, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa moved DrLigmaa's 6 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Boss's Orders, Drakloak, Enhanced Hammer, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- DrLigmaa drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Legacy Energy was discarded from DrLigmaa's Iron Hands ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan retreated Xatu to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on DrLigmaa’s Archeops for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "DrLigmaa’s Archeops",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on DrLigmaa's Lugia V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on DrLigmaa's Iron Hands ex.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa's Archeops was Knocked Out!",
+          "type": "knockout",
+          "target": "DrLigmaa's Archeops"
+        },
+        {
+          "raw": "DrLigmaa's Iron Hands ex was Knocked Out!",
+          "type": "knockout",
+          "target": "DrLigmaa's Iron Hands ex"
+        },
+        {
+          "raw": "- 2 cards were discarded from DrLigmaa's Iron Hands ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Jet Energy, Double Turbo Energy",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa's Lugia VSTAR is now in the Active Spot.",
+          "type": "vstar",
+          "detail": "DrLigmaa's Lugia VSTAR is now in the Active Spot."
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Earthen Vessel was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Ultra Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "DrLigmaa",
+      "actions": [
+        {
+          "raw": "DrLigmaa drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "DrLigmaa evolved Lugia V to Lugia VSTAR on the Bench.",
+          "type": "evolve",
+          "from": "Lugia V",
+          "to": "Lugia VSTAR",
+          "to_vstar": true
+        },
+        {
+          "raw": "DrLigmaa played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Rotom V was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Rotom V for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "DrLigmaa",
+          "attacker": "Lugia VSTAR",
+          "attack": "Tempest Dive",
+          "target": "0512SmileMan’s Rotom V",
+          "damage": 200
+        },
+        {
+          "raw": "- DrLigmaa discarded Mesagoza.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Rotom V"
+        },
+        {
+          "raw": "Forest Seal Stone was discarded from 0512SmileMan's Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "DrLigmaa took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to DrLigmaa's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to DrLigmaa's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. DrLigmaa wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. DrLigmaa wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 9,
+    "players": [
+      "0512SmileMan",
+      "DrLigmaa"
+    ],
+    "knockouts": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 4,
+        "raw": "0512SmileMan's Drakloak was Knocked Out!",
+        "target": "0512SmileMan's Drakloak"
+      },
+      {
+        "turn": 4,
+        "raw": "DrLigmaa's Archeops was Knocked Out!",
+        "target": "DrLigmaa's Archeops"
+      },
+      {
+        "turn": 4,
+        "raw": "DrLigmaa's Iron Hands ex was Knocked Out!",
+        "target": "DrLigmaa's Iron Hands ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Rotom V was Knocked Out!",
+        "target": "0512SmileMan's Rotom V"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "DrLigmaa's Lugia VSTAR used Summoning Star."
+      },
+      {
+        "turn": 3,
+        "raw": "DrLigmaa can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      },
+      {
+        "turn": 4,
+        "raw": "- 0512SmileMan moved 2 damage counters from DrLigmaa's Archeops to DrLigmaa's Lugia VSTAR."
+      },
+      {
+        "turn": 4,
+        "raw": "DrLigmaa's Lugia VSTAR is now in the Active Spot."
+      },
+      {
+        "turn": 5,
+        "attack": "Tempest Dive",
+        "raw": "DrLigmaa's Lugia VSTAR used Tempest Dive on 0512SmileMan’s Rotom V for 200 damage.",
+        "target": "0512SmileMan’s Rotom V",
+        "damage": 200
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. DrLigmaa",
+      "method": null,
+      "final_turn": 5
+    }
+  }
+}

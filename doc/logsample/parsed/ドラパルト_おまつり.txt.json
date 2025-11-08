@@ -1,0 +1,1429 @@
+{
+  "file": "ドラパルト　おまつり.txt",
+  "players": [
+    "Joaorocio7",
+    "0512SmileMan",
+    "- 0512SmileMan"
+  ],
+  "setup": [
+    "Setup",
+    "Joaorocio7 chose tails for the opening coin flip.",
+    "0512SmileMan won the coin toss.",
+    "Joaorocio7 decided to go second.",
+    "Joaorocio7 drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Nest Ball, Basic Fire Energy, Ultra Ball, Dreepy, Xatu, Radiant Alakazam, Iono",
+    "Joaorocio7 took a mulligan.",
+    "- Cards revealed from Mulligan 1",
+    "• Thwackey, Basic Grass Energy, Rabsca, Thwackey, Dipplin, Boss's Orders, Festival Grounds",
+    "0512SmileMan drew 1 more card because Joaorocio7 took at least 1 mulligan.",
+    "- 0512SmileMan drew Dragapult ex.",
+    "Joaorocio7 played Applin to the Active Spot.",
+    "0512SmileMan played Dreepy to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Super Rod.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Xatu, Iono",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Rotom V to the Bench.",
+          "type": "play",
+          "card": "Rotom V",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan played Radiant Alakazam to the Bench.",
+          "type": "play",
+          "card": "Radiant Alakazam",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Dreepy, Earthen Vessel, Dragapult ex",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "Joaorocio7",
+      "actions": [
+        {
+          "raw": "Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Joaorocio7 played Grookey to the Bench.",
+          "type": "play",
+          "card": "Grookey",
+          "to": "Bench"
+        },
+        {
+          "raw": "Joaorocio7 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Boss's Orders, Pal Pad",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew Rellor.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Rellor to the Bench.",
+          "type": "play",
+          "card": "Rellor",
+          "to": "Bench"
+        },
+        {
+          "raw": "Joaorocio7 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Buddy-Buddy Poffin.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Defiance Band, Lost Vacuum, Rescue Board",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "Joaorocio7",
+      "actions": [
+        {
+          "raw": "Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Joaorocio7 evolved Applin to Dipplin in the Active Spot.",
+          "type": "evolve",
+          "from": "Applin",
+          "to": "Dipplin"
+        },
+        {
+          "raw": "Joaorocio7 evolved Rellor to Rabsca on the Bench.",
+          "type": "evolve",
+          "from": "Rellor",
+          "to": "Rabsca"
+        },
+        {
+          "raw": "Joaorocio7 evolved Grookey to Thwackey on the Bench.",
+          "type": "evolve",
+          "from": "Grookey",
+          "to": "Thwackey"
+        },
+        {
+          "raw": "Joaorocio7's Thwackey used Boom Boom Groove.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 put a card on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Super Rod, Lost Vacuum, Dragapult ex, Rescue Board, Basic Psychic Energy, Defiance Band, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Jamming Tower, Basic Psychic Energy, Iono, Dreepy, Ultra Ball, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Grookey to the Bench.",
+          "type": "play",
+          "card": "Grookey",
+          "to": "Bench"
+        },
+        {
+          "raw": "Joaorocio7 played Grookey to the Bench.",
+          "type": "play",
+          "card": "Grookey",
+          "to": "Bench"
+        },
+        {
+          "raw": "Joaorocio7 attached Basic Grass Energy to Dipplin in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Dipplin"
+        },
+        {
+          "raw": "Joaorocio7 played Festival Grounds to the Stadium spot.",
+          "type": "play",
+          "card": "Festival Grounds",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "Joaorocio7's Dipplin used Do the Wave on 0512SmileMan’s Dreepy for 80 damage.",
+          "type": "attack",
+          "attackerOwner": "Joaorocio7",
+          "attacker": "Dipplin",
+          "attack": "Do the Wave",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 80
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Joaorocio7's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7's Dipplin used Festival Lead.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 chose Do the Wave",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7's Dipplin used Do the Wave on 0512SmileMan’s Dreepy for 80 damage.",
+          "type": "attack",
+          "attackerOwner": "- Joaorocio7",
+          "attacker": "Dipplin",
+          "attack": "Do the Wave",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 80
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "Basic Fire Energy was discarded from 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Joaorocio7's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rare Candy, Forest Seal Stone",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Jamming Tower to the Stadium spot.",
+          "type": "play",
+          "card": "Jamming Tower",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- Joaorocio7 discarded Festival Grounds.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Joaorocio7’s Dipplin for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Joaorocio7’s Dipplin",
+          "damage": 200
+        },
+        {
+          "raw": "Joaorocio7's Dipplin was Knocked Out!",
+          "type": "knockout",
+          "target": "Joaorocio7's Dipplin"
+        },
+        {
+          "raw": "- 2 cards were discarded from Joaorocio7's Dipplin.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Applin",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7's Grookey is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Drakloak was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "Joaorocio7",
+      "actions": [
+        {
+          "raw": "Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Joaorocio7 played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Bug Catching Set, Technical Machine: Evolution",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Applin, Dipplin",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Applin to the Bench.",
+          "type": "play",
+          "card": "Applin",
+          "to": "Bench"
+        },
+        {
+          "raw": "Joaorocio7 ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Super Rod, Rescue Board",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 2 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dreepy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Joaorocio7’s Grookey for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Joaorocio7’s Grookey",
+          "damage": 200
+        },
+        {
+          "raw": "Joaorocio7's Grookey was Knocked Out!",
+          "type": "knockout",
+          "target": "Joaorocio7's Grookey"
+        },
+        {
+          "raw": "Joaorocio7's Applin is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Nest Ball was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "Joaorocio7",
+      "actions": [
+        {
+          "raw": "Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Joaorocio7 attached Basic Grass Energy to Applin in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Applin"
+        },
+        {
+          "raw": "Joaorocio7 evolved Applin to Dipplin in the Active Spot.",
+          "type": "evolve",
+          "from": "Applin",
+          "to": "Dipplin"
+        },
+        {
+          "raw": "Joaorocio7 played Festival Grounds to the Stadium spot.",
+          "type": "play",
+          "card": "Festival Grounds",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- 0512SmileMan discarded Jamming Tower.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7's Thwackey used Boom Boom Groove.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Buddy-Buddy Poffin, Maximum Belt",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Applin, Grookey",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 attached Maximum Belt to Dipplin in the Active Spot.",
+          "type": "attach",
+          "energy": "Maximum Belt",
+          "target": "Dipplin"
+        },
+        {
+          "raw": "Joaorocio7's Dipplin used Do the Wave on 0512SmileMan’s Dragapult ex for 150 damage.",
+          "type": "attack",
+          "attackerOwner": "Joaorocio7",
+          "attacker": "Dipplin",
+          "attack": "Do the Wave",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 150
+        },
+        {
+          "raw": "Joaorocio7's Dipplin used Festival Lead.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 chose Do the Wave",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7's Dipplin used Do the Wave on 0512SmileMan’s Dragapult ex for 150 damage.",
+          "type": "attack",
+          "attackerOwner": "- Joaorocio7",
+          "attacker": "Dipplin",
+          "attack": "Do the Wave",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 150
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Natu to the Bench.",
+          "type": "play",
+          "card": "Natu",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Radiant Alakazam on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Radiant Alakazam"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Drakloak, Ultra Ball, Manaphy, Boss's Orders",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Nest Ball, Technical Machine: Devolution, Dreepy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Joaorocio7’s Dipplin for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Joaorocio7’s Dipplin",
+          "damage": 200
+        },
+        {
+          "raw": "Joaorocio7's Dipplin was Knocked Out!",
+          "type": "knockout",
+          "target": "Joaorocio7's Dipplin"
+        },
+        {
+          "raw": "- 3 cards were discarded from Joaorocio7's Dipplin.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Applin, Maximum Belt",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7's Applin is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Arven was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "Joaorocio7",
+      "actions": [
+        {
+          "raw": "Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Joaorocio7 evolved Applin to Dipplin in the Active Spot.",
+          "type": "evolve",
+          "from": "Applin",
+          "to": "Dipplin"
+        },
+        {
+          "raw": "Joaorocio7's Thwackey used Boom Boom Groove.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 evolved Grookey to Thwackey on the Bench.",
+          "type": "evolve",
+          "from": "Grookey",
+          "to": "Thwackey"
+        },
+        {
+          "raw": "Joaorocio7 played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Counter Catcher, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew Thwackey.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 evolved Grookey to Thwackey on the Bench.",
+          "type": "evolve",
+          "from": "Grookey",
+          "to": "Thwackey"
+        },
+        {
+          "raw": "Joaorocio7's Thwackey used Boom Boom Groove.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Lana's Aid.",
+          "type": "play",
+          "card": "Lana's Aid",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 moved Joaorocio7's 3 cards to their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "• Applin, Dipplin, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Applin to the Bench.",
+          "type": "play",
+          "card": "Applin",
+          "to": "Bench"
+        },
+        {
+          "raw": "Joaorocio7 attached Basic Grass Energy to Dipplin in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Dipplin"
+        },
+        {
+          "raw": "Joaorocio7's Thwackey used Boom Boom Groove.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dipplin, Applin, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7's Dipplin used Do the Wave on 0512SmileMan’s Dragapult ex for 100 damage.",
+          "type": "attack",
+          "attackerOwner": "Joaorocio7",
+          "attacker": "Dipplin",
+          "attack": "Do the Wave",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 100
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Joaorocio7's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to Joaorocio7's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7's Dipplin used Festival Lead.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 chose Do the Wave",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7's Dipplin used Do the Wave on 0512SmileMan’s Natu for 100 damage.",
+          "type": "attack",
+          "attackerOwner": "- Joaorocio7",
+          "attacker": "Dipplin",
+          "attack": "Do the Wave",
+          "target": "0512SmileMan’s Natu",
+          "damage": 100
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Joaorocio7's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Unfair Stamp.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Defiance Band",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Technical Machine: Devolution.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Psychic Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan attached Defiance Band to Drakloak in the Active Spot.",
+          "type": "attach",
+          "energy": "Defiance Band",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Dreepy to the Bench.",
+          "type": "play",
+          "card": "Dreepy",
+          "to": "Bench"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Natu and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled Basic Psychic Energy into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 moved Joaorocio7's 5 cards to their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Dragapult ex, Earthen Vessel, Basic Psychic Energy, Boss's Orders, Lost Vacuum",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Earthen Vessel to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 moved Joaorocio7's Festival Grounds to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on Joaorocio7’s Dipplin for 230 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "Joaorocio7’s Dipplin",
+          "damage": 230
+        },
+        {
+          "raw": "Joaorocio7's Dipplin was Knocked Out!",
+          "type": "knockout",
+          "target": "Joaorocio7's Dipplin"
+        },
+        {
+          "raw": "- 2 cards were discarded from Joaorocio7's Dipplin.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Grass Energy, Applin",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7's Applin is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Counter Catcher was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "player": "Joaorocio7",
+      "actions": [
+        {
+          "raw": "Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "Joaorocio7 played Bug Catching Set.",
+          "type": "play",
+          "card": "Bug Catching Set",
+          "to": null
+        },
+        {
+          "raw": "- Joaorocio7 drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dipplin, Basic Grass Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 evolved Applin to Dipplin in the Active Spot.",
+          "type": "evolve",
+          "from": "Applin",
+          "to": "Dipplin"
+        },
+        {
+          "raw": "Joaorocio7 attached Basic Grass Energy to Dipplin in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Grass Energy",
+          "target": "Dipplin"
+        },
+        {
+          "raw": "Joaorocio7's Thwackey used Boom Boom Groove.",
+          "type": "other"
+        },
+        {
+          "raw": "- Joaorocio7 drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "- Joaorocio7 shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7 played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan's Natu was switched with 0512SmileMan's Dragapult ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Natu is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "Joaorocio7's Dipplin used Do the Wave on 0512SmileMan’s Natu for 80 damage.",
+          "type": "attack",
+          "attackerOwner": "Joaorocio7",
+          "attacker": "Dipplin",
+          "attack": "Do the Wave",
+          "target": "0512SmileMan’s Natu",
+          "damage": 80
+        },
+        {
+          "raw": "0512SmileMan's Natu was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Natu"
+        },
+        {
+          "raw": "Joaorocio7 took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to Joaorocio7's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Opponent took all of their Prize cards. Joaorocio7 wins.",
+          "type": "result",
+          "detail": "Opponent took all of their Prize cards. Joaorocio7 wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 12,
+    "players": [
+      "Joaorocio7",
+      "0512SmileMan",
+      "- 0512SmileMan"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 3,
+        "raw": "Joaorocio7's Dipplin was Knocked Out!",
+        "target": "Joaorocio7's Dipplin"
+      },
+      {
+        "turn": 4,
+        "raw": "Joaorocio7's Grookey was Knocked Out!",
+        "target": "Joaorocio7's Grookey"
+      },
+      {
+        "turn": 5,
+        "raw": "Joaorocio7's Dipplin was Knocked Out!",
+        "target": "Joaorocio7's Dipplin"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      },
+      {
+        "turn": 6,
+        "raw": "Joaorocio7's Dipplin was Knocked Out!",
+        "target": "Joaorocio7's Dipplin"
+      },
+      {
+        "turn": 6,
+        "raw": "0512SmileMan's Natu was Knocked Out!",
+        "target": "0512SmileMan's Natu"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 3,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "Opponent took all of their Prize cards. Joaorocio7",
+      "method": null,
+      "final_turn": 6
+    }
+  }
+}

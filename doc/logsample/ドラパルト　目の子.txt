@@ -1,0 +1,173 @@
+Setup
+BrHueHueHue chose tails for the opening coin flip.
+0512SmileMan won the coin toss.
+BrHueHueHue decided to go second.
+BrHueHueHue drew 7 cards for the opening hand.
+- 7 drawn cards.
+0512SmileMan drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Dreepy, Xatu, Radiant Alakazam, Rotom V, Basic Fire Energy, Boss's Orders, Nest Ball
+BrHueHueHue played Snorunt to the Active Spot.
+BrHueHueHue played Snorunt to the Bench.
+0512SmileMan played Dreepy to the Active Spot.
+
+Turn # 1 - 0512SmileMan's Turn
+0512SmileMan drew Switch.
+0512SmileMan played Rotom V to the Bench.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Natu and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.
+0512SmileMan's Rotom V used Instant Charge.
+- 0512SmileMan drew 3 cards.
+   • Boss's Orders, Dreepy, Earthen Vessel
+
+Turn # 1 - BrHueHueHue's Turn
+BrHueHueHue drew a card.
+BrHueHueHue attached Basic Water Energy to Snorunt on the Bench.
+BrHueHueHue attached Rescue Board to Snorunt on the Bench.
+BrHueHueHue ended their turn.
+
+Turn # 2 - 0512SmileMan's Turn
+0512SmileMan drew Basic Fire Energy.
+0512SmileMan evolved Natu to Xatu on the Bench.
+0512SmileMan played Dreepy to the Bench.
+0512SmileMan played Earthen Vessel.
+- 0512SmileMan discarded Switch.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Basic Psychic Energy
+- 0512SmileMan shuffled their deck.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Basic Psychic Energy, Drakloak
+0512SmileMan evolved Dreepy to Drakloak in the Active Spot.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Nest Ball.
+0512SmileMan played Nest Ball.
+- 0512SmileMan drew Dreepy and played it to the Bench.
+- 0512SmileMan shuffled their deck.
+0512SmileMan attached Basic Psychic Energy to Drakloak in the Active Spot.
+0512SmileMan played Boss's Orders.
+- BrHueHueHue's Snorunt was switched with BrHueHueHue's Snorunt to become the Active Pokémon.
+BrHueHueHue's Snorunt is now in the Active Spot.
+0512SmileMan's Drakloak used Dragon Headbutt on BrHueHueHue’s Snorunt for 70 damage.
+BrHueHueHue's Snorunt was Knocked Out!
+- 2 cards were discarded from BrHueHueHue's Snorunt.
+   • Basic Water Energy, Rescue Board
+BrHueHueHue's Snorunt is now in the Active Spot.
+0512SmileMan took a Prize card.
+Buddy-Buddy Poffin was added to 0512SmileMan's hand.
+
+Turn # 2 - BrHueHueHue's Turn
+BrHueHueHue drew a card.
+BrHueHueHue played Irida.
+- BrHueHueHue drew 2 cards.
+   • Froakie, Rare Candy
+- BrHueHueHue shuffled their deck.
+BrHueHueHue played Froakie to the Bench.
+BrHueHueHue attached Basic Water Energy to Froakie on the Bench.
+BrHueHueHue evolved Snorunt to Froslass in the Active Spot.
+BrHueHueHue ended their turn.
+
+Pokémon Checkup
+BrHueHueHue's Froslass used Freezing Shroud.
+- BrHueHueHue put a damage counter on 0512SmileMan's Drakloak.
+- BrHueHueHue put a damage counter on 0512SmileMan's Rotom V.
+- BrHueHueHue put a damage counter on 0512SmileMan's Xatu.
+
+Turn # 3 - 0512SmileMan's Turn
+0512SmileMan drew Basic Psychic Energy.
+0512SmileMan's Xatu used Clairvoyant Sense.
+- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.
+- 0512SmileMan drew 2 cards.
+   • Drakloak, Jamming Tower
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Dragapult ex.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Manaphy.
+0512SmileMan evolved Drakloak to Dragapult ex in the Active Spot.
+0512SmileMan played Boss's Orders.
+- BrHueHueHue's Froakie was switched with BrHueHueHue's Froslass to become the Active Pokémon.
+BrHueHueHue's Froakie is now in the Active Spot.
+0512SmileMan's Dragapult ex used Phantom Dive on BrHueHueHue’s Froakie for 200 damage.
+- 0512SmileMan put 6 damage counters on BrHueHueHue's Froslass.
+BrHueHueHue's Froakie was Knocked Out!
+Basic Water Energy was discarded from BrHueHueHue's Froakie.
+BrHueHueHue's Froslass is now in the Active Spot.
+0512SmileMan took a Prize card.
+Collapsed Stadium was added to 0512SmileMan's hand.
+
+Pokémon Checkup
+BrHueHueHue's Froslass used Freezing Shroud.
+- 0512SmileMan put a damage counter on 0512SmileMan's Rotom V.
+- 0512SmileMan put a damage counter on 0512SmileMan's Xatu.
+- 0512SmileMan put a damage counter on 0512SmileMan's Drakloak.
+
+Turn # 3 - BrHueHueHue's Turn
+BrHueHueHue drew a card.
+BrHueHueHue played Buddy-Buddy Poffin.
+- BrHueHueHue drew 2 cards and played them to the Bench.
+   • Froakie, Manaphy
+- BrHueHueHue shuffled their deck.
+BrHueHueHue attached Double Turbo Energy to Froakie on the Bench.
+BrHueHueHue ended their turn.
+
+Pokémon Checkup
+BrHueHueHue's Froslass used Freezing Shroud.
+- BrHueHueHue put a damage counter on BrHueHueHue's Manaphy.
+- BrHueHueHue put a damage counter on 0512SmileMan's Rotom V.
+- BrHueHueHue put a damage counter on 0512SmileMan's Xatu.
+- BrHueHueHue put a damage counter on 0512SmileMan's Drakloak.
+
+Turn # 4 - 0512SmileMan's Turn
+0512SmileMan drew Buddy-Buddy Poffin.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Arven.
+0512SmileMan played Arven.
+- 0512SmileMan drew 2 cards.
+   • Ultra Ball, Forest Seal Stone
+- 0512SmileMan shuffled their deck.
+0512SmileMan played Ultra Ball.
+- 0512SmileMan discarded 2 cards.
+   • Buddy-Buddy Poffin, Buddy-Buddy Poffin
+- 0512SmileMan drew Drakloak.
+- 0512SmileMan shuffled their deck.
+0512SmileMan evolved Dreepy to Drakloak on the Bench.
+0512SmileMan's Drakloak used Recon Directive.
+- 0512SmileMan drew Buddy-Buddy Poffin.
+0512SmileMan played Radiant Alakazam to the Bench.
+0512SmileMan's Radiant Alakazam used Painful Spoons.
+- 0512SmileMan moved 2 damage counters from BrHueHueHue's Froslass to BrHueHueHue's Froakie.
+0512SmileMan's Dragapult ex used Phantom Dive on BrHueHueHue’s Froslass for 200 damage.
+- 0512SmileMan put 5 damage counters on BrHueHueHue's Froakie.
+- 0512SmileMan put a damage counter on BrHueHueHue's Manaphy.
+BrHueHueHue's Froslass was Knocked Out!
+Snorunt was discarded from BrHueHueHue's Froslass.
+BrHueHueHue's Froakie was Knocked Out!
+Double Turbo Energy was discarded from BrHueHueHue's Froakie.
+BrHueHueHue's Manaphy is now in the Active Spot.
+0512SmileMan took 2 Prize cards.
+Arven was added to 0512SmileMan's hand.
+Super Rod was added to 0512SmileMan's hand.
+
+Turn # 4 - BrHueHueHue's Turn
+BrHueHueHue drew a card.
+BrHueHueHue played Buddy-Buddy Poffin.
+- BrHueHueHue drew 2 cards and played them to the Bench.
+   • Froakie, Cleffa
+- BrHueHueHue shuffled their deck.
+BrHueHueHue ended their turn.
+
+Turn # 5 - 0512SmileMan's Turn
+0512SmileMan drew Technical Machine: Evolution.
+0512SmileMan's Dragapult ex used Phantom Dive on BrHueHueHue’s Manaphy for 200 damage.
+- 0512SmileMan put 6 damage counters on BrHueHueHue's Froakie.
+BrHueHueHue's Manaphy was Knocked Out!
+BrHueHueHue's Froakie was Knocked Out!
+0512SmileMan took 2 Prize cards.
+Basic Fire Energy was added to 0512SmileMan's hand.
+Rare Candy was added to 0512SmileMan's hand.
+All Prize cards taken. 0512SmileMan wins.
+

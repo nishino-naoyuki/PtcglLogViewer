@@ -1,0 +1,1541 @@
+{
+  "file": "ドラパルト　エンテイ2.txt",
+  "players": [
+    "0512SmileMan",
+    "tokakuOvO"
+  ],
+  "setup": [
+    "Setup",
+    "0512SmileMan chose tails for the opening coin flip.",
+    "tokakuOvO won the coin toss.",
+    "tokakuOvO decided to go first.",
+    "0512SmileMan drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "• Boss's Orders, Dreepy, Dragapult ex, Ultra Ball, Basic Psychic Energy, Radiant Alakazam, Buddy-Buddy Poffin",
+    "tokakuOvO drew 7 cards for the opening hand.",
+    "- 7 drawn cards.",
+    "0512SmileMan played Dreepy to the Active Spot.",
+    "tokakuOvO played Charcadet to the Active Spot."
+  ],
+  "turns": [
+    {
+      "number": 1,
+      "player": "tokakuOvO",
+      "actions": [
+        {
+          "raw": "tokakuOvO drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tokakuOvO played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew Radiant Greninja.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO played Radiant Greninja to the Bench.",
+          "type": "play",
+          "card": "Radiant Greninja",
+          "to": "Bench"
+        },
+        {
+          "raw": "tokakuOvO's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "tokakuOvO played Charcadet to the Bench.",
+          "type": "play",
+          "card": "Charcadet",
+          "to": "Bench"
+        },
+        {
+          "raw": "tokakuOvO played Magma Basin to the Stadium spot.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "tokakuOvO played Magma Basin.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Charcadet on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charcadet"
+        },
+        {
+          "raw": "- tokakuOvO put 2 damage counters on tokakuOvO's Charcadet.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Iono.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Natu",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 4 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Radiant Alakazam, Boss's Orders, Ultra Ball, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "• Nest Ball, Buddy-Buddy Poffin, Basic Fire Energy, Jamming Tower, Earthen Vessel, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 6 cards.",
+          "type": "draw",
+          "count": 6
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards and played them to the Bench.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Dreepy, Manaphy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Nest Ball.",
+          "type": "play",
+          "card": "Nest Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Rotom V and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Instant Charge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Boss's Orders, Xatu, Unfair Stamp",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "tokakuOvO",
+      "actions": [
+        {
+          "raw": "tokakuOvO drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tokakuOvO's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "tokakuOvO played Flutter Mane to the Bench.",
+          "type": "play",
+          "card": "Flutter Mane",
+          "to": "Bench"
+        },
+        {
+          "raw": "tokakuOvO played Gouging Fire ex to the Bench.",
+          "type": "play",
+          "card": "Gouging Fire ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "tokakuOvO played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Flutter Mane on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Flutter Mane"
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "- tokakuOvO drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "tokakuOvO played Mew ex to the Bench.",
+          "type": "play",
+          "card": "Mew ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "tokakuOvO attached Exp. Share to Mew ex on the Bench.",
+          "type": "attach",
+          "energy": "Exp. Share",
+          "target": "Mew ex"
+        },
+        {
+          "raw": "tokakuOvO attached Exp. Share to Charcadet on the Bench.",
+          "type": "attach",
+          "energy": "Exp. Share",
+          "target": "Charcadet"
+        },
+        {
+          "raw": "tokakuOvO played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Magma Basin, Charcadet",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO evolved Charcadet to Armarouge on the Bench.",
+          "type": "evolve",
+          "from": "Charcadet",
+          "to": "Armarouge"
+        },
+        {
+          "raw": "tokakuOvO's Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tokakuOvO attached Basic Fire Energy to Charcadet in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charcadet"
+        },
+        {
+          "raw": "tokakuOvO retreated Charcadet to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "- Basic Fire Energy was discarded from tokakuOvO's Charcadet.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Flutter Mane is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO played Magma Basin.",
+          "type": "play",
+          "card": "Magma Basin",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Charcadet on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Charcadet"
+        },
+        {
+          "raw": "- tokakuOvO put 2 damage counters on tokakuOvO's Charcadet.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Armarouge used Fire Off.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Flutter Mane in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Flutter Mane"
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Flutter Mane in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Flutter Mane"
+        },
+        {
+          "raw": "tokakuOvO's Flutter Mane used Hex Hurl on 0512SmileMan’s Dreepy for 90 damage.",
+          "type": "attack",
+          "attackerOwner": "tokakuOvO",
+          "attacker": "Flutter Mane",
+          "attack": "Hex Hurl",
+          "target": "0512SmileMan’s Dreepy",
+          "damage": 90
+        },
+        {
+          "raw": "- tokakuOvO put 2 damage counters on 0512SmileMan's Dreepy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dreepy"
+        },
+        {
+          "raw": "0512SmileMan's Dreepy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to tokakuOvO's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dreepy in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "0512SmileMan evolved Natu to Xatu on the Bench.",
+          "type": "evolve",
+          "from": "Natu",
+          "to": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Boss's Orders.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Dreepy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Dreepy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Ultra Ball, Super Rod",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dragapult ex, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Drakloak.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Forest Seal Stone.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Forest Seal Stone to Rotom V on the Bench.",
+          "type": "attach",
+          "energy": "Forest Seal Stone",
+          "target": "Rotom V"
+        },
+        {
+          "raw": "0512SmileMan's Rotom V used Star Alchemy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan can no longer use VSTAR Powers.",
+          "type": "vstar",
+          "detail": "0512SmileMan can no longer use VSTAR Powers."
+        },
+        {
+          "raw": "0512SmileMan played Rare Candy.",
+          "type": "play",
+          "card": "Rare Candy",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan evolved Dreepy to Dragapult ex in the Active Spot.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan played Super Rod.",
+          "type": "play",
+          "card": "Super Rod",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Dreepy, Dragapult ex, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Jamming Tower to the Stadium spot.",
+          "type": "play",
+          "card": "Jamming Tower",
+          "to": "Stadium spot"
+        },
+        {
+          "raw": "- tokakuOvO discarded Magma Basin.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Unfair Stamp.",
+          "type": "play",
+          "card": "Unfair Stamp",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO shuffled 3 cards into their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "• Dragapult ex, Buddy-Buddy Poffin, Basic Psychic Energy, Dragapult ex, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "0512SmileMan played Buddy-Buddy Poffin.",
+          "type": "play",
+          "card": "Buddy-Buddy Poffin",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew Dreepy and played it to the Bench.",
+          "type": "play",
+          "card": "it",
+          "to": "Bench"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on tokakuOvO’s Flutter Mane for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "tokakuOvO’s Flutter Mane",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on tokakuOvO's Gouging Fire ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 5 damage counters on tokakuOvO's Charcadet.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Flutter Mane was Knocked Out!",
+          "type": "knockout",
+          "target": "tokakuOvO's Flutter Mane"
+        },
+        {
+          "raw": "- 3 cards were discarded from tokakuOvO's Flutter Mane.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Fire Energy, Basic Fire Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Charcadet was Knocked Out!",
+          "type": "knockout",
+          "target": "tokakuOvO's Charcadet"
+        },
+        {
+          "raw": "tokakuOvO's Mew ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Basic Fire Energy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Iono was added to 0512SmileMan's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "tokakuOvO",
+      "actions": [
+        {
+          "raw": "tokakuOvO drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tokakuOvO played Gouging Fire ex to the Bench.",
+          "type": "play",
+          "card": "Gouging Fire ex",
+          "to": "Bench"
+        },
+        {
+          "raw": "tokakuOvO played Tatsugiri to the Bench.",
+          "type": "play",
+          "card": "Tatsugiri",
+          "to": "Bench"
+        },
+        {
+          "raw": "tokakuOvO's Mew ex used Restart.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "tokakuOvO's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO discarded Basic Water Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "tokakuOvO played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 6 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Switch, Dragapult ex, Iono, Basic Fire Energy, Dragapult ex",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 4 cards.",
+          "type": "draw",
+          "count": 4
+        },
+        {
+          "raw": "• Arven, Drakloak, Rare Candy, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "tokakuOvO played Lost Vacuum.",
+          "type": "play",
+          "card": "Lost Vacuum",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO moved tokakuOvO's Luminous Energy to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan moved 0512SmileMan's Jamming Tower to the Lost Zone.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO retreated Mew ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Tatsugiri is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Tatsugiri used Attract Customers.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew Professor Sada's Vitality.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO ended their turn.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Nest Ball.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Dreepy to Drakloak on the Bench.",
+          "type": "evolve",
+          "from": "Dreepy",
+          "to": "Drakloak"
+        },
+        {
+          "raw": "0512SmileMan played Arven.",
+          "type": "play",
+          "card": "Arven",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Earthen Vessel, Technical Machine: Devolution",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan discarded Rare Candy.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Drakloak on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Drakloak"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Iono, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Radiant Alakazam.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Arven.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Devolution to Manaphy on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Devolution",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on tokakuOvO’s Tatsugiri for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "tokakuOvO’s Tatsugiri",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put a damage counter on tokakuOvO's Gouging Fire ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 damage counters on tokakuOvO's Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 3 damage counters on tokakuOvO's Gouging Fire ex.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Tatsugiri was Knocked Out!",
+          "type": "knockout",
+          "target": "tokakuOvO's Tatsugiri"
+        },
+        {
+          "raw": "tokakuOvO's Mew ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "Enhanced Hammer was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Devolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Devolution was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "tokakuOvO",
+      "actions": [
+        {
+          "raw": "tokakuOvO drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tokakuOvO played Professor Sada's Vitality.",
+          "type": "play",
+          "card": "Professor Sada's Vitality",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Gouging Fire ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "- tokakuOvO drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "tokakuOvO's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "tokakuOvO played Munkidori to the Bench.",
+          "type": "play",
+          "card": "Munkidori",
+          "to": "Bench"
+        },
+        {
+          "raw": "tokakuOvO attached Luminous Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Luminous Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "tokakuOvO's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO moved 3 damage counters from tokakuOvO's Gouging Fire ex to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO retreated Mew ex to the Bench.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Gouging Fire ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Armarouge used Fire Off.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Gouging Fire ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "tokakuOvO's Gouging Fire ex used Blaze Blitz on 0512SmileMan’s Dragapult ex for 260 damage.",
+          "type": "attack",
+          "attackerOwner": "tokakuOvO",
+          "attacker": "Gouging Fire ex",
+          "attack": "Blaze Blitz",
+          "target": "0512SmileMan’s Dragapult ex",
+          "damage": 260
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Natu.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Enhanced Hammer.",
+          "type": "play",
+          "card": "Enhanced Hammer",
+          "to": null
+        },
+        {
+          "raw": "- Luminous Energy was discarded from tokakuOvO's Munkidori.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Drakloak used Recon Directive.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew Basic Psychic Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Xatu used Clairvoyant Sense.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan attached Basic Psychic Energy to Manaphy on the Bench.",
+          "type": "attach",
+          "energy": "Basic Psychic Energy",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "- 0512SmileMan drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "• Rescue Board, Buddy-Buddy Poffin",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan evolved Drakloak to Dragapult ex on the Bench.",
+          "type": "evolve",
+          "from": "Drakloak",
+          "to": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Basic Fire Energy to Dragapult ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Dragapult ex"
+        },
+        {
+          "raw": "0512SmileMan attached Rescue Board to Xatu on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Xatu"
+        },
+        {
+          "raw": "0512SmileMan played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 7 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Arven, Arven, Natu, Nest Ball, Nest Ball, Buddy-Buddy Poffin, Radiant Alakazam",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO put 5 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Counter Catcher, Technical Machine: Evolution, Switch",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "0512SmileMan attached Technical Machine: Evolution to Manaphy on the Bench.",
+          "type": "attach",
+          "energy": "Technical Machine: Evolution",
+          "target": "Manaphy"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on tokakuOvO’s Gouging Fire ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "tokakuOvO’s Gouging Fire ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on tokakuOvO's Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "Technical Machine: Evolution was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- Technical Machine: Evolution was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "tokakuOvO",
+      "actions": [
+        {
+          "raw": "tokakuOvO drew a card.",
+          "type": "draw",
+          "count": 1
+        },
+        {
+          "raw": "tokakuOvO attached Rescue Board to Radiant Greninja on the Bench.",
+          "type": "attach",
+          "energy": "Rescue Board",
+          "target": "Radiant Greninja"
+        },
+        {
+          "raw": "tokakuOvO played Switch.",
+          "type": "play",
+          "card": "Switch",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO's Gouging Fire ex was switched with tokakuOvO's Gouging Fire ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Gouging Fire ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO played Iono.",
+          "type": "play",
+          "card": "Iono",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO put 3 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan shuffled their hand.",
+          "type": "other"
+        },
+        {
+          "raw": "- 0512SmileMan put 2 cards on the bottom of their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "• Switch, Counter Catcher",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 5 cards.",
+          "type": "draw",
+          "count": 5
+        },
+        {
+          "raw": "- 0512SmileMan drew 3 cards.",
+          "type": "draw",
+          "count": 3
+        },
+        {
+          "raw": "• Ultra Ball, Boss's Orders, Arven",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO played Earthen Vessel.",
+          "type": "play",
+          "card": "Earthen Vessel",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO discarded Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew Basic Darkness Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO attached Basic Darkness Energy to Munkidori on the Bench.",
+          "type": "attach",
+          "energy": "Basic Darkness Energy",
+          "target": "Munkidori"
+        },
+        {
+          "raw": "tokakuOvO's Munkidori used Adrena-Brain.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO moved 3 damage counters from tokakuOvO's Gouging Fire ex to 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Dragapult ex"
+        },
+        {
+          "raw": "- 3 cards were discarded from 0512SmileMan's Dragapult ex.",
+          "type": "other"
+        },
+        {
+          "raw": "• Basic Psychic Energy, Basic Fire Energy, Dreepy",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Manaphy is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO took 2 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to tokakuOvO's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "A card was added to tokakuOvO's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Radiant Greninja used Concealed Cards.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO discarded Basic Fire Energy.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew 2 cards.",
+          "type": "draw",
+          "count": 2
+        },
+        {
+          "raw": "tokakuOvO played Ultra Ball.",
+          "type": "play",
+          "card": "Ultra Ball",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO discarded 2 cards.",
+          "type": "other"
+        },
+        {
+          "raw": "• Nest Ball, Nest Ball",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO drew Iron Hands ex.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO shuffled their deck.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Armarouge used Fire Off.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Gouging Fire ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Gouging Fire ex in the Active Spot.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Gouging Fire ex"
+        },
+        {
+          "raw": "tokakuOvO's Gouging Fire ex used Blaze Blitz on 0512SmileMan’s Manaphy for 260 damage.",
+          "type": "attack",
+          "attackerOwner": "tokakuOvO",
+          "attacker": "Gouging Fire ex",
+          "attack": "Blaze Blitz",
+          "target": "0512SmileMan’s Manaphy",
+          "damage": 260
+        },
+        {
+          "raw": "0512SmileMan's Manaphy was Knocked Out!",
+          "type": "knockout",
+          "target": "0512SmileMan's Manaphy"
+        },
+        {
+          "raw": "Basic Psychic Energy was discarded from 0512SmileMan's Manaphy.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO took a Prize card.",
+          "type": "prize"
+        },
+        {
+          "raw": "A card was added to tokakuOvO's hand.",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "player": "0512SmileMan",
+      "actions": [
+        {
+          "raw": "0512SmileMan drew Earthen Vessel.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan played Boss's Orders.",
+          "type": "play",
+          "card": "Boss's Orders",
+          "to": null
+        },
+        {
+          "raw": "- tokakuOvO's Gouging Fire ex was switched with tokakuOvO's Gouging Fire ex to become the Active Pokémon.",
+          "type": "other"
+        },
+        {
+          "raw": "tokakuOvO's Gouging Fire ex is now in the Active Spot.",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan's Dragapult ex used Phantom Dive on tokakuOvO’s Gouging Fire ex for 200 damage.",
+          "type": "attack",
+          "attackerOwner": "0512SmileMan",
+          "attacker": "Dragapult ex",
+          "attack": "Phantom Dive",
+          "target": "tokakuOvO’s Gouging Fire ex",
+          "damage": 200
+        },
+        {
+          "raw": "- 0512SmileMan put 6 damage counters on tokakuOvO's Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "Exp. Share was activated.",
+          "type": "other"
+        },
+        {
+          "raw": "- tokakuOvO attached Basic Fire Energy to Mew ex on the Bench.",
+          "type": "attach",
+          "energy": "Basic Fire Energy",
+          "target": "Mew ex"
+        },
+        {
+          "raw": "tokakuOvO's Gouging Fire ex was Knocked Out!",
+          "type": "knockout",
+          "target": "tokakuOvO's Gouging Fire ex"
+        },
+        {
+          "raw": "tokakuOvO's Armarouge was Knocked Out!",
+          "type": "knockout",
+          "target": "tokakuOvO's Armarouge"
+        },
+        {
+          "raw": "- 2 cards were discarded from tokakuOvO's Armarouge.",
+          "type": "other"
+        },
+        {
+          "raw": "• Charcadet, Exp. Share",
+          "type": "other"
+        },
+        {
+          "raw": "0512SmileMan took 3 Prize cards.",
+          "type": "other"
+        },
+        {
+          "raw": "Dreepy was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Defiance Band was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "Lost Vacuum was added to 0512SmileMan's hand.",
+          "type": "other"
+        },
+        {
+          "raw": "All Prize cards taken. 0512SmileMan wins.",
+          "type": "result",
+          "detail": "All Prize cards taken. 0512SmileMan wins."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "turn_count": 10,
+    "players": [
+      "0512SmileMan",
+      "tokakuOvO"
+    ],
+    "knockouts": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan's Dreepy was Knocked Out!",
+        "target": "0512SmileMan's Dreepy"
+      },
+      {
+        "turn": 2,
+        "raw": "tokakuOvO's Flutter Mane was Knocked Out!",
+        "target": "tokakuOvO's Flutter Mane"
+      },
+      {
+        "turn": 2,
+        "raw": "tokakuOvO's Charcadet was Knocked Out!",
+        "target": "tokakuOvO's Charcadet"
+      },
+      {
+        "turn": 3,
+        "raw": "tokakuOvO's Tatsugiri was Knocked Out!",
+        "target": "tokakuOvO's Tatsugiri"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Dragapult ex was Knocked Out!",
+        "target": "0512SmileMan's Dragapult ex"
+      },
+      {
+        "turn": 5,
+        "raw": "0512SmileMan's Manaphy was Knocked Out!",
+        "target": "0512SmileMan's Manaphy"
+      },
+      {
+        "turn": 5,
+        "raw": "tokakuOvO's Gouging Fire ex was Knocked Out!",
+        "target": "tokakuOvO's Gouging Fire ex"
+      },
+      {
+        "turn": 5,
+        "raw": "tokakuOvO's Armarouge was Knocked Out!",
+        "target": "tokakuOvO's Armarouge"
+      }
+    ],
+    "vstar": [
+      {
+        "turn": 2,
+        "raw": "0512SmileMan can no longer use VSTAR Powers."
+      }
+    ],
+    "special_conditions": [],
+    "result": {
+      "winner": "All Prize cards taken. 0512SmileMan",
+      "method": null,
+      "final_turn": 5
+    }
+  }
+}
