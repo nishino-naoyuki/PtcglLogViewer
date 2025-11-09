@@ -16,7 +16,8 @@ html,
 .app-shell {
   display: flex;
   flex-direction: column;
-  min-height: 100%;
+  gap: 1rem;
+  min-height: 100vh;
 }
 
 .app-header,
@@ -97,10 +98,15 @@ html,
 }
 
 .play-table {
-  width: 100%;
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 1rem;
+  border-radius: 16px;
+  background: rgba(15, 23, 42, 0.35);
+  backdrop-filter: blur(8px);
+  box-shadow: inset 0 0 0 1px rgba(148, 163, 184, 0.15);
 }
 
 .player-side {
@@ -133,21 +139,23 @@ html,
 }
 
 .card-slot {
-  width: 110px;
-  min-height: 140px;
-  background: #0f1319;
-  border: 1px solid #273142;
-  border-radius: 8px;
-  padding: 6px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 6px;
+  gap: 0.25rem;
+  padding: 0.5rem;
+  min-width: 110px;
+  min-height: 140px;
+  background: rgba(15, 23, 42, 0.55);
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.4);
 }
 
 .card-slot.empty {
   justify-content: center;
-  color: #5c6779;
+  color: #94a3b8;
+  font-size: 0.9rem;
 }
 
 .card-placeholder {
@@ -271,4 +279,149 @@ html,
 
 .log-loader__actions button:last-child {
   background: #3c465a;
+}
+
+.scoreboard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #0f172a;
+  color: #f8fafc;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(15, 23, 42, 0.35);
+}
+
+.scoreboard__side {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 12rem;
+  text-align: center;
+}
+
+.scoreboard__player {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.scoreboard__prize {
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+.scoreboard__prize-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.scoreboard__prize-cards {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.scoreboard__prize-card {
+  width: 40px;
+  height: 56px;
+  border-radius: 6px;
+  box-shadow: 0 3px 8px rgba(15, 23, 42, 0.45);
+  object-fit: cover;
+}
+
+.scoreboard__prize-text {
+  font-size: 0.9rem;
+  color: #e2e8f0;
+}
+
+.scoreboard__center {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  text-align: center;
+  font-weight: 600;
+}
+
+.viewer-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 1.5rem;
+  flex: 1;
+}
+
+.viewer-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.loader-section {
+  background: rgba(15, 23, 42, 0.45);
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+.player-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.player-area__name {
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #f1f5f9;
+}
+
+.player-area__hand {
+  width: 100%;
+  text-align: center;
+}
+
+.hand-display {
+  display: inline-block;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  background: rgba(56, 189, 248, 0.2);
+  color: #e0f2fe;
+  font-weight: 500;
+}
+
+.hand-display.unknown {
+  background: rgba(148, 163, 184, 0.2);
+  color: #cbd5f5;
+}
+
+.player-area__bench {
+  display: flex;
+  gap: 0.5rem;
+  width: 100%;
+  justify-content: center;
+}
+
+.bench-vertical {
+  flex-direction: column;
+  align-items: center;
+}
+
+.bench-horizontal {
+  flex-wrap: wrap;
+}
+
+.player-area__active {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.card-label {
+  font-size: 0.85rem;
+  text-align: center;
+  color: #e2e8f0;
 }

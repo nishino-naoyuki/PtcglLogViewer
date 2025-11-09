@@ -9,27 +9,23 @@ Port 5175 is in use, trying 10:27:18 AM [vite] page reload src/state/u10:27:1810
 10:28:33 AM [vite] page reload src/state/u10:28:3310:30:51 AM [vite] page reload src/state/utils.ts
 10:31:00 AM [vite] page reload src/state/utils.ts
 10:31:02 AM [vite] page reload src/state/u10:31:0210:34:49 AM [vite] hmr update /src/components/ActionLog.tsx
-10:34:52 AM [vite] hmr update /src/compone10:34:52 AM [vite] hmr update /src/components/ActionLog.tsx
-] hmr update /src/components/ActionLog.tsx
-10:39:14 AM [vite] hmr update /src/components/ActionLog.tsx
-10:39:16 AM [vite] hmr update /src/components/ActionLog.tsx
-10:53:09 AM [vite] hmr update /src/components/ActionLog.tsx
-10:53:10 AM [vite] Pre-transform error: Transform failed with 1 error:
-/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
-10:53:10 AM [vite] Internal server error: Transform failed with 1 error:
-/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
-  Plugin: vite:esbuild
-  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
-  
-  Expected "]" but found ";"
-  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
-  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
-  26 |  };
-     |   ^
-  27 |  
-  28 |  export function translateAction(raw: string): string {
-  
-      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+10:34:52 AM [vite] hmr update /src/compone10:34:52 AM [vite]11:15:06 AM [vite] hmr update /src/styles.css
+11:15:08 AM [vite] hmr update /src/styles.11:111:15:16 AM [vite] hmr update /src/components/PlayTable.tsx
+11:15:23 AM [vite] hmr update /src/compone11:15:23 AM [vite]11:15:33 AM [vite] hmr update /src/App.tsx111:15:36 AM [vite] hmr update /src/App.tsx
+11:22:17 AM [vite] page reload src/state/u11:22:1711:22:23 AM [vite] page reload src/state/u11:22:2311:24:46 AM [vite] page reload src/state/u11:24:4611:24:52 AM [vite] page reload src/state/utils.ts
+11:24:54 AM [vite] page reload src/state/utils.ts
+11:25:18 AM [vite] page reload src/state/u11:25:1811:26:15 AM [vite] page reload src/state/utils.ts
+11:26:24 AM [vite] page reload src/state/u11:26:2411:27:21 AM [vite] page reload src/state/utils.ts
+11:27:25 AM [vite] page reload src/state/utils.ts
+11:30:26 AM [vite] page reload src/state/utils.ts
+11:41:59 AM [vite] hmr update /src/styles.css
+11:42:01 AM [vite] hmr update /src/styles.css
+11:42:11 AM [vite] hmr update /src/App.tsx
+11:42:17 AM [vite] hmr update /src/App.tsx
+11:43:44 AM [vite] hmr update /src/App.tsx
+11:43:50 AM [vite] hmr update /src/App.tsx111:43:52 AM [vite] hmr update /src/App.tsx
+1:43:52 AM [vite] hmr update /src/App.tsx
+/web/node_modules/esbuild/lib/main.js:1472:15)
       at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
       at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
       at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
@@ -495,3 +491,658 @@ Port 5175 is in use, trying 10:27:18 AM [vite] page reload src/state/u10:27:1810
 10:57:37 AM [vite] hmr update /src/components/ActionLog.tsx
 11:04:00 AM [vite] hmr update /src/components/ActionLog.tsx
 11:04:02 AM [vite] hmr update /src/components/ActionLog.tsx
+11:15:06 AM [vite] hmr update /src/styles.css
+11:15:08 AM [vite] hmr update /src/styles.css
+11:15:16 AM [vite] hmr update /src/components/PlayTable.tsx
+11:15:23 AM [vite] hmr update /src/components/PlayTable.tsx
+11:15:33 AM [vite] hmr update /src/App.tsx
+11:15:36 AM [vite] hmr update /src/App.tsx
+11:22:17 AM [vite] page reload src/state/utils.ts
+11:22:18 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6: ERROR: Expected "(" but found end of file
+11:22:19 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6: ERROR: Expected "(" but found end of file
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6
+  
+  Expected "(" but found end of file
+  226|    if (match) {
+  227|      const player = resolvePlayerName(match[1], defaultPlayer, players);
+  228|      if
+     |        ^
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:22:19 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6: ERROR: Expected "(" but found end of file
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6
+  
+  Expected "(" but found end of file
+  226|    if (match) {
+  227|      const player = resolvePlayerName(match[1], defaultPlayer, players);
+  228|      if
+     |        ^
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:22:23 AM [vite] page reload src/state/utils.ts
+11:22:24 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6: ERROR: Expected "(" but found end of file
+11:22:24 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6: ERROR: Expected "(" but found end of file
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6
+  
+  Expected "(" but found end of file
+  226|    if (match) {
+  227|      const player = resolvePlayerName(match[1], defaultPlayer, players);
+  228|      if
+     |        ^
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:22:25 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6: ERROR: Expected "(" but found end of file
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6
+  
+  Expected "(" but found end of file
+  226|    if (match) {
+  227|      const player = resolvePlayerName(match[1], defaultPlayer, players);
+  228|      if
+     |        ^
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:22:37 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6: ERROR: Expected "(" but found end of file
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:228:6
+  
+  Expected "(" but found end of file
+  226|    if (match) {
+  227|      const player = resolvePlayerName(match[1], defaultPlayer, players);
+  228|      if
+     |        ^
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:24:46 AM [vite] page reload src/state/utils.ts
+11:24:52 AM [vite] page reload src/state/utils.ts
+11:24:53 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627: ERROR: Unexpected "}"
+11:24:53 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627: ERROR: Unexpected "}"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627
+  
+  Unexpected "}"
+  309|  
+  310|  
+  311|  }  }    return;    }      promoteToActive(board, player, promoteMatch[2]);      removeCardFromBoard(board, player, promoteMatch[2]);    if (player) {    const player = resolvePlayerName(promoteMatch[1], defaultPlayer, players);  if (promoteMatch) {  const promoteMatch = line.match(PROMOTE_ACTIVE_RE);  }    return;    }      addBenchCard(board, player, playBenchMatch[2]);      removeCardFromBoard(board, player, playBenchMatch[2]);    if (player) {    const player = resolvePlayerName(playBenchMatch[1], defaultPlayer, players);  if (playBenchMatch) {  const playBenchMatch = line.match(PLAY_BENCH_RE);  }    return;    }    }
+     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+  312|      return;
+  313|    }
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:24:54 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627: ERROR: Unexpected "}"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627
+  
+  Unexpected "}"
+  309|  
+  310|  
+  311|  }  }    return;    }      promoteToActive(board, player, promoteMatch[2]);      removeCardFromBoard(board, player, promoteMatch[2]);    if (player) {    const player = resolvePlayerName(promoteMatch[1], defaultPlayer, players);  if (promoteMatch) {  const promoteMatch = line.match(PROMOTE_ACTIVE_RE);  }    return;    }      addBenchCard(board, player, playBenchMatch[2]);      removeCardFromBoard(board, player, playBenchMatch[2]);    if (player) {    const player = resolvePlayerName(playBenchMatch[1], defaultPlayer, players);  if (playBenchMatch) {  const playBenchMatch = line.match(PLAY_BENCH_RE);  }    return;    }    }
+     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+  312|      return;
+  313|    }
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:24:54 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627: ERROR: Unexpected "}"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627
+  
+  Unexpected "}"
+  309|  
+  310|  
+  311|  }  }    return;    }      promoteToActive(board, player, promoteMatch[2]);      removeCardFromBoard(board, player, promoteMatch[2]);    if (player) {    const player = resolvePlayerName(promoteMatch[1], defaultPlayer, players);  if (promoteMatch) {  const promoteMatch = line.match(PROMOTE_ACTIVE_RE);  }    return;    }      addBenchCard(board, player, playBenchMatch[2]);      removeCardFromBoard(board, player, playBenchMatch[2]);    if (player) {    const player = resolvePlayerName(playBenchMatch[1], defaultPlayer, players);  if (playBenchMatch) {  const playBenchMatch = line.match(PLAY_BENCH_RE);  }    return;    }    }
+     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+  312|      return;
+  313|    }
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:24:54 AM [vite] page reload src/state/utils.ts
+11:24:54 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627: ERROR: Unexpected "}"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627
+  
+  Unexpected "}"
+  309|  
+  310|  
+  311|  }  }    return;    }      promoteToActive(board, player, promoteMatch[2]);      removeCardFromBoard(board, player, promoteMatch[2]);    if (player) {    const player = resolvePlayerName(promoteMatch[1], defaultPlayer, players);  if (promoteMatch) {  const promoteMatch = line.match(PROMOTE_ACTIVE_RE);  }    return;    }      addBenchCard(board, player, playBenchMatch[2]);      removeCardFromBoard(board, player, playBenchMatch[2]);    if (player) {    const player = resolvePlayerName(playBenchMatch[1], defaultPlayer, players);  if (playBenchMatch) {  const playBenchMatch = line.match(PLAY_BENCH_RE);  }    return;    }    }
+     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+  312|      return;
+  313|    }
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:24:55 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627: ERROR: Unexpected "}"
+11:24:55 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627: ERROR: Unexpected "}"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:311:627
+  
+  Unexpected "}"
+  309|  
+  310|  
+  311|  }  }    return;    }      promoteToActive(board, player, promoteMatch[2]);      removeCardFromBoard(board, player, promoteMatch[2]);    if (player) {    const player = resolvePlayerName(promoteMatch[1], defaultPlayer, players);  if (promoteMatch) {  const promoteMatch = line.match(PROMOTE_ACTIVE_RE);  }    return;    }      addBenchCard(board, player, playBenchMatch[2]);      removeCardFromBoard(board, player, playBenchMatch[2]);    if (player) {    const player = resolvePlayerName(playBenchMatch[1], defaultPlayer, players);  if (playBenchMatch) {  const playBenchMatch = line.match(PLAY_BENCH_RE);  }    return;    }    }
+     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+  312|      return;
+  313|    }
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:25:18 AM [vite] page reload src/state/utils.ts
+11:26:15 AM [vite] page reload src/state/utils.ts
+11:26:16 AM [vite] Pre-transform error: Transform failed with 2 errors:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:50:6: ERROR: The symbol "KO_SIMPLE_RE" has already been declared
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:51:6: ERROR: The symbol "ACTIVE_ASSIGN_RE" has already been declared
+11:26:16 AM [vite] Internal server error: Transform failed with 2 errors:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:50:6: ERROR: The symbol "KO_SIMPLE_RE" has already been declared
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:51:6: ERROR: The symbol "ACTIVE_ASSIGN_RE" has already been declared
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:50:6
+  
+  The symbol "KO_SIMPLE_RE" has already been declared
+  48 |    /^(.+?) (?:played|put|moved|sent) (.+?) (?:onto|to|into|on) (?:the )?Bench[.!]?$/i;
+  49 |  const BENCH_BENCHED_RE = /^(.+?) benched (.+?)[.!]?$/i;
+  50 |  const KO_SIMPLE_RE = /^(.+?) was Knocked Out!?$/i;
+     |        ^
+  51 |  const ACTIVE_ASSIGN_RE =
+  52 |    /^(.+?) (?:played|put|sent|moved|switched in|promoted|switches|switch(?:ed)?) (.+?) (?:into|to|onto|in) the Active Spot[.!]?$/i;
+  
+  The symbol "ACTIVE_ASSIGN_RE" has already been declared
+  49 |  const BENCH_BENCHED_RE = /^(.+?) benched (.+?)[.!]?$/i;
+  50 |  const KO_SIMPLE_RE = /^(.+?) was Knocked Out!?$/i;
+  51 |  const ACTIVE_ASSIGN_RE =
+     |        ^
+  52 |    /^(.+?) (?:played|put|sent|moved|switched in|promoted|switches|switch(?:ed)?) (.+?) (?:into|to|onto|in) the Active Spot[.!]?$/i;
+  53 |  const PRIZE_MULTI_RE = /^(.+?) took (\d+) Prize cards?/i;
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:26:16 AM [vite] Internal server error: Transform failed with 2 errors:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:50:6: ERROR: The symbol "KO_SIMPLE_RE" has already been declared
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:51:6: ERROR: The symbol "ACTIVE_ASSIGN_RE" has already been declared
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:50:6
+  
+  The symbol "KO_SIMPLE_RE" has already been declared
+  48 |    /^(.+?) (?:played|put|moved|sent) (.+?) (?:onto|to|into|on) (?:the )?Bench[.!]?$/i;
+  49 |  const BENCH_BENCHED_RE = /^(.+?) benched (.+?)[.!]?$/i;
+  50 |  const KO_SIMPLE_RE = /^(.+?) was Knocked Out!?$/i;
+     |        ^
+  51 |  const ACTIVE_ASSIGN_RE =
+  52 |    /^(.+?) (?:played|put|sent|moved|switched in|promoted|switches|switch(?:ed)?) (.+?) (?:into|to|onto|in) the Active Spot[.!]?$/i;
+  
+  The symbol "ACTIVE_ASSIGN_RE" has already been declared
+  49 |  const BENCH_BENCHED_RE = /^(.+?) benched (.+?)[.!]?$/i;
+  50 |  const KO_SIMPLE_RE = /^(.+?) was Knocked Out!?$/i;
+  51 |  const ACTIVE_ASSIGN_RE =
+     |        ^
+  52 |    /^(.+?) (?:played|put|sent|moved|switched in|promoted|switches|switch(?:ed)?) (.+?) (?:into|to|onto|in) the Active Spot[.!]?$/i;
+  53 |  const PRIZE_MULTI_RE = /^(.+?) took (\d+) Prize cards?/i;
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:26:17 AM [vite] Internal server error: Transform failed with 2 errors:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:50:6: ERROR: The symbol "KO_SIMPLE_RE" has already been declared
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:51:6: ERROR: The symbol "ACTIVE_ASSIGN_RE" has already been declared
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:50:6
+  
+  The symbol "KO_SIMPLE_RE" has already been declared
+  48 |    /^(.+?) (?:played|put|moved|sent) (.+?) (?:onto|to|into|on) (?:the )?Bench[.!]?$/i;
+  49 |  const BENCH_BENCHED_RE = /^(.+?) benched (.+?)[.!]?$/i;
+  50 |  const KO_SIMPLE_RE = /^(.+?) was Knocked Out!?$/i;
+     |        ^
+  51 |  const ACTIVE_ASSIGN_RE =
+  52 |    /^(.+?) (?:played|put|sent|moved|switched in|promoted|switches|switch(?:ed)?) (.+?) (?:into|to|onto|in) the Active Spot[.!]?$/i;
+  
+  The symbol "ACTIVE_ASSIGN_RE" has already been declared
+  49 |  const BENCH_BENCHED_RE = /^(.+?) benched (.+?)[.!]?$/i;
+  50 |  const KO_SIMPLE_RE = /^(.+?) was Knocked Out!?$/i;
+  51 |  const ACTIVE_ASSIGN_RE =
+     |        ^
+  52 |    /^(.+?) (?:played|put|sent|moved|switched in|promoted|switches|switch(?:ed)?) (.+?) (?:into|to|onto|in) the Active Spot[.!]?$/i;
+  53 |  const PRIZE_MULTI_RE = /^(.+?) took (\d+) Prize cards?/i;
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:26:24 AM [vite] page reload src/state/utils.ts
+11:27:21 AM [vite] page reload src/state/utils.ts
+11:27:22 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+11:27:22 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0
+  
+  Unexpected "export"
+  244|  }
+  245|  
+  246|  export function buildInitialSnapshot(
+     |  ^
+  247|    log: ParsedLog,
+  248|    players: string[]
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:27:23 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0
+  
+  Unexpected "export"
+  244|  }
+  245|  
+  246|  export function buildInitialSnapshot(
+     |  ^
+  247|    log: ParsedLog,
+  248|    players: string[]
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:27:23 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0
+  
+  Unexpected "export"
+  244|  }
+  245|  
+  246|  export function buildInitialSnapshot(
+     |  ^
+  247|    log: ParsedLog,
+  248|    players: string[]
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:27:23 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0
+  
+  Unexpected "export"
+  244|  }
+  245|  
+  246|  export function buildInitialSnapshot(
+     |  ^
+  247|    log: ParsedLog,
+  248|    players: string[]
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:27:25 AM [vite] page reload src/state/utils.ts
+11:27:26 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+11:27:26 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0
+  
+  Unexpected "export"
+  244|  }
+  245|  
+  246|  export function buildInitialSnapshot(
+     |  ^
+  247|    log: ParsedLog,
+  248|    players: string[]
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:27:26 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0
+  
+  Unexpected "export"
+  244|  }
+  245|  
+  246|  export function buildInitialSnapshot(
+     |  ^
+  247|    log: ParsedLog,
+  248|    players: string[]
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:27:26 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0
+  
+  Unexpected "export"
+  244|  }
+  245|  
+  246|  export function buildInitialSnapshot(
+     |  ^
+  247|    log: ParsedLog,
+  248|    players: string[]
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:27:30 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0: ERROR: Unexpected "export"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/utils.ts:246:0
+  
+  Unexpected "export"
+  244|  }
+  245|  
+  246|  export function buildInitialSnapshot(
+     |  ^
+  247|    log: ParsedLog,
+  248|    players: string[]
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+11:30:26 AM [vite] page reload src/state/utils.ts
+11:41:59 AM [vite] hmr update /src/styles.css
+11:42:01 AM [vite] hmr update /src/styles.css
+11:42:11 AM [vite] hmr update /src/App.tsx
+11:42:11 AM [vite] Internal server error: Failed to resolve import "./assets/prizecard.png" from "src/App.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:7:27
+  21 |  import LogLoader from "./components/LogLoader";
+  22 |  import { GameStateProvider, useGameState } from "./state/store";
+  23 |  import prizeCardImage from "./assets/prizecard.png";
+     |                              ^
+  24 |  function Viewer() {
+  25 |    _s();
+      at TransformPluginContext._formatError (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 8)
+      at async TransformPluginContext.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+11:42:17 AM [vite] page reload src/App.tsx
+11:42:18 AM [vite] Pre-transform error: Failed to resolve import "./assets/prizecard.png" from "src/App.tsx". Does the file exist?
+11:42:18 AM [vite] Internal server error: Failed to resolve import "./assets/prizecard.png" from "src/App.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:7:27
+  21 |  import LogLoader from "./components/LogLoader";
+  22 |  import { GameStateProvider, useGameState } from "./state/store";
+  23 |  import prizeCardImage from "./assets/prizecard.png";
+     |                              ^
+  24 |  function Viewer() {
+  25 |    _s();
+      at TransformPluginContext._formatError (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 8)
+      at async TransformPluginContext.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+11:42:53 AM [vite] Internal server error: Failed to resolve import "./assets/prizecard.png" from "src/App.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:7:27
+  21 |  import LogLoader from "./components/LogLoader";
+  22 |  import { GameStateProvider, useGameState } from "./state/store";
+  23 |  import prizeCardImage from "./assets/prizecard.png";
+     |                              ^
+  24 |  function Viewer() {
+  25 |    _s();
+      at TransformPluginContext._formatError (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 8)
+      at async TransformPluginContext.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+11:43:44 AM [vite] page reload src/App.tsx
+11:43:45 AM [vite] Pre-transform error: Failed to resolve import "./assets/pprizecard.png" from "src/App.tsx". Does the file exist?
+11:43:45 AM [vite] Internal server error: Failed to resolve import "./assets/pprizecard.png" from "src/App.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:7:27
+  21 |  import LogLoader from "./components/LogLoader";
+  22 |  import { GameStateProvider, useGameState } from "./state/store";
+  23 |  import prizeCardImage from "./assets/pprizecard.png";
+     |                              ^
+  24 |  function Viewer() {
+  25 |    _s();
+      at TransformPluginContext._formatError (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 8)
+      at async TransformPluginContext.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+11:43:45 AM [vite] Internal server error: Failed to resolve import "./assets/pprizecard.png" from "src/App.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:7:27
+  21 |  import LogLoader from "./components/LogLoader";
+  22 |  import { GameStateProvider, useGameState } from "./state/store";
+  23 |  import prizeCardImage from "./assets/pprizecard.png";
+     |                              ^
+  24 |  function Viewer() {
+  25 |    _s();
+      at TransformPluginContext._formatError (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 8)
+      at async TransformPluginContext.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+11:43:46 AM [vite] Internal server error: Failed to resolve import "./assets/pprizecard.png" from "src/App.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:7:27
+  21 |  import LogLoader from "./components/LogLoader";
+  22 |  import { GameStateProvider, useGameState } from "./state/store";
+  23 |  import prizeCardImage from "./assets/pprizecard.png";
+     |                              ^
+  24 |  function Viewer() {
+  25 |    _s();
+      at TransformPluginContext._formatError (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 8)
+      at async TransformPluginContext.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+11:43:50 AM [vite] page reload src/App.tsx
+11:43:52 AM [vite] hmr update /src/App.tsx

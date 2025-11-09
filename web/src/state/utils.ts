@@ -47,6 +47,8 @@ const ACTIVE_IS_NOW_RE =
 const BENCH_ASSIGN_RE =
   /^(.+?) (?:played|put|moved|sent) (.+?) (?:onto|to|into|on) (?:the )?Bench[.!]?$/i;
 const BENCH_BENCHED_RE = /^(.+?) benched (.+?)[.!]?$/i;
+const PRIZE_MULTI_RE = /^(.+?) took (\d+) Prize cards?/i;
+const PRIZE_SINGLE_RE = /^(.+?) took a Prize card/i;
 
 function extractActionText(action: ParsedAction): string | null {
   if (typeof action === 'string') return action;
@@ -187,6 +189,31 @@ function applyActionToBoard(
 ) {
   const line = raw.trim();
   if (!line) return;
+
+  const prizeMulti = line.match(PRIZE_MULTI_RE);
+  if (prizeMulti) {
+    const [, actor, countStr] = prizeMulti;
+    const player = resolvePlayerName(actor, defaultPlayer, players);
+    if (player) {
+      const pb = ensurePlayerBoard(board, player);
+      const count = Number(countStr);
+      const current = pb.prizes ?? 6;
+      pb.prizes = Math.max(0, current - count);
+    }
+    return;
+  }
+
+  const prizeSingle = line.match(PRIZE_SINGLE_RE);
+  if (prizeSingle) {
+    const [, actor] = prizeSingle;
+    const player = resolvePlayerName(actor, defaultPlayer, players);
+    if (player) {
+      const pb = ensurePlayerBoard(board, player);
+      const current = pb.prizes ?? 6;
+      pb.prizes = Math.max(0, current - 1);
+    }
+    return;
+  }
 
   const activeChange = parseActiveChange(line, defaultPlayer, players);
   if (activeChange) {
