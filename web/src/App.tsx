@@ -55,7 +55,7 @@ function Viewer() {
   return (
     <div className="app-shell">
       <header className="scoreboard">
-        <div className="scoreboard__side">
+        <div className="scoreboard__side scoreboard__side--first">
           <span className="scoreboard__player">{topName}</span>
           {renderPrizeRow(topPrizes)}
         </div>
@@ -69,19 +69,23 @@ function Viewer() {
             ステップ: {totalSteps === 0 ? '-' : `${pointer + 1} / ${totalSteps}`}
           </div>
         </div>
-        <div className="scoreboard__side">
+        <div className="scoreboard__side scoreboard__side--second">
           <span className="scoreboard__player">{bottomName}</span>
           {renderPrizeRow(bottomPrizes)}
         </div>
       </header>
-      <main className="viewer-layout">
-        <PlayTable snapshot={currentSnapshot} />
-        <aside className="viewer-sidebar">
-          <ActionLog step={currentStep} />
-          <Controls />
-        </aside>
+
+      <main className="viewer-main">
+        <PlayTable
+          snapshot={currentSnapshot}
+          firstPlayer={topName}
+          secondPlayer={bottomName}
+        />
       </main>
-      <section className="loader-section">
+
+      <section className="viewer-bottom">
+        <ActionLog step={currentStep} />
+        <Controls />
         <LogLoader />
       </section>
     </div>
