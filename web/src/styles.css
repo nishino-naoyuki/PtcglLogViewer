@@ -201,3 +201,74 @@ html,
 .action-log h2 {
   margin-top: 0;
 }
+
+.log-loader {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.log-loader__hint {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #9ca8bb;
+}
+
+.log-loader__input {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.log-loader__label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.log-loader__label input {
+  display: none;
+}
+
+.log-loader__filename {
+  font-size: 0.85rem;
+  color: #c8d0dd;
+}
+
+.log-loader__textarea {
+  width: 100%;
+  min-height: 160px;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #273142;
+  background: #0f1319;
+  color: #f2f5f9;
+  resize: vertical;
+}
+
+.log-loader__error {
+  color: #ff6b6b;
+  font-size: 0.9rem;
+}
+
+.log-loader__actions {
+  display: flex;
+  gap: 12px;
+}
+
+.log-loader__actions button {
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  background: #2f86ff;
+  color: #fff;
+}
+
+.log-loader__actions button:last-child {
+  background: #3c465a;
+}

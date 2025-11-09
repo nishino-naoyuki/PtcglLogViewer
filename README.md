@@ -10,3 +10,6 @@ https://docs.pokemontcg.io/api-reference/cards/search-cards#keyword-matching
 sample:
 https://api.pokemontcg.io/v2/cards?q=name:"Arceus V"&orderBy=-set.releaseDate
 https://api.pokemontcg.io/v2/cards?q=name:"Basic Psychic Energy" (-rarity:"Rare Ultra" and -rarity:"Hyper Rare")&orderBy=-set.releaseDate
+
+
+/workspaces/PtcglLogViewer/scripts/start-dev.sh

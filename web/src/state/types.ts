@@ -59,4 +59,5 @@ export interface ViewerContextValue {
   next: () => void;
   prev: () => void;
   toggleAuto: () => void;
+  loadParsedLog: (log: ParsedLog) => void; // 追加
 }

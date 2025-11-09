@@ -1,7 +1,8 @@
 import Controls from './components/Controls';
 import ActionLog from './components/ActionLog';
 import PlayTable from './components/PlayTable';
-import PlayerPanel from './components/PlayerPanel';
+import PlayerPanel from './PlayerPanel';
+import LogLoader from './components/LogLoader';
 import { useGameState } from './state/store';
 
 export default function App() {
@@ -12,8 +13,12 @@ export default function App() {
     currentSnapshot,
     currentStep,
     totalSteps,
-    pointer
+    pointer,
+    loadParsedLog
   } = useGameState();
+
+  // currentSnapshot が null の場合はまだログ未ロードと判定して LogLoader を表示
+  const notLoaded = !currentSnapshot;
 
   return (
     <div className="app-shell">
@@ -34,18 +39,26 @@ export default function App() {
       </header>
 
       <main className="app-main">
-        <aside className="player-panels">
-          {players.map((player) => (
-            <PlayerPanel
-              key={player}
-              player={player}
-              snapshot={currentSnapshot?.board[player]}
-            />
-          ))}
-        </aside>
-        <section className="play-area">
-          <PlayTable snapshot={currentSnapshot} />
-        </section>
+        {notLoaded ? (
+          <section style={{ flex: 1, padding: 16 }}>
+            <LogLoader />
+          </section>
+        ) : (
+          <>
+            <aside className="player-panels">
+              {players.map((player) => (
+                <PlayerPanel
+                  key={player}
+                  player={player}
+                  snapshot={currentSnapshot?.board[player]}
+                />
+              ))}
+            </aside>
+            <section className="play-area">
+              <PlayTable snapshot={currentSnapshot} />
+            </section>
+          </>
+        )}
       </main>
 
       <footer className="app-footer">
