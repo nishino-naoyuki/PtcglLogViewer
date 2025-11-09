@@ -1,0 +1,497 @@
+
+> ptcgl-log-viewer-web@0.1.0 dev
+> vite --host 0.0.0.0 --port 5173
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+Port 5175 is in use, trying 10:27:18 AM [vite] page reload src/state/u10:27:1810:27:22 AM [vite] page reload src/state/utils.ts
+10:28:30 AM [vite] page reload src/state/utils.ts
+10:28:33 AM [vite] page reload src/state/u10:28:3310:30:51 AM [vite] page reload src/state/utils.ts
+10:31:00 AM [vite] page reload src/state/utils.ts
+10:31:02 AM [vite] page reload src/state/u10:31:0210:34:49 AM [vite] hmr update /src/components/ActionLog.tsx
+10:34:52 AM [vite] hmr update /src/compone10:34:52 AM [vite] hmr update /src/components/ActionLog.tsx
+] hmr update /src/components/ActionLog.tsx
+10:39:14 AM [vite] hmr update /src/components/ActionLog.tsx
+10:39:16 AM [vite] hmr update /src/components/ActionLog.tsx
+10:53:09 AM [vite] hmr update /src/components/ActionLog.tsx
+10:53:10 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+10:53:10 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:10 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:11 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:11 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:11 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:13 AM [vite] hmr update /src/components/ActionLog.tsx
+10:53:18 AM [vite] hmr update /src/components/ActionLog.tsx
+10:53:18 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+10:53:19 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:19 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:19 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:19 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:19 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
+  
+  Expected "]" but found ";"
+  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
+  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
+  26 |  };
+     |   ^
+  27 |  
+  28 |  export function translateAction(raw: string): string {
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:53:33 AM [vite] hmr update /src/components/ActionLog.tsx
+10:54:17 AM [vite] hmr update /src/components/ActionLog.tsx
+10:54:19 AM [vite] hmr update /src/components/ActionLog.tsx
+10:54:21 AM [vite] hmr update /src/components/ActionLog.tsx
+10:54:21 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4: ERROR: Expected "]" but found "{"
+10:54:21 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4
+  
+  Expected "]" but found "{"
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }
+  17 |      { pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |      ^
+  18 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  19 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:21 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4
+  
+  Expected "]" but found "{"
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }
+  17 |      { pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |      ^
+  18 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  19 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:21 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4
+  
+  Expected "]" but found "{"
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }
+  17 |      { pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |      ^
+  18 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  19 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:22 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4
+  
+  Expected "]" but found "{"
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }
+  17 |      { pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |      ^
+  18 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  19 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:22 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:17:4
+  
+  Expected "]" but found "{"
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }
+  17 |      { pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |      ^
+  18 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  19 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:24 AM [vite] hmr update /src/components/ActionLog.tsx
+10:54:24 AM [vite] Pre-transform error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117: ERROR: Expected "]" but found "{"
+10:54:24 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117
+  
+  Expected "]" but found "{"
+  14 |    { pattern: /^You conceded\./, template: () => `あなたは投了した` },
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }{ pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |                                                                                                                       ^
+  17 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  18 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:25 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117
+  
+  Expected "]" but found "{"
+  14 |    { pattern: /^You conceded\./, template: () => `あなたは投了した` },
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }{ pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |                                                                                                                       ^
+  17 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  18 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:25 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117
+  
+  Expected "]" but found "{"
+  14 |    { pattern: /^You conceded\./, template: () => `あなたは投了した` },
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }{ pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |                                                                                                                       ^
+  17 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  18 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:25 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117
+  
+  Expected "]" but found "{"
+  14 |    { pattern: /^You conceded\./, template: () => `あなたは投了した` },
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }{ pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |                                                                                                                       ^
+  17 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  18 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:25 AM [vite] Internal server error: Transform failed with 1 error:
+/workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117: ERROR: Expected "]" but found "{"
+  Plugin: vite:esbuild
+  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:16:117
+  
+  Expected "]" but found "{"
+  14 |    { pattern: /^You conceded\./, template: () => `あなたは投了した` },
+  15 |    { pattern: /^(.+?) conceded\./, template: ([, player]) => `${player} が投了した` },
+  16 |    { pattern: /^(.+?) is now in the Active Spot\./, template: ([, subject]) => `${subject} がバトル場に出た` }{ pattern: /^(.+?) shuffled their deck\./, template: ([, player]) => `${player} がデッキをシャッフルした` },
+     |                                                                                                                       ^
+  17 |    { pattern: /^(.+?) played (.+?)\./, template: ([, player, card]) => `${player} が ${card} を使った` },
+  18 |    { pattern: /^(.+?) drew (.+?)\./, template: ([, player, card]) => `${player} が ${card}を引いた` },
+  
+      at failureErrorWithLog (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:1472:15)
+      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
+      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
+      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
+      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
+      at Socket.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:561:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+      at Readable.push (node:internal/streams/readable:392:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+10:54:27 AM [vite] hmr update /src/components/ActionLog.tsx
+10:54:29 AM [vite] hmr update /src/components/ActionLog.tsx
+10:57:17 AM [vite] hmr update /src/components/ActionLog.tsx
+10:57:37 AM [vite] hmr update /src/components/ActionLog.tsx
+11:04:00 AM [vite] hmr update /src/components/ActionLog.tsx
+11:04:02 AM [vite] hmr update /src/components/ActionLog.tsx

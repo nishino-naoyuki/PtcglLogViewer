@@ -1,12 +1,16 @@
+export type ParsedAction = string | { raw: string; [key: string]: unknown };
+
+export interface ParsedTurn {
+  number: number;
+  player: string;
+  actions?: ParsedAction[];
+}
+
 export interface ParsedLog {
   file: string;
   players: string[];
   setup: string[];
-  turns: Array<{
-    number: number;
-    player: string;
-    actions?: string[];
-  }>;
+  turns: ParsedTurn[];
   summary?: Record<string, unknown>;
 }
 

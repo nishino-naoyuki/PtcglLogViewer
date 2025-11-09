@@ -1,22 +1,24 @@
 import React, { useRef, useState } from 'react';
 import type { ParsedLog } from '../state/types';
 import { useGameState } from '../state/store';
+import { parsePtcglLog, looksLikeParsedLog } from '../utils/parseLog';
 
-function normalizeText(raw: string): ParsedLog {
+function parseInputLog(raw: string, sourceName?: string): ParsedLog {
   const trimmed = raw.trim();
   if (!trimmed) {
     return { file: 'empty', players: [], setup: [], turns: [] };
   }
+
   try {
     const parsed = JSON.parse(trimmed);
-    if (parsed && (Array.isArray(parsed.turns) || Array.isArray(parsed.setup))) {
-      return parsed as ParsedLog;
+    if (looksLikeParsedLog(parsed)) {
+      return parsed;
     }
   } catch {
-    // fall through
+    // ignore
   }
-  const lines = trimmed.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
-  return { file: 'pasted-log', players: [], setup: lines, turns: [] };
+
+  return parsePtcglLog(trimmed, sourceName ?? 'pasted-log');
 }
 
 export default function LogLoader() {
@@ -46,7 +48,7 @@ export default function LogLoader() {
       setError('ログを入力してください。');
       return;
     }
-    const parsed = normalizeText(pendingText);
+    const parsed = parseInputLog(pendingText, fileName ?? undefined);
     loadParsedLog(parsed);
     setError(null);
   };

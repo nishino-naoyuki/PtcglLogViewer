@@ -1,5 +1,6 @@
+import React from 'react';
+import type { PlayerBoard, Snapshot } from '../state/types';
 import CardIcon from './CardIcon';
-import type { Snapshot, PlayerBoard } from '../state/types';
 
 interface Props {
   snapshot: Snapshot | null;
@@ -15,6 +16,18 @@ function renderCardSlot(card: PlayerBoard['active']) {
       <span className="card-label">{card.name}</span>
     </div>
   );
+}
+
+function renderBench(bench: PlayerBoard['bench']) {
+  if (bench.length === 0) {
+    return <div className="card-slot empty">（なし）</div>;
+  }
+  return bench.map((card, index) => (
+    <div key={`${card.name}-${index}`} className="card-slot">
+      <CardIcon name={card.name} />
+      <span className="card-label">{card.name}</span>
+    </div>
+  ));
 }
 
 export default function PlayTable({ snapshot }: Props) {
@@ -39,17 +52,7 @@ export default function PlayTable({ snapshot }: Props) {
             </div>
             <div className="bench-section">
               <div className="section-title">ベンチ</div>
-              <div className="bench-cards">
-                {board.bench.length === 0 && (
-                  <div className="card-slot empty">（なし）</div>
-                )}
-                {board.bench.map((card, idx) => (
-                  <div key={`${card.name}-${idx}`} className="card-slot">
-                    <CardIcon name={card.name} />
-                    <span className="card-label">{card.name}</span>
-                  </div>
-                ))}
-              </div>
+              <div className="bench-cards">{renderBench(board.bench)}</div>
             </div>
           </div>
         );

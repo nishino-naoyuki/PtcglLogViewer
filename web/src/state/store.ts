@@ -10,10 +10,12 @@ import type {
   ParsedLog,
   Snapshot,
   ViewerContextValue,
-  ViewerState,
-  ViewerStep
+  ViewerState
 } from './types';
-import { buildInitialSnapshot, buildSteps, cloneBoard } from './utils';
+import {
+  buildSteps,
+  buildSnapshots
+} from './utils';
 
 const initialState: ViewerState = {
   loading: false,
@@ -44,39 +46,21 @@ const noopCtx: ViewerContextValue = {
 
 export const GameStateContext = createContext<ViewerContextValue>(noopCtx);
 
-function computeSnapshotForStep(
-  steps: ViewerStep[],
-  snapshots: Snapshot[],
-  pointer: number
-): Snapshot | null {
-  if (pointer < 0 || pointer >= steps.length) return snapshots[0] ?? null;
-  if (snapshots[pointer + 1]) return snapshots[pointer + 1];
-  const prev = snapshots[pointer] ?? snapshots[0] ?? null;
-  if (!prev) return null;
-  const boardCopy = cloneBoard(prev.board);
-  const next = steps[pointer + 1];
-  return {
-    turnNumber: next.turnNumber,
-    side: next.side,
-    board: boardCopy
-  };
-}
-
 export function GameStateProvider({ children }: { children: React.ReactNode }) {
   const [state, setState] = useState<ViewerState>(initialState);
 
   const loadParsedLog = useCallback((log: ParsedLog) => {
     try {
       const players = Array.from(new Set((log.players || []).filter(Boolean)));
-      const initialSnapshot = buildInitialSnapshot(log, players);
       const steps = buildSteps(log, players);
+      const snapshots = buildSnapshots(log, players);
       setState({
         loading: false,
         error: null,
         players,
         steps,
         pointer: steps.length > 0 ? 0 : -1,
-        snapshots: [initialSnapshot],
+        snapshots,
         auto: false
       });
     } catch (err) {
@@ -89,14 +73,12 @@ export function GameStateProvider({ children }: { children: React.ReactNode }) {
 
   const next = useCallback(() => {
     setState((prev) => {
-      if (prev.loading || prev.pointer >= prev.steps.length - 1) return { ...prev, auto: false };
-      const snapshots = [...prev.snapshots];
-      const snap = computeSnapshotForStep(prev.steps, snapshots, prev.pointer);
-      if (snap) snapshots[prev.pointer + 1] = snap;
+      if (prev.loading || prev.pointer >= prev.steps.length - 1) {
+        return { ...prev, auto: false };
+      }
       return {
         ...prev,
         pointer: prev.pointer + 1,
-        snapshots,
         auto: prev.pointer + 1 >= prev.steps.length - 1 ? false : prev.auto
       };
     });
@@ -125,10 +107,7 @@ export function GameStateProvider({ children }: { children: React.ReactNode }) {
         if (prev.pointer >= prev.steps.length - 1) {
           return { ...prev, auto: false };
         }
-        const snapshots = [...prev.snapshots];
-        const snap = computeSnapshotForStep(prev.steps, snapshots, prev.pointer);
-        if (snap) snapshots[prev.pointer + 1] = snap;
-        return { ...prev, pointer: prev.pointer + 1, snapshots };
+        return { ...prev, pointer: prev.pointer + 1 };
       });
     }, 1500);
     return () => clearInterval(id);

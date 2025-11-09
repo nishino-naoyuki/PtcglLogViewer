@@ -1,5 +1,6 @@
 import React from 'react';
 import type { ViewerStep } from '../state/types';
+import { translateAction } from '../state/translate';
 
 interface Props {
   step: ViewerStep | null;
@@ -15,7 +16,9 @@ export default function ActionLog({ step }: Props) {
       <h2>Turn {step.turnNumber} / {step.player}</h2>
       <ul>
         {step.actions.length === 0 && <li>ログがありません。</li>}
-        {step.actions.map((a, i) => <li key={i}>{a}</li>)}
+        {step.actions.map((a, i) => (
+          <li key={i}>{translateAction(a)}</li>
+        ))}
       </ul>
     </div>
   );
