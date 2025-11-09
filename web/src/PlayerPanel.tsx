@@ -1,5 +1,5 @@
-import CardIcon from './CardIcon';
-import type { PlayerBoard } from '../state/types';
+import CardIcon from './components/CardIcon';
+import type { PlayerBoard } from './state/types';
 
 interface Props {
   player: string;

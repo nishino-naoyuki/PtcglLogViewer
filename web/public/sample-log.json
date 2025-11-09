@@ -1,45 +1,22 @@
 {
-  "file": "ドラパルト　ロストドラパルト相手降参.txt",
+  "file": "sample",
   "players": ["0512SmileMan", "zun-sugi-1216"],
   "setup": [
-    "Setup",
     "0512SmileMan played Natu to the Active Spot.",
+    "0512SmileMan played Dreepy to the Bench.",
     "zun-sugi-1216 played Comfey to the Active Spot.",
-    "0512SmileMan played Dreepy to the Bench.",
-    "0512SmileMan played Dreepy to the Bench.",
-    "zun-sugi-1216 played Dreepy to the Bench.",
-    "0512SmileMan drew 7 cards for the opening hand.",
-    "zun-sugi-1216 drew 7 cards for the opening hand."
+    "zun-sugi-1216 played Dreepy to the Bench."
   ],
   "turns": [
     {
       "number": 1,
       "player": "0512SmileMan",
-      "actions": [
-        "0512SmileMan drew Basic Fire Energy.",
-        "0512SmileMan attached Basic Fire Energy to Dreepy on the Bench.",
-        "0512SmileMan passed the turn."
-      ]
+      "actions": ["0512SmileMan drew a card.", "0512SmileMan passed the turn."]
     },
     {
       "number": 1,
       "player": "zun-sugi-1216",
-      "actions": [
-        "zun-sugi-1216 played Buddy-Buddy Poffin.",
-        "zun-sugi-1216's Comfey used Flower Selecting."
-      ]
-    },
-    {
-      "number": 2,
-      "player": "0512SmileMan",
-      "actions": [
-        "0512SmileMan evolved Dreepy to Drakloak.",
-        "0512SmileMan played Iono."
-      ]
+      "actions": ["zun-sugi-1216 played Buddy-Buddy Poffin."]
     }
-  ],
-  "summary": {
-    "turn_count": 9,
-    "result": { "winner": "0512SmileMan" }
-  }
+  ]
 }
