@@ -339,9 +339,20 @@ html,
 .scoreboard__center {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: 0.45rem;
   text-align: center;
   font-weight: 600;
+}
+
+.scoreboard__turn-lines {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.scoreboard__turn {
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
 }
 
 .viewer-layout {

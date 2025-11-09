@@ -21,6 +21,14 @@ function Viewer() {
   const topPrizes = currentSnapshot?.board?.[topName]?.prizes;
   const bottomPrizes = currentSnapshot?.board?.[bottomName]?.prizes;
 
+  const currentTurnNumber = currentStep?.turnNumber ?? 0;
+  const realTurnCount =
+    currentTurnNumber > 0 ? Math.floor((currentTurnNumber - 1) / 2) + 1 : 1;
+    
+  const toporbottom =
+    currentTurnNumber % 2 == 1 ? "先攻" : "後攻";
+
+
   const renderPrizeRow = (count: unknown) => {
     if (typeof count !== 'number' || Number.isNaN(count)) {
       return <span className="scoreboard__prize-text">残りサイド: ?</span>;
@@ -52,8 +60,10 @@ function Viewer() {
           {renderPrizeRow(topPrizes)}
         </div>
         <div className="scoreboard__center">
-          <div className="scoreboard__turn">
-            現在ターン: {currentStep?.turnNumber ?? 0}
+          <div className="scoreboard__turn-lines">
+            <div className="scoreboard__turn">
+              {toporbottom} {realTurnCount} ターン目
+            </div>
           </div>
           <div className="scoreboard__step">
             ステップ: {totalSteps === 0 ? '-' : `${pointer + 1} / ${totalSteps}`}

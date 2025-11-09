@@ -24,27 +24,23 @@ Port 5175 is in use, trying 10:27:18 AM [vite] page reload src/state/u10:27:1810
 11:42:17 AM [vite] hmr update /src/App.tsx
 11:43:44 AM [vite] hmr update /src/App.tsx
 11:43:50 AM [vite] hmr update /src/App.tsx111:43:52 AM [vite] hmr update /src/App.tsx
-1:43:52 AM [vite] hmr update /src/App.tsx
-/web/node_modules/esbuild/lib/main.js:1472:15)
-      at /workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:755:50
-      at responseCallbacks.<computed> (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:622:9)
-      at handleIncomingPacket (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:677:12)
-      at Socket.readFromStdout (/workspaces/PtcglLogViewer/web/node_modules/esbuild/lib/main.js:600:7)
-      at Socket.emit (node:events:518:28)
-      at addChunk (node:internal/streams/readable:561:12)
-      at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
-      at Readable.push (node:internal/streams/readable:392:5)
-      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-10:53:10 AM [vite] Internal server error: Transform failed with 1 error:
-/workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1: ERROR: Expected "]" but found ";"
-  Plugin: vite:esbuild
-  File: /workspaces/PtcglLogViewer/web/src/state/translate.ts:26:1
-  
-  Expected "]" but found ";"
-  24 |    { pattern: /^(.+?)'s (.+?) was switched with (.+?)'s (.+?) to become the Active Pokémon\./, template: ([, ownerFrom, from, ownerTo, to]) => `${ownerFrom}'s ${from} が ${ownerTo}'s ${to} に代わってバトル場に呼び出された` },
-  25 |    { pattern: /^\s*(.+?) put a damage counter on (.+?)'s (.+?)\./,
-  26 |  };
-     |   ^
+11:50:35 AM [vite] hmr update /src/styles.css
+11:50:41 AM [vite] hmr update /src/styles.css
+11:50:51 AM [vite] hmr update /src/App.tsx111:50:55 AM [vite] hmr update /src/App.tsx111:53:02 AM [vite] hmr update /src/App.tsx111:53:13 AM [vite] hmr update /src/App.tsx
+11:53:17 AM [vite] hmr update /src/App.tsx
+11:53:30 AM [vite] hmr update /src/App.tsx111:53:35 AM [vite] hmr update /src/App.tsx111:53:49 AM [vite] hmr update /src/App.tsx
+11:53:53 AM [vite] hmr update /src/App.tsx111:53:55 AM [vite] hmr update /src/App.tsx
+11:53:58 AM [vite] hmr update /src/App.tsx
+11:54:12 AM [vite] hmr update /src/App.tsx111:54:18 AM [vite] hmr update /src/App.tsx
+11:55:42 AM [vite] hmr update /src/App.tsx111:55:43 AM [vite] hmr update /src/App.tsx111:55:50 AM [vite] hmr update /src/App.tsx
+11:55:52 AM [vite] hmr update /src/App.tsx
+11:55:57 AM [vite] hmr update /src/App.tsx
+11:56:03 AM [vite] hmr update /src/App.tsx111:56:05 AM [vite] hmr update /src/App.tsx111:56:10 AM [vite] hmr update /src/App.tsx111:56:13 AM [vite] hmr update /src/App.tsx111:56:16 AM [vite] hmr update /src/App.tsx
+11:56:18 AM [vite] hmr update /src/App.tsx111:57:28 AM [vite] hmr update /src/App.tsx
+11:57:39 AM [vite] hmr update /src/App.tsx111:57:41 AM [vite] hmr update /src/App.tsx
+11:57:49 AM [vite] hmr update /src/App.tsx
+12:02:00 PM [vite] hmr update /src/App.tsx112:02:01 PM [vite] hmr update /src/App.tsx12:02:01 PM [vite] hmr update /src/App.tsx
+|   ^
   27 |  
   28 |  export function translateAction(raw: string): string {
   
@@ -1146,3 +1142,364 @@ Port 5175 is in use, trying 10:27:18 AM [vite] page reload src/state/u10:27:1810
       at async viteTransformMiddleware (file:///workspaces/PtcglLogViewer/web/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
 11:43:50 AM [vite] page reload src/App.tsx
 11:43:52 AM [vite] hmr update /src/App.tsx
+11:50:35 AM [vite] hmr update /src/styles.css
+11:50:41 AM [vite] hmr update /src/styles.css
+11:50:51 AM [vite] hmr update /src/App.tsx
+11:50:55 AM [vite] hmr update /src/App.tsx
+11:53:02 AM [vite] hmr update /src/App.tsx
+11:53:03 AM [vite] Internal server error: /workspaces/PtcglLogViewer/web/src/App.tsx: Identifier 'firstTurnCount' has already been declared. (30:8)
+
+  28 |     currentTurnNumber > 0 ? Math.ceil((currentTurnNumber - 1) / 2) : 0;
+  29 |     
+> 30 |   const firstTurnCount =
+     |         ^
+  31 |     currentTurnNumber > 0 ? Math.ceil(currentTurnNumber / 2) : 0;
+  32 |   const secondTurnCount =
+  33 |     currentTurnNumber > 0 ? Math.ceil((currentTurnNumber - 1) / 2) : 0;
+  Plugin: vite:react-babel
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:30:8
+  28 |      currentTurnNumber > 0 ? Math.ceil((currentTurnNumber - 1) / 2) : 0;
+  29 |      
+  30 |    const firstTurnCount =
+     |          ^
+  31 |      currentTurnNumber > 0 ? Math.ceil(currentTurnNumber / 2) : 0;
+  32 |    const secondTurnCount =
+      at constructor (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:367:19)
+      at TypeScriptParserMixin.raise (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:6624:19)
+      at TypeScriptScopeHandler.checkRedeclarationInScope (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:1646:19)
+      at TypeScriptScopeHandler.declareName (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:1612:12)
+      at TypeScriptScopeHandler.declareName (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:4909:11)
+      at TypeScriptParserMixin.declareNameFromIdentifier (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:7594:16)
+      at TypeScriptParserMixin.checkIdentifier (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:7590:12)
+      at TypeScriptParserMixin.checkLVal (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:7527:12)
+      at TypeScriptParserMixin.parseVarId (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13488:10)
+      at TypeScriptParserMixin.parseVarId (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9805:11)
+      at TypeScriptParserMixin.parseVar (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13459:12)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13306:10)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9469:31)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12927:23)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseStatementListItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12823:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:61)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseBlock (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13373:10)
+      at TypeScriptParserMixin.parseFunctionBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12174:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12160:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9223:18)
+      at /workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13521:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12477:14)
+      at TypeScriptParserMixin.parseFunction (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13520:10)
+      at TypeScriptParserMixin.parseFunctionStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13201:17)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12867:21)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseModuleItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12820:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:36)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseProgram (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12698:10)
+      at TypeScriptParserMixin.parseTopLevel (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12688:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14568:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10183:18)
+      at parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14602:38)
+      at parser (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/parser/index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+      at normalizeFile.next (<anonymous>)
+      at run (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transformation/index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:261:32)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:273:13
+      at async.call.result.err.err (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:223:11)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:189:28
+11:53:13 AM [vite] hmr update /src/App.tsx
+11:53:13 AM [vite] Internal server error: /workspaces/PtcglLogViewer/web/src/App.tsx: Identifier 'secondTurnCount' has already been declared. (32:8)
+
+  30 |   const toporbottom =
+  31 |     currentTurnNumber > 0 ? Math.ceil(currentTurnNumber / 2) : 0;
+> 32 |   const secondTurnCount =
+     |         ^
+  33 |     currentTurnNumber > 0 ? Math.ceil((currentTurnNumber - 1) / 2) : 0;
+  34 |
+  35 |   const renderPrizeRow = (count: unknown) => {
+  Plugin: vite:react-babel
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:32:8
+  30 |    const toporbottom =
+  31 |      currentTurnNumber > 0 ? Math.ceil(currentTurnNumber / 2) : 0;
+  32 |    const secondTurnCount =
+     |          ^
+  33 |      currentTurnNumber > 0 ? Math.ceil((currentTurnNumber - 1) / 2) : 0;
+  34 |  
+      at constructor (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:367:19)
+      at TypeScriptParserMixin.raise (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:6624:19)
+      at TypeScriptScopeHandler.checkRedeclarationInScope (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:1646:19)
+      at TypeScriptScopeHandler.declareName (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:1612:12)
+      at TypeScriptScopeHandler.declareName (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:4909:11)
+      at TypeScriptParserMixin.declareNameFromIdentifier (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:7594:16)
+      at TypeScriptParserMixin.checkIdentifier (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:7590:12)
+      at TypeScriptParserMixin.checkLVal (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:7527:12)
+      at TypeScriptParserMixin.parseVarId (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13488:10)
+      at TypeScriptParserMixin.parseVarId (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9805:11)
+      at TypeScriptParserMixin.parseVar (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13459:12)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13306:10)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9469:31)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12927:23)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseStatementListItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12823:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:61)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseBlock (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13373:10)
+      at TypeScriptParserMixin.parseFunctionBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12174:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12160:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9223:18)
+      at /workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13521:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12477:14)
+      at TypeScriptParserMixin.parseFunction (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13520:10)
+      at TypeScriptParserMixin.parseFunctionStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13201:17)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12867:21)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseModuleItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12820:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:36)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseProgram (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12698:10)
+      at TypeScriptParserMixin.parseTopLevel (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12688:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14568:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10183:18)
+      at parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14602:38)
+      at parser (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/parser/index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+      at normalizeFile.next (<anonymous>)
+      at run (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transformation/index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:261:32)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:273:13
+      at async.call.result.err.err (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:223:11)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:189:28
+11:53:17 AM [vite] hmr update /src/App.tsx
+11:53:30 AM [vite] hmr update /src/App.tsx
+11:53:35 AM [vite] hmr update /src/App.tsx
+11:53:49 AM [vite] hmr update /src/App.tsx
+11:53:53 AM [vite] hmr update /src/App.tsx
+11:53:55 AM [vite] hmr update /src/App.tsx
+11:53:55 AM [vite] Internal server error: /workspaces/PtcglLogViewer/web/src/App.tsx: Unexpected token (31:51)
+
+  29 |     
+  30 |   const toporbottom =
+> 31 |     Math.ceil(currentTurnNumber / 2) == 0 ? "先攻" : ;
+     |                                                    ^
+  32 |
+  33 |   const renderPrizeRow = (count: unknown) => {
+  34 |     if (typeof count !== 'number' || Number.isNaN(count)) {
+  Plugin: vite:react-babel
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:31:51
+  29 |      
+  30 |    const toporbottom =
+  31 |      Math.ceil(currentTurnNumber / 2) == 0 ? "先攻" : ;
+     |                                                     ^
+  32 |  
+  33 |    const renderPrizeRow = (count: unknown) => {
+      at constructor (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:367:19)
+      at TypeScriptParserMixin.raise (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:6624:19)
+      at TypeScriptParserMixin.unexpected (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:6644:16)
+      at TypeScriptParserMixin.parseExprAtom (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:11508:22)
+      at TypeScriptParserMixin.parseExprAtom (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:4793:20)
+      at TypeScriptParserMixin.parseExprSubscripts (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:11145:23)
+      at TypeScriptParserMixin.parseUpdate (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:11130:21)
+      at TypeScriptParserMixin.parseMaybeUnary (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:11110:23)
+      at TypeScriptParserMixin.parseMaybeUnary (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9890:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10963:61)
+      at TypeScriptParserMixin.parseExprOps (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10968:23)
+      at TypeScriptParserMixin.parseMaybeConditional (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10945:23)
+      at TypeScriptParserMixin.parseMaybeAssign (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9839:20)
+      at TypeScriptParserMixin.parseConditional (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10957:29)
+      at TypeScriptParserMixin.parseConditional (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9664:18)
+      at TypeScriptParserMixin.parseMaybeConditional (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10949:17)
+      at TypeScriptParserMixin.parseMaybeAssign (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10895:21)
+      at TypeScriptParserMixin.parseMaybeAssign (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9839:20)
+      at /workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10864:39
+      at TypeScriptParserMixin.allowInAnd (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12495:16)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10864:17)
+      at TypeScriptParserMixin.parseVar (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13460:91)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13306:10)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9469:31)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12927:23)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseStatementListItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12823:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:61)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseBlock (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13373:10)
+      at TypeScriptParserMixin.parseFunctionBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12174:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12160:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9223:18)
+      at /workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13521:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12477:14)
+      at TypeScriptParserMixin.parseFunction (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13520:10)
+      at TypeScriptParserMixin.parseFunctionStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13201:17)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12867:21)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseModuleItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12820:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:36)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseProgram (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12698:10)
+      at TypeScriptParserMixin.parseTopLevel (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12688:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14568:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10183:18)
+      at parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14602:38)
+11:53:58 AM [vite] hmr update /src/App.tsx
+11:54:12 AM [vite] hmr update /src/App.tsx
+11:54:18 AM [vite] hmr update /src/App.tsx
+11:55:42 AM [vite] hmr update /src/App.tsx
+11:55:43 AM [vite] hmr update /src/App.tsx
+11:55:50 AM [vite] hmr update /src/App.tsx
+11:55:52 AM [vite] hmr update /src/App.tsx
+11:55:57 AM [vite] hmr update /src/App.tsx
+11:56:03 AM [vite] hmr update /src/App.tsx
+11:56:05 AM [vite] hmr update /src/App.tsx
+11:56:10 AM [vite] hmr update /src/App.tsx
+11:56:13 AM [vite] hmr update /src/App.tsx
+11:56:16 AM [vite] hmr update /src/App.tsx
+11:56:18 AM [vite] hmr update /src/App.tsx
+11:57:28 AM [vite] hmr update /src/App.tsx
+11:57:39 AM [vite] hmr update /src/App.tsx
+11:57:39 AM [vite] Internal server error: /workspaces/PtcglLogViewer/web/src/App.tsx: Missing semicolon. (29:25)
+
+  27 |     
+  28 |   const toporbottom =
+> 29 |     currentTurnNumber % 2) == 0 ? "先攻" : "後攻";
+     |                          ^
+  30 |
+  31 |
+  32 |   const renderPrizeRow = (count: unknown) => {
+  Plugin: vite:react-babel
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:29:25
+  27 |      
+  28 |    const toporbottom =
+  29 |      currentTurnNumber % 2) == 0 ? "先攻" : "後攻";
+     |                           ^
+  30 |  
+  31 |  
+      at constructor (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:367:19)
+      at TypeScriptParserMixin.raise (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:6624:19)
+      at TypeScriptParserMixin.semicolon (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:6920:10)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13307:10)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9469:31)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12927:23)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseStatementListItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12823:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:61)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseBlock (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13373:10)
+      at TypeScriptParserMixin.parseFunctionBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12174:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12160:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9223:18)
+      at /workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13521:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12477:14)
+      at TypeScriptParserMixin.parseFunction (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13520:10)
+      at TypeScriptParserMixin.parseFunctionStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13201:17)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12867:21)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseModuleItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12820:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:36)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseProgram (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12698:10)
+      at TypeScriptParserMixin.parseTopLevel (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12688:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14568:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10183:18)
+      at parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14602:38)
+      at parser (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/parser/index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+      at normalizeFile.next (<anonymous>)
+      at run (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transformation/index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:261:32)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:273:13
+      at async.call.result.err.err (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:223:11)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:189:28
+      at /workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/gensync-utils/async.js:67:7
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:113:33
+      at step (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:287:14)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:273:13
+      at async.call.result.err.err (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:223:11)
+11:57:39 AM [vite] Internal server error: /workspaces/PtcglLogViewer/web/src/App.tsx: Missing semicolon. (29:25)
+
+  27 |     
+  28 |   const toporbottom =
+> 29 |     currentTurnNumber % 2) == 0 ? "先攻" : "後攻";
+     |                          ^
+  30 |
+  31 |
+  32 |   const renderPrizeRow = (count: unknown) => {
+  Plugin: vite:react-babel
+  File: /workspaces/PtcglLogViewer/web/src/App.tsx:29:25
+  27 |      
+  28 |    const toporbottom =
+  29 |      currentTurnNumber % 2) == 0 ? "先攻" : "後攻";
+     |                           ^
+  30 |  
+  31 |  
+      at constructor (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:367:19)
+      at TypeScriptParserMixin.raise (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:6624:19)
+      at TypeScriptParserMixin.semicolon (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:6920:10)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13307:10)
+      at TypeScriptParserMixin.parseVarStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9469:31)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12927:23)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseStatementListItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12823:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:61)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseBlock (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13373:10)
+      at TypeScriptParserMixin.parseFunctionBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12174:24)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12160:10)
+      at TypeScriptParserMixin.parseFunctionBodyAndFinish (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9223:18)
+      at /workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13521:12
+      at TypeScriptParserMixin.withSmartMixTopicForbiddingContext (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12477:14)
+      at TypeScriptParserMixin.parseFunction (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13520:10)
+      at TypeScriptParserMixin.parseFunctionStatement (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13201:17)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12867:21)
+      at TypeScriptParserMixin.parseStatementContent (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:9569:18)
+      at TypeScriptParserMixin.parseStatementLike (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12843:17)
+      at TypeScriptParserMixin.parseModuleItem (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12820:17)
+      at TypeScriptParserMixin.parseBlockOrModuleBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13392:36)
+      at TypeScriptParserMixin.parseBlockBody (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:13385:10)
+      at TypeScriptParserMixin.parseProgram (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12698:10)
+      at TypeScriptParserMixin.parseTopLevel (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:12688:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14568:25)
+      at TypeScriptParserMixin.parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:10183:18)
+      at parse (/workspaces/PtcglLogViewer/web/node_modules/@babel/parser/lib/index.js:14602:38)
+      at parser (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/parser/index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+      at normalizeFile.next (<anonymous>)
+      at run (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transformation/index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (/workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:261:32)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:273:13
+      at async.call.result.err.err (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:223:11)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:189:28
+      at /workspaces/PtcglLogViewer/web/node_modules/@babel/core/lib/gensync-utils/async.js:67:7
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:113:33
+      at step (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:287:14)
+      at /workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:273:13
+      at async.call.result.err.err (/workspaces/PtcglLogViewer/web/node_modules/gensync/index.js:223:11)
+11:57:41 AM [vite] hmr update /src/App.tsx
+11:57:49 AM [vite] hmr update /src/App.tsx
+12:02:00 PM [vite] hmr update /src/App.tsx
+12:02:01 PM [vite] hmr update /src/App.tsx
